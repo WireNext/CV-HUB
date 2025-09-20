@@ -126,19 +126,20 @@ function drawRoutes(map, agency) {
 function displayRoutesInfo(agency) {
     const routesInfoDiv = document.getElementById('routes-info');
     const routes = gtfsData[agency].routes || [];
-    const trips = gtfsData[agency].trips || [];
     
-    const uniqueRoutes = new Map();
-    trips.forEach(trip => {
-        if (!uniqueRoutes.has(trip.route_id)) {
-            const route = routes.find(r => r.route_id === trip.route_id);
-            if (route) {
-                uniqueRoutes.set(trip.route_id, route);
-            }
+    // Usamos un Map para almacenar una entrada única por cada nombre de ruta
+    const uniqueRoutesMap = new Map();
+
+    // Iterar sobre las rutas para agrupar por route_short_name
+    routes.forEach(route => {
+        const routeName = route.route_short_name;
+        if (routeName && !uniqueRoutesMap.has(routeName)) {
+            // Guarda la primera instancia que encuentres de cada nombre de ruta
+            uniqueRoutesMap.set(routeName, route);
         }
     });
 
-    if (uniqueRoutes.size === 0) {
+    if (uniqueRoutesMap.size === 0) {
         routesInfoDiv.innerHTML += `<p>No se encontraron datos de rutas para ${agency}.</p>`;
         return;
     }
@@ -148,30 +149,28 @@ function displayRoutesInfo(agency) {
     routesInfoDiv.appendChild(agencyTitle);
 
     const routesList = document.createElement('ul');
-    uniqueRoutes.forEach(route => {
+    // Iterar sobre el mapa de rutas únicas para crear la lista
+    uniqueRoutesMap.forEach(route => {
         const routeItem = document.createElement('li');
         routeItem.className = 'route-item';
         routeItem.dataset.routeId = route.route_id;
 
         const routeNameSpan = document.createElement('span');
-        routeNameSpan.textContent = `${route.route_short_name || route.route_long_name}`;
+        routeNameSpan.textContent = route.route_short_name;
         routeNameSpan.style.color = `#${route.route_color || 'black'}`;
         
         routeItem.appendChild(routeNameSpan);
         routesList.appendChild(routeItem);
 
-        // Lógica mejorada del evento de click
         routeItem.addEventListener('click', () => {
             const existingStopList = routeItem.querySelector('.stop-list');
             
-            // Oculta todas las listas de paradas
             document.querySelectorAll('.stop-list').forEach(list => {
                 if (list !== existingStopList) {
                     list.style.display = 'none';
                 }
             });
 
-            // Si la lista ya existe, solo la mostramos u ocultamos
             if (existingStopList) {
                 if (existingStopList.style.display === 'block') {
                     existingStopList.style.display = 'none';
@@ -179,7 +178,6 @@ function displayRoutesInfo(agency) {
                     existingStopList.style.display = 'block';
                 }
             } else {
-                // Si no existe, la creamos por primera vez
                 displayStopTimes(agency, route.route_id, routeItem);
             }
         });
