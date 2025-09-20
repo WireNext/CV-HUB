@@ -126,6 +126,7 @@ function drawRoutes(map, agency) {
 function displayRoutesInfo(agency) {
     const routesInfoDiv = document.getElementById('routes-info');
     const routes = gtfsData[agency].routes;
+    const processedRoutes = new Set(); // Usa un Set para evitar duplicados
 
     if (!routes) {
         routesInfoDiv.innerHTML += `<p>No se encontraron datos de rutas para ${agency}.</p>`;
@@ -138,29 +139,32 @@ function displayRoutesInfo(agency) {
 
     const routesList = document.createElement('ul');
     routes.forEach(route => {
-        const routeItem = document.createElement('li');
-        routeItem.className = 'route-item';
-        routeItem.dataset.routeId = route.route_id;
+        // Verifica si la ruta ya ha sido procesada
+        if (!processedRoutes.has(route.route_id)) {
+            processedRoutes.add(route.route_id);
 
-        const routeNameSpan = document.createElement('span');
-        routeNameSpan.textContent = `${route.route_long_name || route.route_short_name}`;
+            const routeItem = document.createElement('li');
+            routeItem.className = 'route-item';
+            routeItem.dataset.routeId = route.route_id;
 
-        routeNameSpan.style.color = `#${route.route_color || 'black'}`;
-        
-        routeItem.appendChild(routeNameSpan);
-        routesList.appendChild(routeItem);
+            const routeNameSpan = document.createElement('span');
+            // Asegúrate de que esta línea refleje el campo correcto que has encontrado
+            routeNameSpan.textContent = `${route.route_long_name || route.route_short_name}`;
+            routeNameSpan.style.color = `#${route.route_color || 'black'}`;
 
-        routeItem.addEventListener('click', () => {
-            // Oculta los horarios de las otras rutas
-            document.querySelectorAll('.stop-list').forEach(list => list.style.display = 'none');
-            // Muestra los horarios de la ruta seleccionada
-            const existingStopList = routeItem.querySelector('.stop-list');
-            if (existingStopList) {
-                existingStopList.style.display = 'block';
-            } else {
-                displayStopTimes(agency, route.route_id, routeItem);
-            }
-        });
+            routeItem.appendChild(routeNameSpan);
+            routesList.appendChild(routeItem);
+
+            routeItem.addEventListener('click', () => {
+                document.querySelectorAll('.stop-list').forEach(list => list.style.display = 'none');
+                const existingStopList = routeItem.querySelector('.stop-list');
+                if (existingStopList) {
+                    existingStopList.style.display = 'block';
+                } else {
+                    displayStopTimes(agency, route.route_id, routeItem);
+                }
+            });
+        }
     });
 
     routesInfoDiv.appendChild(routesList);
@@ -172,15 +176,16 @@ function displayStopTimes(agency, routeId, containerElement) {
     const stopTimes = gtfsData[agency].stop_times;
     const stops = gtfsData[agency].stops;
     
-    // Encontrar un viaje para la ruta
-    const trip = trips.find(t => t.route_id === routeId);
-    if (!trip) {
+    // Encuentra un viaje que pertenezca a esta ruta para obtener la secuencia de paradas.
+    // Usamos .find() para tomar solo un ejemplo de viaje.
+    const sampleTrip = trips.find(t => t.route_id === routeId);
+    if (!sampleTrip) {
         containerElement.innerHTML += `<p>No se encontraron horarios para esta ruta.</p>`;
         return;
     }
 
     // Obtener todas las paradas de este viaje, ordenadas por secuencia
-    const tripStopTimes = stopTimes.filter(st => st.trip_id === trip.trip_id)
+    const tripStopTimes = stopTimes.filter(st => st.trip_id === sampleTrip.trip_id)
                                     .sort((a, b) => a.stop_sequence - b.stop_sequence);
 
     const stopList = document.createElement('ul');
