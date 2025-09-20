@@ -143,7 +143,8 @@ function displayRoutesInfo(agency) {
         routeItem.dataset.routeId = route.route_id;
 
         const routeNameSpan = document.createElement('span');
-        routeNameSpan.textContent = `${route.route_short_name || route.route_long_name}`;
+        routeNameSpan.textContent = `${route.route_long_name || route.route_short_name}`;
+
         routeNameSpan.style.color = `#${route.route_color || 'black'}`;
         
         routeItem.appendChild(routeNameSpan);
