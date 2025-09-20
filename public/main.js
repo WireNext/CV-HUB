@@ -122,13 +122,23 @@ function drawRoutes(map, agency) {
     });
 }
 
-// Función para generar y mostrar la información de las rutas
+// Función para generar y mostrar la información de las rutas de forma única
 function displayRoutesInfo(agency) {
     const routesInfoDiv = document.getElementById('routes-info');
-    const routes = gtfsData[agency].routes;
-    const processedRoutes = new Set(); // Usa un Set para evitar duplicados
+    const routes = gtfsData[agency].routes || [];
+    const trips = gtfsData[agency].trips || [];
+    
+    const uniqueRoutes = new Map();
+    trips.forEach(trip => {
+        if (!uniqueRoutes.has(trip.route_id)) {
+            const route = routes.find(r => r.route_id === trip.route_id);
+            if (route) {
+                uniqueRoutes.set(trip.route_id, route);
+            }
+        }
+    });
 
-    if (!routes) {
+    if (uniqueRoutes.size === 0) {
         routesInfoDiv.innerHTML += `<p>No se encontraron datos de rutas para ${agency}.</p>`;
         return;
     }
@@ -138,33 +148,41 @@ function displayRoutesInfo(agency) {
     routesInfoDiv.appendChild(agencyTitle);
 
     const routesList = document.createElement('ul');
-    routes.forEach(route => {
-        // Verifica si la ruta ya ha sido procesada
-        if (!processedRoutes.has(route.route_id)) {
-            processedRoutes.add(route.route_id);
+    uniqueRoutes.forEach(route => {
+        const routeItem = document.createElement('li');
+        routeItem.className = 'route-item';
+        routeItem.dataset.routeId = route.route_id;
 
-            const routeItem = document.createElement('li');
-            routeItem.className = 'route-item';
-            routeItem.dataset.routeId = route.route_id;
+        const routeNameSpan = document.createElement('span');
+        routeNameSpan.textContent = `${route.route_short_name || route.route_long_name}`;
+        routeNameSpan.style.color = `#${route.route_color || 'black'}`;
+        
+        routeItem.appendChild(routeNameSpan);
+        routesList.appendChild(routeItem);
 
-            const routeNameSpan = document.createElement('span');
-            // Asegúrate de que esta línea refleje el campo correcto que has encontrado
-            routeNameSpan.textContent = `${route.route_long_name || route.route_short_name}`;
-            routeNameSpan.style.color = `#${route.route_color || 'black'}`;
-
-            routeItem.appendChild(routeNameSpan);
-            routesList.appendChild(routeItem);
-
-            routeItem.addEventListener('click', () => {
-                document.querySelectorAll('.stop-list').forEach(list => list.style.display = 'none');
-                const existingStopList = routeItem.querySelector('.stop-list');
-                if (existingStopList) {
-                    existingStopList.style.display = 'block';
-                } else {
-                    displayStopTimes(agency, route.route_id, routeItem);
+        // Lógica mejorada del evento de click
+        routeItem.addEventListener('click', () => {
+            const existingStopList = routeItem.querySelector('.stop-list');
+            
+            // Oculta todas las listas de paradas
+            document.querySelectorAll('.stop-list').forEach(list => {
+                if (list !== existingStopList) {
+                    list.style.display = 'none';
                 }
             });
-        }
+
+            // Si la lista ya existe, solo la mostramos u ocultamos
+            if (existingStopList) {
+                if (existingStopList.style.display === 'block') {
+                    existingStopList.style.display = 'none';
+                } else {
+                    existingStopList.style.display = 'block';
+                }
+            } else {
+                // Si no existe, la creamos por primera vez
+                displayStopTimes(agency, route.route_id, routeItem);
+            }
+        });
     });
 
     routesInfoDiv.appendChild(routesList);
