@@ -2,8 +2,8 @@ name: Actualizar GTFS
 
 on:
   schedule:
-    - cron: '0 3 * * *' # Se ejecuta todos los días a las 3:00 AM (hora UTC)
-  workflow_dispatch: # Permite ejecutar el workflow manualmente
+    - cron: '0 3 * * *'
+  workflow_dispatch:
 
 jobs:
   update-data:
@@ -18,12 +18,17 @@ jobs:
           node-version: '16'
 
       - name: Instalar dependencias
-        # Agrega la línea 'working-directory' para apuntar a la carpeta 'scripts'
-        # donde se supone que está tu package.json
         working-directory: ./scripts
         run: npm install
 
       - name: Ejecutar script de actualización
-        # Si el script también está en 'scripts', mantén el working-directory
         working-directory: ./scripts
         run: node download_gtfs.js
+      
+      - name: Configurar Git y subir cambios
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add public/data/
+          git commit -m "feat: Datos GTFS actualizados automáticamente"
+          git push
