@@ -1,10 +1,4 @@
-// Variable para almacenar los datos GTFS
-const gtfsData = {
-    metrovalencia: {},
-    tramcastellon: {}
-};
-
-// Variable para almacenar los datos GTFS
+// Variable para almacenar los datos GTFS. Debe estar solo una vez.
 const gtfsData = {
     metrovalencia: {},
     tramcastellon: {}
@@ -20,11 +14,54 @@ const customStopIcon = L.divIcon({
 
 // Función para actualizar el tamaño de los iconos según el zoom
 function updateIconSize(map, marker) {
-    // ... (código de la función)
+    const zoomLevel = map.getZoom();
+    let iconSize = 0;
+
+    if (zoomLevel >= 14) {
+        iconSize = (zoomLevel - 13) * 3;
+        if (iconSize > 25) iconSize = 25;
+    } else {
+        iconSize = 0;
+    }
+
+    const newIcon = L.divIcon({
+        className: 'custom-stop-icon',
+        html: `<div style="background-color: #3388ff; border-radius: 50%; width: ${iconSize}px; height: ${iconSize}px; border: 2px solid white;"></div>`,
+        iconSize: [iconSize + 4, iconSize + 4],
+        iconAnchor: [iconSize / 2 + 2, iconSize / 2 + 2]
+    });
+
+    marker.setIcon(newIcon);
 }
 
-// Función para cargar y procesar los archivos GTFS
+// Función para cargar y procesar los archivos GTFS (usando un parser simple)
 async function loadGTFSData(agency) {
+    const dataDir = `./data/${agency}/`;
+    const files = ['routes.txt', 'trips.txt', 'stops.txt', 'stop_times.txt', 'shapes.txt'];
+    
+    for (const file of files) {
+        try {
+            const response = await fetch(dataDir + file);
+            if (!response.ok) throw new Error(`Error al cargar ${file}`);
+            const text = await response.text();
+            
+            // Lógica de parsing de CSV (puedes mejorarla con Papa Parse)
+            const lines = text.split('\n').filter(line => line.trim() !== '');
+            if (lines.length <= 1) continue; // Si el archivo está vacío, saltar
+            const headers = lines[0].split(',');
+            const data = lines.slice(1).map(line => {
+                const values = line.split(',');
+                return headers.reduce((obj, header, i) => {
+                    obj[header.trim()] = values[i] ? values[i].trim() : '';
+                    return obj;
+                }, {});
+            });
+            gtfsData[agency][file.replace('.txt', '')] = data;
+            
+        } catch (error) {
+            console.error(`No se pudo cargar o parsear el archivo ${file} para ${agency}:`, error);
+        }
+    }
 }
 
 // Función para inicializar el mapa con Leaflet
@@ -33,10 +70,7 @@ function initMap() {
     L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
         attribution: '© OpenStreetMap contributors'
     }).addTo(map);
-
-    drawStopsOnMap(map, 'metrovalencia'); // Llama a la nueva función
-    
-    return map; // Devuelve el mapa para usarlo después
+    return map;
 }
 
 // Función para dibujar las paradas en el mapa
@@ -60,7 +94,6 @@ function drawRoutes(map, agency) {
     const trips = gtfsData[agency].trips || [];
     const shapes = gtfsData[agency].shapes || [];
 
-    // Agrupar los puntos de 'shapes.txt' por ID de forma (shape_id)
     const shapeMap = new Map();
     shapes.forEach(shape => {
         if (!shapeMap.has(shape.shape_id)) {
@@ -69,7 +102,6 @@ function drawRoutes(map, agency) {
         shapeMap.get(shape.shape_id).push([shape.shape_pt_lat, shape.shape_pt_lon]);
     });
 
-    // Recorrer las rutas para dibujar cada línea
     routes.forEach(route => {
         const routeColor = `#${route.route_color || '000000'}`;
         const routeName = route.route_short_name || route.route_long_name;
@@ -90,68 +122,16 @@ function drawRoutes(map, agency) {
     });
 }
 
-// Función para cargar y procesar los archivos GTFS
-async function loadGTFSData(agency) {
-    const dataDir = `./data/${agency}/`;
-    
-    // Lista de archivos GTFS que nos interesan
-    const files = ['routes.txt', 'trips.txt', 'stops.txt', 'stop_times.txt', 'shapes.txt'];
-    
-    for (const file of files) {
-        try {
-            const response = await fetch(dataDir + file);
-            if (!response.ok) throw new Error(`Error al cargar ${file}`);
-            
-            const text = await response.text();
-            const lines = text.split('\n').filter(line => line.trim() !== '');
-            const headers = lines[0].split(',');
-            const data = lines.slice(1).map(line => {
-                const values = line.split(',');
-                return headers.reduce((obj, header, i) => {
-                    obj[header.trim()] = values[i] ? values[i].trim() : '';
-                    return obj;
-                }, {});
-            });
-            gtfsData[agency][file.replace('.txt', '')] = data;
-            
-        } catch (error) {
-            console.error(`No se pudo cargar o parsear el archivo ${file} para ${agency}:`, error);
-        }
-    }
-}
-
-// Función para inicializar el mapa con Leaflet
-function initMap() {
-    const map = L.map('map').setView([39.4699, -0.3774], 12); // Coordenadas de Valencia
-
-    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-        attribution: '© OpenStreetMap contributors'
-    }).addTo(map);
-
-    drawRoutesOnMap(map);
-}
-
-// Función para dibujar las rutas en el mapa
-function drawRoutesOnMap(map) {
-    // Ejemplo de cómo dibujar un punto (una parada)
-    // Supongamos que tienes la lista de paradas en gtfsData.metrovalencia.stops
-    if (gtfsData.metrovalencia.stops) {
-        gtfsData.metrovalencia.stops.forEach(stop => {
-            L.marker([stop.stop_lat, stop.stop_lon]).addTo(map)
-                .bindPopup(stop.stop_name);
-        });
-    }
-
-}
-
 // Función principal para iniciar la aplicación
 async function startApp() {
     // Cargar los datos de todas las agencias
     await loadGTFSData('metrovalencia');
     await loadGTFSData('tramcastellon');
 
-    const map = initMap(); // Modificado para capturar la instancia del mapa
+    // Inicializar el mapa solo una vez, después de cargar los datos
+    const map = initMap();
 
+    // Dibujar las paradas y las rutas con los datos cargados
     drawStopsOnMap(map, 'metrovalencia');
     drawStopsOnMap(map, 'tramcastellon');
 
@@ -159,5 +139,5 @@ async function startApp() {
     drawRoutes(map, 'tramcastellon');
 }
 
-// Iniciar
+// Iniciar la aplicación
 startApp();
