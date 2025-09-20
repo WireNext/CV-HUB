@@ -29,4 +29,33 @@ main {
     margin-top: 2rem;
 }
 
-/* Agrega más estilos aquí para la presentación de los datos */
+#info-section {
+    background-color: white;
+    padding: 2rem;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
+
+#routes-info ul {
+    list-style: none;
+    padding: 0;
+}
+
+.route-item {
+    font-size: 1.2rem;
+    font-weight: bold;
+    cursor: pointer;
+    padding: 10px;
+    border-bottom: 1px solid #eee;
+    transition: background-color 0.2s;
+}
+
+.route-item:hover {
+    background-color: #f0f0f0;
+}
+
+.stop-list {
+    display: none;
+    padding-left: 20px;
+    margin-top: 10px;
+}

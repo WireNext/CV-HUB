@@ -122,6 +122,81 @@ function drawRoutes(map, agency) {
     });
 }
 
+// Función para generar y mostrar la información de las rutas
+function displayRoutesInfo(agency) {
+    const routesInfoDiv = document.getElementById('routes-info');
+    const routes = gtfsData[agency].routes;
+
+    if (!routes) {
+        routesInfoDiv.innerHTML += `<p>No se encontraron datos de rutas para ${agency}.</p>`;
+        return;
+    }
+
+    const agencyTitle = document.createElement('h3');
+    agencyTitle.textContent = agency.charAt(0).toUpperCase() + agency.slice(1);
+    routesInfoDiv.appendChild(agencyTitle);
+
+    const routesList = document.createElement('ul');
+    routes.forEach(route => {
+        const routeItem = document.createElement('li');
+        routeItem.className = 'route-item';
+        routeItem.dataset.routeId = route.route_id;
+
+        const routeNameSpan = document.createElement('span');
+        routeNameSpan.textContent = `${route.route_short_name || route.route_long_name}`;
+        routeNameSpan.style.color = `#${route.route_color || 'black'}`;
+        
+        routeItem.appendChild(routeNameSpan);
+        routesList.appendChild(routeItem);
+
+        routeItem.addEventListener('click', () => {
+            // Oculta los horarios de las otras rutas
+            document.querySelectorAll('.stop-list').forEach(list => list.style.display = 'none');
+            // Muestra los horarios de la ruta seleccionada
+            const existingStopList = routeItem.querySelector('.stop-list');
+            if (existingStopList) {
+                existingStopList.style.display = 'block';
+            } else {
+                displayStopTimes(agency, route.route_id, routeItem);
+            }
+        });
+    });
+
+    routesInfoDiv.appendChild(routesList);
+}
+
+// Función para mostrar las paradas y horarios de una ruta específica
+function displayStopTimes(agency, routeId, containerElement) {
+    const trips = gtfsData[agency].trips;
+    const stopTimes = gtfsData[agency].stop_times;
+    const stops = gtfsData[agency].stops;
+    
+    // Encontrar un viaje para la ruta
+    const trip = trips.find(t => t.route_id === routeId);
+    if (!trip) {
+        containerElement.innerHTML += `<p>No se encontraron horarios para esta ruta.</p>`;
+        return;
+    }
+
+    // Obtener todas las paradas de este viaje, ordenadas por secuencia
+    const tripStopTimes = stopTimes.filter(st => st.trip_id === trip.trip_id)
+                                    .sort((a, b) => a.stop_sequence - b.stop_sequence);
+
+    const stopList = document.createElement('ul');
+    stopList.className = 'stop-list';
+
+    tripStopTimes.forEach(st => {
+        const stop = stops.find(s => s.stop_id === st.stop_id);
+        if (stop) {
+            const stopItem = document.createElement('li');
+            stopItem.textContent = `${stop.stop_name} (Llegada: ${st.arrival_time})`;
+            stopList.appendChild(stopItem);
+        }
+    });
+
+    containerElement.appendChild(stopList);
+}
+
 // Función principal para iniciar la aplicación
 async function startApp() {
     // Cargar los datos de todas las agencias
@@ -137,6 +212,9 @@ async function startApp() {
 
     drawRoutes(map, 'metrovalencia');
     drawRoutes(map, 'tramcastellon');
+
+    displayRoutesInfo('metrovalencia');
+    displayRoutesInfo('tramcastellon');
 }
 
 // Iniciar la aplicación
