@@ -1,0 +1,13 @@
+{
+  "name": "gtfs-downloader",
+  "version": "1.0.0",
+  "description": "Script to download and process GTFS data.",
+  "main": "download_gtfs.js",
+  "scripts": {
+    "start": "node download_gtfs.js"
+  },
+  "dependencies": {
+    "axios": "^0.24.0",
+    "unzipper": "^0.10.11"
+  }
+}
