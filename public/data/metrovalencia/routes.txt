@@ -1,0 +1,115 @@
+route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route_text_color
+V1-1-29,1,1,1 - Castelló - Empalme,1,FEC601,FFFFFF
+V1-1-36,1,1,1 - Castelló - Seminari - CEU,1,FEC601,FFFFFF
+V1-1-39,1,1,1 - Castelló - Bétera,1,FEC601,FFFFFF
+V1-13-20,1,1,1 - Picassent - València Sud,1,E60096,FFFFFF
+V1-13-29,1,1,1 - Picassent - Empalme,1,E60096,FFFFFF
+V1-13-36,1,1,1 - Picassent - Seminari - CEU,1,FEC601,FFFFFF
+V1-13-39,1,1,1 - Picassent - Bétera,1,FEC601,FFFFFF
+V1-17-20,1,1,1 - Torrent - València Sud,1,E60096,FFFFFF
+V1-17-29,1,1,1 - Torrent - Empalme,1,E60096,FFFFFF
+V1-17-36,1,1,1 - Torrent - Seminari - CEU,1,FEC601,FFFFFF
+V1-17-39,1,1,1 - Torrent - Bétera,1,FEC601,FFFFFF
+V1-20-1,1,1,1 - València Sud - Castelló,1,FEC601,FFFFFF
+V1-20-13,1,1,1 - València Sud - Picassent,1,E60096,FFFFFF
+V1-20-17,1,1,1 - València Sud - Torrent,1,E60096,FFFFFF
+V1-20-29,1,1,1 - València Sud - Empalme,1,E60096,FFFFFF
+V1-20-36,1,1,1 - València Sud - Seminari - CEU,1,FEC601,FFFFFF
+V1-20-39,1,1,1 - València Sud - Bétera,1,FEC601,FFFFFF
+V1-20-5,1,1,1 - València Sud - L'Alcúdia,1,FEC601,FFFFFF
+V1-29-1,1,1,1 - Empalme - Castelló,1,FEC601,FFFFFF
+V1-29-20,1,1,1 - Empalme - València Sud,1,E60096,FFFFFF
+V1-36-1,1,1,1 - Seminari - CEU - Castelló,1,FEC601,FFFFFF
+V1-36-13,1,1,1 - Seminari - CEU - Picassent,1,FEC601,FFFFFF
+V1-36-17,1,1,1 - Seminari - CEU - Torrent,1,FEC601,FFFFFF
+V1-36-20,1,1,1 - Seminari - CEU - València Sud,1,FEC601,FFFFFF
+V1-36-5,1,1,1 - Seminari - CEU - L'Alcúdia,1,FEC601,FFFFFF
+V1-39-1,1,1,1 - Bétera - Castelló,1,FEC601,FFFFFF
+V1-39-107,1,1,1 - Bétera - Torrent Avinguda,1,FEC601,FFFFFF
+V1-39-13,1,1,1 - Bétera - Picassent,1,FEC601,FFFFFF
+V1-39-17,1,1,1 - Bétera - Torrent,1,FEC601,FFFFFF
+V1-39-20,1,1,1 - Bétera - València Sud,1,FEC601,FFFFFF
+V1-39-5,1,1,1 - Bétera - L'Alcúdia,1,FEC601,FFFFFF
+V1-5-36,1,1,1 - L'Alcúdia - Seminari - CEU,1,FEC601,FFFFFF
+V1-5-39,1,1,1 - L'Alcúdia - Bétera,1,FEC601,FFFFFF
+V10-190-194,1,10,10 - Alacant - Ciutat Arts i Ciències - Justícia,0,B7DD79,FFFFFF
+V10-190-197,1,10,10 - Alacant - Natzaret,0,B7DD79,FFFFFF
+V10-194-190,1,10,10 - Ciutat Arts i Ciències - Justícia - Alacant,0,B7DD79,FFFFFF
+V10-197-190,1,10,10 - Natzaret - Alacant,0,B7DD79,FFFFFF
+V2-107-20,1,2,2 - Torrent Avinguda - València Sud,1,CE142B,FFFFFF
+V2-107-29,1,2,2 - Torrent Avinguda - Empalme,1,E60096,FFFFFF
+V2-107-44,1,2,2 - Torrent Avinguda - Paterna,1,CE142B,FFFFFF
+V2-107-54,1,2,2 - Torrent Avinguda - Llíria,1,CE142B,FFFFFF
+V2-20-107,1,2,2 - València Sud - Torrent Avinguda,1,CE142B,FFFFFF
+V2-20-44,1,2,2 - València Sud - Paterna,1,CE142B,FFFFFF
+V2-20-54,1,2,2 - València Sud - Llíria,1,CE142B,FFFFFF
+V2-29-20,1,2,2 - Empalme - València Sud,1,E60096,FFFFFF
+V2-44-107,1,2,2 - Paterna - Torrent Avinguda,1,CE142B,FFFFFF
+V2-44-20,1,2,2 - Paterna - València Sud,1,CE142B,FFFFFF
+V2-54-107,1,2,2 - Llíria - Torrent Avinguda,1,CE142B,FFFFFF
+V2-54-20,1,2,2 - Llíria - València Sud,1,CE142B,FFFFFF
+V3-182-56,1,3,3 - Aeroport - Alboraia Peris Aragó,1,014A99,FFFFFF
+V3-182-64,1,3,3 - Aeroport - Rafelbunyol,1,DD052C,FFFFFF
+V3-182-66,1,3,3 - Aeroport - Machado,1,014A99,FFFFFF
+V3-25-66,1,3,3 - Àngel Guimerà - Machado,1,DD052C,FFFFFF
+V3-56-182,1,3,3 - Alboraia Peris Aragó - Aeroport,1,014A99,FFFFFF
+V3-64-182,1,3,3 - Rafelbunyol - Aeroport,1,DD052C,FFFFFF
+V3-64-66,1,3,3 - Rafelbunyol - Machado,1,DD052C,FFFFFF
+V3-66-182,1,3,3 - Machado - Aeroport,1,014A99,FFFFFF
+V3-66-64,1,3,3 - Machado - Rafelbunyol,1,DD052C,FFFFFF
+V3-66-73,1,3,3 - Machado - Av. del Cid,1,DD052C,FFFFFF
+V3-73-64,1,3,3 - Av. del Cid - Rafelbunyol,1,DD052C,FFFFFF
+V4-100-98,1,4,4 - Fira València - Dr. Lluch,0,014A99,FFFFFF
+V4-102-94,1,4,4 - Vicent Andrés Estellés - Beteró,0,F28D01,FFFFFF
+V4-102-98,1,4,4 - Vicent Andrés Estellés - Dr. Lluch,0,F28D01,FFFFFF
+V4-114-98,1,4,4 - Mas del Rosari - Dr. Lluch,0,F28D01,FFFFFF
+V4-115-29,1,4,4 - Ll. Llarga - Terramelar - Empalme,0,F28D01,FFFFFF
+V4-115-94,1,4,4 - Ll. Llarga - Terramelar - Beteró,0,F28D01,FFFFFF
+V4-115-98,1,4,4 - Ll. Llarga - Terramelar - Dr. Lluch,0,014A99,FFFFFF
+V4-29-115,1,4,4 - Empalme - Ll. Llarga - Terramelar,0,F28D01,FFFFFF
+V4-29-98,1,4,4 - Empalme - Dr. Lluch,0,014A99,FFFFFF
+V4-94-102,1,4,4 - Beteró - Vicent Andrés Estellés,0,014A99,FFFFFF
+V4-94-115,1,4,4 - Beteró - Ll. Llarga - Terramelar,0,014A99,FFFFFF
+V4-95-98,1,4,4 - La Cadena - Dr. Lluch,0,014A99,FFFFFF
+V4-98-100,1,4,4 - Dr. Lluch - Fira València,0,014A99,FFFFFF
+V4-98-102,1,4,4 - Dr. Lluch - Vicent Andrés Estellés,0,F28D01,FFFFFF
+V4-98-114,1,4,4 - Dr. Lluch - Mas del Rosari,0,F28D01,FFFFFF
+V5-123-182,1,5,5 - Marítim - Aeroport,1,8884BF,FFFFFF
+V5-123-69,1,5,5 - Marítim - Alameda,1,8884BF,FFFFFF
+V5-123-73,1,5,5 - Marítim - Av. del Cid,1,8884BF,FFFFFF
+V5-182-123,1,5,5 - Aeroport - Marítim,1,8884BF,FFFFFF
+V5-182-66,1,5,5 - Aeroport - Machado,1,8884BF,FFFFFF
+V5-66-69,1,5,5 - Machado - Alameda,1,8884BF,FFFFFF
+V5-69-123,1,5,5 - Alameda - Marítim,1,8884BF,FFFFFF
+V5-69-66,1,5,5 - Alameda - Machado,1,8884BF,FFFFFF
+V5-73-123,1,5,5 - Av. del Cid - Marítim,1,8884BF,FFFFFF
+V5-73-66,1,5,5 - Av. del Cid - Machado,1,8884BF,FFFFFF
+V6-123-132,1,6,6 - Marítim - Tossal del Rei,0,F28D01,FFFFFF
+V6-123-98,1,6,6 - Marítim - Dr. Lluch,0,8884BF,FFFFFF
+V6-132-123,1,6,6 - Tossal del Rei - Marítim,0,F28D01,FFFFFF
+V6-132-93,1,6,6 - Tossal del Rei - Tarongers - Ernest Lluch,0,8884BF,FFFFFF
+V6-132-94,1,6,6 - Tossal del Rei - Beteró,0,F28D01,FFFFFF
+V6-93-132,1,6,6 - Tarongers - Ernest Lluch - Tossal del Rei,0,8884BF,FFFFFF
+V6-94-132,1,6,6 - Beteró - Tossal del Rei,0,F28D01,FFFFFF
+V6-95-123,1,6,6 - La Cadena - Marítim,0,8884BF,FFFFFF
+V6-95-132,1,6,6 - La Cadena - Tossal del Rei,1,8884BF,FFFFFF
+V7-107-123,1,7,7 - Torrent Avinguda - Marítim,1,82CEE6,FFFFFF
+V7-107-66,1,7,7 - Torrent Avinguda - Machado,1,82CEE6,FFFFFF
+V7-123-107,1,7,7 - Marítim - Torrent Avinguda,1,82CEE6,FFFFFF
+V7-123-69,1,7,7 - Marítim - Alameda,1,82CEE6,FFFFFF
+V7-66-107,1,7,7 - Machado - Torrent Avinguda,1,82CEE6,FFFFFF
+V7-66-69,1,7,7 - Machado - Alameda,1,82CEE6,FFFFFF
+V7-69-123,1,7,7 - Alameda - Marítim,1,82CEE6,FFFFFF
+V7-69-66,1,7,7 - Alameda - Machado,1,82CEE6,FFFFFF
+V8-123-126,1,8,8 - Marítim - Neptú,0,B8804F,FFFFFF
+V8-123-98,1,8,8 - Marítim - Dr. Lluch,0,82CEE6,FFFFFF
+V8-126-123,1,8,8 - Neptú - Marítim,0,B8804F,FFFFFF
+V8-95-123,1,8,8 - La Cadena - Marítim,0,82CEE6,FFFFFF
+V9-186-56,1,9,9 - Riba-roja de Túria - Alboraia Peris Aragó,1,B7DD79,FFFFFF
+V9-186-66,1,9,9 - Riba-roja de Túria - Machado,1,B7DD79,FFFFFF
+V9-56-186,1,9,9 - Alboraia Peris Aragó - Riba-roja de Túria,1,B7DD79,FFFFFF
+V9-56-73,1,9,9 - Alboraia Peris Aragó - Av. del Cid,1,B7DD79,FFFFFF
+V9-66-186,1,9,9 - Machado - Riba-roja de Túria,1,B7DD79,FFFFFF
+V9-66-73,1,9,9 - Machado - Av. del Cid,1,B7DD79,FFFFFF
+V9-73-56,1,9,9 - Av. del Cid - Alboraia Peris Aragó,1,B7DD79,FFFFFF
+V9-73-66,1,9,9 - Av. del Cid - Machado,1,B7DD79,FFFFFF
