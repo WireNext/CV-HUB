@@ -1,0 +1,24 @@
+name: Actualizar GTFS
+
+on:
+  schedule:
+    - cron: '0 3 * * *' # Se ejecuta todos los días a las 3:00 AM (hora UTC)
+  workflow_dispatch: # Permite ejecutar el workflow manualmente
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout del repositorio
+        uses: actions/checkout@v2
+
+      - name: Configurar Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '16'
+
+      - name: Instalar dependencias
+        run: npm install
+
+      - name: Ejecutar script de actualización
+        run: node scripts/download_gtfs.js
