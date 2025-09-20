@@ -1,3 +1,10 @@
+name: Actualizar GTFS
+
+on:
+  schedule:
+    - cron: '0 3 * * *' # Se ejecuta todos los días a las 3:00 AM (hora UTC)
+  workflow_dispatch: # Permite ejecutar el workflow manualmente
+
 jobs:
   update-data:
     runs-on: ubuntu-latest
