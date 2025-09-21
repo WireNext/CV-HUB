@@ -59,7 +59,6 @@ V3-66-182,1,3,3 - Machado - Aeroport,1,014A99,FFFFFF
 V3-66-64,1,3,3 - Machado - Rafelbunyol,1,DD052C,FFFFFF
 V3-66-73,1,3,3 - Machado - Av. del Cid,1,DD052C,FFFFFF
 V3-73-64,1,3,3 - Av. del Cid - Rafelbunyol,1,DD052C,FFFFFF
-V4-100-98,1,4,4 - Fira València - Dr. Lluch,0,014A99,FFFFFF
 V4-102-94,1,4,4 - Vicent Andrés Estellés - Beteró,0,F28D01,FFFFFF
 V4-102-98,1,4,4 - Vicent Andrés Estellés - Dr. Lluch,0,F28D01,FFFFFF
 V4-114-98,1,4,4 - Mas del Rosari - Dr. Lluch,0,F28D01,FFFFFF
@@ -71,7 +70,6 @@ V4-29-98,1,4,4 - Empalme - Dr. Lluch,0,014A99,FFFFFF
 V4-94-102,1,4,4 - Beteró - Vicent Andrés Estellés,0,014A99,FFFFFF
 V4-94-115,1,4,4 - Beteró - Ll. Llarga - Terramelar,0,014A99,FFFFFF
 V4-95-98,1,4,4 - La Cadena - Dr. Lluch,0,014A99,FFFFFF
-V4-98-100,1,4,4 - Dr. Lluch - Fira València,0,014A99,FFFFFF
 V4-98-102,1,4,4 - Dr. Lluch - Vicent Andrés Estellés,0,F28D01,FFFFFF
 V4-98-114,1,4,4 - Dr. Lluch - Mas del Rosari,0,F28D01,FFFFFF
 V5-123-182,1,5,5 - Marítim - Aeroport,1,8884BF,FFFFFF
