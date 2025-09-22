@@ -66,7 +66,6 @@ V4-115-29,1,4,4 - Ll. Llarga - Terramelar - Empalme,0,F28D01,FFFFFF
 V4-115-94,1,4,4 - Ll. Llarga - Terramelar - Beteró,0,F28D01,FFFFFF
 V4-115-98,1,4,4 - Ll. Llarga - Terramelar - Dr. Lluch,0,014A99,FFFFFF
 V4-29-115,1,4,4 - Empalme - Ll. Llarga - Terramelar,0,F28D01,FFFFFF
-V4-29-98,1,4,4 - Empalme - Dr. Lluch,0,014A99,FFFFFF
 V4-94-102,1,4,4 - Beteró - Vicent Andrés Estellés,0,014A99,FFFFFF
 V4-94-115,1,4,4 - Beteró - Ll. Llarga - Terramelar,0,014A99,FFFFFF
 V4-95-98,1,4,4 - La Cadena - Dr. Lluch,0,014A99,FFFFFF
