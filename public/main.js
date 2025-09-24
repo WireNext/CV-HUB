@@ -94,20 +94,27 @@ function drawRoutes(map, agency) {
     const trips = gtfsData[agency].trips || [];
     const shapes = gtfsData[agency].shapes || [];
 
+    if (routes.length === 0 || trips.length === 0 || shapes.length === 0) {
+        console.warn(`No hay datos suficientes para dibujar rutas de ${agency}`);
+        return;
+    }
+
     const shapeMap = new Map();
     shapes.forEach(shape => {
         if (!shapeMap.has(shape.shape_id)) {
             shapeMap.set(shape.shape_id, []);
         }
-        shapeMap.get(shape.shape_id).push([shape.shape_pt_lat, shape.shape_pt_lon]);
+        // Convertir a Number para que Leaflet funcione
+        shapeMap.get(shape.shape_id).push([parseFloat(shape.shape_pt_lat), parseFloat(shape.shape_pt_lon)]);
     });
 
     routes.forEach(route => {
         const routeColor = `#${route.route_color || '000000'}`;
         const routeName = route.route_short_name || route.route_long_name;
         
-        const trip = trips.find(t => t.route_id === route.route_id);
-        if (!trip || !trip.shape_id) return;
+        // Buscar un viaje que tenga shape_id
+        const trip = trips.find(t => t.route_id === route.route_id && t.shape_id);
+        if (!trip) return;
         
         const shapePoints = shapeMap.get(trip.shape_id);
         if (shapePoints && shapePoints.length > 0) {
@@ -121,6 +128,7 @@ function drawRoutes(map, agency) {
         }
     });
 }
+
 
 // Función para generar y mostrar la información de las rutas de forma única
 function displayRoutesInfo(agency) {
