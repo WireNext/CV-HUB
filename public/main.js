@@ -233,16 +233,16 @@ async function startApp() {
     // Dibujar las paradas y las rutas con los datos cargados
     drawStopsOnMap(map, 'metrovalencia');
     drawStopsOnMap(map, 'tramcastellon');
-    drawStopsOnMap(map, 'almassoraurbano');
+    drawStopsOnMap(map, 'almassoraurba');
 
     drawRoutes(map, 'metrovalencia');
     drawRoutes(map, 'tramcastellon');
-    drawRoutes(map, 'almassoraurbano');
+    drawRoutes(map, 'almassoraurba');
 
 
     displayRoutesInfo('metrovalencia');
     displayRoutesInfo('tramcastellon');
-    displayRoutesInfo('almassoraurbano');
+    displayRoutesInfo('almassoraurba');
 
 }
 
