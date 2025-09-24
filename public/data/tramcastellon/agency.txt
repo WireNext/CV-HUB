@@ -1,0 +1,80 @@
+agency_id,agency_name,agency_url,agency_timezone,agency_lang
+5003,Callosa del Segura-Hospital comarcal-Orihuela,http://costazul.net/,Europe/Madrid,es
+5011,Xaló-El Verger,http://autocarescarrio.es/,Europe/Madrid,es
+5012,Dénia-Xàbia,http://autocarescarrio.es/,Europe/Madrid,es
+5031,Torrevieja – Aeroport L Altet Alacant-Elx,http://costazul.net/,Europe/Madrid,es
+5225,Gandia - Xeraco e hijuelas,http://www.autocaresferragud.es/,Europe/Madrid,es
+5209,Carcaixent - Algemesí,https://autocareslozano.com/,Europe/Madrid,es
+5233,Gátova - Marines - Olocau - Nuevo Marines - Lliria,http://autocaresyuste.es/,Europe/Madrid,es
+5210,Tous - Alberic amb prolongació a Alzira,https://autocaresbriz.es/,Europe/Madrid,es
+5009,Xábia – Port de Xàbia – Calablanca,https://www.denibus.es/,Europe/Madrid,es
+5013,Benidoleig-Dènia amb prolongació a Benimaurell,https://www.autocarsesteve.com/,Europe/Madrid,es
+5261,Betera - Hospital Doctor Moliner,http://www.hicid.es/,Europe/Madrid,es
+5007,Dénia-Les Rotes i platjes,https://www.denibus.es/,Europe/Madrid,es
+5227,Xátiva - Carcaixent - Simat de la Valldigna - Gandía,http://www.simbus.es/,Europe/Madrid,es
+5910,La Ribera Baixa – Algemesí – Alzira,https://www.autocaresfranjen.es/,Europe/Madrid,es
+5221,Playa de Oliva – Molinell,https://olibus.com/,Europe/Madrid,es
+5025,Alacant Rodalia,https://movilidad.vectalia.es/empresas/alcoyana-2/,Europe/Madrid,es
+5901,Font de la figuera – Xàtiva – Rafelguaraf – Pinet,http://www.chambitos.com/,Europe/Madrid,es
+5201,Castielfabib – València,http://www.hispanochelvana.com/,Europe/Madrid,es
+5228,Pobla del Duc - Xàtiva,https://www.google.com/search?q=LA+BENIGANENSE,Europe/Madrid,es
+5090,Alacant - Orihuela,http://costazul.net/,Europe/Madrid,es
+5006,Benidorm - Racó de l Oix - Altea - L Alfàs del Pi - El Castell de Guadalest - Cala Finestrat,http://alicante.avanzagrupo.com/es,Europe/Madrid,es
+1901190601,Montserrat - València,https://www.metgovalencia.com,Europe/Madrid,es
+5213,Tavernes de la Valldigna - Valencia,http://www.lamarinagandiense.com/,Europe/Madrid,es
+5999,TRAM Castelló de la Plana,https://www.tramcastellon.com,Europe/Madrid,es
+5104,Montanejos - Valencia,http://www.autocaresherca.com/,Europe/Madrid,es
+5915,Xàtiva Nord,http://www.chambitos.com/,Europe/Madrid,es
+5913,Cofrentes - Ayora - Almansa,http://www.chambitos.com/,Europe/Madrid,es
+5903,Antella - Alberic - Massalavés - Alzira,https://www.autocaresfranjen.es/,Europe/Madrid,es
+5904,Canal de Navarrés - Xàtiva y València,http://www.autocarestogsa.com/,Europe/Madrid,es
+5906,La Ribera - València,http://www.bunyol.com/,Europe/Madrid,es
+5202,Real de Gandia – Platja de Gandia,http://www.lamarinagandiense.com/,Europe/Madrid,es
+5701,Banyeres - Villena y Bocairent - Ontinyent,http://www.laconcepcion.net/linea.aspx?idLineaRegular=33,Europe/Madrid,es
+5905,Villalonga – Oliva – Gandia,https://www.autobusesjimenez.com/,Europe/Madrid,es
+5801,Morella,https://autobusesaltaba.es/,Europe/Madrid,es
+5001,Orihuela – Guardamar – Alacant,http://www.bus-siguenza.com/,Europe/Madrid,es
+5909,Atzeneta d Albaida – Xàtiva (prol. Carricola),http://www.autocarespla.com/,Europe/Madrid,es
+5907,Otos – Gandia,https://olibus.com/,Europe/Madrid,es
+5105,Castelló de la Plana - Alcañiz i Castelló de la Plana - Vinaroz,https://www.autosmediterraneo.com/,Europe/Madrid,es
+5102,Castelló de la Plana-València amb prolongació a Vinarós,https://www.hife.es/es-ES,Europe/Madrid,es
+5107,Vilafranca del Cid-València,http://www.hicid.es/,Europe/Madrid,es
+5108,Onda - Castelló de la Plana,https://autobusesfurio.com/,Europe/Madrid,es
+5902,Antella - Castelló - Xàtiva,https://www.google.com/search?q=LA+ANTELLENSE+DE+AUTOBUSES,Europe/Madrid,es
+5101,Alcalà de Xivert - Alcossebre,https://www.autosmediterraneo.com/,Europe/Madrid,es
+1980348601,Alto Palancia - Sagunt - València,https://www.monbus.es,Europe/Madrid,es
+1932031151,Alacant Metropolitano,http://www.vectalia.es,Europe/Madrid,es
+5026,Agost - Sant Vicent del Raspeig - PROVISIONAL,https://movilidad.vectalia.es/empresas/triangulo/,Europe/Madrid,es
+5234,Barx - Gandía,https://olibus.com/,Europe/Madrid,es
+5028,Estació de Calp – Penyal d Ifach e filloles,https://autobusesifach.es/,Europe/Madrid,es
+2042521951,Ayora - Requena - València,https://transviago.com/autobuses-bunyol/,Europe/Madrid,es
+1620431001,València - Alacant/Elx,https://www.alsa.es/regionales/comunidad-valenciana,Europe/Madrid,es
+2044020301,Ontinyent - Xàtiva,https://transviago.com/autobuses-la-concepcion/,Europe/Madrid,es
+1277324001,JL-2,https://www.concesion.es,Europe/Madrid,es
+1473878501,Elx Rodalia,http://www.vectalia.es,Europe/Madrid,es
+1270636001,JL,https://www.concesion.es,Europe/Madrid,es
+1620431002,Les Marines - Alacant,https://www.alsa.es/regionales/comunidad-valenciana/horarios-itinerarios-mapas,Europe/Madrid,es
+9259,València - Benifaió,http://www.bunyol.com/,Europe/Madrid,es
+9251,Àrea Metropolitana de València Nord-Oest,http://www.edetaniabus.com/horarios.aspx,Europe/Madrid,es
+9258,Vilamarxant – Llíria,http://autocarescapaz.com/contacto/,Europe/Madrid,es
+9256,Àrea Metropolitana de València Nord,http://www.autosvallduxense.com/horarios.aspx,Europe/Madrid,es
+2076567001,La Vall d'Uixó - Castelló de la Plana,https://www.hicid.es,Europe/Madrid,es
+6015,Alcoi – Alacant e hijuelas [2021],https://movilidad.vectalia.es/empresas/alcoyana-2/,Europe/Madrid,es
+6016,Santa Pola – Alacant [2021],https://movilidad.vectalia.es/empresas/baile/,Europe/Madrid,es
+6018,Alcoi – Pego – el Verger [2021],https://movilidad.vectalia.es/empresas/alcoyana-2/,Europe/Madrid,es
+6020,Alacant – Torrellano [2021],https://movilidad.vectalia.es/empresas/alcoyana-2/,Europe/Madrid,es
+6023,Alacant – Villena e hijuelas [2021],https://movilidad.vectalia.es/empresas/triangulo/,Europe/Madrid,es
+6027,Elx – Baya Baja [2021],https://movilidad.vectalia.es/,Europe/Madrid,es
+6029,Elx – Arenales del Sol [2021],https://movilidad.vectalia.es/,Europe/Madrid,es
+5004,Hurchillo – Tres Puentres y Arneva – Molins,http://www.bus-siguenza.com/,Europe/Madrid,es
+9263,València-Sagunt-La Vall d Uixó,http://www.autosvallduxense.com/horarios.aspx,Europe/Madrid,es
+5802,Alto Palancia – Sagunt/Valencia,http://www.autocaresherca.com/,Europe/Madrid,es
+5908,Utiel – Requena – Ayora – València e hijuelas,http://www.monbus.es/es,Europe/Madrid,es
+6014,Alacant – Elx – Crevillent [2021],https://movilidad.vectalia.es/,Europe/Madrid,es
+1002,Vinaròs – Benicarló – Peníscola,https://www.autosmediterraneo.com/,Europe/Madrid,es
+2089140751,València Metropolitana Noroest,https://www.metgovalencia.com,Europe/Madrid,es
+2070900901,Utiel - Requena,https://autocaresmapex.es/,Europe/Madrid,es
+2203539301,La Marina Baixa,https://avanzagrupo.com/,Europe/Madrid,es
+2211835201,València Metropolitana Sud,https://www.metgovalencia.com,Europe/Madrid,es
+2274119701,València Metropolitana Nord,https://www.metgovalencia.com,Europe/Madrid,es
+2358515851,La Hoya de Buñol - València,https://www.metgovalencia.com,Europe/Madrid,es
