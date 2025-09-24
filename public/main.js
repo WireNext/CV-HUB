@@ -45,9 +45,8 @@ async function loadGTFSData(agency) {
             if (!response.ok) throw new Error(`Error al cargar ${file}`);
             const text = await response.text();
             
-            // Lógica de parsing de CSV (puedes mejorarla con Papa Parse)
             const lines = text.split('\n').filter(line => line.trim() !== '');
-            if (lines.length <= 1) continue; // Si el archivo está vacío, saltar
+            if (lines.length <= 1) continue;
             const headers = lines[0].split(',');
             const data = lines.slice(1).map(line => {
                 const values = line.split(',');
@@ -64,7 +63,7 @@ async function loadGTFSData(agency) {
     }
 }
 
-// Función para inicializar el mapa con Leaflet
+// Inicializar mapa Leaflet
 function initMap() {
     const map = L.map('map').setView([39.4699, -0.3774], 12);
     L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
@@ -73,7 +72,7 @@ function initMap() {
     return map;
 }
 
-// Función para dibujar las paradas en el mapa
+// Dibujar paradas en el mapa
 function drawStopsOnMap(map, agency) {
     if (gtfsData[agency].stops) {
         gtfsData[agency].stops.forEach(stop => {
@@ -88,7 +87,7 @@ function drawStopsOnMap(map, agency) {
     }
 }
 
-// Función para procesar y dibujar las líneas
+// Dibujar rutas en el mapa
 function drawRoutes(map, agency) {
     const routes = gtfsData[agency].routes || [];
     const trips = gtfsData[agency].trips || [];
@@ -99,55 +98,54 @@ function drawRoutes(map, agency) {
         return;
     }
 
+    // Map de shapes
     const shapeMap = new Map();
     shapes.forEach(shape => {
-        if (!shapeMap.has(shape.shape_id)) {
-            shapeMap.set(shape.shape_id, []);
-        }
-        // Convertir a Number para que Leaflet funcione
-        shapeMap.get(shape.shape_id).push([parseFloat(shape.shape_pt_lat), parseFloat(shape.shape_pt_lon)]);
+        const shapeId = shape.shape_id?.trim();
+        if (!shapeMap.has(shapeId)) shapeMap.set(shapeId, []);
+        shapeMap.get(shapeId).push([
+            parseFloat(shape.shape_pt_lat),
+            parseFloat(shape.shape_pt_lon)
+        ]);
     });
 
-    routes.forEach(route => {
+    // Filtrar rutas específicas para TramCastellón
+    let filteredRoutes = routes;
+    if (agency === 'tramcastellon') {
+        const allowedRoutes = ['T1','T2','T3','T4'];
+        filteredRoutes = routes.filter(r => r.agency_id?.trim() === '5999' && allowedRoutes.includes(r.route_short_name));
+    }
+
+    filteredRoutes.forEach(route => {
         const routeColor = `#${route.route_color || '000000'}`;
         const routeName = route.route_short_name || route.route_long_name;
-        
-        // Buscar un viaje que tenga shape_id
-        const trip = trips.find(t => t.route_id === route.route_id && t.shape_id);
+
+        const trip = trips.find(t => t.route_id === route.route_id && t.shape_id?.trim());
         if (!trip) return;
-        
-        const shapePoints = shapeMap.get(trip.shape_id);
+
+        const shapePoints = shapeMap.get(trip.shape_id?.trim());
         if (shapePoints && shapePoints.length > 0) {
-            const polyline = L.polyline(shapePoints, {
+            L.polyline(shapePoints, {
                 color: routeColor,
                 weight: 4,
                 opacity: 0.8
-            }).addTo(map);
-            
-            polyline.bindPopup(`Línea: ${routeName}`);
+            }).addTo(map).bindPopup(`Línea: ${routeName}`);
         }
     });
 }
 
-
-// Función para generar y mostrar la información de las rutas de forma única
+// Mostrar info de rutas
 function displayRoutesInfo(agency) {
     const routesInfoDiv = document.getElementById('routes-info');
     const routes = gtfsData[agency].routes || [];
-    
-    // Usamos un Map para almacenar una entrada única por cada nombre de ruta
-    const uniqueRoutesMap = new Map();
 
-    // Iterar sobre las rutas para agrupar por route_short_name
-    routes.forEach(route => {
-        const routeName = route.route_short_name;
-        if (routeName && !uniqueRoutesMap.has(routeName)) {
-            // Guarda la primera instancia que encuentres de cada nombre de ruta
-            uniqueRoutesMap.set(routeName, route);
-        }
-    });
+    let filteredRoutes = routes;
+    if (agency === 'tramcastellon') {
+        const allowedRoutes = ['T1','T2','T3','T4'];
+        filteredRoutes = routes.filter(r => r.agency_id?.trim() === '5999' && allowedRoutes.includes(r.route_short_name));
+    }
 
-    if (uniqueRoutesMap.size === 0) {
+    if (filteredRoutes.length === 0) {
         routesInfoDiv.innerHTML += `<p>No se encontraron datos de rutas para ${agency}.</p>`;
         return;
     }
@@ -157,8 +155,8 @@ function displayRoutesInfo(agency) {
     routesInfoDiv.appendChild(agencyTitle);
 
     const routesList = document.createElement('ul');
-    // Iterar sobre el mapa de rutas únicas para crear la lista
-    uniqueRoutesMap.forEach(route => {
+
+    filteredRoutes.forEach(route => {
         const routeItem = document.createElement('li');
         routeItem.className = 'route-item';
         routeItem.dataset.routeId = route.route_id;
@@ -174,17 +172,11 @@ function displayRoutesInfo(agency) {
             const existingStopList = routeItem.querySelector('.stop-list');
             
             document.querySelectorAll('.stop-list').forEach(list => {
-                if (list !== existingStopList) {
-                    list.style.display = 'none';
-                }
+                if (list !== existingStopList) list.style.display = 'none';
             });
 
             if (existingStopList) {
-                if (existingStopList.style.display === 'block') {
-                    existingStopList.style.display = 'none';
-                } else {
-                    existingStopList.style.display = 'block';
-                }
+                existingStopList.style.display = existingStopList.style.display === 'block' ? 'none' : 'block';
             } else {
                 displayStopTimes(agency, route.route_id, routeItem);
             }
@@ -194,23 +186,20 @@ function displayRoutesInfo(agency) {
     routesInfoDiv.appendChild(routesList);
 }
 
-// Función para mostrar las paradas y horarios de una ruta específica
+// Mostrar paradas y horarios de una ruta específica
 function displayStopTimes(agency, routeId, containerElement) {
     const trips = gtfsData[agency].trips;
     const stopTimes = gtfsData[agency].stop_times;
     const stops = gtfsData[agency].stops;
-    
-    // Encuentra un viaje que pertenezca a esta ruta para obtener la secuencia de paradas.
-    // Usamos .find() para tomar solo un ejemplo de viaje.
+
     const sampleTrip = trips.find(t => t.route_id === routeId);
     if (!sampleTrip) {
         containerElement.innerHTML += `<p>No se encontraron horarios para esta ruta.</p>`;
         return;
     }
 
-    // Obtener todas las paradas de este viaje, ordenadas por secuencia
     const tripStopTimes = stopTimes.filter(st => st.trip_id === sampleTrip.trip_id)
-                                    .sort((a, b) => a.stop_sequence - b.stop_sequence);
+                                  .sort((a, b) => a.stop_sequence - b.stop_sequence);
 
     const stopList = document.createElement('ul');
     stopList.className = 'stop-list';
@@ -227,16 +216,13 @@ function displayStopTimes(agency, routeId, containerElement) {
     containerElement.appendChild(stopList);
 }
 
-// Función principal para iniciar la aplicación
+// Función principal
 async function startApp() {
-    // Cargar los datos de todas las agencias
     await loadGTFSData('metrovalencia');
     await loadGTFSData('tramcastellon');
 
-    // Inicializar el mapa solo una vez, después de cargar los datos
     const map = initMap();
 
-    // Dibujar las paradas y las rutas con los datos cargados
     drawStopsOnMap(map, 'metrovalencia');
     drawStopsOnMap(map, 'tramcastellon');
 
@@ -247,5 +233,4 @@ async function startApp() {
     displayRoutesInfo('tramcastellon');
 }
 
-// Iniciar la aplicación
 startApp();
