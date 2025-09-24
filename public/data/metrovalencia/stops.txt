@@ -142,3 +142,4 @@ stop_id,stop_name,stop_lat,stop_lon,zone_id
 195,Oceanogràfic,39.452038,-0.347342,A
 196,Moreres,39.45015,-0.338408,A
 197,Natzaret,39.449889,-0.334674,A
+106,Fira València,39.5041427612,-0.4254944324,A B
