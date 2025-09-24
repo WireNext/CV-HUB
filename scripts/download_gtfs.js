@@ -5,7 +5,7 @@ const unzipper = require('unzipper');
 
 const gtfsSources = {
     metrovalencia: 'http://www.metrovalencia.es/google_transit_feed/google_transit.zip',
-    tramcastellon: 'URL_DEL_GTFS_DEL_TRAM_DE_CASTELLON' // Reemplaza con la URL real
+    tramcastellon: 'https://gvinterbus.gva.es/estatico/gtfs.zip'
 };
 
 async function downloadAndExtract() {

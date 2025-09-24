@@ -1,0 +1,9 @@
+trip_id,route_id,shape_id,service_id,trip_headsign,direction_id,trip_short_name,block_id,wheelchair_accessible,bikes_allowed
+Almassora - Platja 10am,01,01,01,Alma-Platja,,,,,
+Almassora - Platja 11am,01,01,01,Alma-Platja,,,,,
+Almassora - Platja 12am,01,01,01,Alma-Platja,,,,,
+Almassora - Platja 14pm,01,01,01,Alma-Platja,,,,,
+Almassora - Platja 17pm,01,01,01,Alma-Platja,,,,,
+Almassora - Platja 18pm,01,01,01,Alma-Platja,,,,,
+Almassora - Platja 8am,01,01,01,Alma-Platja,,,,,
+Almassora - Platja 9am,01,01,01,Alma-Platja,,,,,

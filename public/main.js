@@ -1,7 +1,8 @@
 // Variable para almacenar los datos GTFS. Debe estar solo una vez.
 const gtfsData = {
     metrovalencia: {},
-    tramcastellon: {}
+    tramcastellon: {},
+    almassoraurba: {}
 };
 
 // Define un icono personalizado para las paradas
@@ -224,6 +225,7 @@ async function startApp() {
     // Cargar los datos de todas las agencias
     await loadGTFSData('metrovalencia');
     await loadGTFSData('tramcastellon');
+    await loadGTFSData('almassoraurba');
 
     // Inicializar el mapa solo una vez, después de cargar los datos
     const map = initMap();
@@ -231,12 +233,17 @@ async function startApp() {
     // Dibujar las paradas y las rutas con los datos cargados
     drawStopsOnMap(map, 'metrovalencia');
     drawStopsOnMap(map, 'tramcastellon');
+    drawStopsOnMap(map, 'almassoraurbano');
 
     drawRoutes(map, 'metrovalencia');
     drawRoutes(map, 'tramcastellon');
+    drawRoutes(map, 'almassoraurbano');
+
 
     displayRoutesInfo('metrovalencia');
     displayRoutesInfo('tramcastellon');
+    displayRoutesInfo('almassoraurbano');
+
 }
 
 // Iniciar la aplicación
