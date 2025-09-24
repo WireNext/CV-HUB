@@ -18,16 +18,25 @@
     <main>
         <section id="map-section">
             <h2>Mapa de Líneas</h2>
-            <div id="map"></div>
+            <div id="map" style="height: 600px;"></div>
+
+            <div>
+                <label><input type="checkbox" class="agency-checkbox" value="metrovalencia" checked> Metrovalencia</label>
+                <label><input type="checkbox" class="agency-checkbox" value="tramcastellon" checked> TRAM Castellón</label>
+                <label><input type="checkbox" class="agency-checkbox" value="almassoraurbano" checked> Almassora Urbano</label>
+            </div>
         </section>
 
         <section id="info-section">
             <h2>Información de Rutas y Horarios</h2>
             <div id="routes-info"></div>
+            <ul id="route-list"></ul>
+            <ul id="stop-times-list"></ul>
         </section>
     </main>
 
     <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
     <script src="main.js"></script>
 </body>
 </html>
