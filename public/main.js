@@ -76,16 +76,22 @@ function initMap() {
 function drawStopsOnMap(map, agency) {
     if (gtfsData[agency].stops) {
         gtfsData[agency].stops.forEach(stop => {
-            if (stop.stop_lat && stop.stop_lon && !isNaN(parseFloat(stop.stop_lat))) {
-                const marker = L.marker([stop.stop_lat, stop.stop_lon], { icon: customStopIcon }).addTo(map)
+            let lat = parseFloat(stop.stop_lat?.replace(/["\s]/g,''));
+            let lon = parseFloat(stop.stop_lon?.replace(/["\s]/g,''));
+            
+            if (!isNaN(lat) && !isNaN(lon)) {
+                const marker = L.marker([lat, lon], { icon: customStopIcon }).addTo(map)
                     .bindPopup(stop.stop_name);
                 
                 updateIconSize(map, marker);
                 map.on('zoom', () => updateIconSize(map, marker));
+            } else {
+                console.warn(`Stop inválida ignorada: ${stop.stop_name}`, stop.stop_lat, stop.stop_lon);
             }
         });
     }
 }
+
 
 // Dibujar rutas en el mapa
 function drawRoutes(map, agency) {
