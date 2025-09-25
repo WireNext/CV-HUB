@@ -72,74 +72,90 @@ function initMap() {
     return map;
 }
 
-// Formatear tiempo restante
-function formatRemainingTime(arrivalTime) {
-    const now = new Date();
-    const [h, m, s] = arrivalTime.split(':').map(Number);
-    const arrival = new Date(now);
-    arrival.setHours(h, m, s || 0);
-
-    // Si ya pasó hoy, mover a mañana
-    if (arrival < now) {
-        arrival.setDate(arrival.getDate() + 1);
-    }
-
-    const diffMs = arrival - now;
-    const diffMin = Math.floor(diffMs / 60000);
-
-    if (diffMin <= 1) {
-        return `<span class="blinking-red">≤1 min</span>`;
-    } else if (diffMin < 60) {
-        return `${diffMin} min`;
-    } else {
-        const hours = Math.floor(diffMin / 60);
-        const minutes = diffMin % 60;
-        return `${hours} h ${minutes} min`;
-    }
-}
-
 // Dibujar paradas en el mapa con popup dinámico
 function drawStopsOnMap(map, agency) {
-    if (gtfsData[agency].stops) {
-        gtfsData[agency].stops.forEach(stop => {
-            let lat = parseFloat(stop.stop_lat?.replace(/["\s]/g,''));
-            let lon = parseFloat(stop.stop_lon?.replace(/["\s]/g,''));
-            
-            if (!isNaN(lat) && !isNaN(lon)) {
-                const marker = L.marker([lat, lon], { icon: customStopIcon }).addTo(map);
+    const stops = gtfsData[agency].stops || [];
+    const stopTimes = gtfsData[agency].stop_times || [];
+    const trips = gtfsData[agency].trips || [];
+    const routes = gtfsData[agency].routes || [];
 
-                marker.on('click', () => {
-                    const stopTimes = gtfsData[agency].stop_times || [];
-                    const trips = gtfsData[agency].trips || [];
-                    const routes = gtfsData[agency].routes || [];
+    stops.forEach(stop => {
+        let lat = parseFloat(stop.stop_lat?.replace(/["\s]/g,''));
+        let lon = parseFloat(stop.stop_lon?.replace(/["\s]/g,''));
+        
+        if (!isNaN(lat) && !isNaN(lon)) {
+            const marker = L.marker([lat, lon], { icon: customStopIcon }).addTo(map);
+            marker.bindPopup("Cargando...");
 
-                    const timesForStop = stopTimes.filter(st => st.stop_id === stop.stop_id);
+            marker.on('click', () => {
+                const ahora = new Date();
 
-                    let popupHtml = `<b>${stop.stop_name}</b><br/>`;
+                function horaAFecha(horaStr) {
+                    const [hh, mm, ss] = horaStr.split(':').map(Number);
+                    const fecha = new Date(ahora);
+                    fecha.setHours(hh, mm, ss, 0);
+                    return fecha;
+                }
 
-                    timesForStop.slice(0, 5).forEach(st => {
+                // Buscar horarios en esa parada
+                const horarios = stopTimes
+                    .filter(st => st.stop_id === stop.stop_id && st.departure_time)
+                    .map(st => {
                         const trip = trips.find(t => t.trip_id === st.trip_id);
-                        if (!trip) return;
-                        const route = routes.find(r => r.route_id === trip.route_id);
-                        if (!route) return;
+                        if (!trip) return null;
 
-                        const line = route.route_short_name || route.route_long_name || 'N/A';
-                        const headsign = trip.trip_headsign || 'Sentido desconocido';
-                        const remaining = formatRemainingTime(st.arrival_time);
+                        const ruta = routes.find(r => r.route_id === trip.route_id);
+                        if (!ruta) return null;
 
-                        popupHtml += `${line} → ${headsign} → ${remaining}<br/>`;
-                    });
+                        return {
+                            linea: ruta.route_short_name || '',
+                            nombre: ruta.route_long_name || '',
+                            hora: st.departure_time
+                        };
+                    })
+                    .filter(h => h !== null);
 
-                    marker.bindPopup(popupHtml).openPopup();
+                // Calcular diferencia con la hora actual
+                const horariosConDiff = horarios.map(h => {
+                    const fechaSalida = horaAFecha(h.hora);
+                    let diffMin = (fechaSalida - ahora) / 60000;
+                    if (diffMin < 0) diffMin += 24 * 60; // siguiente día
+                    return { ...h, diffMin, fechaSalida };
                 });
 
-                updateIconSize(map, marker);
-                map.on('zoom', () => updateIconSize(map, marker));
-            } else {
-                console.warn(`Stop inválida ignorada: ${stop.stop_name}`, stop.stop_lat, stop.stop_lon);
-            }
-        });
-    }
+                horariosConDiff.sort((a, b) => a.diffMin - b.diffMin);
+                const futuros = horariosConDiff.filter(h => h.diffMin >= 0);
+
+                if (futuros.length === 0) {
+                    marker.setPopupContent(`<strong>${stop.stop_name}</strong><br>No hay más servicios hoy.`);
+                    return;
+                }
+
+                const proximosMinutos = futuros.slice(0, 2);
+                const siguientesHoras = futuros.slice(2, 5);
+
+                let html = `<strong>${stop.stop_name}</strong><br><ul>`;
+
+                proximosMinutos.forEach(h => {
+                    if (h.diffMin <= 1) {
+                        html += `<li><b>${h.linea}</b> → ${h.nombre}: <span class="parpadeo" style="color:red;">en ${Math.round(h.diffMin)} min</span></li>`;
+                    } else {
+                        html += `<li><b>${h.linea}</b> → ${h.nombre}: en ${Math.round(h.diffMin)} min</li>`;
+                    }
+                });
+
+                siguientesHoras.forEach(h => {
+                    html += `<li><b>${h.linea}</b> → ${h.nombre}: ${h.hora}</li>`;
+                });
+
+                html += '</ul>';
+                marker.setPopupContent(html);
+            });
+
+            updateIconSize(map, marker);
+            map.on('zoom', () => updateIconSize(map, marker));
+        }
+    });
 }
 
 // Dibujar rutas
