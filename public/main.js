@@ -72,26 +72,30 @@ function initMap() {
     return map;
 }
 
-// Obtener próxima salida desde una parada
-function getNextDeparture(agency, stopId) {
-    const stopTimes = gtfsData[agency].stop_times || [];
-
+// Formatear tiempo restante
+function formatRemainingTime(arrivalTime) {
     const now = new Date();
-    const currentSeconds = now.getHours() * 3600 + now.getMinutes() * 60 + now.getSeconds();
+    const [h, m, s] = arrivalTime.split(':').map(Number);
+    const arrival = new Date(now);
+    arrival.setHours(h, m, s || 0);
 
-    const timesForStop = stopTimes
-        .filter(st => st.stop_id === stopId && st.arrival_time)
-        .map(st => {
-            const [hh, mm, ss] = st.arrival_time.split(':').map(Number);
-            const seconds = hh * 3600 + mm * 60 + ss;
-            return { ...st, seconds };
-        })
-        .filter(st => st.seconds >= currentSeconds)
-        .sort((a, b) => a.seconds - b.seconds);
+    // Si ya pasó hoy, mover a mañana
+    if (arrival < now) {
+        arrival.setDate(arrival.getDate() + 1);
+    }
 
-    if (timesForStop.length === 0) return null;
+    const diffMs = arrival - now;
+    const diffMin = Math.floor(diffMs / 60000);
 
-    return timesForStop[0].seconds - currentSeconds;
+    if (diffMin <= 1) {
+        return `<span class="blinking-red">≤1 min</span>`;
+    } else if (diffMin < 60) {
+        return `${diffMin} min`;
+    } else {
+        const hours = Math.floor(diffMin / 60);
+        const minutes = diffMin % 60;
+        return `${hours} h ${minutes} min`;
+    }
 }
 
 // Dibujar paradas en el mapa con popup dinámico
@@ -105,25 +109,28 @@ function drawStopsOnMap(map, agency) {
                 const marker = L.marker([lat, lon], { icon: customStopIcon }).addTo(map);
 
                 marker.on('click', () => {
-                    const diff = getNextDeparture(agency, stop.stop_id);
-                    let message = `<b>${stop.stop_name}</b>`;
+                    const stopTimes = gtfsData[agency].stop_times || [];
+                    const trips = gtfsData[agency].trips || [];
+                    const routes = gtfsData[agency].routes || [];
 
-                    if (diff !== null) {
-                        const minutes = Math.floor(diff / 60);
-                        const hours = Math.floor(diff / 3600);
+                    const timesForStop = stopTimes.filter(st => st.stop_id === stop.stop_id);
 
-                        if (diff <= 60) {
-                            message += `<br><span class="blink" style="color:red;">¡Llega en menos de 1 minuto!</span>`;
-                        } else if (diff < 3600) {
-                            message += `<br>Llega en ${minutes} min`;
-                        } else {
-                            message += `<br>Llega en ${hours} h`;
-                        }
-                    } else {
-                        message += `<br>No hay más servicios hoy`;
-                    }
+                    let popupHtml = `<b>${stop.stop_name}</b><br/>`;
 
-                    marker.bindPopup(message).openPopup();
+                    timesForStop.slice(0, 5).forEach(st => {
+                        const trip = trips.find(t => t.trip_id === st.trip_id);
+                        if (!trip) return;
+                        const route = routes.find(r => r.route_id === trip.route_id);
+                        if (!route) return;
+
+                        const line = route.route_short_name || route.route_long_name || 'N/A';
+                        const headsign = trip.trip_headsign || 'Sentido desconocido';
+                        const remaining = formatRemainingTime(st.arrival_time);
+
+                        popupHtml += `${line} → ${headsign} → ${remaining}<br/>`;
+                    });
+
+                    marker.bindPopup(popupHtml).openPopup();
                 });
 
                 updateIconSize(map, marker);
