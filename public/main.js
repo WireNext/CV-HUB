@@ -79,7 +79,21 @@ function drawStopsOnMap(map, agency) {
     const trips = gtfsData[agency].trips || [];
     const routes = gtfsData[agency].routes || [];
 
+    // Filtrar trips y stop_times para tramcastellon según T1–T4
+    let allowedTrips = trips;
+    let allowedStopTimes = stopTimes;
+    if (agency === 'tramcastellon') {
+        const allowedRoutes = ['T1', 'T2', 'T3', 'T4'];
+        allowedTrips = trips.filter(t => allowedRoutes.includes(
+            routes.find(r => r.route_id === t.route_id)?.route_short_name
+        ));
+        allowedStopTimes = stopTimes.filter(st => allowedTrips.some(t => t.trip_id === st.trip_id));
+    }
+
     stops.forEach(stop => {
+        const stopTimesForStop = allowedStopTimes.filter(st => st.stop_id === stop.stop_id);
+        if (agency === 'tramcastellon' && stopTimesForStop.length === 0) return; // ignorar paradas no filtradas
+
         let lat = parseFloat(stop.stop_lat?.replace(/["\s]/g,''));
         let lon = parseFloat(stop.stop_lon?.replace(/["\s]/g,''));
         
@@ -97,11 +111,10 @@ function drawStopsOnMap(map, agency) {
                     return fecha;
                 }
 
-                // Buscar horarios en esa parada
-                const horarios = stopTimes
-                    .filter(st => st.stop_id === stop.stop_id && st.departure_time)
+                // Buscar horarios válidos en esa parada
+                const horarios = stopTimesForStop
                     .map(st => {
-                        const trip = trips.find(t => t.trip_id === st.trip_id);
+                        const trip = allowedTrips.find(t => t.trip_id === st.trip_id);
                         if (!trip) return null;
 
                         const ruta = routes.find(r => r.route_id === trip.route_id);
@@ -115,11 +128,10 @@ function drawStopsOnMap(map, agency) {
                     })
                     .filter(h => h !== null);
 
-                // Calcular diferencia con la hora actual
                 const horariosConDiff = horarios.map(h => {
                     const fechaSalida = horaAFecha(h.hora);
                     let diffMin = (fechaSalida - ahora) / 60000;
-                    if (diffMin < 0) diffMin += 24 * 60; // siguiente día
+                    if (diffMin < 0) diffMin += 24 * 60;
                     return { ...h, diffMin, fechaSalida };
                 });
 
@@ -164,10 +176,7 @@ function drawRoutes(map, agency) {
     const trips = gtfsData[agency].trips || [];
     const shapes = gtfsData[agency].shapes || [];
 
-    if (routes.length === 0 || trips.length === 0 || shapes.length === 0) {
-        console.warn(`No hay datos suficientes para dibujar rutas de ${agency}`);
-        return;
-    }
+    if (routes.length === 0 || trips.length === 0 || shapes.length === 0) return;
 
     const shapeMap = new Map();
     shapes.forEach(shape => {
@@ -182,14 +191,12 @@ function drawRoutes(map, agency) {
     let filteredRoutes = routes;
     if (agency === 'tramcastellon') {
         const allowedRoutes = ['T1','T2','T3','T4'];
-        filteredRoutes = routes.filter(r => r.agency_id?.trim() === '5999' && allowedRoutes.includes(r.route_short_name));
+        filteredRoutes = routes.filter(r => allowedRoutes.includes(r.route_short_name));
     }
 
     filteredRoutes.forEach(route => {
         let routeColor = `#${route.route_color || '000000'}`;
-        if (agency === 'tramcastellon' && !route.route_color) {
-            routeColor = '#28a745'; // Verde por defecto para Tram
-        }
+        if (agency === 'tramcastellon' && !route.route_color) routeColor = '#28a745';
 
         const routeName = route.route_short_name || route.route_long_name;
         const trip = trips.find(t => t.route_id === route.route_id && t.shape_id?.trim());
@@ -214,7 +221,7 @@ function displayRoutesInfo(agency) {
     let filteredRoutes = routes;
     if (agency === 'tramcastellon') {
         const allowedRoutes = ['T1','T2','T3','T4'];
-        filteredRoutes = routes.filter(r => r.agency_id?.trim() === '5999' && allowedRoutes.includes(r.route_short_name));
+        filteredRoutes = routes.filter(r => allowedRoutes.includes(r.route_short_name));
     }
 
     if (filteredRoutes.length === 0) {
@@ -265,10 +272,7 @@ function displayStopTimes(agency, routeId, containerElement) {
     const stops = gtfsData[agency].stops;
 
     const sampleTrip = trips.find(t => t.route_id === routeId);
-    if (!sampleTrip) {
-        containerElement.innerHTML += `<p>No se encontraron horarios para esta ruta.</p>`;
-        return;
-    }
+    if (!sampleTrip) return;
 
     const tripStopTimes = stopTimes.filter(st => st.trip_id === sampleTrip.trip_id)
                                   .sort((a, b) => a.stop_sequence - b.stop_sequence);
