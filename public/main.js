@@ -1,10 +1,10 @@
-// Variable para almacenar los datos GTFS. Debe estar solo una vez.
+// Variable para almacenar los datos GTFS
 const gtfsData = {
     metrovalencia: {},
     tramcastellon: {}
 };
 
-// Define un icono personalizado para las paradas
+// Icono personalizado para las paradas
 const customStopIcon = L.divIcon({
     className: 'custom-stop-icon',
     html: '<div style="background-color: #3388ff; border-radius: 50%; width: 10px; height: 10px; border: 2px solid white;"></div>',
@@ -12,7 +12,7 @@ const customStopIcon = L.divIcon({
     iconAnchor: [7, 7]
 });
 
-// Función para actualizar el tamaño de los iconos según el zoom
+// Actualizar tamaño del icono según zoom
 function updateIconSize(map, marker) {
     const zoomLevel = map.getZoom();
     let iconSize = 0;
@@ -34,7 +34,7 @@ function updateIconSize(map, marker) {
     marker.setIcon(newIcon);
 }
 
-// Función para cargar y procesar los archivos GTFS (usando un parser simple)
+// Cargar y procesar archivos GTFS
 async function loadGTFSData(agency) {
     const dataDir = `./data/${agency}/`;
     const files = ['routes.txt', 'trips.txt', 'stops.txt', 'stop_times.txt', 'shapes.txt'];
@@ -63,7 +63,7 @@ async function loadGTFSData(agency) {
     }
 }
 
-// Inicializar mapa Leaflet
+// Inicializar mapa
 function initMap() {
     const map = L.map('map').setView([39.4699, -0.3774], 12);
     L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
@@ -72,7 +72,29 @@ function initMap() {
     return map;
 }
 
-// Dibujar paradas en el mapa
+// Obtener próxima salida desde una parada
+function getNextDeparture(agency, stopId) {
+    const stopTimes = gtfsData[agency].stop_times || [];
+
+    const now = new Date();
+    const currentSeconds = now.getHours() * 3600 + now.getMinutes() * 60 + now.getSeconds();
+
+    const timesForStop = stopTimes
+        .filter(st => st.stop_id === stopId && st.arrival_time)
+        .map(st => {
+            const [hh, mm, ss] = st.arrival_time.split(':').map(Number);
+            const seconds = hh * 3600 + mm * 60 + ss;
+            return { ...st, seconds };
+        })
+        .filter(st => st.seconds >= currentSeconds)
+        .sort((a, b) => a.seconds - b.seconds);
+
+    if (timesForStop.length === 0) return null;
+
+    return timesForStop[0].seconds - currentSeconds;
+}
+
+// Dibujar paradas en el mapa con popup dinámico
 function drawStopsOnMap(map, agency) {
     if (gtfsData[agency].stops) {
         gtfsData[agency].stops.forEach(stop => {
@@ -80,9 +102,30 @@ function drawStopsOnMap(map, agency) {
             let lon = parseFloat(stop.stop_lon?.replace(/["\s]/g,''));
             
             if (!isNaN(lat) && !isNaN(lon)) {
-                const marker = L.marker([lat, lon], { icon: customStopIcon }).addTo(map)
-                    .bindPopup(stop.stop_name);
-                
+                const marker = L.marker([lat, lon], { icon: customStopIcon }).addTo(map);
+
+                marker.on('click', () => {
+                    const diff = getNextDeparture(agency, stop.stop_id);
+                    let message = `<b>${stop.stop_name}</b>`;
+
+                    if (diff !== null) {
+                        const minutes = Math.floor(diff / 60);
+                        const hours = Math.floor(diff / 3600);
+
+                        if (diff <= 60) {
+                            message += `<br><span class="blink" style="color:red;">¡Llega en menos de 1 minuto!</span>`;
+                        } else if (diff < 3600) {
+                            message += `<br>Llega en ${minutes} min`;
+                        } else {
+                            message += `<br>Llega en ${hours} h`;
+                        }
+                    } else {
+                        message += `<br>No hay más servicios hoy`;
+                    }
+
+                    marker.bindPopup(message).openPopup();
+                });
+
                 updateIconSize(map, marker);
                 map.on('zoom', () => updateIconSize(map, marker));
             } else {
@@ -92,8 +135,7 @@ function drawStopsOnMap(map, agency) {
     }
 }
 
-
-// Dibujar rutas en el mapa
+// Dibujar rutas
 function drawRoutes(map, agency) {
     const routes = gtfsData[agency].routes || [];
     const trips = gtfsData[agency].trips || [];
@@ -104,7 +146,6 @@ function drawRoutes(map, agency) {
         return;
     }
 
-    // Map de shapes
     const shapeMap = new Map();
     shapes.forEach(shape => {
         const shapeId = shape.shape_id?.trim();
@@ -115,7 +156,6 @@ function drawRoutes(map, agency) {
         ]);
     });
 
-    // Filtrar rutas específicas para TramCastellón
     let filteredRoutes = routes;
     if (agency === 'tramcastellon') {
         const allowedRoutes = ['T1','T2','T3','T4'];
@@ -123,9 +163,12 @@ function drawRoutes(map, agency) {
     }
 
     filteredRoutes.forEach(route => {
-        const routeColor = `#${route.route_color || '000000'}`;
-        const routeName = route.route_short_name || route.route_long_name;
+        let routeColor = `#${route.route_color || '000000'}`;
+        if (agency === 'tramcastellon' && !route.route_color) {
+            routeColor = '#28a745'; // Verde por defecto para Tram
+        }
 
+        const routeName = route.route_short_name || route.route_long_name;
         const trip = trips.find(t => t.route_id === route.route_id && t.shape_id?.trim());
         if (!trip) return;
 
@@ -192,7 +235,7 @@ function displayRoutesInfo(agency) {
     routesInfoDiv.appendChild(routesList);
 }
 
-// Mostrar paradas y horarios de una ruta específica
+// Mostrar horarios de una ruta
 function displayStopTimes(agency, routeId, containerElement) {
     const trips = gtfsData[agency].trips;
     const stopTimes = gtfsData[agency].stop_times;
@@ -222,7 +265,7 @@ function displayStopTimes(agency, routeId, containerElement) {
     containerElement.appendChild(stopList);
 }
 
-// Función principal
+// Iniciar app
 async function startApp() {
     await loadGTFSData('metrovalencia');
     await loadGTFSData('tramcastellon');
