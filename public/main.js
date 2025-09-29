@@ -1,7 +1,10 @@
 // Variable para almacenar los datos GTFS
 const gtfsData = {
     metrovalencia: {},
-    tramcastellon: {}
+    tramcastellon: {},
+    almassora: {},
+    tramalc: {}
+
 };
 
 // Icono personalizado para las paradas
@@ -218,7 +221,7 @@ function displayRoutesInfo(agency) {
 
     let filteredRoutes = routes;
     if (agency === 'tramcastellon') {
-        const allowedAgency = 'TRAMCASTELLON';
+        const allowedAgency = '5999';
         filteredRoutes = routes.filter(r => r.agency_id === allowedAgency);
     }
 
@@ -293,17 +296,33 @@ function displayStopTimes(agency, routeId, containerElement) {
 async function startApp() {
     await loadGTFSData('metrovalencia');
     await loadGTFSData('tramcastellon');
+    await loadGTFSData('almassora');
+    await loadGTFSData('tramalc');
+
+
 
     const map = initMap();
 
     drawStopsOnMap(map, 'metrovalencia');
     drawStopsOnMap(map, 'tramcastellon');
+    drawStopsOnMap(map, 'almassora');
+    drawStopsOnMap(map, 'tramalc');
+
+
 
     drawRoutes(map, 'metrovalencia');
     drawRoutes(map, 'tramcastellon');
+    drawRoutes(map, 'almassora');
+    drawRoutes(map, 'tramalc');
+
+
 
     displayRoutesInfo('metrovalencia');
     displayRoutesInfo('tramcastellon');
+    displayRoutesInfo('almassora');
+    displayRoutesInfo('tramalc');
+
+
 }
 
 startApp();
