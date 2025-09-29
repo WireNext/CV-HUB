@@ -38,13 +38,13 @@ function updateIconSize(map, marker) {
 async function loadGTFSData(agency) {
     const dataDir = `./data/${agency}/`;
     const files = ['routes.txt', 'trips.txt', 'stops.txt', 'stop_times.txt', 'shapes.txt'];
-    
+
     for (const file of files) {
         try {
             const response = await fetch(dataDir + file);
             if (!response.ok) throw new Error(`Error al cargar ${file}`);
             const text = await response.text();
-            
+
             const lines = text.split('\n').filter(line => line.trim() !== '');
             if (lines.length <= 1) continue;
             const headers = lines[0].split(',');
@@ -56,7 +56,7 @@ async function loadGTFSData(agency) {
                 }, {});
             });
             gtfsData[agency][file.replace('.txt', '')] = data;
-            
+
         } catch (error) {
             console.error(`No se pudo cargar o parsear el archivo ${file} para ${agency}:`, error);
         }
@@ -79,24 +79,23 @@ function drawStopsOnMap(map, agency) {
     const trips = gtfsData[agency].trips || [];
     const routes = gtfsData[agency].routes || [];
 
-    // Filtrar trips y stop_times para tramcastellon según T1–T4
     let allowedTrips = trips;
     let allowedStopTimes = stopTimes;
+
     if (agency === 'tramcastellon') {
-        const allowedRoutes = ['T1', 'T2', 'T3', 'T4'];
-        allowedTrips = trips.filter(t => allowedRoutes.includes(
-            routes.find(r => r.route_id === t.route_id)?.route_short_name
-        ));
+        const allowedAgency = 'TRAMCASTELLON'; // <-- cambia este ID al que esté en routes.txt
+        const allowedRoutes = routes.filter(r => r.agency_id === allowedAgency);
+        allowedTrips = trips.filter(t => allowedRoutes.some(r => r.route_id === t.route_id));
         allowedStopTimes = stopTimes.filter(st => allowedTrips.some(t => t.trip_id === st.trip_id));
     }
 
     stops.forEach(stop => {
         const stopTimesForStop = allowedStopTimes.filter(st => st.stop_id === stop.stop_id);
-        if (agency === 'tramcastellon' && stopTimesForStop.length === 0) return; // ignorar paradas no filtradas
+        if (agency === 'tramcastellon' && stopTimesForStop.length === 0) return;
 
-        let lat = parseFloat(stop.stop_lat?.replace(/["\s]/g,''));
-        let lon = parseFloat(stop.stop_lon?.replace(/["\s]/g,''));
-        
+        let lat = parseFloat(stop.stop_lat?.replace(/["\s]/g, ''));
+        let lon = parseFloat(stop.stop_lon?.replace(/["\s]/g, ''));
+
         if (!isNaN(lat) && !isNaN(lon)) {
             const marker = L.marker([lat, lon], { icon: customStopIcon }).addTo(map);
             marker.bindPopup("Cargando...");
@@ -111,7 +110,6 @@ function drawStopsOnMap(map, agency) {
                     return fecha;
                 }
 
-                // Buscar horarios válidos en esa parada
                 const horarios = stopTimesForStop
                     .map(st => {
                         const trip = allowedTrips.find(t => t.trip_id === st.trip_id);
@@ -190,8 +188,8 @@ function drawRoutes(map, agency) {
 
     let filteredRoutes = routes;
     if (agency === 'tramcastellon') {
-        const allowedRoutes = ['T1','T2','T3','T4'];
-        filteredRoutes = routes.filter(r => allowedRoutes.includes(r.route_short_name));
+        const allowedAgency = '5999';
+        filteredRoutes = routes.filter(r => r.agency_id === allowedAgency);
     }
 
     filteredRoutes.forEach(route => {
@@ -220,8 +218,8 @@ function displayRoutesInfo(agency) {
 
     let filteredRoutes = routes;
     if (agency === 'tramcastellon') {
-        const allowedRoutes = ['T1','T2','T3','T4'];
-        filteredRoutes = routes.filter(r => allowedRoutes.includes(r.route_short_name));
+        const allowedAgency = 'TRAMCASTELLON';
+        filteredRoutes = routes.filter(r => r.agency_id === allowedAgency);
     }
 
     if (filteredRoutes.length === 0) {
@@ -243,13 +241,12 @@ function displayRoutesInfo(agency) {
         const routeNameSpan = document.createElement('span');
         routeNameSpan.textContent = route.route_short_name;
         routeNameSpan.style.color = `#${route.route_color || 'black'}`;
-        
+
         routeItem.appendChild(routeNameSpan);
         routesList.appendChild(routeItem);
 
         routeItem.addEventListener('click', () => {
             const existingStopList = routeItem.querySelector('.stop-list');
-            
             document.querySelectorAll('.stop-list').forEach(list => {
                 if (list !== existingStopList) list.style.display = 'none';
             });
@@ -275,7 +272,7 @@ function displayStopTimes(agency, routeId, containerElement) {
     if (!sampleTrip) return;
 
     const tripStopTimes = stopTimes.filter(st => st.trip_id === sampleTrip.trip_id)
-                                  .sort((a, b) => a.stop_sequence - b.stop_sequence);
+        .sort((a, b) => a.stop_sequence - b.stop_sequence);
 
     const stopList = document.createElement('ul');
     stopList.className = 'stop-list';
