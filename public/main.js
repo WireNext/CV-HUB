@@ -209,14 +209,17 @@ function displayRoutesInfo(agency) {
     const routesInfoDiv = document.getElementById('routes-info');
     const routes = gtfsData[agency].routes || [];
     let filteredRoutes = routes;
+
     if (agency === 'tramcastellon') {
-        const allowedAgency = '5999';
-        filteredRoutes = routes.filter(r => r.agency_id === allowedAgency);
+        const allowedAgencies = ['5999', '510703'];
+        filteredRoutes = routes.filter(r => allowedAgencies.includes(r.agency_id));
     }
+
     if (filteredRoutes.length === 0) {
         routesInfoDiv.innerHTML += `<p>No se encontraron datos de rutas para ${agency}.</p>`;
         return;
     }
+
     const agencyTitle = document.createElement('h3');
     agencyTitle.textContent = agency.charAt(0).toUpperCase() + agency.slice(1);
     routesInfoDiv.appendChild(agencyTitle);
