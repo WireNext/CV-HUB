@@ -166,13 +166,14 @@ function drawStopsOnMap(map, agency, filter = {}) {
 }
 
 // =============================
-// 7. Dibujar rutas
+// 7. Dibujar rutas (corregido para ambas direcciones)
 // =============================
 function drawRoutes(map, agency, filter = {}) {
     const trips = gtfsData[agency].trips || [];
     const shapes = gtfsData[agency].shapes || [];
     if (!shapes.length) return;
 
+    // Crear un mapa de shape_id → puntos
     const shapeMap = new Map();
     shapes.forEach(shape => {
         const shapeId = shape.shape_id?.trim();
@@ -181,13 +182,28 @@ function drawRoutes(map, agency, filter = {}) {
     });
 
     const filteredRoutes = filterRoutes(agency, filter);
+
     filteredRoutes.forEach(route => {
         const routeColor = `#${route.route_color || '28a745'}`;
         const routeName = route.route_short_name || route.route_long_name;
-        const trip = trips.find(t => t.route_id === route.route_id && t.shape_id?.trim());
-        if (!trip) return;
-        const shapePoints = shapeMap.get(trip.shape_id?.trim());
-        if (shapePoints?.length) L.polyline(shapePoints, { color: routeColor, weight: 4, opacity: 0.8 }).addTo(map).bindPopup(`Línea: ${routeName}`);
+
+        // Tomar todos los trips de esta ruta
+        const routeTrips = trips.filter(t => t.route_id === route.route_id);
+
+        // Tomar todos los shape_id únicos de esos trips
+        const shapeIds = [...new Set(routeTrips.map(t => t.shape_id).filter(id => id?.trim()))];
+
+        // Dibujar cada shape
+        shapeIds.forEach(shapeId => {
+            const shapePoints = shapeMap.get(shapeId.trim());
+            if (shapePoints?.length) {
+                L.polyline(shapePoints, {
+                    color: routeColor,
+                    weight: 4,
+                    opacity: 0.8
+                }).addTo(map).bindPopup(`Línea: ${routeName}`);
+            }
+        });
     });
 }
 
