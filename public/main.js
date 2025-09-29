@@ -292,7 +292,7 @@ async function startApp() {
     const map = initMap();
 
     // Filtrado flexible: puedes poner varias agencias y rutas
-    const tramFilter = { agencies: ['5107', '5999'], routes: ['510703'] }; // ejemplo
+    const tramFilter = { agencies: ['5107', '5999'], routes: ['510703', '59990010', '59990020', '59990030', '59990040'] }; // ejemplo
     drawStopsOnMap(map, 'metrovalencia');
     drawStopsOnMap(map, 'tramcastellon', tramFilter);
     drawStopsOnMap(map, 'almassora');
