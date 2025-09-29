@@ -88,12 +88,13 @@ function drawStopsOnMap(map, agency) {
     let allowedTrips = trips;
     let allowedStopTimes = stopTimes;
 
-    if (agency === 'tramcastellon') {
-        const allowedAgency = ['5999', '510703'];
-        const allowedRoutes = routes.filter(r => r.agency_id === allowedAgency);
-        allowedTrips = trips.filter(t => allowedRoutes.some(r => r.route_id === t.route_id));
-        allowedStopTimes = stopTimes.filter(st => allowedTrips.some(t => t.trip_id === st.trip_id));
-    }
+if (agency === 'tramcastellon') {
+    const allowedAgencies = ['5999', '510703'];
+    const allowedRoutes = routes.filter(r => allowedAgencies.includes(r.agency_id));
+    allowedTrips = trips.filter(t => allowedRoutes.some(r => r.route_id === t.route_id));
+    allowedStopTimes = stopTimes.filter(st => allowedTrips.some(t => t.trip_id === st.trip_id));
+}
+
 
     stops.forEach(stop => {
         const stopTimesForStop = allowedStopTimes.filter(st => st.stop_id === stop.stop_id);
@@ -182,9 +183,10 @@ function drawRoutes(map, agency) {
 
     let filteredRoutes = routes;
     if (agency === 'tramcastellon') {
-        const allowedAgency = ['5999', '510703'];
-        filteredRoutes = routes.filter(r => r.agency_id === allowedAgency);
-    }
+    const allowedAgencies = ['5999', '510703'];
+    filteredRoutes = routes.filter(r => allowedAgencies.includes(r.agency_id));
+}
+
 
     filteredRoutes.forEach(route => {
         let routeColor = `#${route.route_color || '000000'}`;
