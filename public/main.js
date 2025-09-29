@@ -188,14 +188,9 @@ function drawRoutes(map, agency, filter = {}) {
         const routeName = route.route_short_name || route.route_long_name;
 
         // Todos los trips de esta ruta
-        let routeTrips = trips.filter(t => t.route_id === route.route_id);
+        const routeTrips = trips.filter(t => t.route_id === route.route_id);
 
-        // Solo para la agencia 5999 queremos todas las direcciones
-        if (agency !== '5999') {
-            // para otras agencias, dibujar solo un trip por ruta (evitar duplicados)
-            routeTrips = routeTrips.slice(0, 1);
-        }
-
+        // Para evitar dibujar shapes duplicados
         const drawnShapes = new Set();
 
         routeTrips.forEach(trip => {
@@ -214,7 +209,6 @@ function drawRoutes(map, agency, filter = {}) {
         });
     });
 }
-
 
 
 // =============================
