@@ -6,6 +6,8 @@
     <title>Transporte Público Comunitat Valenciana</title>
     <link rel="stylesheet" href="styles.css">
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
+    <link rel="icon" href="metrologo.png" type="image/x-icon">
+
 </head>
 <body>
     <header>
@@ -16,21 +18,17 @@
     </header>
 
     <main>
-        
-        <section id="map-section">
-            <h2>Mapa de Líneas</h2>
-            <div id="map"></div>
-        </section>
-
+    <section id="map-section">
+        <h2>Mapa de Líneas</h2>
         <div id="map" style="height: 500px;"></div>
-        <div id="routes-info"></div>
-        <div id="incidencias"></div>
+    </section>
 
-        <section id="info-section">
-            <h2>Información de Rutas y Horarios</h2>
-            <div id="routes-info"></div>
-        </section>
-    </main>
+    <section id="incidencias-section">
+        <h2>Incidencias en tiempo real</h2>
+        <div id="incidencias"></div>
+    </section>
+</main>
+
 
     <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
     <script src="main.js"></script>
