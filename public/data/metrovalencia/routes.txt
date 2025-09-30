@@ -18,7 +18,6 @@ V1-20-36,1,1,1 - València Sud - Seminari - CEU,1,FEC601,FFFFFF
 V1-20-39,1,1,1 - València Sud - Bétera,1,FEC601,FFFFFF
 V1-20-5,1,1,1 - València Sud - L'Alcúdia,1,FEC601,FFFFFF
 V1-29-1,1,1,1 - Empalme - Castelló,1,FEC601,FFFFFF
-V1-29-17,1,1,1 - Empalme - Torrent,1,E60096,FFFFFF
 V1-29-20,1,1,1 - Empalme - València Sud,1,E60096,FFFFFF
 V1-36-1,1,1,1 - Seminari - CEU - Castelló,1,FEC601,FFFFFF
 V1-36-13,1,1,1 - Seminari - CEU - Picassent,1,FEC601,FFFFFF
