@@ -54,24 +54,76 @@ V3-182-66,1,3,3 - Aeroport - Machado,1,014A99,FFFFFF
 V3-25-66,1,3,3 - Àngel Guimerà - Machado,1,DD052C,FFFFFF
 V3-56-182,1,3,3 - Alboraia Peris Aragó - Aeroport,1,014A99,FFFFFF
 V3-64-182,1,3,3 - Rafelbunyol - Aeroport,1,DD052C,FFFFFF
-V3-64-186,1,3,3 - Rafelbunyol - Riba-roja de Túria,0,DD052C,FFFFFF
 V3-64-66,1,3,3 - Rafelbunyol - Machado,1,DD052C,FFFFFF
 V3-66-182,1,3,3 - Machado - Aeroport,1,014A99,FFFFFF
 V3-66-64,1,3,3 - Machado - Rafelbunyol,1,DD052C,FFFFFF
 V3-66-73,1,3,3 - Machado - Av. del Cid,1,DD052C,FFFFFF
 V3-73-64,1,3,3 - Av. del Cid - Rafelbunyol,1,DD052C,FFFFFF
+V4-100-93,1,4,4 - Fira València - Tarongers - Ernest Lluch,0,014A99,FFFFFF
+V4-100-94,1,4,4 - Fira València - Beteró,0,014A99,FFFFFF
+V4-100-98,1,4,4 - Fira València - Dr. Lluch,0,014A99,FFFFFF
+V4-100-99,1,4,4 - Fira València - Cabanyal,0,014A99,FFFFFF
+V4-102-115,1,4,4 - Vicent Andrés Estellés - Ll. Llarga - Terramelar,0,014A99,FFFFFF
+V4-102-29,1,4,4 - Vicent Andrés Estellés - Empalme,0,014A99,FFFFFF
+V4-102-92,1,4,4 - Vicent Andrés Estellés - La Carrasca,0,014A99,FFFFFF
 V4-102-94,1,4,4 - Vicent Andrés Estellés - Beteró,0,F28D01,FFFFFF
 V4-102-98,1,4,4 - Vicent Andrés Estellés - Dr. Lluch,0,F28D01,FFFFFF
+V4-102-99,1,4,4 - Vicent Andrés Estellés - Cabanyal,0,F28D01,FFFFFF
+V4-103-115,1,4,4 - Campus - Ll. Llarga - Terramelar,0,014A99,FFFFFF
+V4-103-95,1,4,4 - Campus - La Cadena,0,014A99,FFFFFF
+V4-103-98,1,4,4 - Campus - Dr. Lluch,0,F28D01,FFFFFF
+V4-103-99,1,4,4 - Campus - Cabanyal,0,014A99,FFFFFF
+V4-104-115,1,4,4 - Sant Joan - Ll. Llarga - Terramelar,0,014A99,FFFFFF
+V4-104-94,1,4,4 - Sant Joan - Beteró,0,014A99,FFFFFF
+V4-104-95,1,4,4 - Sant Joan - La Cadena,1,014A99,FFFFFF
+V4-104-98,1,4,4 - Sant Joan - Dr. Lluch,0,014A99,FFFFFF
+V4-105-115,1,4,4 - La Granja - Ll. Llarga - Terramelar,0,F28D01,FFFFFF
+V4-110-104,1,4,4 - À Punt - Sant Joan,0,014A99,FFFFFF
+V4-110-29,1,4,4 - À Punt - Empalme,0,F28D01,FFFFFF
+V4-110-93,1,4,4 - À Punt - Tarongers - Ernest Lluch,0,014A99,FFFFFF
+V4-111-98,1,4,4 - Parc Científic - Dr. Lluch,0,014A99,FFFFFF
+V4-112-95,1,4,4 - Tomás y Valiente - La Cadena,1,014A99,FFFFFF
+V4-112-98,1,4,4 - Tomás y Valiente - Dr. Lluch,0,014A99,FFFFFF
+V4-113-98,1,4,4 - La Coma - Dr. Lluch,0,F28D01,FFFFFF
+V4-113-99,1,4,4 - La Coma - Cabanyal,0,F28D01,FFFFFF
 V4-114-98,1,4,4 - Mas del Rosari - Dr. Lluch,0,F28D01,FFFFFF
+V4-114-99,1,4,4 - Mas del Rosari - Cabanyal,0,014A99,FFFFFF
+V4-115-105,1,4,4 - Ll. Llarga - Terramelar - La Granja,0,F28D01,FFFFFF
 V4-115-29,1,4,4 - Ll. Llarga - Terramelar - Empalme,0,F28D01,FFFFFF
 V4-115-94,1,4,4 - Ll. Llarga - Terramelar - Beteró,0,F28D01,FFFFFF
 V4-115-98,1,4,4 - Ll. Llarga - Terramelar - Dr. Lluch,0,014A99,FFFFFF
+V4-29-110,1,4,4 - Empalme - À Punt,0,F28D01,FFFFFF
 V4-29-115,1,4,4 - Empalme - Ll. Llarga - Terramelar,0,F28D01,FFFFFF
+V4-29-98,1,4,4 - Empalme - Dr. Lluch,0,014A99,FFFFFF
+V4-67-114,1,4,4 - Benimaclet - Mas del Rosari,1,014A99,FFFFFF
+V4-80-99,1,4,4 - Florista - Cabanyal,1,014A99,FFFFFF
+V4-93-100,1,4,4 - Tarongers - Ernest Lluch - Fira València,1,014A99,FFFFFF
+V4-94-100,1,4,4 - Beteró - Fira València,0,014A99,FFFFFF
 V4-94-102,1,4,4 - Beteró - Vicent Andrés Estellés,0,014A99,FFFFFF
+V4-94-105,1,4,4 - Beteró - La Granja,0,014A99,FFFFFF
 V4-94-115,1,4,4 - Beteró - Ll. Llarga - Terramelar,0,014A99,FFFFFF
+V4-94-80,1,4,4 - Beteró - Florista,1,014A99,FFFFFF
+V4-95-114,1,4,4 - La Cadena - Mas del Rosari,0,014A99,FFFFFF
 V4-95-98,1,4,4 - La Cadena - Dr. Lluch,0,014A99,FFFFFF
+V4-96-100,1,4,4 - Platja Malva-rosa - Fira València,0,014A99,FFFFFF
+V4-96-102,1,4,4 - Platja Malva-rosa - Vicent Andrés Estellés,0,014A99,FFFFFF
+V4-96-111,1,4,4 - Platja Malva-rosa - Parc Científic,1,014A99,FFFFFF
+V4-96-114,1,4,4 - Platja Malva-rosa - Mas del Rosari,0,014A99,FFFFFF
+V4-97-100,1,4,4 - Platja les Arenes - Fira València,0,014A99,FFFFFF
+V4-97-102,1,4,4 - Platja les Arenes - Vicent Andrés Estellés,0,F28D01,FFFFFF
+V4-97-112,1,4,4 - Platja les Arenes - Tomás y Valiente,0,014A99,FFFFFF
+V4-97-113,1,4,4 - Platja les Arenes - La Coma,0,014A99,FFFFFF
+V4-97-114,1,4,4 - Platja les Arenes - Mas del Rosari,0,F28D01,FFFFFF
+V4-98-100,1,4,4 - Dr. Lluch - Fira València,0,014A99,FFFFFF
 V4-98-102,1,4,4 - Dr. Lluch - Vicent Andrés Estellés,0,F28D01,FFFFFF
+V4-98-103,1,4,4 - Dr. Lluch - Campus,0,F28D01,FFFFFF
+V4-98-111,1,4,4 - Dr. Lluch - Parc Científic,0,014A99,FFFFFF
+V4-98-113,1,4,4 - Dr. Lluch - La Coma,0,F28D01,FFFFFF
 V4-98-114,1,4,4 - Dr. Lluch - Mas del Rosari,0,F28D01,FFFFFF
+V4-98-115,1,4,4 - Dr. Lluch - Ll. Llarga - Terramelar,0,F28D01,FFFFFF
+V4-98-95,1,4,4 - Dr. Lluch - La Cadena,0,F28D01,FFFFFF
+V4-98-96,1,4,4 - Dr. Lluch - Platja Malva-rosa,0,F28D01,FFFFFF
+V4-98-97,1,4,4 - Dr. Lluch - Platja les Arenes,0,014A99,FFFFFF
 V5-123-182,1,5,5 - Marítim - Aeroport,1,8884BF,FFFFFF
 V5-123-69,1,5,5 - Marítim - Alameda,1,8884BF,FFFFFF
 V5-123-73,1,5,5 - Marítim - Av. del Cid,1,8884BF,FFFFFF
@@ -82,12 +134,26 @@ V5-69-123,1,5,5 - Alameda - Marítim,1,8884BF,FFFFFF
 V5-69-66,1,5,5 - Alameda - Machado,1,8884BF,FFFFFF
 V5-73-123,1,5,5 - Av. del Cid - Marítim,1,8884BF,FFFFFF
 V5-73-66,1,5,5 - Av. del Cid - Machado,1,8884BF,FFFFFF
+V6-123-130,1,6,6 - Marítim - Estadi Ciutat de València,0,8884BF,FFFFFF
+V6-123-131,1,6,6 - Marítim - Sant Miquel dels Reis,0,F28D01,FFFFFF
 V6-123-132,1,6,6 - Marítim - Tossal del Rei,0,F28D01,FFFFFF
+V6-123-96,1,6,6 - Marítim - Platja Malva-rosa,0,8884BF,FFFFFF
 V6-123-98,1,6,6 - Marítim - Dr. Lluch,0,8884BF,FFFFFF
+V6-124-129,1,6,6 - Francesc Cubells - Orriols,0,8884BF,FFFFFF
+V6-124-132,1,6,6 - Francesc Cubells - Tossal del Rei,0,F28D01,FFFFFF
+V6-129-124,1,6,6 - Orriols - Francesc Cubells,0,8884BF,FFFFFF
+V6-130-123,1,6,6 - Estadi Ciutat de València - Marítim,0,8884BF,FFFFFF
+V6-131-123,1,6,6 - Sant Miquel dels Reis - Marítim,0,F28D01,FFFFFF
+V6-131-124,1,6,6 - Sant Miquel dels Reis - Francesc Cubells,0,F28D01,FFFFFF
+V6-131-125,1,6,6 - Sant Miquel dels Reis - Grau - La Marina,0,8884BF,FFFFFF
 V6-132-123,1,6,6 - Tossal del Rei - Marítim,0,F28D01,FFFFFF
+V6-132-124,1,6,6 - Tossal del Rei - Francesc Cubells,0,F28D01,FFFFFF
+V6-132-125,1,6,6 - Tossal del Rei - Grau - La Marina,0,8884BF,FFFFFF
+V6-132-127,1,6,6 - Tossal del Rei - Canyamelar,0,8884BF,FFFFFF
 V6-132-93,1,6,6 - Tossal del Rei - Tarongers - Ernest Lluch,0,8884BF,FFFFFF
 V6-132-94,1,6,6 - Tossal del Rei - Beteró,0,F28D01,FFFFFF
 V6-93-132,1,6,6 - Tarongers - Ernest Lluch - Tossal del Rei,0,8884BF,FFFFFF
+V6-94-131,1,6,6 - Beteró - Sant Miquel dels Reis,0,8884BF,FFFFFF
 V6-94-132,1,6,6 - Beteró - Tossal del Rei,0,F28D01,FFFFFF
 V6-95-123,1,6,6 - La Cadena - Marítim,0,8884BF,FFFFFF
 V6-95-132,1,6,6 - La Cadena - Tossal del Rei,1,8884BF,FFFFFF
@@ -99,10 +165,21 @@ V7-66-107,1,7,7 - Machado - Torrent Avinguda,1,82CEE6,FFFFFF
 V7-66-69,1,7,7 - Machado - Alameda,1,82CEE6,FFFFFF
 V7-69-123,1,7,7 - Alameda - Marítim,1,82CEE6,FFFFFF
 V7-69-66,1,7,7 - Alameda - Machado,1,82CEE6,FFFFFF
+V8-123-124,1,8,8 - Marítim - Francesc Cubells,0,82CEE6,FFFFFF
+V8-123-125,1,8,8 - Marítim - Grau - La Marina,0,B8804F,FFFFFF
 V8-123-126,1,8,8 - Marítim - Neptú,0,B8804F,FFFFFF
+V8-123-95,1,8,8 - Marítim - La Cadena,0,B8804F,FFFFFF
 V8-123-98,1,8,8 - Marítim - Dr. Lluch,0,82CEE6,FFFFFF
+V8-124-123,1,8,8 - Francesc Cubells - Marítim,0,82CEE6,FFFFFF
+V8-124-125,1,8,8 - Francesc Cubells - Grau - La Marina,0,82CEE6,FFFFFF
+V8-124-126,1,8,8 - Francesc Cubells - Neptú,0,B8804F,FFFFFF
+V8-125-123,1,8,8 - Grau - La Marina - Marítim,0,B8804F,FFFFFF
+V8-125-124,1,8,8 - Grau - La Marina - Francesc Cubells,0,82CEE6,FFFFFF
 V8-126-123,1,8,8 - Neptú - Marítim,0,B8804F,FFFFFF
+V8-126-124,1,8,8 - Neptú - Francesc Cubells,0,B8804F,FFFFFF
+V8-126-125,1,8,8 - Neptú - Grau - La Marina,0,82CEE6,FFFFFF
 V8-95-123,1,8,8 - La Cadena - Marítim,0,82CEE6,FFFFFF
+V8-98-123,1,8,8 - Dr. Lluch - Marítim,0,82CEE6,FFFFFF
 V9-186-56,1,9,9 - Riba-roja de Túria - Alboraia Peris Aragó,1,B7DD79,FFFFFF
 V9-186-66,1,9,9 - Riba-roja de Túria - Machado,1,B7DD79,FFFFFF
 V9-56-186,1,9,9 - Alboraia Peris Aragó - Riba-roja de Túria,1,B7DD79,FFFFFF
