@@ -1,36 +1,43 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Transporte Público Comunitat Valenciana</title>
-    <link rel="stylesheet" href="styles.css">
-    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
-    <link rel="icon" href="metrologo.png" type="image/x-icon">
-
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Transporte Público Comunitat Valenciana</title>
+  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
+  <link rel="icon" href="metrologo.png" type="image/x-icon">
 </head>
 <body>
-    <header>
-        <h1>Hub de Transporte Público de la Comunitat Valenciana</h1>
-        <nav>
-            <a href="valencia.html">Versió en Valencià</a>
-        </nav>
-    </header>
+      <div id="loader">
+    <div class="loader-ring"></div>
+    <p>Cargando mapa y datos...</p>
+  </div>
+  <header>
+    <div class="overlay"></div>
+    <h1>🚇 Hub de Transporte Público de la Comunitat Valenciana</h1>
+    <nav>
+      <a href="valencia.html">Versió en Valencià</a>
+    </nav>
+  </header>
 
-    <main>
-    <section id="map-section">
-        <h2>Mapa de Líneas</h2>
-        <div id="map" style="height: 500px;"></div>
+  <main>
+    <section id="map-section" class="card">
+      <h2>Mapa de Líneas</h2>
+      <div id="map"></div>
     </section>
 
-    <section id="incidencias-section">
-        <h2>Incidencias en tiempo real</h2>
-        <div id="incidencias"></div>
+    <section id="incidencias-section" class="card">
+      <h2>Incidencias en tiempo real</h2>
+      <div id="incidencias"></div>
     </section>
-</main>
+  </main>
 
+  <footer>
+    <p>© 2025 Hub de Transporte CV — Datos: Metrovalencia, TRAM, Renfe</p>
+  </footer>
 
-    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
-    <script src="main.js"></script>
+  <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+  <script src="main.js"></script>
 </body>
 </html>

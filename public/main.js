@@ -436,4 +436,21 @@ async function startApp() {
     await loadIncidencias();
 }
 
+
+const loader = document.getElementById('loader');
+
+// Cuando Leaflet termina de cargar el mapa base
+map.on('load', () => {
+  loader.classList.add('hidden');
+});
+
+// Si también estás cargando datos externos (GeoJSON, incidencias, etc.)
+Promise.all([
+  // Ejemplo: carga de datos de incidencias y capas
+  fetch('traffic_data.geojson').then(r => r.json()).catch(() => null)
+]).then(() => {
+  // Espera pequeña para que el mapa tenga tiempo de renderizar bien
+  setTimeout(() => loader.classList.add('hidden'), 500);
+});
+
 startApp();
