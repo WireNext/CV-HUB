@@ -409,15 +409,24 @@ async function loadIncidencias() {
 // 11. Iniciar app
 // =============================
 async function startApp() {
-    await loadGTFSData('metrovalencia');
-    await loadGTFSData('tramcastellon');
-    await loadGTFSData('almassora');
-    await loadGTFSData('tramalc');
+    const loader = document.getElementById('loader');
+    loader.classList.remove('hidden'); // mostrar loader al inicio
 
     const map = initMap();
 
-    // Filtrado flexible: puedes poner varias agencias y rutas
-    const tramFilter = { agencies: ['5107', '5999'], routes: ['510703', '59990010', '59990020', '59990030', '59990040'] }; // ejemplo
+    // Cargar GTFS en paralelo
+    await Promise.all([
+        loadGTFSData('metrovalencia'),
+        loadGTFSData('tramcastellon'),
+        loadGTFSData('almassora'),
+        loadGTFSData('tramalc')
+    ]);
+
+    const tramFilter = {
+        agencies: ['5107', '5999'],
+        routes: ['510703', '59990010', '59990020', '59990030', '59990040']
+    };
+
     drawStopsOnMap(map, 'metrovalencia');
     drawStopsOnMap(map, 'tramcastellon', tramFilter);
     drawStopsOnMap(map, 'almassora');
@@ -434,23 +443,10 @@ async function startApp() {
     displayRoutesInfo('tramalc');
 
     await loadIncidencias();
+
+    // Ocultar loader cuando todo está cargado
+    setTimeout(() => loader.classList.add('hidden'), 600);
 }
 
-
-const loader = document.getElementById('loader');
-
-// Cuando Leaflet termina de cargar el mapa base
-map.on('load', () => {
-  loader.classList.add('hidden');
-});
-
-// Si también estás cargando datos externos (GeoJSON, incidencias, etc.)
-Promise.all([
-  // Ejemplo: carga de datos de incidencias y capas
-  fetch('traffic_data.geojson').then(r => r.json()).catch(() => null)
-]).then(() => {
-  // Espera pequeña para que el mapa tenga tiempo de renderizar bien
-  setTimeout(() => loader.classList.add('hidden'), 500);
-});
-
 startApp();
+
