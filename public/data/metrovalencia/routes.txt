@@ -131,6 +131,7 @@ V5-182-123,1,5,5 - Aeroport - Marítim,1,8884BF,FFFFFF
 V5-182-66,1,5,5 - Aeroport - Machado,1,8884BF,FFFFFF
 V5-66-69,1,5,5 - Machado - Alameda,1,8884BF,FFFFFF
 V5-69-123,1,5,5 - Alameda - Marítim,1,8884BF,FFFFFF
+V5-69-182,1,5,5 - Alameda - Aeroport,0,008F71,FFFFFF
 V5-69-66,1,5,5 - Alameda - Machado,1,8884BF,FFFFFF
 V5-73-123,1,5,5 - Av. del Cid - Marítim,1,8884BF,FFFFFF
 V5-73-66,1,5,5 - Av. del Cid - Machado,1,8884BF,FFFFFF
@@ -159,6 +160,7 @@ V6-95-123,1,6,6 - La Cadena - Marítim,0,8884BF,FFFFFF
 V6-95-132,1,6,6 - La Cadena - Tossal del Rei,1,8884BF,FFFFFF
 V7-107-123,1,7,7 - Torrent Avinguda - Marítim,1,82CEE6,FFFFFF
 V7-107-66,1,7,7 - Torrent Avinguda - Machado,1,82CEE6,FFFFFF
+V7-107-69,1,7,7 - Torrent Avinguda - Alameda,1,F28D01,FFFFFF
 V7-123-107,1,7,7 - Marítim - Torrent Avinguda,1,82CEE6,FFFFFF
 V7-123-69,1,7,7 - Marítim - Alameda,1,82CEE6,FFFFFF
 V7-66-107,1,7,7 - Machado - Torrent Avinguda,1,82CEE6,FFFFFF
