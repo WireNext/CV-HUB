@@ -68,7 +68,6 @@ agency_id,agency_name,agency_url,agency_timezone,agency_lang
 6029,Elx – Arenales del Sol [2021],https://movilidad.vectalia.es/,Europe/Madrid,es
 5004,Hurchillo – Tres Puentres y Arneva – Molins,http://www.bus-siguenza.com/,Europe/Madrid,es
 9263,València-Sagunt-La Vall d Uixó,http://www.autosvallduxense.com/horarios.aspx,Europe/Madrid,es
-5802,Alto Palancia – Sagunt/Valencia,http://www.autocaresherca.com/,Europe/Madrid,es
 5908,Utiel – Requena – Ayora – València e hijuelas,http://www.monbus.es/es,Europe/Madrid,es
 6014,Alacant – Elx – Crevillent [2021],https://movilidad.vectalia.es/,Europe/Madrid,es
 1002,Vinaròs – Benicarló – Peníscola,https://www.autosmediterraneo.com/,Europe/Madrid,es
