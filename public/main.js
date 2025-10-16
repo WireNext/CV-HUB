@@ -110,6 +110,38 @@ function initMap() {
     return map;
 }
 
+// Cargar y procesar archivos GTFS
+async function loadGTFSData(agency) {
+    const dataDir = `./data/${agency}/`;
+    const files = ['routes.txt', 'trips.txt', 'stops.txt', 'stop_times.txt', 'shapes.txt'];
+    
+    for (const file of files) {
+        try {
+            const response = await fetch(dataDir + file);
+            if (!response.ok) throw new Error(`Error al cargar ${file}`);
+            const text = await response.text();
+            
+            const lines = text.split('\n').filter(line => line.trim() !== '');
+            if (lines.length <= 1) continue;
+            
+            // Lógica de parseo de CSV
+            const headers = lines[0].split(',');
+            const data = lines.slice(1).map(line => {
+                const values = line.split(',');
+                return headers.reduce((obj, header, i) => {
+                    obj[header.trim()] = values[i] ? values[i].trim() : '';
+                    return obj;
+                }, {});
+            });
+            
+            gtfsData[agency][file.replace('.txt', '')] = data;
+            
+        } catch (error) {
+            console.error(`No se pudo cargar o parsear el archivo ${file} para ${agency}:`, error);
+        }
+    }
+}
+
 // Dibujar paradas en el mapa con popup dinámico
 function drawStopsOnMap(map, agency) {
     const stops = gtfsData[agency].stops || [];
