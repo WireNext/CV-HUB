@@ -40,7 +40,6 @@ agency_id,agency_name,agency_url,agency_timezone,agency_lang
 5102,Castelló de la Plana-València amb prolongació a Vinarós,https://www.hife.es/es-ES,Europe/Madrid,es
 5107,Vilafranca del Cid-València,http://www.hicid.es/,Europe/Madrid,es
 5108,Onda - Castelló de la Plana,https://autobusesfurio.com/,Europe/Madrid,es
-5902,Antella - Castelló - Xàtiva,https://www.google.com/search?q=LA+ANTELLENSE+DE+AUTOBUSES,Europe/Madrid,es
 5101,Alcalà de Xivert - Alcossebre,https://www.autosmediterraneo.com/,Europe/Madrid,es
 1980348601,Alto Palancia - Sagunt - València,https://www.monbus.es,Europe/Madrid,es
 1932031151,Alacant Metropolitano,http://www.vectalia.es,Europe/Madrid,es

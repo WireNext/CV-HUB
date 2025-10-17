@@ -95,7 +95,6 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 59150060,5915,L6,Novetlè – Xàtiva – Hospital (desde Vallés i Anahuir a demanda),3
 1473879152,1473878501,L251a,L251a_Crevillent - Elx - Alacant (per Nacional),3
 59990020,5999,T2,UJI – Grau – Platja,3
-570101,5701,L1,Bocairent – Ontinyent,3
 570102,5701,L2,Banyeres de Mariola – Villena,3
 2211835804,2211835201,L182N,L182N_València - Silla - Picassent,3
 1473879153,1473878501,L251b,L251b_Parc empresarial - Torrellano - Alacant,3
