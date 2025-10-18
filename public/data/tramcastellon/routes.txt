@@ -379,8 +379,6 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 500101,5001,L1,Orihuela – Guardamar,3
 500112,5001,L1B,Orihuela – Guardamar (por Daya Nueva y Daya Vieja),3
 500102,5001,L2,Almoradí – Rojales – Alacant,3
-590901,5909,L1,Atzeneta d Albaida – Xàtiva (prol. Carricola),3
-590701,5907,L1,Otos – Gandia,3
 580101,5801,L1,Olocau – Morella (prolongació a Cantavieja y Mirambell) PROVISIONAL,3
 580102,5801,L2,Villafranca del Cid – Morella PROVISIONAL,3
 580103,5801,L3,Zorita del Maestrazgo – Morella PROVISIONAL,3

@@ -34,8 +34,6 @@ agency_id,agency_name,agency_url,agency_timezone,agency_lang
 5905,Villalonga – Oliva – Gandia,https://www.autobusesjimenez.com/,Europe/Madrid,es
 5801,Morella,https://autobusesaltaba.es/,Europe/Madrid,es
 5001,Orihuela – Guardamar – Alacant,http://www.bus-siguenza.com/,Europe/Madrid,es
-5909,Atzeneta d Albaida – Xàtiva (prol. Carricola),http://www.autocarespla.com/,Europe/Madrid,es
-5907,Otos – Gandia,https://olibus.com/,Europe/Madrid,es
 5105,Castelló de la Plana - Alcañiz i Castelló de la Plana - Vinaroz,https://www.autosmediterraneo.com/,Europe/Madrid,es
 5102,Castelló de la Plana-València amb prolongació a Vinarós,https://www.hife.es/es-ES,Europe/Madrid,es
 5107,Vilafranca del Cid-València,http://www.hicid.es/,Europe/Madrid,es
@@ -67,7 +65,6 @@ agency_id,agency_name,agency_url,agency_timezone,agency_lang
 6029,Elx – Arenales del Sol [2021],https://movilidad.vectalia.es/,Europe/Madrid,es
 5004,Hurchillo – Tres Puentres y Arneva – Molins,http://www.bus-siguenza.com/,Europe/Madrid,es
 9263,València-Sagunt-La Vall d Uixó,http://www.autosvallduxense.com/horarios.aspx,Europe/Madrid,es
-5908,Utiel – Requena – Ayora – València e hijuelas,http://www.monbus.es/es,Europe/Madrid,es
 6014,Alacant – Elx – Crevillent [2021],https://movilidad.vectalia.es/,Europe/Madrid,es
 1002,Vinaròs – Benicarló – Peníscola,https://www.autosmediterraneo.com/,Europe/Madrid,es
 2089140751,València Metropolitana Noroest,https://www.metgovalencia.com,Europe/Madrid,es
