@@ -24,8 +24,6 @@ agency_id,agency_name,agency_url,agency_timezone,agency_lang
 5213,Tavernes de la Valldigna - Valencia,http://www.lamarinagandiense.com/,Europe/Madrid,es
 5999,TRAM Castelló de la Plana,https://www.tramcastellon.com,Europe/Madrid,es
 5104,Montanejos - Valencia,http://www.autocaresherca.com/,Europe/Madrid,es
-5915,Xàtiva Nord,http://www.chambitos.com/,Europe/Madrid,es
-5913,Cofrentes - Ayora - Almansa,http://www.chambitos.com/,Europe/Madrid,es
 5903,Antella - Alberic - Massalavés - Alzira,https://www.autocaresfranjen.es/,Europe/Madrid,es
 5904,Canal de Navarrés - Xàtiva y València,http://www.autocarestogsa.com/,Europe/Madrid,es
 5906,La Ribera - València,http://www.bunyol.com/,Europe/Madrid,es

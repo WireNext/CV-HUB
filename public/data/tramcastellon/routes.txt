@@ -82,17 +82,6 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 520162,5201,L6B,Casas Bajas – Ademuz – Torrebaja (paradas a demanda),3
 10020013,1002,L1C,Benicarló – Peníscola,3
 6016010,6016,L1,Santa Pola – Alacant,3
-59150011,5915,L1A,Navarrés – Xàtiva (desde Bicorp a demanda),3
-59150012,5915,L1B,Navarrés – Xàtiva – Hospital (desde Bicorp a demanda),3
-59150013,5915,L1C,Enguera – Anna - Xàtiva,3
-59150014,5915,L1D,Enguera – Xàtiva – Hospital,3
-59150021,5915,L2A,Càrcer – Xàtiva (desde Cotes a demanda),3
-59150022,5915,L2B,Cotes – Sumacàrcer (a demanda),3
-59150023,5915,L2C,Cotes – Sellent (a demanda),3
-59150030,5915,L3,Antella – Xàtiva,3
-59150040,5915,L4,La Pobla Llarga – Xàtiva – Hospital,3
-59150050,5915,L5,Barxeta – Xàtiva,3
-59150060,5915,L6,Novetlè – Xàtiva – Hospital (desde Vallés i Anahuir a demanda),3
 1473879152,1473878501,L251a,L251a_Crevillent - Elx - Alacant (per Nacional),3
 59990020,5999,T2,UJI – Grau – Platja,3
 570102,5701,L2,Banyeres de Mariola – Villena,3
