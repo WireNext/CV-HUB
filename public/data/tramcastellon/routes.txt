@@ -54,7 +54,6 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 2211835803,2211835201,L182,L182_València - Silla,3
 2213278352,2211835201,L184,L184_Silla - Hospital La Fe,3
 510814,5108,L1D,Onda – Hospital de la Plana,3
-5004050,5004,L5,Orihuela – La Aparecida,3
 509006,5090,L6,Torrevieja – Universidad Alicante,3
 509007,5090,L7,Guardamar del Segura – Hospital,3
 10020012,1002,L1B,L1B_Vinaròs – Benicarló – Peníscola (per RENFE),3
@@ -180,7 +179,6 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 2358517352,2358515851,L430B,L430B_Turís – València (per Quart de Poblet i Mislata),3
 501102,5011,L3,Xaló-Orba-Dénia,3
 501201,5012,L1,Dénia-Xàbia,3
-5004040,5004,L4,Orihuela – Hurchillo – Arneva,3
 2070902403,2070900901,L427,L427_Benagéber – Utiel (a demanda),3
 590421,5904,L2A,Alberic – València,3
 2239800353,1901190601,L501,L501_Alfarp - València,3
@@ -205,7 +203,6 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 500901,5009,L1,Xàbia-Calablanca,3
 501101,5011,L2,El Verger – Dénia,3
 501301,5013,L1,Vall de Laguar – Dénia,3
-5004080,5004,L8,Orihuela – Raiguero de Bonanza,3
 1974833502,1932031151,L38A,L38A_Platja sant Joan - Universitat,3
 2277053654,2274119701,L113,L113_València - Sagunt - La Vall d'Uixó,3
 2004504753,1932031151,L36,L36_San Gabriel - Universitat,3
@@ -365,9 +362,6 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 520251,5202,L5a,Gandia – Marxuquera,3
 520252,5202,L5b,Gandia – Marenys de Rafalcaid circular,3
 509022,5090,L20,Torrevieja – Crevillente,3
-500101,5001,L1,Orihuela – Guardamar,3
-500112,5001,L1B,Orihuela – Guardamar (por Daya Nueva y Daya Vieja),3
-500102,5001,L2,Almoradí – Rojales – Alacant,3
 580101,5801,L1,Olocau – Morella (prolongació a Cantavieja y Mirambell) PROVISIONAL,3
 580102,5801,L2,Villafranca del Cid – Morella PROVISIONAL,3
 580103,5801,L3,Zorita del Maestrazgo – Morella PROVISIONAL,3
