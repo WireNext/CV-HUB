@@ -322,25 +322,11 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 2089144905,2089140751,L162,L162_Aldaia - Salt de l'Aigua,3
 2089144907,2089140751,L164,L164_Metro Faitanar - Xirivella (oest) - Metro Faitanar,3
 2089144909,2089140751,L170A,L170A_València - Xirivella - Alaquàs - Torrent - Calicanto,3
-500602,5006,L2,Racó de Loix – Benidorm – Platja de Ponent – Cala Finestrat – Estació FGV Benidorm,3
-500604,5006,L4,Palau d  Esports - Est. Autobuses - C. Valenciana - Severo Ochoa - [Ramón y Cajal] - Ametlla Mar - Rincón Loix - Mediterráneo - Benidorm Centro,3
-500605,5006,L5,[Cementeri Sant Jaume] - Severo Ochoa - [Ramón y Cajal] - Ametlla Mar - Rincón Loix - Mediterrani - Benidorm Centre,3
-500603,5006,L3,Estació autobusos – Benidorm – Cala de Finestrat – Centre Comercial – Terra Mítica,3
-500606,5006,L6,Benidorm Centre - Mediterrani - Europa - Lepanto – Mercat Hotel Pueblo,3
-500608,5006,L8,[Cementeri] - Estació Tren - Beniardá - Jaume I - [R. Bayona / Nicaragua] - Pérez Devesa - Murtal - Bali - Marina Baixa - Cales,3
-500609,5006,L9,Jaume I - Alfonso Puchades - Comunitat Valenciana - Salt de l Agua,3
-500610,5006,L10,Altea - Port d Altea - Platja Albir - Albir - L Alfas del Pi - Severo Ochoa - Rincón de Loix – Mediterrani - Benidorm Centre,3
-500620,5006,L20,Altea - C/ Les Piteres - C/ Garganes - Cap Negret - C/ Garganes - Cap Negret - Altea la Vella,3
-500622,5006,L22,Rincón Loix - Mediterráneo - Benidorm Centro - Almendros - Parque Elche - Playa Poniente - Hotel Bali - Cala Finestrat,3
-500623,5006,L23,Rincón Loix - Ametlla de Mar - Severo Ochoa - El Albir - Port Altea - Altea,3
 580104,5801,L4,Castellfort – Villafranca del Cid (paradas a demanda),3
 580105,5801,L5,Vallibona – Morella (paradas a demanda),3
-500601,5006,L1,Aqualandia Mundomar – Racó de Loix – Benidorm – Estación de FGV Benidorm – Terra Mítica,3
-500613,5006,L13,Cala Finestrat - Bali - Pérez Devesa - Jaime I - A. Puchades - Bnd. Centro - Mediterráneo - Rincón Loix - S. Ochoa - La Nucia - Polop - Guadalest,3
 510701,5107,L1,Villafranca del Cid- Castelló de la Plana,3
 510703,5107,L3,Castelló de la Plana - Almassora,3
 510707,5107,L7,Llucena – Castelló de la Plana,3
-500607,5006,L7,[Tívoli - CV-70] - Beniardá - Alfonso Puchades – Comunitat Valenciana - Salto del Agua,3
 510710,5107,L10,Atzeneta del Maestrat – Alcora,3
 510711,5107,L11,Xodos – Atzeneta del Maestrat,3
 510714,5107,L14,Benasal – Albocàsser,3

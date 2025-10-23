@@ -19,7 +19,6 @@ agency_id,agency_name,agency_url,agency_timezone,agency_lang
 5201,Castielfabib – València,http://www.hispanochelvana.com/,Europe/Madrid,es
 5228,Pobla del Duc - Xàtiva,https://www.google.com/search?q=LA+BENIGANENSE,Europe/Madrid,es
 5090,Alacant - Orihuela,http://costazul.net/,Europe/Madrid,es
-5006,Benidorm - Racó de l Oix - Altea - L Alfàs del Pi - El Castell de Guadalest - Cala Finestrat,http://alicante.avanzagrupo.com/es,Europe/Madrid,es
 1901190601,Montserrat - València,https://www.metgovalencia.com,Europe/Madrid,es
 5213,Tavernes de la Valldigna - Valencia,http://www.lamarinagandiense.com/,Europe/Madrid,es
 5999,TRAM Castelló de la Plana,https://www.tramcastellon.com,Europe/Madrid,es
