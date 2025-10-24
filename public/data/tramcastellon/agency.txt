@@ -53,14 +53,12 @@ agency_id,agency_name,agency_url,agency_timezone,agency_lang
 9256,Àrea Metropolitana de València Nord,http://www.autosvallduxense.com/horarios.aspx,Europe/Madrid,es
 2076567001,La Vall d'Uixó - Castelló de la Plana,https://www.hicid.es,Europe/Madrid,es
 6015,Alcoi – Alacant e hijuelas [2021],https://movilidad.vectalia.es/empresas/alcoyana-2/,Europe/Madrid,es
-6016,Santa Pola – Alacant [2021],https://movilidad.vectalia.es/empresas/baile/,Europe/Madrid,es
 6018,Alcoi – Pego – el Verger [2021],https://movilidad.vectalia.es/empresas/alcoyana-2/,Europe/Madrid,es
 6020,Alacant – Torrellano [2021],https://movilidad.vectalia.es/empresas/alcoyana-2/,Europe/Madrid,es
 6023,Alacant – Villena e hijuelas [2021],https://movilidad.vectalia.es/empresas/triangulo/,Europe/Madrid,es
 6027,Elx – Baya Baja [2021],https://movilidad.vectalia.es/,Europe/Madrid,es
 6029,Elx – Arenales del Sol [2021],https://movilidad.vectalia.es/,Europe/Madrid,es
 9263,València-Sagunt-La Vall d Uixó,http://www.autosvallduxense.com/horarios.aspx,Europe/Madrid,es
-6014,Alacant – Elx – Crevillent [2021],https://movilidad.vectalia.es/,Europe/Madrid,es
 1002,Vinaròs – Benicarló – Peníscola,https://www.autosmediterraneo.com/,Europe/Madrid,es
 2089140751,València Metropolitana Noroest,https://www.metgovalencia.com,Europe/Madrid,es
 2070900901,Utiel - Requena,https://autocaresmapex.es/,Europe/Madrid,es
