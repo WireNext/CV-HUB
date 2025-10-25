@@ -14,7 +14,6 @@ agency_id,agency_name,agency_url,agency_timezone,agency_lang
 5227,Xátiva - Carcaixent - Simat de la Valldigna - Gandía,http://www.simbus.es/,Europe/Madrid,es
 5910,La Ribera Baixa – Algemesí – Alzira,https://www.autocaresfranjen.es/,Europe/Madrid,es
 5221,Playa de Oliva – Molinell,https://olibus.com/,Europe/Madrid,es
-5025,Alacant Rodalia,https://movilidad.vectalia.es/empresas/alcoyana-2/,Europe/Madrid,es
 5901,Font de la figuera – Xàtiva – Rafelguaraf – Pinet,http://www.chambitos.com/,Europe/Madrid,es
 5201,Castielfabib – València,http://www.hispanochelvana.com/,Europe/Madrid,es
 5228,Pobla del Duc - Xàtiva,https://www.google.com/search?q=LA+BENIGANENSE,Europe/Madrid,es

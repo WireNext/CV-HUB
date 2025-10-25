@@ -33,8 +33,6 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 520111,5201,L1A,Titaguas – València,3
 520112,5201,L1B,Tuéjar – València,3
 520113,5201,L1C,Villar del Arzobispo – València,3
-502551,5025,L51,Mutxamel – Busot,3
-502552,5025,L52,Busot – El Campello,3
 2213278353,2211835201,L185,L185_Picassent - El Saler,3
 510811,5108,L1A,"Onda – Castelló de la Plana (por Vila-real y Hospital de la plana, hasta UJI)",3
 510799,5107,LX,Sant Joan de Moró – Castelló de la Plana,3
@@ -239,7 +237,6 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 510805,5108,L5,Alcudia de Veo – Onda (paradas a demanda),3
 510806,5108,L6,Ludiente – Onda (paradas a demanda),3
 510807,5108,L7,Ribesalbes – Onda (paradas a demanda),3
-502553,5025,L53,Hospital de Sant Joan-Sant Joan-El Campello,3
 502801,5028,L1,Estació TRAM – Maviro,3
 502802,5028,L2,Estació de Calp – Parc de la Vallesa,3
 502803,5028,L3,Calpe Park – Moraira – Teulada,3
