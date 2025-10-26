@@ -65,19 +65,24 @@ V4-102-87,1,4,4 - Vicent Andrés Estellés - Pont de Fusta,0,014A99,FFFFFF
 V4-102-94,1,4,4 - Vicent Andrés Estellés - Beteró,0,F28D01,FFFFFF
 V4-102-98,1,4,4 - Vicent Andrés Estellés - Dr. Lluch,0,F28D01,FFFFFF
 V4-114-87,1,4,4 - Mas del Rosari - Pont de Fusta,0,014A99,FFFFFF
+V4-114-94,1,4,4 - Mas del Rosari - Beteró,0,014A99,FFFFFF
 V4-114-98,1,4,4 - Mas del Rosari - Dr. Lluch,0,F28D01,FFFFFF
 V4-115-29,1,4,4 - Ll. Llarga - Terramelar - Empalme,0,F28D01,FFFFFF
 V4-115-94,1,4,4 - Ll. Llarga - Terramelar - Beteró,0,F28D01,FFFFFF
 V4-115-98,1,4,4 - Ll. Llarga - Terramelar - Dr. Lluch,0,014A99,FFFFFF
 V4-29-115,1,4,4 - Empalme - Ll. Llarga - Terramelar,0,F28D01,FFFFFF
+V4-80-98,1,4,4 - Florista - Dr. Lluch,0,014A99,FFFFFF
+V4-87-100,1,4,4 - Pont de Fusta - Fira València,0,014A99,FFFFFF
+V4-87-102,1,4,4 - Pont de Fusta - Vicent Andrés Estellés,0,014A99,FFFFFF
+V4-87-114,1,4,4 - Pont de Fusta - Mas del Rosari,0,014A99,FFFFFF
 V4-94-100,1,4,4 - Beteró - Fira València,0,014A99,FFFFFF
 V4-94-102,1,4,4 - Beteró - Vicent Andrés Estellés,0,014A99,FFFFFF
-V4-94-114,1,4,4 - Beteró - Mas del Rosari,0,014A99,FFFFFF
 V4-94-115,1,4,4 - Beteró - Ll. Llarga - Terramelar,0,014A99,FFFFFF
 V4-95-98,1,4,4 - La Cadena - Dr. Lluch,0,014A99,FFFFFF
 V4-98-100,1,4,4 - Dr. Lluch - Fira València,0,014A99,FFFFFF
 V4-98-102,1,4,4 - Dr. Lluch - Vicent Andrés Estellés,0,F28D01,FFFFFF
 V4-98-114,1,4,4 - Dr. Lluch - Mas del Rosari,0,F28D01,FFFFFF
+V4-98-95,1,4,4 - Dr. Lluch - La Cadena,0,F28D01,FFFFFF
 V5-123-182,1,5,5 - Marítim - Aeroport,1,8884BF,FFFFFF
 V5-123-69,1,5,5 - Marítim - Alameda,1,8884BF,FFFFFF
 V5-123-73,1,5,5 - Marítim - Av. del Cid,1,8884BF,FFFFFF
@@ -109,6 +114,7 @@ V8-123-126,1,8,8 - Marítim - Neptú,0,B8804F,FFFFFF
 V8-123-98,1,8,8 - Marítim - Dr. Lluch,0,82CEE6,FFFFFF
 V8-126-123,1,8,8 - Neptú - Marítim,0,B8804F,FFFFFF
 V8-95-123,1,8,8 - La Cadena - Marítim,0,82CEE6,FFFFFF
+V8-98-123,1,8,8 - Dr. Lluch - Marítim,0,82CEE6,FFFFFF
 V9-186-56,1,9,9 - Riba-roja de Túria - Alboraia Peris Aragó,1,B7DD79,FFFFFF
 V9-186-66,1,9,9 - Riba-roja de Túria - Machado,1,B7DD79,FFFFFF
 V9-56-186,1,9,9 - Alboraia Peris Aragó - Riba-roja de Túria,1,B7DD79,FFFFFF
