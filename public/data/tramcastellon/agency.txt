@@ -36,7 +36,6 @@ agency_id,agency_name,agency_url,agency_timezone,agency_lang
 5101,Alcalà de Xivert - Alcossebre,https://www.autosmediterraneo.com/,Europe/Madrid,es
 1980348601,Alto Palancia - Sagunt - València,https://www.monbus.es,Europe/Madrid,es
 1932031151,Alacant Metropolitano,http://www.vectalia.es,Europe/Madrid,es
-5026,Agost - Sant Vicent del Raspeig - PROVISIONAL,https://movilidad.vectalia.es/empresas/triangulo/,Europe/Madrid,es
 5234,Barx - Gandía,https://olibus.com/,Europe/Madrid,es
 5028,Estació de Calp – Penyal d Ifach e filloles,https://autobusesifach.es/,Europe/Madrid,es
 2042521951,Ayora - Requena - València,https://transviago.com/autobuses-bunyol/,Europe/Madrid,es
@@ -55,7 +54,6 @@ agency_id,agency_name,agency_url,agency_timezone,agency_lang
 6018,Alcoi – Pego – el Verger [2021],https://movilidad.vectalia.es/empresas/alcoyana-2/,Europe/Madrid,es
 6020,Alacant – Torrellano [2021],https://movilidad.vectalia.es/empresas/alcoyana-2/,Europe/Madrid,es
 6023,Alacant – Villena e hijuelas [2021],https://movilidad.vectalia.es/empresas/triangulo/,Europe/Madrid,es
-6027,Elx – Baya Baja [2021],https://movilidad.vectalia.es/,Europe/Madrid,es
 6029,Elx – Arenales del Sol [2021],https://movilidad.vectalia.es/,Europe/Madrid,es
 9263,València-Sagunt-La Vall d Uixó,http://www.autosvallduxense.com/horarios.aspx,Europe/Madrid,es
 1002,Vinaròs – Benicarló – Peníscola,https://www.autosmediterraneo.com/,Europe/Madrid,es

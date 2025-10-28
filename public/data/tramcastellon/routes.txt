@@ -193,7 +193,6 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 590423,5904,L2C,Càrcer – Alberic (amb prolongació Sellent i Cotes a demanda),3
 590403,5904,L3,Navarrés – Alberic (prolongació Quesa i Bicorp a la demanda),3
 590601,5906,L1,Llombai – Hospital de Alzira,3
-502601,5026,L1,Agost - Sant Vicent del Raspeig - PROVISIONAL,3
 509009,5090,L9,Los Montesinos – Hospital Torrevieja,3
 500703,5007,L3,Dénia – Platja de Santa Ana,3
 500704,5007,L4,Denía – Hospital Comarcal,3
@@ -388,7 +387,6 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 6023200,6023,L20,Sax - Hospital de Elda – Petrer/Elda – Elx – Santa Pola [2021],3
 6020010,6020,C6,Alacant – Aeroport [2021],3
 6023290,6023,L29,Elda – Monòver [2021],3
-6027010,6027,L1,Elx – Baya Baja [2021],3
 6029010,6029,L1,Elx – parque Empresarial – Torrellano – Aeropuerto – El Altet – Arenales del Sol [2021],3
 6029020,6029,L2,Elx – Perleta – El Vincle – Valverde – Balsares – El Altet – Arenales del Sol [2021],3
 6015070,6015,L7,Alcoi – Villena [2021] (paradas a demanda),3
