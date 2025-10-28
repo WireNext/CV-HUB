@@ -1,5 +1,6 @@
+/* Estilos generales */
 body {
-    font-family: sans-serif;
+    font-family: "Segoe UI", sans-serif;
     margin: 0;
     padding: 0;
     background-color: #f4f4f4;
@@ -12,12 +13,18 @@ header {
     text-align: center;
 }
 
+header nav a {
+    color: #fff;
+    text-decoration: underline;
+}
+
 main {
     padding: 2rem;
     max-width: 1200px;
     margin: auto;
 }
 
+/* Mapa */
 #map {
     height: 500px;
     width: 100%;
@@ -25,24 +32,23 @@ main {
     box-shadow: 0 4px 6px rgba(0,0,0,0.1);
 }
 
+/* Sección de información */
 #info-section {
     margin-top: 2rem;
-}
-
-#info-section {
-    background-color: white;
+    background-color: #fff;
     padding: 2rem;
     border-radius: 8px;
     box-shadow: 0 4px 6px rgba(0,0,0,0.1);
 }
 
+/* Lista de rutas */
 #routes-info ul {
     list-style: none;
     padding: 0;
 }
 
 .route-item {
-    font-size: 1.2rem;
+    font-size: 1.1rem;
     font-weight: bold;
     cursor: pointer;
     padding: 10px;
@@ -60,9 +66,11 @@ main {
     margin-top: 10px;
 }
 
+/* Animación parpadeante */
 .blink {
-  animation: blink-animation 1s steps(2, start) infinite;
+    animation: blink-animation 1s steps(2, start) infinite;
 }
+
 @keyframes blink-animation {
-  to { visibility: hidden; }
+    to { visibility: hidden; }
 }

@@ -4,40 +4,44 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Transporte Público Comunitat Valenciana</title>
-    
+
+    <!-- Estilos locales -->
     <link rel="stylesheet" href="styles.css">
-    
-    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
-    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.css" />
-    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.Default.css" />
-    
-    <link rel="icon" href="metrologo.png" type="image/x-icon">
+
+    <!-- Leaflet -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.css">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.Default.css">
+
+    <!-- Favicon -->
+    <link rel="icon" href="metrologo.png" type="image/png">
 </head>
 <body>
     <header>
         <h1>Hub de Transporte Público de la Comunitat Valenciana</h1>
         <nav>
-            <a href="valencia.html">Versió en Valencià</a>
+            <a href="valencia.html">Versió en valencià</a>
         </nav>
     </header>
 
     <main>
         <section id="map-section">
             <h2>Mapa de Líneas</h2>
-            <div id="map" style="height: 500px;"></div>
+            <div id="map"></div>
         </section>
 
         <section id="info-section">
             <h2>Rutas y Horarios</h2>
             <div id="routes-info"></div>
         </section>
-        
+
         <section id="incidencias-section">
             <h2>Incidencias en tiempo real</h2>
             <div id="incidencias"></div>
         </section>
     </main>
 
+    <!-- Scripts -->
     <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
     <script src="https://unpkg.com/leaflet.markercluster@1.4.1/dist/leaflet.markercluster.js"></script>
     <script src="main.js"></script>
