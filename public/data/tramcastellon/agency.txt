@@ -21,7 +21,6 @@ agency_id,agency_name,agency_url,agency_timezone,agency_lang
 1901190601,Montserrat - València,https://www.metgovalencia.com,Europe/Madrid,es
 5213,Tavernes de la Valldigna - Valencia,http://www.lamarinagandiense.com/,Europe/Madrid,es
 5999,TRAM Castelló de la Plana,https://www.tramcastellon.com,Europe/Madrid,es
-5104,Montanejos - Valencia,http://www.autocaresherca.com/,Europe/Madrid,es
 5903,Antella - Alberic - Massalavés - Alzira,https://www.autocaresfranjen.es/,Europe/Madrid,es
 5904,Canal de Navarrés - Xàtiva y València,http://www.autocarestogsa.com/,Europe/Madrid,es
 5906,La Ribera - València,http://www.bunyol.com/,Europe/Madrid,es
@@ -32,7 +31,6 @@ agency_id,agency_name,agency_url,agency_timezone,agency_lang
 5105,Castelló de la Plana - Alcañiz i Castelló de la Plana - Vinaroz,https://www.autosmediterraneo.com/,Europe/Madrid,es
 5102,Castelló de la Plana-València amb prolongació a Vinarós,https://www.hife.es/es-ES,Europe/Madrid,es
 5107,Vilafranca del Cid-València,http://www.hicid.es/,Europe/Madrid,es
-5108,Onda - Castelló de la Plana,https://autobusesfurio.com/,Europe/Madrid,es
 5101,Alcalà de Xivert - Alcossebre,https://www.autosmediterraneo.com/,Europe/Madrid,es
 1980348601,Alto Palancia - Sagunt - València,https://www.monbus.es,Europe/Madrid,es
 1932031151,Alacant Metropolitano,http://www.vectalia.es,Europe/Madrid,es

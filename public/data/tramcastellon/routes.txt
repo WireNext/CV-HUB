@@ -34,10 +34,7 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 520112,5201,L1B,Tuéjar – València,3
 520113,5201,L1C,Villar del Arzobispo – València,3
 2213278353,2211835201,L185,L185_Picassent - El Saler,3
-510811,5108,L1A,"Onda – Castelló de la Plana (por Vila-real y Hospital de la plana, hasta UJI)",3
 510799,5107,LX,Sant Joan de Moró – Castelló de la Plana,3
-510812,5108,L1B,"Onda – Castelló de la Plana (por Vila-real y Hospital de la plana, hasta estación)",3
-510813,5108,L1C,Onda – Castelló de la Plana (directo a la UJI),3
 2083379803,1932031151,L21N,L21N_Alacant - El Campello (Nocturn),3
 59990030,5999,T3,Grau – Serradal,3
 59990040,5999,T4,UJI – Parc Ribalta,3
@@ -51,7 +48,6 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 522801,5228,L1,La Pobla del Duc – Xàtiva,3
 2211835803,2211835201,L182,L182_València - Silla,3
 2213278352,2211835201,L184,L184_Silla - Hospital La Fe,3
-510814,5108,L1D,Onda – Hospital de la Plana,3
 509006,5090,L6,Torrevieja – Universidad Alicante,3
 509007,5090,L7,Guardamar del Segura – Hospital,3
 10020012,1002,L1B,L1B_Vinaròs – Benicarló – Peníscola (per RENFE),3
@@ -231,11 +227,6 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 2364538301,2358515851,L434,L434_Yátova - Turís - Playa,3
 2364538304,2358515851,L435C,L435C_Yátova – València (per Cheste i urbanització Olimar),3
 2076567803,2076567001,L360c,L360c_La Vall d'Uixó - Castelló de la Plana (fins UJI) Vila-Real solo hospital,3
-510802,5108,L2,Fuente de Ayódar – Onda (paradas a demanda),3
-510803,5108,L3,Puebla de Arenoso – Montanejos – Onda (paradas a demanda),3
-510805,5108,L5,Alcudia de Veo – Onda (paradas a demanda),3
-510806,5108,L6,Ludiente – Onda (paradas a demanda),3
-510807,5108,L7,Ribesalbes – Onda (paradas a demanda),3
 502801,5028,L1,Estació TRAM – Maviro,3
 502802,5028,L2,Estació de Calp – Parc de la Vallesa,3
 502803,5028,L3,Calpe Park – Moraira – Teulada,3
