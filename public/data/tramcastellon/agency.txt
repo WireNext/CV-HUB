@@ -4,7 +4,6 @@ agency_id,agency_name,agency_url,agency_timezone,agency_lang
 5012,Dénia-Xàbia,http://autocarescarrio.es/,Europe/Madrid,es
 5031,Torrevieja – Aeroport L Altet Alacant-Elx,http://costazul.net/,Europe/Madrid,es
 5225,Gandia - Xeraco e hijuelas,http://www.autocaresferragud.es/,Europe/Madrid,es
-5209,Carcaixent - Algemesí,https://autocareslozano.com/,Europe/Madrid,es
 5233,Gátova - Marines - Olocau - Nuevo Marines - Lliria,http://autocaresyuste.es/,Europe/Madrid,es
 5210,Tous - Alberic amb prolongació a Alzira,https://autocaresbriz.es/,Europe/Madrid,es
 5009,Xábia – Port de Xàbia – Calablanca,https://www.denibus.es/,Europe/Madrid,es
@@ -15,7 +14,6 @@ agency_id,agency_name,agency_url,agency_timezone,agency_lang
 5910,La Ribera Baixa – Algemesí – Alzira,https://www.autocaresfranjen.es/,Europe/Madrid,es
 5221,Playa de Oliva – Molinell,https://olibus.com/,Europe/Madrid,es
 5901,Font de la figuera – Xàtiva – Rafelguaraf – Pinet,http://www.chambitos.com/,Europe/Madrid,es
-5201,Castielfabib – València,http://www.hispanochelvana.com/,Europe/Madrid,es
 5228,Pobla del Duc - Xàtiva,https://www.google.com/search?q=LA+BENIGANENSE,Europe/Madrid,es
 5090,Alacant - Orihuela,http://costazul.net/,Europe/Madrid,es
 1901190601,Montserrat - València,https://www.metgovalencia.com,Europe/Madrid,es

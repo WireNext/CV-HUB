@@ -30,9 +30,6 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 590102,5901,L2,Carcelén – Xàtiva,3
 590103,5901,L3,Pinet – Xàtiva,3
 2211835801,2211835201,L180,L180_València - Albal,3
-520111,5201,L1A,Titaguas – València,3
-520112,5201,L1B,Tuéjar – València,3
-520113,5201,L1C,Villar del Arzobispo – València,3
 2213278353,2211835201,L185,L185_Picassent - El Saler,3
 510799,5107,LX,Sant Joan de Moró – Castelló de la Plana,3
 2083379803,1932031151,L21N,L21N_Alacant - El Campello (Nocturn),3
@@ -63,16 +60,6 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 509001,5090,L1,Pilar de la Horadada – Alicante,3
 509002,5090,L2,Torrevieja-Alicante,3
 509003,5090,L3,Dolores – Alicante,3
-520105,5201,L5,Alcublas – Llíria (paradas a demanda),3
-520114,5201,L1D,Aras de los Olmos – Titaguas (paradas a demanda),3
-520121,5201,L2A,Castilefabib – Vallanca – Titaguas (paradas a demanda),3
-520122,5201,L2B,Castilefabib – Titaguas (paradas a demanda),3
-520131,5201,L3A,Arcos de las Salinas – Abejuela – Titaguas – Tuéjar (paradas a demanda),3
-520132,5201,L3B,Arcos de las Salinas – Titaguas – Tuéjar (paradas a demanda),3
-520141,5201,L4A,Sot de Chera – Villar (paradas a demanda),3
-520142,5201,L4B,Andilla – Artaj – Oset – Higueruelas – Villar (paradas a demanda),3
-520161,5201,L6A,Vallanca – Ademuz – Torrebaja (paradas a demanda),3
-520162,5201,L6B,Casas Bajas – Ademuz – Torrebaja (paradas a demanda),3
 10020013,1002,L1C,Benicarló – Peníscola,3
 1473879152,1473878501,L251a,L251a_Crevillent - Elx - Alacant (per Nacional),3
 59990020,5999,T2,UJI – Grau – Platja,3
@@ -175,8 +162,6 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 2070902403,2070900901,L427,L427_Benagéber – Utiel (a demanda),3
 590421,5904,L2A,Alberic – València,3
 2239800353,1901190601,L501,L501_Alfarp - València,3
-520901,5209,L1,Carcaixent - Alzira- Algemesí,3
-520902,5209,L2,Albalat de la Ribera - Alzira,3
 521001,5210,L1,Tous - Alberic,3
 521301,5213,L1,Simat de la Valldigna – Tavernes de la Valldigna,3
 1980349054,1980348601,L372a,L372a_Vall de Almonacid - Algimia - Matet - Gaibiel - Navajas - Segorbe (a demanda),3
