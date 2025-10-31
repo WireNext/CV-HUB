@@ -750,6 +750,7 @@ stop_id,stop_name,stop_lat,stop_lon
 5201110121,Estació Autobusos València,39.4811694,-0.38837830132976225
 5025210233,Av. Costa Blanca - Pq. Adolfo Suárez front,38.3623900447,-0.4336902324
 5105090101,Av. Campo de Deportes 1 [Torreblanca],40.221659999,0.2012260001
+111100107,"Av. Corts Valencianes, 4",39.504599,-0.36762
 5106010110,Estació Autobusos la Vall d Uixó,39.821473,-0.229276
 5025210234,"Av. Costa Blanca, 1",38.3623832098,-0.4367308892
 5105090109,ctra. Del Mar (Esglèsia) [Torreblanca],40.195403999,0.2241100001
@@ -786,7 +787,6 @@ stop_id,stop_name,stop_lat,stop_lon
 5910003010211,"Pl. Sant Antoni, 19 [Favara]",39.1271197034,-0.2912305737
 5012010103,"av. del Oest, 23 (La Xara) [Dénia]",38.8289457588,0.0628400605
 111000232,"Av. Orxata, 35",39.495943,-0.354172
-111100107,"Av. Corts Valencianes, 4",39.504599,-0.36762
 111100231,"Av. Constitució, 309",39.502404,-0.368653
 5014060106,"av. Mare Nostrum, 14 (front MAKRO) [Alacant]",38.3408483626,-0.5243342077
 5014060205,"av. Mare Nostrum, front 14 (MAKRO) [Alacant]",38.3409825127,-0.5241031641
