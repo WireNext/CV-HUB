@@ -269,9 +269,6 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 2083379802,1932031151,L24,L24_Alacant - Sant Vicent del Raspeig,3
 2083379804,1932031151,L23N,L23N_Alacant - Mutxamel (Nocturn),3
 522101,5221,L1,Playa de Oliva – Oliva,3
-522501,5225,L1,Gandia – Xeresa – Xeraco,3
-522701,5227,L1,Simat de la Valldigna – Gandia,3
-522702,5227,L2,Xàtiva – Carcaixent – Alzira – Gandia,3
 523301,5233,L1,Gátova - Lliria,3
 500301,5003,L1,Orihuela – Hospital,3
 2111014951,2044020301,L485a*,L485a*_La Font de la Figuera – Xàtiva,3
