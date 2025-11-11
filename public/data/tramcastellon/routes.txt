@@ -1,4 +1,5 @@
 route_id,agency_id,route_short_name,route_long_name,route_type
+2435797501,2435796601,L1,L1_Alcoi - Cocentaina - Muro de Alcoy,3
 5101010,5101,L1,Alcalà – Las fuentes - Cap i Corp,3
 19000010,1270636001,L1,Castelló de la Plana – Alacant,3
 5102012,5102,L1b,Castelló de la Plana – Vila-real – València (lanzadera),3
@@ -35,14 +36,16 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 2083379803,1932031151,L21N,L21N_Alacant - El Campello (Nocturn),3
 59990030,5999,T3,Grau – Serradal,3
 59990040,5999,T4,UJI – Parc Ribalta,3
+2435797502,2435796601,L2,L2_Alcoi - Cocentaina - Muro de Alcoy (per Alcudia i Alquería d' Asnar),3
+2435797503,2435796601,L3,L3_Banyeres de Mariola - Alcoi,3
 10020014,1002,L1A1,L1A1_Vinaròs – Benicarló – Peníscola (sin corte),3
 10020016,1002,L1A2,L1A2_Vinaròs – Benicarló – Peníscola (con corte),3
 10020015,1002,L1B1,L1B1_Vinaròs – Benicarló – Peníscola (per RENFE) (sin corte),3
 10020017,1002,L1B2,L1B2_Vinaròs – Benicarló – Peníscola (per RENFE) (con corte),3
+2435797504,2435796601,L4,L4_Alcoi - Benilloba - Gorga - Famorca (a la demanda),3
 2211835802,2211835201,L181,L181_València - Picassent,3
 590603,5906,L3,Riola – Algemesí – Guadassuar,3
 590604,5906,L4,Sollana – Alginet – Hospital Alzira,3
-522801,5228,L1,La Pobla del Duc – Xàtiva,3
 2211835803,2211835201,L182,L182_València - Silla,3
 2213278352,2211835201,L184,L184_Silla - Hospital La Fe,3
 509006,5090,L6,Torrevieja – Universidad Alicante,3
@@ -269,12 +272,10 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 2083379802,1932031151,L24,L24_Alacant - Sant Vicent del Raspeig,3
 2083379804,1932031151,L23N,L23N_Alacant - Mutxamel (Nocturn),3
 522101,5221,L1,Playa de Oliva – Oliva,3
-523301,5233,L1,Gátova - Lliria,3
 500301,5003,L1,Orihuela – Hospital,3
 2111014951,2044020301,L485a*,L485a*_La Font de la Figuera – Xàtiva,3
 500701,5007,L1,Dénia – Les Rotes,3
 500702,5007,L2,Dénia – Les Marines,3
-5234010,5234,L1,Barx - Gandía,3
 522102,5221,L2,Oliva – Campings,3
 2089144901,2089140751,L106A1,L106A1_Torrent – Alaquàs – Aldaia – C.C. Bonaire – Barrio del Cristo – Aeroport,3
 2089144903,2089140751,L106C,L106C_Aeroport – Manises – Quart de Poblet,3

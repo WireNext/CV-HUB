@@ -3,7 +3,6 @@ agency_id,agency_name,agency_url,agency_timezone,agency_lang
 5011,Xaló-El Verger,http://autocarescarrio.es/,Europe/Madrid,es
 5012,Dénia-Xàbia,http://autocarescarrio.es/,Europe/Madrid,es
 5031,Torrevieja – Aeroport L Altet Alacant-Elx,http://costazul.net/,Europe/Madrid,es
-5233,Gátova - Marines - Olocau - Nuevo Marines - Lliria,http://autocaresyuste.es/,Europe/Madrid,es
 5210,Tous - Alberic amb prolongació a Alzira,https://autocaresbriz.es/,Europe/Madrid,es
 5009,Xábia – Port de Xàbia – Calablanca,https://www.denibus.es/,Europe/Madrid,es
 5013,Benidoleig-Dènia amb prolongació a Benimaurell,https://www.autocarsesteve.com/,Europe/Madrid,es
@@ -12,7 +11,6 @@ agency_id,agency_name,agency_url,agency_timezone,agency_lang
 5910,La Ribera Baixa – Algemesí – Alzira,https://www.autocaresfranjen.es/,Europe/Madrid,es
 5221,Playa de Oliva – Molinell,https://olibus.com/,Europe/Madrid,es
 5901,Font de la figuera – Xàtiva – Rafelguaraf – Pinet,http://www.chambitos.com/,Europe/Madrid,es
-5228,Pobla del Duc - Xàtiva,https://www.google.com/search?q=LA+BENIGANENSE,Europe/Madrid,es
 5090,Alacant - Orihuela,http://costazul.net/,Europe/Madrid,es
 1901190601,Montserrat - València,https://www.metgovalencia.com,Europe/Madrid,es
 5213,Tavernes de la Valldigna - Valencia,http://www.lamarinagandiense.com/,Europe/Madrid,es
@@ -30,7 +28,6 @@ agency_id,agency_name,agency_url,agency_timezone,agency_lang
 5101,Alcalà de Xivert - Alcossebre,https://www.autosmediterraneo.com/,Europe/Madrid,es
 1980348601,Alto Palancia - Sagunt - València,https://www.monbus.es,Europe/Madrid,es
 1932031151,Alacant Metropolitano,http://www.vectalia.es,Europe/Madrid,es
-5234,Barx - Gandía,https://olibus.com/,Europe/Madrid,es
 5028,Estació de Calp – Penyal d Ifach e filloles,https://autobusesifach.es/,Europe/Madrid,es
 2042521951,Ayora - Requena - València,https://transviago.com/autobuses-bunyol/,Europe/Madrid,es
 1620431001,València - Alacant/Elx,https://www.alsa.es/regionales/comunidad-valenciana,Europe/Madrid,es
@@ -57,3 +54,4 @@ agency_id,agency_name,agency_url,agency_timezone,agency_lang
 2211835201,València Metropolitana Sud,https://www.metgovalencia.com,Europe/Madrid,es
 2274119701,València Metropolitana Nord,https://www.metgovalencia.com,Europe/Madrid,es
 2358515851,La Hoya de Buñol - València,https://www.metgovalencia.com,Europe/Madrid,es
+2435796601,Alcoi Metropolitano,http://www.vectalia.es,Europe/Madrid,es
