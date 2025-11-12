@@ -1892,6 +1892,9 @@ stop_id,stop_name,stop_lat,stop_lon
 5107290206,C.Comercial La Salera [Castelló de la Plana],39.9792233215,-0.0609422602
 5107510108,av. Blasco Ibáñez – Clínic [València],39.4786099991,-0.362357
 5107610101,av. Valencia [Cortes de Arenoso],40.1862427411,-0.5421422143
+17030020111,"Ctra. Dénia, 1",38.772991,-0.427999
+17030020205,"Ctra. Dénia, 6",38.773105,-0.428093
+17030020206,"CV-703 km 0,36 des - Alcudia",38.758854,-0.434898
 5107910107,"Mas de Picando [Useres, les]",40.2156756875,-0.1193181217
 5107910101,c. El Portalet [Vistabella del Maestrat],40.294643999,-0.289996
 115000230,"C. San José de Calasanz, 11",39.466483,-0.387786
