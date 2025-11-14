@@ -27,33 +27,36 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 591000503,5910,L5C,El Perelló – Sueca (per Mareny Blau i Bega de Mar),3
 2435797501,2435796601,L1,L1_Alcoi - Cocentaina - Muro de Alcoy,3
 590600200,5906,L2,Carcaixent – Alzira – Algemesí - València,3
-2438296401,2435796601,L5,L5_Banyeres de Mariola - Muro de Alcoi,3
-2438296402,2435796601,L6A,L6A_Muro de Alcoy - Planes,3
-2438296403,2435796601,L6B,L6B_Muro de Alcoy - Planes - Pego - Dénia,3
+2439533001,2435796601,L7,L7_Muro de Alcoy - L'Orxa,3
 100200103,1002,L1,Vinaròs – Benicarló – Peníscola (12-2021 a 09-2022),3
 590102,5901,L2,Carcelén – Xàtiva,3
 590103,5901,L3,Pinet – Xàtiva,3
 2211835801,2211835201,L180,L180_València - Albal,3
+2439533003,2435796601,L9,L9_Banyeres de Mariola - Villena,3
+2438296401,2435796601,L5,L5_Banyeres de Mariola - Muro de Alcoi,3
+2438296402,2435796601,L6A,L6A_Muro de Alcoy - Planes,3
+2438296403,2435796601,L6B,L6B_Muro de Alcoy - Planes - Pego - Dénia,3
 2213278353,2211835201,L185,L185_Picassent - El Saler,3
 510799,5107,LX,Sant Joan de Moró – Castelló de la Plana,3
 2083379803,1932031151,L21N,L21N_Alacant - El Campello (Nocturn),3
 59990030,5999,T3,Grau – Serradal,3
 59990040,5999,T4,UJI – Parc Ribalta,3
-2435797503,2435796601,L3,L3_Banyeres de Mariola - Alcoi,3
 10020014,1002,L1A1,L1A1_Vinaròs – Benicarló – Peníscola (sin corte),3
 10020016,1002,L1A2,L1A2_Vinaròs – Benicarló – Peníscola (con corte),3
 10020015,1002,L1B1,L1B1_Vinaròs – Benicarló – Peníscola (per RENFE) (sin corte),3
 10020017,1002,L1B2,L1B2_Vinaròs – Benicarló – Peníscola (per RENFE) (con corte),3
-2435797504,2435796601,L4,L4_Alcoi - Benilloba - Gorga - Famorca (a la demanda),3
 2211835802,2211835201,L181,L181_València - Picassent,3
 590603,5906,L3,Riola – Algemesí – Guadassuar,3
 590604,5906,L4,Sollana – Alginet – Hospital Alzira,3
-2438296404,2435796601,L6C,"L6C_Muro de Alcoy - Planes (per Benimarfull, Benillup, Almudaina i Benialfaquí)",3
 2211835803,2211835201,L182,L182_València - Silla,3
 2213278352,2211835201,L184,L184_Silla - Hospital La Fe,3
 509006,5090,L6,Torrevieja – Universidad Alicante,3
 509007,5090,L7,Guardamar del Segura – Hospital,3
 2435797502,2435796601,L2,L2_Alcoi - Cocentaina - Muro de Alcoy (per Alcudia i Alquería d' Asnar),3
+2435797503,2435796601,L3,L3_Banyeres de Mariola - Alcoi,3
+2435797504,2435796601,L4,L4_Alcoi - Benilloba - Gorga - Famorca (a la demanda),3
+2439533002,2435796601,L8,L8_Alcoi - Benilloba - Benasau (amb prolongació a la demanda),3
+2438296404,2435796601,L6C,"L6C_Muro de Alcoy - Planes (per Benimarfull, Benillup, Almudaina i Benialfaquí)",3
 10020012,1002,L1B,L1B_Vinaròs – Benicarló – Peníscola (per RENFE),3
 51050082,5105,L8B,Castelló de la Plana - Benicàssim - Playetas - Oropesa - Oropesa platja (VERANO),3
 59990010,5999,T1,UJI – Grau,3

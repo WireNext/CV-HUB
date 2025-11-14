@@ -1090,7 +1090,6 @@ stop_id,stop_name,stop_lat,stop_lon
 5018010106,"Av. Pais Valencià, 2 [Cocentaina]",38.7481467028,-0.4390957308
 5018010107,"Av. Xativa, 36 [Cocentaina]",38.7526505207,-0.4384381113
 5025380220,"CV-821 km 3,49 asc",38.4072949385,-0.46522859
-5018010110,"Ctra. Cela, 15 (Policia Local) [Muro de Alcoy]",38.7830299535,-0.4328272954
 5025240126,"C. Ancha de Castelar, 68",38.397606,-0.522623
 5025240130,"C. Ancha de Castelar, 200",38.405307,-0.528239
 5015160201,Universitat Alacant,38.3816897497,-0.5146906232
@@ -2190,6 +2189,13 @@ stop_id,stop_name,stop_lat,stop_lon
 5401030109,"C. Ignasi Carrau, 3",38.9893575569,-0.5721677628
 5401030110,"Ctra. Madrid, 43",38.9915400715,-0.5725438837
 5401030111,"Camí Reial Madrid, 62",39.0035124135,-0.5664537654
+17030040101,Estació Autobusos Alcoi (a demanda),38.709475,-0.46927
+17030040102,"Av. València, 6 (a demanda)",38.698883,-0.390545
+17030040103,"Ctra. Quatretonda, 25 front (a demanda)",38.719934,-0.356304
+17030040104,"CV-754 km 4,81 asc (a demanda)",38.722325,-0.315219
+17030040105,"Av. Comtat, 5 (a demanda)",38.734362,-0.267952
+17030040106,"C. Sol, 26 (a demanda)",38.731105,-0.246098
+17030040107,"CV-713 km 6,4 asc (a demanda)",38.756142,-0.275172
 5250500102,"C/ Ángel Guimerá, 46 - C/Juan Llorens [València]",39.469775,-0.388589
 5250060216,"Camino Viejo de Torrent, 22 [Alaquàs]",39.455284,-0.463174
 5250060218,C/ Obispo Cervera - Hotel [Alaquàs],39.45086,-0.460777
@@ -2202,6 +2208,16 @@ stop_id,stop_name,stop_lat,stop_lon
 5401030106,"av. de la Diputación 43 [Olleria, l]",38.9092309991,-0.545599
 142200207,"C. Ramón Ochando, 66 (Casas de Prada)",39.4485808123,-1.3398362819
 142200208,"Av. Lucía Garrido, 19 (Las Monjas) (a demanda)",39.4652482047,-1.3002937569
+17030040108,"CV-720 km 9,13 des (a demanda)",38.748641,-0.289633
+17030040109,"CV-720 km 2,47 des - C. la Costera (a demanda)",38.735832,-0.343851
+17030040111,"C. Sant Roc, 1 (a demanda)",38.72974,-0.365217
+17030040203,"CV-720 km 2,47 asc (a demanda)",38.735709,-0.343755
+17030040204,"CV-720 km 9,13 asc (a demanda)",38.748554,-0.289558
+17030040207,"Av. Comtat, 5 front (a demanda)",38.734451,-0.267891
+17030040208,"CV-754 km 4,81 des - Av. Pais Valencià (a demanda)",38.722362,-0.315385
+17030040209,"Ctra. Quatretonda, 25 (a demanda)",38.720002,-0.356178
+17030040210,"Av. València, 6 front (a demanda)",38.698951,-0.390538
+17030063106,"Ps. Alfaquí, 3 front - Benialfaquí",38.772741,-0.338849
 5251460120,"Av. de les Delícies, 21 [L  Eliana]",39.5614624216,-0.5245919823
 5250500117,"C/ València, 41 [Manises]",39.4863969991,-0.450381
 5251900102,"Av. Vicente Cremades Alcacer, front 37 [Bétera]",39.5938813948,-0.4581009928
@@ -2225,6 +2241,9 @@ stop_id,stop_name,stop_lat,stop_lon
 5210010103,Estació FGT [Alberic],39.1169799991,-0.523359
 5233010103,C/Mayor 2 [Olocau],39.7000503651,-0.5312289442
 5401070207,"Camí Reial Madrid - C. Torrella, front",38.9869015901,-0.5738177675
+17030063202,"Ps. Alfaquí, 3 - Benialfaquí",38.772708,-0.338929
+17030063203,"CV-708 km 5,1 asc",38.759269,-0.356067
+17030063204,"CV-704 km 3,54 des",38.753049,-0.377579
 5233010203,"c/ Pla de l Arc, 32 [Llíria]",39.6313829991,-0.593976
 5221010105,C. Via De Ronda 8 [Oliva],38.926761999,-0.094459
 5221010106,C. Via De Ronda 36 [Oliva],38.925260999,-0.091863
@@ -2248,6 +2267,7 @@ stop_id,stop_name,stop_lat,stop_lon
 5025210102,"Av. Maisonnave, 47",38.3432438025,-0.4932284714
 5025210103,"Av. Maisonnave, 33",38.3433009991,-0.491748
 5025210108,Av. Jovellanos - Postiguet,38.3465426141,-0.4766852815
+17030063104,"CV-704 km 3,54 asc",38.753041,-0.377701
 5221010102,Passeig Luís Vives 5 – Supermercat [Oliva],38.9212340402,-0.1171784746
 5107620102,San Vicente- Plaza Iglesia [Cortes de Arenoso],40.1381475051,-0.50175724
 5221010104,Passeig Francisco Brines 54 – Col·Legi San José De La Montaña [Oliva],38.9246398027,-0.1073678032
@@ -2265,6 +2285,8 @@ stop_id,stop_name,stop_lat,stop_lon
 5234010206,C. Pep Andrés Garba 1A [Barx],39.0130909991,-0.300692
 5025210110,"Av. Villajoyosa, 10",38.3598401285,-0.4523073287
 5025210104,"Teatro, 37 [Alacant]",38.3448429758,-0.4889850758
+17030063105,"CV-708 km 5,1 des",38.759235,-0.355981
+5018010110,"Ctra. Cela, 15 - Policia Local",38.783009,-0.432897
 5015100104,Alcoleja [Alcoleja],38.6760819991,-0.332592
 5015100106,Benasau [Benasau],38.6890359991,-0.344356
 5025210111,"Av. Villajoyosa, 105 front",38.3617095771,-0.4485344808
@@ -3030,10 +3052,10 @@ stop_id,stop_name,stop_lat,stop_lon
 5252020115,"Ctra. Real de Madrid Nord, 32",39.385205,-0.410807
 5252020116,"Ctra. Real de Madrid Nord, 54",39.387159,-0.40998
 5252020117,"Av. Padre Carlos Ferris, 113",39.391501,-0.408167
+5018030201,"C. Dega Mengual, 2 front",38.783738,-0.341116
 5025240223,"Av. Alcoi, 63",38.354871,-0.487591
 5007040108,"C/ Madrigueres Nord, 24C - Tanatori [Dénia]",38.8373515501,0.0862941709
 5028030209,Fanadix [Benissa],38.6694485786,0.0920301565
-5018030201,"C/ Dega Mengual, front 2 [Planes]",38.7837376082,-0.341115554
 5090030103,"C/ Azorín, 22 [Catral]",38.162331197,-0.8016368164
 5090050113,La Zenia [Orihuela],37.9257235571,-0.7290374338
 5090100103,El Salad - CV-905 pk 7+950 ascendente [Torrevieja],38.0089299991,-0.694649
@@ -3210,14 +3232,14 @@ stop_id,stop_name,stop_lat,stop_lon
 5018020104,"Av. Generalitat, 40 [Alfafara]",38.7739075089,-0.5551788612
 5018020201,Ctra. de l Alcudia - CV-703 pk 0+360 ascendente - Alcudia [Cocentaina],38.758810,-0.434716
 5018030105,"C/ San Jaime, 22 [Benimarfull]",38.7769355116,-0.3895049603
-5018030202,"C/ San Jaime, 23 [Benimarfull]",38.7769989991,-0.38956
-5018030203,"P.I. Benàmer, front 17 [Muro de Alcoy]",38.7820885796,-0.4170689201
 5018040110,"La Carroja - C/ Carretera, 5 [Vall de Gallinera]",38.8208653288,-0.2429094079
 5018040209,"La Carroja - C/ Carretera, 2 [Vall de Gallinera]",38.8209308231,-0.2429180085
 5253010208,"C. Murta, 12",39.42694,-0.376824
 5253010209,"C. Guadalquivir, 77",39.428312,-0.3775
 5253010217,"Av. Amado Granell Mesado, 15",39.459654,-0.365222
 5253010220,"Pl. Dr. Landete, 1",39.462967,-0.371525
+5018030202,"C. San Jaime, 21",38.776944,-0.389641
+5018030203,"CV-700 km 17,95 des - P.I. Benàmer",38.782087,-0.418761
 5024010122,"CV-865 km 11,7 asc (Camping Santa Pola)",38.2004069991,-0.570205
 5020020221,Luceros 8 [Alacant],38.3456476738,-0.4908335757
 5020020222,Maisonnave 6 [Alacant],38.3435535892,-0.4896761451
@@ -4075,7 +4097,6 @@ stop_id,stop_name,stop_lat,stop_lon
 5018010209,Ctra. N-340 pk 798+120 descendente - Glorieta - Bombers [Cocentaina],38.7196327052,-0.4567690912
 5018020205,"Av. Generalitat, 13 [Alfafara]",38.7739410949,-0.5553109721
 5018030104,"P.I. Benàmer, 17 [Muro de Alcoy]",38.7820164331,-0.4170680472
-5018030106,"C/ Dega Mengual, 2 [Planes]",38.7836899991,-0.341164
 5018040112,"Beniali - C/ Carretera, 35 [Vall de Gallinera]",38.8213188323,-0.221258367
 5018040114,"C/ Torres Orduña, 15 [Atzúbia, l]",38.8476037339,-0.1492564795
 5018040205,"C/ Torres Orduña, 6 [Atzúbia, l]",38.8476802587,-0.1492457382
@@ -4090,6 +4111,7 @@ stop_id,stop_name,stop_lat,stop_lon
 5023300107,Cooperativa Mañán - CV-83 pk 13+900 ascentente [Monòver],38.4285636097,-0.9297982172
 5023310102,Parque-Barbarroja CV-845 pk 18+600 descendente [Orihuela],38.2762694879,-0.9646114765
 5023310205,Parque-Barbarroja - CV-845 pk 18+600 ascendente [Orihuela],38.2763436651,-0.9645774447
+5018030106,"C. Dega Mengual, 2",38.78369,-0.341164
 5025210136,"C. Jaume I, s/n front - C. Velázquez",38.4088737001,-0.4029276984
 5025210210,"C. Jaume I, s/n - C. Velázquez",38.4088680011,-0.4030375157
 5025510208,"C/ Vergeret, front 7 - Bonnysa [Mutxamel]",38.4303549866,-0.450883042
