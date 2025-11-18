@@ -211,9 +211,6 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 92581051,9258,L105A,Vilamarxant – Riba-roja del túria,3
 92581052,9258,L105B,Vilamarxant – Llíria,3
 92581053,9258,L105C,Vilamarxant – Benaguasil – Benisanó - Llíria,3
-92561111,9256,L111A,València- -El Puig de Santa Maria – Puçol – Sagunt – Port de Sagunt,3
-92561112,9256,L111B,València – Massalfassar – Massamagrell – La Pobla de Farnals – Puçol – Sagunt – Port de Sagunt,3
-92561113,9256,L111C,València – Sagunt – Port de Sagunt (per antiga N-340),3
 2100452955,2044020301,L481c*,L481c*_Atzeneta d'Albaida - Ontinyent,3
 2358517356,2358515851,L432B,L432B_Yátova - Turís - Hospital de Manises (per Loriguilla),3
 2358517355,2358515851,L432A,L432A_Yátova - Turís - Hospital de Manises (per Cheste),3
@@ -247,17 +244,6 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 509004,5090,L4,Pilar de la Horadada – Torrevieja,3
 509005,5090,L5,Orihuela – Mil Palmeras,3
 2076567808,2076567001,L365b,L365b_Eslida - Castelló de la Plana (desde Aín fins EEAA),3
-92561121,9256,L112A,València – Platges – El Puig de Santa Maria,3
-92561122,9256,L112B,València – Platges – El Puig de Santa Maria (fins Port Saplaya),3
-92561131,9256,L113A,València – Sagunt (fins Col.legi Cronista Chabret),3
-92561132,9256,L113B,València – Sagunt (fins Estació),3
-92561141,9256,L114A,València – Sagunt – Port de Sagunt (fins  Av. Arquitecto Alfredo Simón),3
-92561142,9256,L114B,València – Sagunt – Port de Sagunt (fins  Av. Mediterráneo),3
-92561150,9256,L115,València – Port de Sagunt,3
-92561161,9256,L116A,València – Sagunt – Port de Sagunt – Canet d en Berenguer,3
-92561162,9256,L116B,València – Sagunt – Port de Sagunt – Canet d en Berenguer – Platja Canet,3
-92561163,9256,L116C,València – Port de Sagunt – Canet d en Berenguer – Platja Canet,3
-92563100,9256,L310,Les Valls – Canet d en Berenguer – Platja de canet – Port de Sagunt – Sagunt,3
 2364538306,2358515851,L437,L437_Cortes de Pallás - Buñol,3
 2111014954,2070900901,L423,L423_Las Aldeas de la Vega – Requena,3
 2111075851,2070900901,L425,L425_Camporrobles – Utiel,3
