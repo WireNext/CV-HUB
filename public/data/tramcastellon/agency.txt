@@ -37,7 +37,6 @@ agency_id,agency_name,agency_url,agency_timezone,agency_lang
 1270636001,JL,https://www.concesion.es,Europe/Madrid,es
 1620431002,Les Marines - Alacant,https://www.alsa.es/regionales/comunidad-valenciana/horarios-itinerarios-mapas,Europe/Madrid,es
 9259,València - Benifaió,http://www.bunyol.com/,Europe/Madrid,es
-9258,Vilamarxant – Llíria,http://autocarescapaz.com/contacto/,Europe/Madrid,es
 2076567001,La Vall d'Uixó - Castelló de la Plana,https://www.hicid.es,Europe/Madrid,es
 6015,Alcoi – Alacant e hijuelas [2021],https://movilidad.vectalia.es/empresas/alcoyana-2/,Europe/Madrid,es
 6018,Alcoi – Pego – el Verger [2021],https://movilidad.vectalia.es/empresas/alcoyana-2/,Europe/Madrid,es

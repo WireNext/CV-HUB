@@ -208,9 +208,6 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 1980349060,1980348601,L375b,L375b_Segorbe - Port de Sagunt per Gilet (Segart y Sot de Ferrer a demanda),3
 2100452962,2044020301,L488b,L488b_Pinet - Xàtiva,3
 2100452963,2044020301,L489,L489_Pobla del Duc - Xàtiva,3
-92581051,9258,L105A,Vilamarxant – Riba-roja del túria,3
-92581052,9258,L105B,Vilamarxant – Llíria,3
-92581053,9258,L105C,Vilamarxant – Benaguasil – Benisanó - Llíria,3
 2100452955,2044020301,L481c*,L481c*_Atzeneta d'Albaida - Ontinyent,3
 2358517356,2358515851,L432B,L432B_Yátova - Turís - Hospital de Manises (per Loriguilla),3
 2358517355,2358515851,L432A,L432A_Yátova - Turís - Hospital de Manises (per Cheste),3
