@@ -60,10 +60,6 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 10020012,1002,L1B,L1B_Vinaròs – Benicarló – Peníscola (per RENFE),3
 51050082,5105,L8B,Castelló de la Plana - Benicàssim - Playetas - Oropesa - Oropesa platja (VERANO),3
 59990010,5999,T1,UJI – Grau,3
-92633201,9263,L320A,València-Sagunt-La Vall d Uixó,3
-92633202,9263,L320B,Sagunt-La Vall d Uixó (per Sants de la Pedra),3
-92633203,9263,L320C,València-Sagunt-La Vall d Uixó (sense passar per Camí de Vera),3
-92633204,9263,L320D,La Vall d Uixó-Sagunt (sense passar per Almenara),3
 51050081,5105,L8A,Castelló de la Plana - Benicàssim - Playetas - Oropesa - Oropesa platja (INVIERNO),3
 10020022,1002,L2B,Peñíscola – Benicarló (12-2021 a 09-2022),3
 10020021,1002,L2A,Benicarló – Peñíscola (12-2021 a 09-2022),3
@@ -219,7 +215,6 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 502801,5028,L1,Estació TRAM – Maviro,3
 502802,5028,L2,Estació de Calp – Parc de la Vallesa,3
 502803,5028,L3,Calpe Park – Moraira – Teulada,3
-526101,5261,L1,Bétera – hospital Doctor Molinell,3
 2364538308,2358515851,L438B,L438B_València - La Reva i l'Oliveral,3
 510201,5102,L1,Castelló de la Plana-Vila-Real-València,3
 510202,5102,L2,Vinaròs-Castelló de la Plana-València (per N-340),3
