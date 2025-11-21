@@ -245,11 +245,7 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 2111014955,2044020301,L482*,L482*_Banyeres - Ontinyent,3
 2364538303,2358515851,L435B,L435B_Yátova – València (per Cheste),3
 2364538305,2358515851,L436,L436_Buñol - Playa,3
-6015021,6015,L2A,Alcoi – Villena (per Biar) [2021],3
 2364538307,2358515851,L438A,L438A_València - ONU y Air Nostrum - La Reva i l'Oliveral,3
-6015022,6015,L2B,Alcoi – Alacant (per Tibi) [2021],3
-6015050,6015,L5,Alacant-Sant Joan-Xixona- la torre de les Maçanes [2021],3
-6015090,6015,L9,Alcoi – Banyeres [2021],3
 2089144910,2089140751,L170B,L170B_València - Torrent - El Vedat,3
 2083379805,1932031151,L24N,L24N_Alacant - Sant Vicent del Raspeig (Nocturn),3
 2089144902,2089140751,L106B,L106B_Torrent – Alaquàs – Aldaia – C.C. Bonaire ,3
@@ -312,10 +308,6 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 92591861,9259,L186A,València – Centre Penitenciari,3
 92591862,9259,L186B,València – Centre Penitenciari Pas per Universitat de València),3
 6023280,6023,L28,Elda – Petrer [2021],3
-6015140,6015,L14,Mutxamel – Busot [2021],3
-6015150,6015,L15,Busot – El Campello [2021],3
-6015160,6015,L16,Alcoi – Universitat Alacant [2021],3
-6018010,6018,L1,Alcoi – Cocentaina – Muro de Alcoy [2021],3
 6020021,6020,L2A,Alacant – Urbanova (per EUIPO y Av. Elx) [2021],3
 6020022,6020,L2B,Alacant – Urbanova (per Av. Elx) [2021],3
 6020023,6020,L2C,Alacant – Urbanova [2021],3
@@ -327,9 +319,6 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 6023290,6023,L29,Elda – Monòver [2021],3
 6029010,6029,L1,Elx – parque Empresarial – Torrellano – Aeropuerto – El Altet – Arenales del Sol [2021],3
 6029020,6029,L2,Elx – Perleta – El Vincle – Valverde – Balsares – El Altet – Arenales del Sol [2021],3
-6015070,6015,L7,Alcoi – Villena [2021] (paradas a demanda),3
-6015100,6015,L10,Alcoi – Famorca – Quatretondeta-Millena [2021] (paradas a demanda),3
-6018020,6018,L2,Alcoi – Bocairent – Muro – Planes – Dénia [2021] (paradas a demanda),3
 6023330,6023,L33,Pinoso – Algueña – Hondones – La Romana – Aspe – Petrer – Salinas Salinas [2021] (paradas a demanda),3
 9259280,9259,L280,València – Llombai,3
 9259281,9259,L281,"Valéncia – Parques Empresariales de Juna Carlos I, Norte y L Ermita",3
