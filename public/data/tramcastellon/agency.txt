@@ -18,7 +18,6 @@ agency_id,agency_name,agency_url,agency_timezone,agency_lang
 5904,Canal de Navarrés - Xàtiva y València,http://www.autocarestogsa.com/,Europe/Madrid,es
 5906,La Ribera - València,http://www.bunyol.com/,Europe/Madrid,es
 5202,Real de Gandia – Platja de Gandia,http://www.lamarinagandiense.com/,Europe/Madrid,es
-5701,Banyeres - Villena y Bocairent - Ontinyent,http://www.laconcepcion.net/linea.aspx?idLineaRegular=33,Europe/Madrid,es
 5905,Villalonga – Oliva – Gandia,https://www.autobusesjimenez.com/,Europe/Madrid,es
 5801,Morella,https://autobusesaltaba.es/,Europe/Madrid,es
 5105,Castelló de la Plana - Alcañiz i Castelló de la Plana - Vinaroz,https://www.autosmediterraneo.com/,Europe/Madrid,es
