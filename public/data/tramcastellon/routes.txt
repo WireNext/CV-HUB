@@ -1,4 +1,5 @@
 route_id,agency_id,route_short_name,route_long_name,route_type
+5025510,5025,L51,L51_Mutxamel – Busot,3
 5101010,5101,L1,Alcalà – Las fuentes - Cap i Corp,3
 19000010,1270636001,L1,Castelló de la Plana – Alacant,3
 5102012,5102,L1b,Castelló de la Plana – Vila-real – València (lanzadera),3
@@ -36,6 +37,7 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 2438296403,2435796601,L6B,L6B_Muro de Alcoy - Planes - Pego - Dénia,3
 2213278353,2211835201,L185,L185_Picassent - El Saler,3
 2439533001,2435796601,L7,L7_Muro de Alcoy - L'Orxa,3
+5025520,5025,L52,L52_Busot – El Campello,3
 510799,5107,LX,Sant Joan de Moró – Castelló de la Plana,3
 2083379803,1932031151,L21N,L21N_Alacant - El Campello (Nocturn),3
 59990030,5999,T3,Grau – Serradal,3
@@ -57,6 +59,7 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 2435797503,2435796601,L3,L3_Banyeres de Mariola - Alcoi,3
 2435797504,2435796601,L4,L4_Alcoi - Benilloba - Gorga - Famorca (a la demanda),3
 2438296404,2435796601,L6C,"L6C_Muro de Alcoy - Planes (per Benimarfull, Benillup, Almudaina i Benialfaquí)",3
+5025530,5025,L53,L53_Hospital de Sant Joan-Sant Joan-El Campello,3
 10020012,1002,L1B,L1B_Vinaròs – Benicarló – Peníscola (per RENFE),3
 51050082,5105,L8B,Castelló de la Plana - Benicàssim - Playetas - Oropesa - Oropesa platja (VERANO),3
 59990010,5999,T1,UJI – Grau,3
