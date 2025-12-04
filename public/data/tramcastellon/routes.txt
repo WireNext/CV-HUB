@@ -1,6 +1,7 @@
 route_id,agency_id,route_short_name,route_long_name,route_type
 5025510,5025,L51,L51_Mutxamel – Busot,3
 5101010,5101,L1,Alcalà – Las fuentes - Cap i Corp,3
+5907010,5907,L1,L1_Otos – Gandia,3
 19000010,1270636001,L1,Castelló de la Plana – Alacant,3
 5102012,5102,L1b,Castelló de la Plana – Vila-real – València (lanzadera),3
 510713,5107,L13,Castelló de la Plana – Vilafamés,3
