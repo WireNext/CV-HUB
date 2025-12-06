@@ -92,6 +92,7 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 10020011,1002,L1A,L1A_Vinaròs – Benicarló – Peníscola,3
 1620431258,1620431002,L521,L521_Benidorm - Alacant (directe),3
 1473879151,1473878501,L250,L250_Elx - Alacant (directe),3
+2295784351,2076567001,L361a,L361a_Platja de Moncofa - Castelló de la Plana (fins la UJI),3
 1620431257,1620431002,L520,L520_Benidorm - Aeroport,3
 2213278351,2211835201,L183,L183_València - Sedaví - CC Alfafar - IKEA,3
 2100452951,2044020301,L480a*,L480a*_Ontinyent – Xàtiva (per Albaida amb Bufalí i Carricola a demanda),3
@@ -123,10 +124,10 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 2277053652,2274119701,L112B,L112B_València - Port Saplaya,3
 2277053655,2274119701,L114A,L114A_València - Sagunt (per V-21),3
 2277053657,2274119701,L115,L115_València - Port de Sagunt,3
-2295784351,2076567001,L361a,L361a_Platja de Moncofa - Castelló de la Plana (fins la UJI),3
 2277053660,2274119701,L116C,L116C_València - Port de Sagunt (fins Canet),3
 2299759051,2274119701,L117N,L117N_Puçol - Rafelbunyol (nocturn),3
 2299759053,2274119701,L119N,L119N_Puçol - València (nocturn),3
+2295784352,2076567001,L361b,L361b_Platja de Moncofa - Castelló de la Plana (fins la EEAA),3
 2100452952,2044020301,L480b*,L480b*_Ontinyent – Xàtiva (per l'Olleria),3
 2004504757,1932031151,L41,L41_Aigües - El Campello,3
 2070902402,2070900901,L424*,"L424*_Venta del Moro – Requena (por Los Ruices, Las Monjas y Los Marcos a demanda)",3
@@ -157,7 +158,6 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 2004504756,1932031151,L40B,L40B_Agost - Hospital Sant Vicent - Sant Vicent del Raspeig - Universitat - Alacant,3
 2042522751,2042521951,L410a,L410a_Utiel - Requena - València,3
 2277053658,2274119701,L116A,L116A_València - Sagunt (per V-21 fins Canet),3
-2295784352,2076567001,L361b,L361b_Platja de Moncofa - Castelló de la Plana (fins la EEAA),3
 2277053662,2274119701,L116E,L116E_València - Sagunt - Port de Sagunt (per V-21 fins Almardà),3
 2076567801,2076567001,L360a,"L360a_La Vall d'Uixó - Castelló de la Plana (desde Alfondeguilla a la demanda, hasta la UJI)",3
 2076567802,2076567001,L360a,"L360b_La Vall d'Uixó - Castelló de la Plana (desde Alfondeguilla a la demanda, hasta Estació)",3
