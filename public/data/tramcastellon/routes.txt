@@ -251,10 +251,10 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 2364538307,2358515851,L438A,L438A_València - ONU y Air Nostrum - La Reva i l'Oliveral,3
 2083379804,1932031151,L23N,L23N_Alacant - Mutxamel (Nocturn),3
 2089144910,2089140751,L170B,L170B_València - Torrent - El Vedat,3
+2083379802,1932031151,L24,L24_Alacant - Sant Vicent del Raspeig,3
 2083379805,1932031151,L24N,L24N_Alacant - Sant Vicent del Raspeig (Nocturn),3
 2089144902,2089140751,L106B,L106B_Torrent – Alaquàs – Aldaia – C.C. Bonaire ,3
 2083379801,1932031151,L23,L23_Alacant - Mutxamel,3
-2083379802,1932031151,L24,L24_Alacant - Sant Vicent del Raspeig,3
 522101,5221,L1,Playa de Oliva – Oliva,3
 500301,5003,L1,Orihuela – Hospital,3
 2111014951,2044020301,L485a*,L485a*_La Font de la Figuera – Xàtiva,3

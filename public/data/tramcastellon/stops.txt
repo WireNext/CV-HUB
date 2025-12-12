@@ -1491,7 +1491,6 @@ stop_id,stop_name,stop_lat,stop_lon
 57050239229,"C. Canónigo Manuel Penalva, 5",38.352499,-0.474322
 148001106,C. Creueta (Rotonda),38.83282835,-0.52914339
 57050240115,"C. Novelda, 160",38.37099,-0.497352
-5705240227,"Av. Federico Soto, 1",38.3439505,-0.4894008
 57050249226,"C. Tomás López Torregrosa, 7",38.347184,-0.485027
 5107150102,encreuament ctra. San Vicente [Villahermosa del Río],40.2000014993,-0.418580988
 5106020101,"Pl. Iglesia, 13",39.919453,-0.685951
@@ -1775,7 +1774,6 @@ stop_id,stop_name,stop_lat,stop_lon
 5006200101,"C. La Llum, 1 [Altea]",38.592340999,-0.055431
 5016210127,Av. Tabarca 21 [Santa Pola],38.1913074191,-0.5294795647
 148300207,Av. Historiador Ros. 1,38.80469576,-0.87936099
-5705240103,"C. Reyes Católicos, 25",38.3420877,-0.4913068
 5705240115,"C. Novelda, 160",38.37099,-0.497352
 5006200211,"C. Comte d Altea, fr.66 [Altea]",38.6034452582,-0.0446260764
 5006200213,"C. Comunitat Valenciana, 5 [Altea]",38.603367999,-0.048745
