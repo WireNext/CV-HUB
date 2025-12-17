@@ -3219,6 +3219,10 @@ stop_id,stop_name,stop_lat,stop_lon
 5025240203,"C. Ancha de Castelar, 153",38.401596,-0.525999
 57050240103,"C. Reyes Católicos, 25",38.34219,-0.490746
 57050240115,"C. Novelda, 160",38.37099,-0.497352
+136101103,"Cm. Serratelles, 42 front",39.806202,-0.129241
+136101217,"Av. Ausias March, 73 front",39.804112,-0.143653
+136101219,Av. Generalitat - C. León,39.793857,-0.139741
+136101220,"Av. Generalitat, 1",39.797607,-0.136248
 5014720108,Av. de la Unesco (front Col·legi Clara Campoamor),38.2765776858,-0.6806884693
 5015160110,Universitat Alacant (Aulari II),38.3850620257,-0.5097787978
 5015020212,Ctra. Alcoi – Yecla 10 (Santa Lucia) [Ibi],38.6266890212,-0.564687519
