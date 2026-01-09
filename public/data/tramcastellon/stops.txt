@@ -1216,11 +1216,11 @@ stop_id,stop_name,stop_lat,stop_lon
 5105120227,"Av. Llibertat, 30",40.4746379989,0.4739130001
 5403010222,"C. La Mar, 135 front",38.5949942911,-0.0531917306
 141001101,"Pl. San Juan,19",39.56831,-1.207661
-141001105,"C. Nou d Octubre, 21 - Complex Administratiu",39.471028,-0.405058
 141100102,"Av. Estación, 4",39.490173,-1.104711
 141001202,C. Nou d Octubre - front Complex Administratiu,39.472086,-0.405615
 141501208,"C. San Antonio, 62 front",39.228069,-1.064274
 141501103,"C. Extramuros, 24 front",39.103472,-1.051956
+141001105,C. Nou d Octubre - Complex Administratiu,39.471025,-0.405066
 5090090102,San Luis – CV-905 pk 6+600 ascendente [Torrevieja],38.0192853158,-0.7028615993
 141501204,"Av. Lamo Espinosa, 28",39.485150,-1.105579
 5090090203,San Luis – CV-905 pk 6+600 descendente [Torrevieja],38.0193347934,-0.7024663189
