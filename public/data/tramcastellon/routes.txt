@@ -39,6 +39,7 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 2213278353,2211835201,L185,L185_Picassent - El Saler,3
 2439533001,2435796601,L7,L7_Muro de Alcoy - L'Orxa,3
 5025520,5025,L52,L52_Busot – El Campello,3
+2505855451,2042521951,L410c,L410c_Utiel - Requena - València (por Siete Aguas sin Hospital),3
 510799,5107,LX,Sant Joan de Moró – Castelló de la Plana,3
 2083379803,1932031151,L21N,L21N_Alacant - El Campello (Nocturn),3
 59990030,5999,T3,Grau – Serradal,3
@@ -61,6 +62,7 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 2435797504,2435796601,L4,L4_Alcoi - Benilloba - Gorga - Famorca (a la demanda),3
 2438296404,2435796601,L6C,"L6C_Muro de Alcoy - Planes (per Benimarfull, Benillup, Almudaina i Benialfaquí)",3
 5025530,5025,L53,L53_Hospital de Sant Joan-Sant Joan-El Campello,3
+2505855452,2042521951,L410d,L410d_Utiel - Requena - València (por Hospital),3
 10020012,1002,L1B,L1B_Vinaròs – Benicarló – Peníscola (per RENFE),3
 51050082,5105,L8B,Castelló de la Plana - Benicàssim - Playetas - Oropesa - Oropesa platja (VERANO),3
 59990010,5999,T1,UJI – Grau,3
@@ -71,11 +73,11 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 509002,5090,L2,Torrevieja-Alicante,3
 509003,5090,L3,Dolores – Alicante,3
 10020013,1002,L1C,Benicarló – Peníscola,3
+2096814851,2042521951,L416a*,L416a*_Cofrentes – Ayora – Almansa (Zarra a demanda),3
 1473879152,1473878501,L251a,L251a_Crevillent - Elx - Alacant (per Nacional),3
 59990020,5999,T2,UJI – Grau – Platja,3
 2211835804,2211835201,L182N,L182N_València - Silla - Picassent,3
 1473879153,1473878501,L251b,L251b_Parc empresarial - Torrellano - Alacant,3
-2096814851,2042521951,L416a*,L416a*_Cofrentes – Ayora – Almansa (Zarra a demanda),3
 1473879154,1473878501,L252,L252_Crevillent - Alacant (directe),3
 1620431252,1620431001,L710,L710_Alacant - València (directe),3
 1620431253,1620431001,L715,L715_Elx - Elda - Alcoi - València,3
@@ -94,6 +96,7 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 1473879151,1473878501,L250,L250_Elx - Alacant (directe),3
 2295784351,2076567001,L361a,L361a_Platja de Moncofa - Castelló de la Plana (fins la UJI),3
 1620431257,1620431002,L520,L520_Benidorm - Aeroport,3
+2096816351,2042521951,L416b,L416b_Ayora – Almansa,3
 2213278351,2211835201,L183,L183_València - Sedaví - CC Alfafar - IKEA,3
 2100452951,2044020301,L480a*,L480a*_Ontinyent – Xàtiva (per Albaida amb Bufalí i Carricola a demanda),3
 510751,5107,L5A,Borriana - València,3
@@ -117,7 +120,6 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 2100452959,2044020301,L486,L486_Xátiva - Gandia,3
 2239800351,1901190601,L500a,L500a_Real - València,3
 2100452956,2044020301,L483*,L483*_La Font de la Figuera - Ontinyent,3
-2096816351,2042521951,L416b,L416b_Ayora – Almansa,3
 2274120551,2274119701,L110,L110_Alboraia - Sagunt - Port de Sagunt (Mini Fe),3
 2274148251,2274119701,L111,L111_València - Sagunt - Port de Sagunt (per N-340),3
 2277053651,2274119701,L112A,L112A_València - Platges - El Puig,3
@@ -129,6 +131,7 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 2299759053,2274119701,L119N,L119N_Puçol - València (nocturn),3
 2295784352,2076567001,L361b,L361b_Platja de Moncofa - Castelló de la Plana (fins la EEAA),3
 2100452952,2044020301,L480b*,L480b*_Ontinyent – Xàtiva (per l'Olleria),3
+2042522751,2042521951,L410a,L410a_Utiel - Requena - València,3
 2004504757,1932031151,L41,L41_Aigües - El Campello,3
 2070902402,2070900901,L424*,"L424*_Venta del Moro – Requena (por Los Ruices, Las Monjas y Los Marcos a demanda)",3
 2214731754,2211835201,L191,L191_València - El Perelló - El Mareny,3
@@ -156,7 +159,6 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 2277053653,2274119701,L112C,L112C_València - Platges - Rafelbunyol,3
 2004504755,1932031151,L40A,L40A_Agost - Hospital Sant Vicent - Sant Vicent del Raspeig - Universitat,3
 2004504756,1932031151,L40B,L40B_Agost - Hospital Sant Vicent - Sant Vicent del Raspeig - Universitat - Alacant,3
-2042522751,2042521951,L410a,L410a_Utiel - Requena - València,3
 2277053658,2274119701,L116A,L116A_València - Sagunt (per V-21 fins Canet),3
 2277053662,2274119701,L116E,L116E_València - Sagunt - Port de Sagunt (per V-21 fins Almardà),3
 2076567801,2076567001,L360a,"L360a_La Vall d'Uixó - Castelló de la Plana (desde Alfondeguilla a la demanda, hasta la UJI)",3
@@ -166,6 +168,7 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 2076567805,2076567001,L363,L363_La Vall d'Uixó - Platja de Xilxes,3
 2358517351,2358515851,L430A,L430A_Turís – València,3
 2358517352,2358515851,L430B,L430B_Turís – València (per Quart de Poblet i Mislata),3
+2042522752,2042521951,L410b,L410b_Utiel - Requena - València (por Siete Aguas),3
 501102,5011,L3,Xaló-Orba-Dénia,3
 501201,5012,L1,Dénia-Xàbia,3
 2070902403,2070900901,L427,L427_Benagéber – Utiel (a demanda),3
@@ -194,7 +197,6 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 2004504753,1932031151,L36,L36_San Gabriel - Universitat,3
 2277053656,2274119701,L114B,L114B_València - Sagunt - Port de Sagunt,3
 2004504754,1932031151,L38B,L38B_Platja de Sant Joan - Hospital de Sant Joan,3
-2042522752,2042521951,L410b,L410b_Utiel - Requena - València (por Siete Aguas),3
 2358517353,2358515851,L431A,L431A_Cheste - València,3
 2277053659,2274119701,L116B,L116B_València - Sagunt - Port de Sagunt (per V-21 fins Platja Canet),3
 2277053661,2274119701,L116D,L116D_València - Port de Sagunt (fins Platja Canet),3

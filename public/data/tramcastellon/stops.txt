@@ -499,6 +499,7 @@ stop_id,stop_name,stop_lat,stop_lon
 5015150109,"El Vincle 7 [Campello, el]",38.4305413043,-0.4005640131
 5015140210,"C. Manuel Antón, 23",38.416014,-0.446125
 5014010202,"Passeig d Elx, 2",38.2477159,-0.8022295
+5015090110,Pl. Juan Bta. Domenech,38.7176025071,-0.6593097856
 5015140105,"C. Mare de Déu Montserrat, 3",38.422737,-0.448197
 5015140209,"C. Soledad, 21",38.418146,-0.447031
 5015150111,"Av. Germanies, 27",38.4304230413,-0.3947021656
@@ -525,7 +526,6 @@ stop_id,stop_name,stop_lat,stop_lon
 5015140102,"Av. Carlos Soler, 70",38.416431,-0.445536
 5015140103,"C. José Luis Jiménez Vargas, s.n",38.417961,-0.446425
 5015060103,Barri de Batoi (Grup Castelar),38.6903169991,-0.495163
-5015090110,Pl. Juan Bta. Domenech,38.7176025071,-0.6593097856
 51040400106,"Ctra Algimia, 19 - Peñalba (a demanda)",39.863028792948874,-0.4770498119187128
 59990040105,Pas. Morella – Parc Ribalta [Castelló de la Plana],39.9887049174,-0.0471881531
 58020042101,"Ps. Cañar, 4 (a demanda)",39.870977,-0.410486
@@ -3223,6 +3223,7 @@ stop_id,stop_name,stop_lat,stop_lon
 136101217,"Av. Ausias March, 73 front",39.804112,-0.143653
 136101219,Av. Generalitat - C. León,39.793857,-0.139741
 136101220,"Av. Generalitat, 1",39.797607,-0.136248
+141601108,IES Fernando III,39.054386,-1.054744
 5014720108,Av. de la Unesco (front Col·legi Clara Campoamor),38.2765776858,-0.6806884693
 5015160110,Universitat Alacant (Aulari II),38.3850620257,-0.5097787978
 5015020212,Ctra. Alcoi – Yecla 10 (Santa Lucia) [Ibi],38.6266890212,-0.564687519
