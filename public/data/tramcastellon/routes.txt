@@ -74,6 +74,8 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 509003,5090,L3,Dolores – Alicante,3
 10020013,1002,L1C,Benicarló – Peníscola,3
 2096814851,2042521951,L416a*,L416a*_Cofrentes – Ayora – Almansa (Zarra a demanda),3
+2505855454,2509810701,L130B,L130B_Estació Empalme (FGV) - Burjassot - Parc Tecnològic,3
+2505855453,2509810701,L130A,L130A_Estació Empalme (FGV) - Facultats - Parc Tecnològic,3
 1473879152,1473878501,L251a,L251a_Crevillent - Elx - Alacant (per Nacional),3
 59990020,5999,T2,UJI – Grau – Platja,3
 2211835804,2211835201,L182N,L182N_València - Silla - Picassent,3
@@ -98,6 +100,7 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 1620431257,1620431002,L520,L520_Benidorm - Aeroport,3
 2096816351,2042521951,L416b,L416b_Ayora – Almansa,3
 2213278351,2211835201,L183,L183_València - Sedaví - CC Alfafar - IKEA,3
+2505855455,2509810701,L131,L131_València - Facultats - Mas Camarena (Sector C),3
 2100452951,2044020301,L480a*,L480a*_Ontinyent – Xàtiva (per Albaida amb Bufalí i Carricola a demanda),3
 510751,5107,L5A,Borriana - València,3
 2100452953,2044020301,L481a*,L481a*_Castelló de Rugat - Ontinyent (per Otos),3
@@ -134,6 +137,7 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 2042522751,2042521951,L410a,L410a_Utiel - Requena - València,3
 2004504757,1932031151,L41,L41_Aigües - El Campello,3
 2070902402,2070900901,L424*,"L424*_Venta del Moro – Requena (por Los Ruices, Las Monjas y Los Marcos a demanda)",3
+2505855456,2509810701,L133A,L133A_Bétera - Serra,3
 2214731754,2211835201,L191,L191_València - El Perelló - El Mareny,3
 1473879159,1473878501,L259,L259_Crevillent - Elx - Torrellano - UA - UMH,3
 1620431254,1620431001,L716,L716_Ontinyent - València,3
@@ -169,6 +173,7 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 2358517351,2358515851,L430A,L430A_Turís – València,3
 2358517352,2358515851,L430B,L430B_Turís – València (per Quart de Poblet i Mislata),3
 2042522752,2042521951,L410b,L410b_Utiel - Requena - València (por Siete Aguas),3
+2505855457,2509810701,L133B,L133B_Hospital de Lliria - Serra,3
 501102,5011,L3,Xaló-Orba-Dénia,3
 501201,5012,L1,Dénia-Xàbia,3
 2070902403,2070900901,L427,L427_Benagéber – Utiel (a demanda),3
@@ -201,6 +206,7 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 2277053659,2274119701,L116B,L116B_València - Sagunt - Port de Sagunt (per V-21 fins Platja Canet),3
 2277053661,2274119701,L116D,L116D_València - Port de Sagunt (fins Platja Canet),3
 2358517354,2358515851,L431B,L431B_Cheste - València (per urbanització Olimar),3
+2505855458,2509810701,L133N,L133N_Nocturn València - Bétera - Serra,3
 2100452960,2044020301,L487b,L487b_Canals - Xàtiva (per Granja de la Costera),3
 2042522754,2042521951,L415a,L415a_Ayora - Requena - València (Zarra a demanda),3
 2100452961,2044020301,L488a,L488a_Benicolet - Xàtiva,3
