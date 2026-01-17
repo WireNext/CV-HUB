@@ -3476,6 +3476,18 @@ stop_id,stop_name,stop_lat,stop_lon
 5228010101,"Carrer Marxillent, 39-41 [Pobla del Duc, la]",38.9038381437,-0.4194044467
 5230010103,plaça Andrés Piles (marquesina) [Cullera],39.161968999,-0.249509
 5230010202,Ronda del Calvari encreuament al av. Generalitat Valenciana [Algemesí],39.1964494477,-0.4380781729
+113409107,"C. Major, 80 front",39.544246,-0.568817
+113409108,"Cm. Valencia, 36",39.545474,-0.565985
+113409109,Urb. Parque Montealcedo,39.548892,-0.544644
+113409110,"C. Málaga, 6",39.549527,-0.535407
+113409111,"CV-336 km 5,18 asc - Av. Caja de Ahorros",39.552846,-0.52118
+113409213,"CV-336 km 6,6 des - Rtd. CEIP Helios",39.559087,-0.507559
+113409216,"CV-336 km 5,26 des - C. San Ramón",39.553183,-0.520437
+113409217,"C. Málaga, 5",39.54963,-0.535223
+113409219,"Cm. Valencia, 35",39.545544,-0.565969
+113409220,"Ctra. Vilamarxant, 116",39.545968,-0.575696
+113502134,CV-333 - Urb. La Masía,39.605394,-0.463887
+113601102,"C. Alcublas, 13",39.630457,-0.599231
 5252010216,"Av. Camí Nou, 108",39.421368,-0.396279
 5252020112,"Ctra. Real de Madrid Sud, 35",39.377289,-0.41412
 5252020113,"Ctra. Real de Madrid Sud, 7",39.378914,-0.413435
@@ -3483,15 +3495,47 @@ stop_id,stop_name,stop_lat,stop_lon
 5252020243,"Av. Jaume I, 13 front",39.363562,-0.462059
 5252030106,"Av. Corts Valencianes, 72",39.368708,-0.440288
 5225010103,Av. Hort Mandari (estació ADIF) [Xeraco],39.026695999,-0.213913
+113402104,C. Almte. Cadarso - C. Luis de Santangel,39.595814,-0.60313
 5234010203,Encreuament CV-675 Amb C/ Solana - CV-675 pk 10+170 ascendente [Barx],39.0042323733,-0.2840106702
+113402105,"C. La Pau, front  70",39.596038,-0.589944
+113402106,"C. Llíria, 23",39.596701,-0.584581
 5250500208,Plaça de España - Barranquet [Manises],39.4887602451,-0.4524136982
 5252020101,"Av. Palleter, 11 (Junt Guardia Civil) [Picassent]",39.3638173873,-0.4656002864
+113402107,"C. Valencia, 18",39.594012,-0.583072
+113402113,"C. Juan Izquierdo, 90",39.622283,-0.589044
+113402211,"C. Llíria, 46",39.597187,-0.58475
+113402212,"C. La Pau, 70",39.59613,-0.589974
+113401103,"CV-370 km 14,81 des - Urb. Mulló de Crusa",39.566025,-0.608223
+113401107,C. Rosalía de Castro - C. Fco. de Quevedo,39.544658,-0.577273
+113401108,"C. Major, 162",39.540487,-0.571111
 5251460206,"Av. Alcalde Enrique Daries, 14 [L  Eliana]",39.5641311324,-0.5281214197
+113401204,"CV-370 km 14,84 asc - Urb. Mulló de Crusa",39.566252,-0.608252
+113401207,"Ctra. Llíria, 61",39.569917,-0.625073
+113401208,"Ctra. Llíria, 62",39.569918,-0.624912
+113601116,"CV-35 km 16,0 des - l Almassereta",39.574948,-0.519625
+113601121,Av. Tarongers - Facultat Magisteri,39.480164,-0.347152
+113601122,Av. Tarongers - Facultat Dret,39.479189,-0.343763
+113601123,Av. Tarongers - Facultat Economía,39.478118,-0.340055
+113601124,Av. Tarongers - C. Campillo de Altobuey,39.476898,-0.335861
+113601125,Av. Tarongers - Serradora-Beteró,39.476905,-0.33431
+113601126,Av. Tarongers - Col legi Major,39.478501,-0.339926
+113601203,Av. Tarongers - Entrada Universitats,39.480727,-0.347656
+113601207,"CV-35 km 16,0 asc - Urb. Monte Sano",39.575288,-0.519049
+113601208,"CV-35 km 17,54 asc - Mas de Miralles",39.584089,-0.533837
+113602209,"C. Alcarava, 31",39.556173,-0.50064
 5254010114,V. Servicio A-3 - C. J,39.472409,-0.536178
 5254010129,CV-5011 - Cementerio,39.417904,-0.68819
 5254010204,CV-5011 - Cementerio front,39.417537,-0.68788
 5254010209,CV-424 km 10 des - Urb. La Fuentesica,39.420345,-0.668466
 5254010217,V. Servicio A-3 - C. Virgen Olivar,39.471886,-0.536966
+113603101,Av. Vicente Mortes Alfonso - Rotonda,39.511144,-0.453736
+113603108,Av. Europa - C. Maestro Ramón Ramia,39.505353,-0.438469
+113603109,"C. Mestre Ramón Ramia Querol, 42 front",39.503526,-0.438418
+113603110,"C. Mestre Ramón Ramia Querol, 6 front",39.500971,-0.439026
+113603111,"Av. Blasco Ibáñez, 8",39.499589,-0.438251
+113603114,"C. Carmen Roca, 1",39.497789,-0.430924
+113603216,"Av. Corts Valencianes, 13",39.500227,-0.438018
+113603217,"C. García Lorca, 43 front",39.503235,-0.437251
 5254040114,"Pl. de la Segunda República - C/ Asensio Tarín Cortes, front 1 [Cheste]",39.4942314267,-0.6796128717
 5251900202,"C/ València, 2 - Estanc [Serra]",39.6845427425,-0.4281782237
 5403010106,Estació Autobusos Benidorm,38.5493424186,-0.1249073871
