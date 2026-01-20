@@ -99,6 +99,11 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 1473879158,1473878501,L258,L258_Elx - Universitat Alacant,3
 1620431251,1620431001,L710a,L710a_Alacant - Gandia - València,3
 2511250756,2509810701,L136C,L136C_Paterna - Universitats (UPV y UV),3
+2519525054,2509810701,L140N,L140N_Nocturn València - Burjassot - La Canyada,3
+2519525056,2509810701,L142A,L142A_Paterna - Hospital La Fe,3
+2519523151,2509810701,L134A,L134A_Vilamarxant - Riba-roja del Túria,3
+2519525051,2509810701,L135A,L135A_València - Torre Enconill,3
+2519525052,2509810701,L140A,L140A_València - Paterna - El Plantío,3
 10020011,1002,L1A,L1A_Vinaròs – Benicarló – Peníscola,3
 1620431258,1620431002,L521,L521_Benidorm - Alacant (directe),3
 1473879151,1473878501,L250,L250_Elx - Alacant (directe),3
@@ -114,6 +119,7 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 2214731751,2211835201,L186A,L186A_Paiporta - Albal - Torrent,3
 2214731752,2211835201,L186B,L186B_Albal - Paiporta - Torrent,3
 2100452957,2044020301,L485a,L485a_La Font de la Figuera – Xàtiva,3
+2519525053,2509810701,L140B,L140B_València - Paterna,3
 2100452958,2044020301,L485b,L485b_La Font de la Figuera – Moixent,3
 1620431259,1620431002,L522a,L522a_Benidorm - La Vila Joiosa - Universitat - Alacant,3
 1620431260,1620431002,L522b,L522b_Benidorm - La Vila Joiosa - Alacant,3
@@ -123,11 +129,13 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 510752,5107,L5B,Betxí-Borriana-València,3
 1620431264,1620431002,L526,L526_Xàbia - Aeroport (directe),3
 1620431265,1620431002,L527,L527_Calp - Altea - Alacant - Aeroport,3
+2519525055,2509810701,L141,L141_València - Lloma Llarga/Valterna,3
 1473879155,1473878501,L253,L253_Crevillent-Elx,3
 1620431256,1620431001,L718,L718_Alcoi - Gandia - València,3
 1620431266,1620431002,L528,L528_Callosa d'en Sarrià - La Nucia - Alacant,3
 2100452959,2044020301,L486,L486_Xátiva - Gandia,3
 2239800351,1901190601,L500a,L500a_Real - València,3
+2519525057,2509810701,L142B,L142B_Paterna - C.E. Burjassot,3
 2100452956,2044020301,L483*,L483*_La Font de la Figuera - Ontinyent,3
 2274120551,2274119701,L110,L110_Alboraia - Sagunt - Port de Sagunt (Mini Fe),3
 2274148251,2274119701,L111,L111_València - Sagunt - Port de Sagunt (per N-340),3

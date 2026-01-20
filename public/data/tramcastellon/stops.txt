@@ -3555,6 +3555,7 @@ stop_id,stop_name,stop_lat,stop_lon
 5801030204,Carretera Cs - 840 Pk-1 [Morella],40.6925821375,-0.1767975245
 5801040102,Avenida Castelló De La Plana Nº 84 [Vilafranca],40.4304165631,-0.253635249
 5701020204,"C. Compositor Maestro Manuel Carrascosa, 2",38.6288747064,-0.8643035143
+114001127,"C. Ciutat de Llíria, 110",39.522767,-0.464494
 5905020105,"Ctra. Cv-679, Frente A 6-8 De La Av. Ausiàs March [Alqueria de la Comtessa, l]",38.9355242936,-0.152635647
 5905020107,Av. Alacant Con La Pl. Del Mercat (Ctra. N-332) (Sentido Gandia) [Bellreguard],38.9461540788,-0.1623276786
 5905020208,"Av. Diputació (Sentido Rafelcofer) [Alqueria de la Comtessa, l]",38.9351671317,-0.1574089089
@@ -3571,10 +3572,13 @@ stop_id,stop_name,stop_lat,stop_lon
 5905120113,"C/ Ctra. Nazaret-Oliva, 10-12 (Ctra. Cv-670) (Sentido Gandia) [Guardamar de la Safor]",38.9616224801,-0.1498223399
 5905120205,"Carretera De Oliva, Esquina Con C/ Blasco Ibáñez [Daimús]",38.9681162947,-0.1550809983
 5403140111,"CV-70 km 48+100 descendente - Urb. Varadero [Nucia, la]",38.5731344842,-0.130633212
+114001204,C. 29 - C. 553,39.530632,-0.475037
 5403140117,"Av. Marina Baixa, front 118 [Nucia, la]",38.6044567492,-0.1290976621
 5403140204,"Av. Marina Baixa, 122 [Nucia, la]",38.6038889436,-0.1292222159
 5403200102,"Av. Pego, 35 [Sagra]",38.8097588971,-0.0668633422
 5902010207,"C/ Josep Talens Sebastià, 1 [Castelló]",39.0756880066,-0.5114200556
+114001206,"C. Ciutat de Llíria, 67",39.522259,-0.464444
+114001209,C. Ciutat de Llíria - C. Ciutat de Sagunt,39.51454,-0.456407
 5906010101,Plaça De La Comunitat Valenciana [Llombai],39.2806241614,-0.5728593911
 5906010105,"C/ Vilanova, Cruce Con La C/ Rollet, Y Frente A Los Nº. 14-16 [Carlet]",39.2318038509,-0.5250561338
 5906010111,"C/ Colom, 67 (Sentido Alzira) [Guadassuar]",39.1850032397,-0.481315382
