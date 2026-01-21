@@ -3546,6 +3546,7 @@ stop_id,stop_name,stop_lat,stop_lon
 5903010109,"Ctra. Cv-550 Km 7,5. Glorieta De Acceso A La Estación De ADIF (Esq. C/ Guadassuar) ???? [Alzira]",39.1536047162,-0.4491718156
 5901120203,"Cv-600, Davant Paáeig De La Fonteta [Llocnou dEn Fenollet]",39.0109807835,-0.4666212573
 5904030207,"Av. Pintor Tarraso, Frente Al Nº. 41, Cruce Con C/ Del Carmen (Ctra. Cv-580) (Front) [Navarrés]",39.0993364745,-0.6925519496
+114009129,"C. San Vicent Ferrer, 1",39.527274,-0.487736
 5904220204,Plaça D Espanya (Front) [Alcàntera de Xúquer],39.0673042146,-0.56402707
 5905020104,"Av. Diputació, 16 (Sentido Gandia) [Alqueria de la Comtessa, l]",38.9350918089,-0.1575334813
 5905040204,"Avinguda Ronda Sud, 8 (Front) [Daimús]",38.9676771112,-0.1507319692
@@ -3579,6 +3580,12 @@ stop_id,stop_name,stop_lat,stop_lon
 5902010207,"C/ Josep Talens Sebastià, 1 [Castelló]",39.0756880066,-0.5114200556
 114001206,"C. Ciutat de Llíria, 67",39.522259,-0.464444
 114001209,C. Ciutat de Llíria - C. Ciutat de Sagunt,39.51454,-0.456407
+114400120,"C. Leonardo Da Vinci, 3",39.547074,-0.455969
+114502136,"CV-376 pk 3,05 asc - Urb. Corral Blanc",39.630988,-0.640857
+114502137,"CV-376 pk 6,15 asc - Urb. La Quebrassa",39.623383,-0.675059
+114502138,"CV-376 km 7,32 asc - Urb. Les Mallaes",39.62265,-0.688211
+114502139,"CV-376 km 8,05 asc - Tvs. del Conchet",39.620493,-0.695855
+114502145,"Av. Diputación, 3",39.60395,-0.832569
 5906010101,Plaça De La Comunitat Valenciana [Llombai],39.2806241614,-0.5728593911
 5906010105,"C/ Vilanova, Cruce Con La C/ Rollet, Y Frente A Los Nº. 14-16 [Carlet]",39.2318038509,-0.5250561338
 5906010111,"C/ Colom, 67 (Sentido Alzira) [Guadassuar]",39.1850032397,-0.481315382

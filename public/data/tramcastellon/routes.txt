@@ -99,14 +99,15 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 1473879158,1473878501,L258,L258_Elx - Universitat Alacant,3
 1620431251,1620431001,L710a,L710a_Alacant - Gandia - València,3
 2511250756,2509810701,L136C,L136C_Paterna - Universitats (UPV y UV),3
-2519525054,2509810701,L140N,L140N_Nocturn València - Burjassot - La Canyada,3
-2519525056,2509810701,L142A,L142A_Paterna - Hospital La Fe,3
 2519523151,2509810701,L134A,L134A_Vilamarxant - Riba-roja del Túria,3
 2519525051,2509810701,L135A,L135A_València - Torre Enconill,3
 2519525052,2509810701,L140A,L140A_València - Paterna - El Plantío,3
+2519525053,2509810701,L140B,L140B_València - Paterna,3
+2519525054,2509810701,L140N,L140N_Nocturn València - Burjassot - La Canyada,3
 10020011,1002,L1A,L1A_Vinaròs – Benicarló – Peníscola,3
 1620431258,1620431002,L521,L521_Benidorm - Alacant (directe),3
 1473879151,1473878501,L250,L250_Elx - Alacant (directe),3
+2519525055,2509810701,L141,L141_València - Lloma Llarga/Valterna,3
 2295784351,2076567001,L361a,L361a_Platja de Moncofa - Castelló de la Plana (fins la UJI),3
 1620431257,1620431002,L520,L520_Benidorm - Aeroport,3
 2096816351,2042521951,L416b,L416b_Ayora – Almansa,3
@@ -119,7 +120,6 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 2214731751,2211835201,L186A,L186A_Paiporta - Albal - Torrent,3
 2214731752,2211835201,L186B,L186B_Albal - Paiporta - Torrent,3
 2100452957,2044020301,L485a,L485a_La Font de la Figuera – Xàtiva,3
-2519525053,2509810701,L140B,L140B_València - Paterna,3
 2100452958,2044020301,L485b,L485b_La Font de la Figuera – Moixent,3
 1620431259,1620431002,L522a,L522a_Benidorm - La Vila Joiosa - Universitat - Alacant,3
 1620431260,1620431002,L522b,L522b_Benidorm - La Vila Joiosa - Alacant,3
@@ -129,15 +129,14 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 510752,5107,L5B,Betxí-Borriana-València,3
 1620431264,1620431002,L526,L526_Xàbia - Aeroport (directe),3
 1620431265,1620431002,L527,L527_Calp - Altea - Alacant - Aeroport,3
-2519525055,2509810701,L141,L141_València - Lloma Llarga/Valterna,3
 1473879155,1473878501,L253,L253_Crevillent-Elx,3
 1620431256,1620431001,L718,L718_Alcoi - Gandia - València,3
 1620431266,1620431002,L528,L528_Callosa d'en Sarrià - La Nucia - Alacant,3
 2100452959,2044020301,L486,L486_Xátiva - Gandia,3
 2239800351,1901190601,L500a,L500a_Real - València,3
-2519525057,2509810701,L142B,L142B_Paterna - C.E. Burjassot,3
 2100452956,2044020301,L483*,L483*_La Font de la Figuera - Ontinyent,3
 2274120551,2274119701,L110,L110_Alboraia - Sagunt - Port de Sagunt (Mini Fe),3
+2519525057,2509810701,L142B,L142B_Paterna - C.E. Burjassot,3
 2274148251,2274119701,L111,L111_València - Sagunt - Port de Sagunt (per N-340),3
 2277053651,2274119701,L112A,L112A_València - Platges - El Puig,3
 2277053652,2274119701,L112B,L112B_València - Port Saplaya,3
@@ -162,6 +161,7 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 2505855456,2509810701,L133A,L133A_Bétera - Serra,3
 510762,5107,L6B,Cortes de Arenoso – Castelló de la Plana (por San Vicente),3
 510791,5107,L9A,Vistabella del Maestrat – Castelló de la Plana,3
+2519525056,2509810701,L142A,L142A_Paterna - Hospital La Fe,3
 1980349057,1980348601,L374a,L374a_Torás - Bejís - Segorbe (prol. demanda a Sacañet),3
 1980349061,1980348601,L376,L376_Les Valls - Pl. Canet - Sagunt,3
 2239800352,1901190601,L500b,L500b_Real - Torrent (metro Avinguda),3
@@ -205,22 +205,29 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 590423,5904,L2C,Càrcer – Alberic (amb prolongació Sellent i Cotes a demanda),3
 590403,5904,L3,Navarrés – Alberic (prolongació Quesa i Bicorp a la demanda),3
 590601,5906,L1,Llombai – Hospital de Alzira,3
+2521013251,2509810701,L143,L143_Paterna - Port Saplaya,3
 509009,5090,L9,Los Montesinos – Hospital Torrevieja,3
+2521013252,2509810701,L144,L144_València - Parc Tecnològic - L'Andana,3
 500703,5007,L3,Dénia – Platja de Santa Ana,3
 500704,5007,L4,Denía – Hospital Comarcal,3
 500901,5009,L1,Xàbia-Calablanca,3
 501101,5011,L2,El Verger – Dénia,3
 501301,5013,L1,Vall de Laguar – Dénia,3
 1974833502,1932031151,L38A,L38A_Platja sant Joan - Universitat,3
+2521013253,2509810701,L145A,L145A_València - Llíria,3
 2277053654,2274119701,L113,L113_València - Sagunt - La Vall d'Uixó,3
 2004504753,1932031151,L36,L36_San Gabriel - Universitat,3
 2277053656,2274119701,L114B,L114B_València - Sagunt - Port de Sagunt,3
 2004504754,1932031151,L38B,L38B_Platja de Sant Joan - Hospital de Sant Joan,3
+2521013254,2509810701,L145B,L145B_València -Llíria - Gestalgar,3
+2521149851,2509810701,L145N,L145N_Nocturn Valéncia - Llíria,3
 2358517353,2358515851,L431A,L431A_Cheste - València,3
 2277053659,2274119701,L116B,L116B_València - Sagunt - Port de Sagunt (per V-21 fins Platja Canet),3
 2277053661,2274119701,L116D,L116D_València - Port de Sagunt (fins Platja Canet),3
 2358517354,2358515851,L431B,L431B_Cheste - València (per urbanització Olimar),3
 2505855458,2509810701,L133N,L133N_Nocturn València - Bétera - Serra,3
+2519523152,2509810701,L146A,L146A_València - CC El Osito,3
+2519523153,2509810701,L146B,L146B_CC El Osito – Benaguasil,3
 2100452960,2044020301,L487b,L487b_Canals - Xàtiva (per Granja de la Costera),3
 2042522754,2042521951,L415a,L415a_Ayora - Requena - València (Zarra a demanda),3
 2100452961,2044020301,L488a,L488a_Benicolet - Xàtiva,3
@@ -241,6 +248,7 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 502802,5028,L2,Estació de Calp – Parc de la Vallesa,3
 502803,5028,L3,Calpe Park – Moraira – Teulada,3
 2364538308,2358515851,L438B,L438B_València - La Reva i l'Oliveral,3
+2521149852,2509810701,L147,L147_Valéncia - Fuente del Jarro (per Parc Empresarial Táctica),3
 510201,5102,L1,Castelló de la Plana-Vila-Real-València,3
 510202,5102,L2,Vinaròs-Castelló de la Plana-València (per N-340),3
 510203,5102,L3,Vinaròs-Castelló de la Plana-València (per AP-7),3
