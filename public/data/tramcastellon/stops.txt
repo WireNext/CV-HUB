@@ -3594,6 +3594,11 @@ stop_id,stop_name,stop_lat,stop_lon
 5254010116,"CV-424 km 0,08 asc",39.471784,-0.589398
 5254010119,"CV-424 km 3,93 asc - Urb. El Bosque",39.444739,-0.612433
 5254010123,"CV-424 km 9,08 asc - Fracalets",39.422597,-0.658446
+114602104,"Pl. Báscula, s.n",39.598716,-0.584019
+114602203,C. del Mur - C. Aldaya,39.593926,-0.583688
+114700111,"C. Rei en Jaume, 22",39.509163,-0.444021
+114700117,"C. Ciutat de Sevilla, 17",39.513825,-0.460125
+114700118,"C. Illes Balears, 22",39.511686,-0.463853
 5007040208,c. Patricio Ferrándiz (davant parking estació tren) [Dénia],38.8404888176,0.1120345713
 5403200105,Venta del Surdo [Murla],38.7620664071,-0.063104912
 5007040206,plaça Arxiduc Carles (front autoescola) [Dénia],38.837220,0.105967
