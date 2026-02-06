@@ -3612,6 +3612,21 @@ stop_id,stop_name,stop_lat,stop_lon
 5011040101,Castell de Castells [Castell de Castells],38.72353301776907,-0.19458353519439697
 5011040102,Benigembla [Benigembla],38.7531210902783,-0.10871529579162597
 5011040103,Murla [Murla],38.76018866809306,-0.08276760578155517
+140001101,"Av. València, 62 (a demanda)",40.065997,-1.283026
+140001102,"Av. València, 178-180 (a demanda)",40.059650,-1.285704
+140001103,"Av. València, 41 front (a demanda)",40.039103,-1.264221
+140001104,"N-330 A km 265,15 des (a demanda)",40.022884,-1.260832
+140001105,CM-9221 - C. Hoyo (a demanda),39.956131,-1.258689
+140001112,"Av. la Baronia, 8",39.729056,-0.828283
+140001114,"C. Jorge de Austria, 6",39.732579,-0.822221
+140001117,"Av.  Masía del Carril, 2 front - Ajuntament",39.660542,-0.672270
+140001214,"C. Jorge de Austria, 5",39.732677,-0.822124
+140001216,"Av. la Baronia, 19",39.729113,-0.828501
+140001223,CM-9221 - C. Hoyo front (a demanda),39.956258,-1.258608
+140001224,"N-330 A km 265,15 asc (a demanda)",40.022795,-1.260831
+140001225,"Av. València, 41 (a demanda)",40.039143,-1.264148
+140001226,"Av. València, 178-180 front (a demanda)",40.059613,-1.285612
+140001227,"Av. València, 66 front (a demanda)",40.065870,-1.283156
 92531830221,"GV. Germanies, 16",39.4644683696,-0.3751929041
 92571910124,"GV. Marqués del Túria, 71-73 - Pl. Cánovas del Castillo",39.4684686871,-0.3658763675
 92571910204,"Av. Profesor López Piñero, 16",39.4539678251,-0.3533044677
