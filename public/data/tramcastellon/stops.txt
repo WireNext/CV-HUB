@@ -3627,9 +3627,26 @@ stop_id,stop_name,stop_lat,stop_lon
 140001225,"Av. València, 41 (a demanda)",40.039143,-1.264148
 140001226,"Av. València, 178-180 front (a demanda)",40.059613,-1.285612
 140001227,"Av. València, 66 front (a demanda)",40.065870,-1.283156
+140104101,Pl. Cruz Roja (a demanda),40.045191,-1.143878
+140104102,"Mas del Olmo, 31 (a demanda)",40.068135,-1.176372
+140104103,"Val de la Sabina, 24 (a demanda)",40.055775,-1.244580
+140104105,"Av. València, 166 (a demanda)",40.061302,-1.285346
+140106101,"Plaza de la Iglesia, 11 - Cuesta del Rato (a demanda)",40.146852,-1.312333
 92531830221,"GV. Germanies, 16",39.4644683696,-0.3751929041
+140106102,"CV-482 km 0,08 des (a demanda)",40.141383,-1.316176
+140106103,"C. La Fuente, 72 (a demanda)",40.129246,-1.304581
+140106104,"C. Iglesia, 47 (a demanda)",40.107761,-1.280183
+140106105,"C. La Hoya, 21 (a demanda)",40.094663,-1.260914
+140106106,"Ctra. Teruel, 28 (a demanda)",40.097004,-1.258512
+140106107,"N-330 km 270,1 asc - Torre Alta (a demanda)",40.115819,-1.259446
+140106108,"C. la Huerta, 6 - Mas de Jacinto (a demanda)",40.127013,-1.249192
+140106205,"Ctra. Teruel, 23 (a demanda)",40.096909,-1.258583
+140106206,"Ctra. Cuenca, 50 (a demanda)",40.094823,-1.260788
+140106208,"C. La Fuente, 101 (a demanda)",40.129205,-1.304506
 92571910124,"GV. Marqués del Túria, 71-73 - Pl. Cánovas del Castillo",39.4684686871,-0.3658763675
+140106209,"CV-482 km 0,08 asc (a demanda)",40.141414,-1.316103
 92571910204,"Av. Profesor López Piñero, 16",39.4539678251,-0.3533044677
+140107104,"Pl. España, 2  (a demanda)",40.063077,-1.338946
 92571910211,"CV-500 pk 12,8 asc",39.3228747424,-0.30934568
 92571910101,"Av. Mareny Blau, 14",39.226574,-0.249321
 92571910102,"C. València, 2",39.24632,-0.264744

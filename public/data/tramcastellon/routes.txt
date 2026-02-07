@@ -273,7 +273,10 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 509004,5090,L4,Pilar de la Horadada – Torrevieja,3
 509005,5090,L5,Orihuela – Mil Palmeras,3
 2076567808,2076567001,L365b,L365b_Eslida - Castelló de la Plana (desde Aín fins EEAA),3
+2545581503,2545579951,L401d,L401d_Puebla de san Miguel - Ademuz (a demanda),3
+2545581504,2545579951,L401f,L401f_Cuesta del Rato - Mas de Jacinto - Torrebaja - Ademuz (a demanda),3
 2364538306,2358515851,L437,L437_Cortes de Pallás - Buñol,3
+2545581505,2545579951,L401g,L401g_Casas Bajas - Los Santos - Ademuz - Torrebaja (a demanda),3
 2111014954,2070900901,L423,L423_Las Aldeas de la Vega – Requena,3
 2111075851,2070900901,L425,L425_Camporrobles – Utiel,3
 2111014952,2070900901,L420c,L420c_Utiel – Requena,3
