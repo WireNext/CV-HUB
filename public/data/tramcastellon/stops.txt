@@ -3647,6 +3647,7 @@ stop_id,stop_name,stop_lat,stop_lon
 140106209,"CV-482 km 0,08 asc (a demanda)",40.141414,-1.316103
 92571910204,"Av. Profesor López Piñero, 16",39.4539678251,-0.3533044677
 140107104,"Pl. España, 2  (a demanda)",40.063077,-1.338946
+140200101,A-1514 (a demanda),39.991014,-1.042372
 92571910211,"CV-500 pk 12,8 asc",39.3228747424,-0.30934568
 92571910101,"Av. Mareny Blau, 14",39.226574,-0.249321
 92571910102,"C. València, 2",39.24632,-0.264744
@@ -3655,7 +3656,9 @@ stop_id,stop_name,stop_lat,stop_lon
 92571910108,"Av. Les Gavines, 225",39.288406,-0.283756
 92571910109,"Av. Les Gavines, 201",39.291696,-0.285645
 92571910110,"Av. Les Gavines, 173",39.293817,-0.286893
+140200102,"CV-350 km 11,25 des - El Collado (a demanda)",39.961653,-1.039186
 92571910107,"Av. Les Gavines, 245",39.2852187992,-0.2818961293
+140200103,"CV-350 km 6,8 des (a demanda)",39.932799,-1.005513
 92571910111,"Av. Les Gavines, 145",39.297615,-0.289118
 92571910112,"Av. Les Gavines, 107",39.302064,-0.291693
 92571910114,Av. Les Gavines - Rotonda,39.307584,-0.297383
@@ -3664,13 +3667,38 @@ stop_id,stop_name,stop_lat,stop_lon
 92571910203,"C. Alcalde Reig, 6",39.461524,-0.360288
 92571910206,"Av. Pinars, 10",39.383214,-0.332511
 92571910210,"CV-500 pk 10,65 asc",39.340387,-0.319172
+140303101,"C. València, 37",39.621833,-0.912750
+140303102,"Av. Ermita, 8",39.648044,-0.884935
+140303202,"Av. Serranía, 26 front (a demanda)",39.697044,-0.869447
+140303203,"Pl. La Baronia, 1 - Ajuntament (a demanda)",39.656201,-0.891926
+140303204,"Av. Ermita, 15 (a demanda)",39.648088,0.885108
+140303205,"C. València, 37 (a demanda)",39.621833,-0.912750
 925426910117,"Av. Hostalers, 52A front",39.477121,-0.552368
 925426910118,Av. Hostalers - Torre Miranda,39.477251,-0.558301
 925426910119,"Av. Hostalers, 13",39.47729,-0.562577
 925426910204,"Av. Hostalers, 13 front",39.47719,-0.563183
 925426910205,Av. Hostalers - C. Peleters,39.47703,-0.55858
 925426910206,"Av. Hostalers, 52A",39.47696,-0.552303
+140200104,Te-V-6134 (a demanda),39.909536,-0.890615
+140200105,"Pl. Soldado Juan Aliaga, 2 (a demanda)",39.891072,-0.961591
+140200106,"Las Eras, 1 (a demanda)",39.887876,-1.011192
+140200107,"Av. San Blas, 37 (a demanda)",39.878236,-1.014871
+140200108,"Av. Rojas Clemente, 58 (a demanda)",39.866687,-1.082452
+140200201,"Av. Rojas Clemente, 57 (a demanda)",39.866908,-1.082731
+140200202,"Av. San Blas, 37 front (a demanda)",39.878244,-1.014764
+140200204,"Pl. Soldado Juan Aliaga, 1 (a demanda)",39.891009,-0.961614
+140200206,"CV-350 km 6,8 asc (a demanda)",39.932897,-1.005484
+140200207,"CV-350 km 11,25 asc - El Collado (a demanda)",39.961729,-1.039150
+140301101,"Av. Casa de la Cultura, 18",39.789377,-0.862699
+140301201,C. Poeta César Simón s-n - IES La Serranía (a demanda),39.735865,-0.82695
+140301202,"Av. Casa de la Cultura, 18 (a demanda)",39.789377,-0.862699
 92592800119,"Av. del País Valenciano, 50 (Asesoría) [Llombai]",39.2820121568,-0.5735752484
+140302103,"CV-341 km 12,65 des - Artaj",39.803671,-0.789028
+140302104,"Pl. Fuente, 2 - Oset",39.812890,-0.774094
+140302202,"Pl. Fuente, 2 - Oset (a demanda)",39.812890,-0.774094
+140302203,"CV-341 km 12,65 des - Artaj (a demanda)",39.803671,-0.789028
+140302204,"Pl. Muralla, 1 (a demanda)",39.835804,-0.813412
+140302205,"C. Mayor, 3 front - La Pobleta (a demanda)",39.836360,-0.822805
 92501620103,Plaça Constitució (Ajuntament) [Aldaia],39.464967,-0.461178
 92501620104,C/ Joan Fuster 5 [Aldaia],39.465162,-0.456225
 92501620108,"C/ Ceramista Mora Gallego, 7 - Avda. de la Generalitat Valenciana [Manises]",39.48822,-0.456936
@@ -3681,6 +3709,16 @@ stop_id,stop_name,stop_lat,stop_lon
 925426910209,C. A - C. F - P.I. L Oliveral,39.475357,-0.538954
 925426910210,"C. A, 13 - P.I. L Oliveral",39.474715,-0.535956
 925426910211,C. A - C. L - P.I. L Oliveral front,39.473866,-0.532149
+140501103,"Pl. Cervantes, 3",39.699073,-0.531329
+140501105,"CV-25 km 8,9 des",39.698934,-0.536447
+140501106,"CV-25 km 6,95 des",39.686201,-0.545310
+140501206,"CV-25 km 6,95 asc",39.686203,-0.544629
+140501207,"CV-25 km 8,9 asc",39.698777,-0.535907
+140600101,"C. Diputación, 1",39.795533,-0.701594
+140600102,"CV-339 km 11,2 des",39.725540,-0.669503
+140600103,"CV-339 km 3,95 des",39.669076,-0.628304
+140600205,"CV-339 km 3,95 asc",39.669141,-0.628226
+140600206,"CV-339 km 11,2 asc",39.725582,-0.669421
 925113510113,"C/ Botxí, front 8 - Hotel Ad Hoc [Bétera]",39.57851,-0.476316
 925113510114,C/ Botxí - front SPA La Calderona [Bétera],39.579872,-0.473017
 925113510209,C/ Botxí - SPA La Calderona [Bétera],39.579961,-0.473167

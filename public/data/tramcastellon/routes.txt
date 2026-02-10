@@ -41,6 +41,7 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 5025520,5025,L52,L52_Busot – El Campello,3
 2505855451,2042521951,L410c,L410c_Utiel - Requena - València (por Siete Aguas sin Hospital),3
 510799,5107,LX,Sant Joan de Moró – Castelló de la Plana,3
+2551505855,2545579951,L405a,L405a_Gátova - Olocau - Marines - Llíria,3
 2083379803,1932031151,L21N,L21N_Alacant - El Campello (Nocturn),3
 59990030,5999,T3,Grau – Serradal,3
 59990040,5999,T4,UJI – Parc Ribalta,3
@@ -48,6 +49,7 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 10020016,1002,L1A2,L1A2_Vinaròs – Benicarló – Peníscola (con corte),3
 10020015,1002,L1B1,L1B1_Vinaròs – Benicarló – Peníscola (per RENFE) (sin corte),3
 10020017,1002,L1B2,L1B2_Vinaròs – Benicarló – Peníscola (per RENFE) (con corte),3
+2551505856,2545579951,L405b,L405b_Marines - Llíria - Hospital de Llíria,3
 2211835802,2211835201,L181,L181_València - Picassent,3
 590603,5906,L3,Riola – Algemesí – Guadassuar,3
 590604,5906,L4,Sollana – Alginet – Hospital Alzira,3
@@ -55,6 +57,7 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 2211835803,2211835201,L182,L182_València - Silla,3
 2213278352,2211835201,L184,L184_Silla - Hospital La Fe,3
 2439533003,2435796601,L9,L9_Banyeres de Mariola - Villena,3
+2551505857,2545579951,L406,L406_Alcublas - Llíria,3
 509006,5090,L6,Torrevieja – Universidad Alicante,3
 509007,5090,L7,Guardamar del Segura – Hospital,3
 2435797502,2435796601,L2,L2_Alcoi - Cocentaina - Muro de Alcoy (per Alcudia i Alquería d' Asnar),3
@@ -277,12 +280,16 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 2545581504,2545579951,L401f,L401f_Cuesta del Rato - Mas de Jacinto - Torrebaja - Ademuz (a demanda),3
 2364538306,2358515851,L437,L437_Cortes de Pallás - Buñol,3
 2545581505,2545579951,L401g,L401g_Casas Bajas - Los Santos - Ademuz - Torrebaja (a demanda),3
+2551505851,2545579951,L402,L402_Arcos de las Salinas - Alpuente - Titaguas (a demanda),3
+2551505854,2545579951,L403c,L403c_Sot de Chera - Villar del Arzobispo (vuelta a demanda),3
 2111014954,2070900901,L423,L423_Las Aldeas de la Vega – Requena,3
 2111075851,2070900901,L425,L425_Camporrobles – Utiel,3
 2111014952,2070900901,L420c,L420c_Utiel – Requena,3
+2551505852,2545579951,L403a,L403a_Higueruelas - Villar del Arzobispo (vuelta a demanda),3
 2076567809,2076567001,L365c,L365c_Betxí - Castelló de la Plana (fins UJI),3
 2076567810,2076567001,L365d,L365d_Betxí - Castelló de la Plana (EEAA),3
 2111014955,2044020301,L482*,L482*_Banyeres - Ontinyent,3
+2551505853,2545579951,L403b,L403b_Andilla - Oset - Villar del Arzobispo (vuelta a demanda),3
 2364538303,2358515851,L435B,L435B_Yátova – València (per Cheste),3
 2364538305,2358515851,L436,L436_Buñol - Playa,3
 2364538307,2358515851,L438A,L438A_València - ONU y Air Nostrum - La Reva i l'Oliveral,3
