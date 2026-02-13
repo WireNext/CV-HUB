@@ -229,6 +229,7 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 2277053661,2274119701,L116D,L116D_València - Port de Sagunt (fins Platja Canet),3
 2358517354,2358515851,L431B,L431B_Cheste - València (per urbanització Olimar),3
 2545581501,2545579951,L400a,L400a_Ademuz - València (a demanda entre Ademuz y Aras de los Olmos),3
+2100452963,2044020301,L489,L489_Pobla del Duc - Xàtiva,3
 2505855458,2509810701,L133N,L133N_Nocturn València - Bétera - Serra,3
 2100452960,2044020301,L487b,L487b_Canals - Xàtiva (per Granja de la Costera),3
 2042522754,2042521951,L415a,L415a_Ayora - Requena - València (Zarra a demanda),3
@@ -238,7 +239,6 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 1980349059,1980348601,L375a,L375a_Segorbe - Port de Sagunt per Petrés (Segart i Sot de Ferrer a demanda),3
 1980349060,1980348601,L375b,L375b_Segorbe - Port de Sagunt per Gilet (Segart y Sot de Ferrer a demanda),3
 2100452962,2044020301,L488b,L488b_Pinet - Xàtiva,3
-2100452963,2044020301,L489,L489_Pobla del Duc - Xàtiva,3
 2545583951,2545579951,L400c,L400c_Tuéjar - València,3
 2545583952,2545579951,L400d,L400d_Aras de los Olmos - València,3
 2100452955,2044020301,L481c*,L481c*_Atzeneta d'Albaida - Ontinyent,3

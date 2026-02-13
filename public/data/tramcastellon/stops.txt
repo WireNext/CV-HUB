@@ -2560,6 +2560,7 @@ stop_id,stop_name,stop_lat,stop_lon
 5250710126,"Av. al Vedat, 102",39.4313169991,-0.474036
 5403190204,"Av. País Valencià, 6",38.8476006455,0.0077470066
 5015020101,Estació Autobusos Alcoi,38.7094748913,-0.4692700212
+5228010204,Av. Gandía. 60,38.989574,-0.465545
 5250720138,Av. Buenos Aires – C/ Río Tormes – Restaurante Sol y Nata [Chiva],39.432621,-0.552187
 5250750108,"Av. Vicente Blasco Ibáñez, 51 [Alaquàs]",39.457613,-0.451611
 5250750109,"Av. Vicente Blasco Ibáñez, 3 [Alaquàs]",39.456436,-0.454698
@@ -2570,13 +2571,10 @@ stop_id,stop_name,stop_lat,stop_lon
 5228010102,"Calle José Iranzo, 40 [Pobla del Duc, la]",38.9058791656,-0.4226858153
 5228010103,"Av. Vicente Boluda, 8 [Benigànim]",38.9410774701,-0.4430414159
 5228010104,"Av. Vicente Boluda, 48 [Benigànim]",38.9425385363,-0.4407199522
-5228010107,"Albereda Jaume I, 62 [Xàtiva]",38.9900185094,-0.5199476208
 5228010108,Hospital Lluís Alcanyís [Xàtiva],39.0062576319,-0.510504144
 5228010208,"Carrer Marxillent, 28 [Pobla del Duc, la]",38.903761253,-0.4195095479
 118000217,"Av. Real de Madrid, 103",39.430241,-0.392649
-5228010105,"Av. Gandia, 73 (Ctra. Cv-610) [Genovés, el]",38.9898771794,-0.4670770216
 5228010106,"Carrer Cavaller Ximen, Frente A 2 [Xàtiva]",38.9922066401,-0.5236879658
-5228010204,"Ctra. Cv-610 Km 4,5 (Apartadero C/ Ausiàs March) [Genovés, el]",38.9895740212,-0.465544996
 5228010205,"Av. Vicente Boluda, Frente Al 44 [Benigànim]",38.9424008465,-0.4410548119
 5228010206,"Av. Vicent Boluda, Frente A 8 [Benigànim]",38.9411876204,-0.4430835407
 5228010207,"Calle José Iranzo, Frente A 40 [Pobla del Duc, la]",38.9058339614,-0.4227895569
@@ -2593,9 +2591,11 @@ stop_id,stop_name,stop_lat,stop_lon
 5250600117,"Av. Vicente Blasco Ibáñez, 21 [Aldaia]",39.4646559991,-0.459119
 5250600209,"Av. Blasco Ibáñez, 22 – Colegio [Aldaia]",39.4644228325,-0.4583678796
 5250600217,"Av. del Cid, 99",39.46925,-0.414793
+5228010105,"Av. Gandia, 46 front",38.989877,-0.467077
 5258020105,"C/ Verge del Fonament, 12 [Benissanó]",39.6120511773,-0.5739420508
 5258020202,"C/ Juan Izquierdo, 72 - Carretera de Vilamarxant [Llíria]",39.6232878778,-0.5909664374
 5258020203,"C/ Verge del Fonament, 11 - Colegio [Benissanó]",39.612107127,-0.5741860484
+5228010107,C. Albereda Jaume I. 62,38.990019,-0.519948
 5701010105,av. Almaig 50 [Ontinyent],38.8193831973,-0.6010660193
 5701010104,Av. Comte de Torrefiel. 53,38.81781869,-0.60851652
 5701010106,Av. d Albaida. 32 front,38.821193,-0.59769
@@ -2745,9 +2745,7 @@ stop_id,stop_name,stop_lat,stop_lon
 5202520111,av. Europa – Anglaterra [Gandia],38.983473999,-0.16899
 5202110104,Estació Intermodal Gandia,38.970548987,-0.1802072864
 5006100222,"Passeig Mitja Llegua, front 25 [Alfàs del Pi, l]",38.5708406432,-0.0965256955
-5901030206,"Av. País Valencià, 64 [Llutxent]",38.9399515739,-0.3557055675
 5901020108,"Av. Ausiàs March, 1 [Xàtiva]",38.9916803413,-0.5244840735
-5901030104,"Av. Valencia, 7 [Llutxent]",38.9412775472,-0.3603084447
 5003010107,C/ Orihuela - La Campaneta [Orihuela],38.0903169111,-0.8966430664
 5003010203,La Campaneta [Orihuela],38.0902463917,-0.8964056911
 5003010204,Vereda Don Fernando [Orihuela],38.0910226003,-0.8809817032
@@ -2770,22 +2768,22 @@ stop_id,stop_name,stop_lat,stop_lon
 5003010108,"Av. Príncipe de Asturias, front 10 - Puente del Rey [Orihuela]",38.0860695558,-0.9388801454
 5006100220,"C/ Exercits Espanyols (Casa de la Cultura) [Alfàs del Pi, l]",38.579074999,-0.098501
 5011020103,"Av. Benidorm, 5 [Parcent]",38.7449985173,-0.0676277735
+5901030104,Av. Vicente Boluda. 8,38.941077,-0.443041
+5901030206,C. José Iranzo. 40 front,38.905834,-0.42279
 5904210108,"C. València, 80",39.2646754361,-0.4681345901
 5901020105,"Av. De Les Alcuses, 1 Acc, Esquina C/ Riu Canyoles [Moixent]",38.8737668138,-0.7544122789
 5901020106,"C/ José De Ribera, Esq. C/ Vicente Galiana Aparisi [Vallada]",38.8970324906,-0.6915617668
 5901020107,"C/ Asunción Perales, Frente Al 2 [Montesa]",38.9483424651,-0.6498361644
 5901020205,"Av. Párroco Quilis, 18 [Moixent]",38.8747427228,-0.7536717696
 5904110106,"Carril Bus En La Cv-590, Km 55,8 (Sentido Valencia/Xàtiva) [Estubeny]",39.0141782719,-0.6230152683
+5901030105,Av. Vicente Boluda. 48,38.942539,-0.44072
 5904110103,"Av. Blasco Ibáñez, 50 [Chella]",39.0414823749,-0.6614202115
-5901030205,"Av. Valencia, 6-8 [Llutxent]",38.9411121874,-0.360197498
 5901110107,"Av. Xàtiva, Esquina Av. Miralbó. [Xàtiva]",39.0287984423,-0.4893091512
 5901110206,"C/ Hernán Cortés, Esquina C/ Colón (Front) [Rafelguaraf]",39.0497493271,-0.4555476344
 5901120102,"Av. Jaume I, Frente Al Nº. 63 [Barxeta]",39.0222510033,-0.4206517224
 5901120103,"Passeig De La Fonteta, S/N [Llocnou dEn Fenollet]",39.0111563763,-0.4667452606
-5901030103,"Av. País Valencià, front 64 [Llutxent]",38.9400916241,-0.3556300715
+5901030205,Av. Vicente Boluda. 13,38.941188,-0.443084
 5902010103,"C/ Rey Jaime I, 12, Frente Al Antiguo Ayuntamiento (Sentido Càrcer) [Gavarda]",39.0914082776,-0.5593054108
-5901030105,"Av. País Valencià, 45-47, Esquina C/ Serra [Quatretonda]",38.9473876931,-0.400853589
-5901030204,"Av. País Valencià, 12 [Quatretonda]",38.9473104235,-0.4032793272
 5901110104,"C/ Hernán Cortés, Esquina C/ Colón [Rafelguaraf]",39.0498360903,-0.4555214073
 5901110106,"C/ Cervantes, Frente Al Nº. 42 (Consultorio De Salud) [Ènova, l]",39.0438600839,-0.4796275447
 5902010107,Plaça D Espanya [Alcàntera de Xúquer],39.0672035168,-0.5640216007
@@ -2804,12 +2802,14 @@ stop_id,stop_name,stop_lat,stop_lon
 5903010206,"C/ Ramón Y Cajal, 45-49 (Sentido Xàtiva) [Alberic]",39.1192396261,-0.5200837527
 5904110102,Av. 14 Cruce Con C/ Calvo Sotelo Y Av. Del Oeste [Bolbaite],39.0596400218,-0.6741499608
 5011020209,"C/ Marqués de Almunia, 1 [Ràfol dAlmúnia, el]",38.8198051374,-0.0529051204
+5901030204,Av. Vicente Boluda. 46 front,38.942401,-0.441055
 5251310117,Urb. Mas Camarena - Sector B [Bétera],39.5541519991,-0.459678
 5251310118,Urb. Mas Camarena - Sector A [Bétera],39.5566312634,-0.4611878957
 5251310119,Urb. Mas Camarena - Esmeralda IV [Bétera],39.5509419447,-0.4578531353
 5902010109,"C/ Salvador Gil, 2 [Castelló]",39.0754691664,-0.5114734053
 5018040117,"Av. Marina Alta, 24",38.826296616,0.0213984106
 5018040202,"Av. Marina Alta, 23",38.8263949898,0.0213753987
+5901030103,C. José Iranzo. 40,38.905879,-0.422686
 5904210205,"C. València, 83",39.2647560521,-0.4682123145
 5904210202,"Av. Aragó, Esq. Hacienda [València]",39.4754336467,-0.3564639483
 5904210206,"C/Major, 14 (Frente A Iglesia) [Alginet]",39.2614284342,-0.4701620369
@@ -3670,9 +3670,9 @@ stop_id,stop_name,stop_lat,stop_lon
 140303101,"C. València, 37",39.621833,-0.912750
 140303102,"Av. Ermita, 8",39.648044,-0.884935
 140303202,"Av. Serranía, 26 front (a demanda)",39.697044,-0.869447
-140303203,"Pl. La Baronia, 1 - Ajuntament (a demanda)",39.656201,-0.891926
-140303204,"Av. Ermita, 15 (a demanda)",39.648088,0.885108
 140303205,"C. València, 37 (a demanda)",39.621833,-0.912750
+140303204,"Av. Ermita, 15 (a demanda)",39.648088,-0.885108
+140303203,"Pl. La Baronia, 1 - Ajuntament (a demanda)",39.656201,-0.891926
 925426910117,"Av. Hostalers, 52A front",39.477121,-0.552368
 925426910118,Av. Hostalers - Torre Miranda,39.477251,-0.558301
 925426910119,"Av. Hostalers, 13",39.47729,-0.562577
@@ -4111,10 +4111,10 @@ stop_id,stop_name,stop_lat,stop_lon
 50040500214,C/ Santa Justa – Ayuntamiento [Orihuela],38.0854435213,-0.949701821
 50040500215,C/ López  Pozas 14 [Orihuela],38.0852453799,-0.9482053457
 50040500216,C/ San Agustín 34 [Orihuela],38.0828916898,-0.9475909291
+5901030102,C. Marxillent. 41,38.903838,-0.419404
 5104020104,"C. Replaceta, 9",39.935531,-0.577038
-5901030207,"Ctra. Cv-610 Km 20,8, C/ Racó Del Pi (Sentido Xàtiva) [Benicolet] (a demanda)",38.9195228235,-0.3441883118
 5903010107,"Camí Reial Madrid, 26",39.1432757398,-0.5209522635
-5901030102,"Ctra. Cv-610 Km 20,8, C/ Racó Del Pi (Sentido Xàtiva) [Benicolet] (a demanda)",38.9195228235,-0.3441883118
+5901030207,C. Marxillent. 28,38.903761,-0.41951
 5904110108,Estació Autobusos Xàtiva,38.9926164823,-0.52168715
 5218010114,"C. Casablanca, s.n - Hospital de Requena",39.4873938718,-1.0898800834
 5218010204,Cta. N-330 (bus) - La Torre de Utiel [Utiel],39.668332,-1.260208
