@@ -153,7 +153,7 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 2042522751,2042521951,L410a,L410a_Utiel - Requena - València,3
 2004504757,1932031151,L41,L41_Aigües - El Campello,3
 2070902402,2070900901,L424*,"L424*_Venta del Moro – Requena (por Los Ruices, Las Monjas y Los Marcos a demanda)",3
-2214731754,2211835201,L191,L191_València - El Perelló - El Mareny,3
+2214731754,2211835201,L188,L188_València - El Perelló - El Mareny,3
 1473879159,1473878501,L259,L259_Crevillent - Elx - Torrellano - UA - UMH,3
 1620431254,1620431001,L716,L716_Ontinyent - València,3
 1620431255,1620431001,L717,L717_Ibi - Alcoi - Xàtiva - València,3
