@@ -115,6 +115,7 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 1620431257,1620431002,L520,L520_Benidorm - Aeroport,3
 2096816351,2042521951,L416b,L416b_Ayora – Almansa,3
 2213278351,2211835201,L183,L183_València - Sedaví - CC Alfafar - IKEA,3
+2239800351,1901190601,L190A,L190A_Real - València,3
 2100452951,2044020301,L480a*,L480a*_Ontinyent – Xàtiva (per Albaida amb Bufalí i Carricola a demanda),3
 510751,5107,L5A,Borriana - València,3
 2100452953,2044020301,L481a*,L481a*_Castelló de Rugat - Ontinyent (per Otos),3
@@ -136,7 +137,6 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 1620431256,1620431001,L718,L718_Alcoi - Gandia - València,3
 1620431266,1620431002,L528,L528_Callosa d'en Sarrià - La Nucia - Alacant,3
 2100452959,2044020301,L486,L486_Xátiva - Gandia,3
-2239800351,1901190601,L500a,L500a_Real - València,3
 2100452956,2044020301,L483*,L483*_La Font de la Figuera - Ontinyent,3
 2274120551,2274119701,L110,L110_Alboraia - Sagunt - Port de Sagunt (Mini Fe),3
 2519525057,2509810701,L142B,L142B_Paterna - C.E. Burjassot,3
@@ -154,6 +154,8 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 2004504757,1932031151,L41,L41_Aigües - El Campello,3
 2070902402,2070900901,L424*,"L424*_Venta del Moro – Requena (por Los Ruices, Las Monjas y Los Marcos a demanda)",3
 2214731754,2211835201,L188,L188_València - El Perelló - El Mareny,3
+2239800354,1901190601,L192A,L192A_Millares - València,3
+2239800352,1901190601,L190B,L190B_Real - Torrent (metro Avinguda),3
 1473879159,1473878501,L259,L259_Crevillent - Elx - Torrellano - UA - UMH,3
 1620431254,1620431001,L716,L716_Ontinyent - València,3
 1620431255,1620431001,L717,L717_Ibi - Alcoi - Xàtiva - València,3
@@ -167,12 +169,10 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 2519525056,2509810701,L142A,L142A_Paterna - Hospital La Fe,3
 1980349057,1980348601,L374a,L374a_Torás - Bejís - Segorbe (prol. demanda a Sacañet),3
 1980349061,1980348601,L376,L376_Les Valls - Pl. Canet - Sagunt,3
-2239800352,1901190601,L500b,L500b_Real - Torrent (metro Avinguda),3
 1980349051,1980348601,L370,L370_Altura - Segorbe - València,3
 1980349052,1980348601,L371a,L371a_Montanejos - Segorbe,3
 1980349055,1980348601,L372b,L372b_Almedíjar - Castellnovo - Peñalba - Segorbe (a demanda),3
 1974833501,1932031151,L21,L21_Alacant - El Campello,3
-2239800354,1901190601,L502a,L502a_Millares - València,3
 2042522755,2042521951,L415b,L415b_Ayora – Requena (Zarra a demanda),3
 1980349056,1980348601,L373,L373_Fuente la Reina - El Toro - Segorbe (prol. demanda los Calpes L y X),3
 510792,5107,L9B,Vistabella del Maestrat – Castelló de la Plana (Benafigos),3
@@ -190,19 +190,19 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 2358517351,2358515851,L430A,L430A_Turís – València,3
 2358517352,2358515851,L430B,L430B_Turís – València (per Quart de Poblet i Mislata),3
 2042522752,2042521951,L410b,L410b_Utiel - Requena - València (por Siete Aguas),3
+2239800353,1901190601,L191,L191_Alfarp - València,3
+2239800355,1901190601,L192B,L192B_Millares - València (per Alfarp),3
 501102,5011,L3,Xaló-Orba-Dénia,3
 2505855457,2509810701,L133B,L133B_Hospital de Lliria - Serra,3
 501201,5012,L1,Dénia-Xàbia,3
 2070902403,2070900901,L427,L427_Benagéber – Utiel (a demanda),3
 590421,5904,L2A,Alberic – València,3
-2239800353,1901190601,L501,L501_Alfarp - València,3
 521001,5210,L1,Tous - Alberic,3
 521301,5213,L1,Simat de la Valldigna – Tavernes de la Valldigna,3
 1980349054,1980348601,L372a,L372a_Vall de Almonacid - Algimia - Matet - Gaibiel - Navajas - Segorbe (a demanda),3
 2004504752,1932031151,L31,L31_Mutxamel - Platja de Sant Joan,3
 1980349058,1980348601,L374b,L374b_Chóvar - Segorbe,3
 1980349053,1980348601,L371b,L371b_Pavías - Viver (a demanda),3
-2239800355,1901190601,L502b,L502b_Millares - València (per Alfarp),3
 521302,5213,L2,Tavernes de la Valldigna – Platja de tavernes,3
 590422,5904,L2B,Càrcer – Alberic (amb prolongció Sumacàrcer i Cotes a demanda),3
 590423,5904,L2C,Càrcer – Alberic (amb prolongació Sellent i Cotes a demanda),3
