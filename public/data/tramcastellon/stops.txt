@@ -3759,6 +3759,7 @@ stop_id,stop_name,stop_lat,stop_lon
 925611130113,"C. Lluna, 4 front",39.535602,-0.349972
 925611130116,"Av. Barcelona, 44",39.554883,-0.339501
 925611130117,"Av. Barcelona, 70",39.561777,-0.335742
+925810530102,"C/ Valencia, 7",39.594088,-0.583255
 925611130118,"Av. Raval, 83",39.567059,-0.332901
 925124510215,CV-3706 - Urbanización La Buitrera - front C/ Nogales [Llíria],39.6042970494,-0.6065758715
 925611130120,"Av. Major, 146",39.574055,-0.329039
@@ -3770,7 +3771,6 @@ stop_id,stop_name,stop_lat,stop_lon
 925631000203,Polideportivo - IES Jorge Juan [Sagunt],39.673098,-0.251383
 925810510101,Ctra. de Llíria - Rotonda entrada Villamarxant [Vilamarxant],39.57383,-0.623794
 925810510107,"Ctra. Vilamarxant, 117 - Policía Local [Riba-roja de Túria]",39.546176,-0.576962
-925810530102,"C/ Valencia, 7 [Benaguasil]",39.594088,-0.583255
 925611620121,"C. Sierra de Javalambre, 18",39.672539,-0.222068
 5256310103,"C. Proyecto, 18",39.739172,-0.272956
 5256310215,"C. Santa Bárbara, 80",39.725298,-0.268523
