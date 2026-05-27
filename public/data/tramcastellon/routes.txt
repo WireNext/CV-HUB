@@ -65,12 +65,12 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 2435797504,2435796601,L4,L4_Alcoi - Benilloba - Gorga - Famorca (a la demanda),3
 2438296404,2435796601,L6C,"L6C_Muro de Alcoy - Planes (per Benimarfull, Benillup, Almudaina i Benialfaquí)",3
 5025530,5025,L53,L53_Hospital de Sant Joan-Sant Joan-El Campello,3
+2703103905,2703102101,L341a,L341a_Puebla de Arenoso - Onda,3
 2505855452,2042521951,L410d,L410d_Utiel - Requena - València (por Hospital),3
 10020012,1002,L1B,L1B_Vinaròs – Benicarló – Peníscola (per RENFE),3
 51050082,5105,L8B,Castelló de la Plana - Benicàssim - Playetas - Oropesa - Oropesa platja (VERANO),3
-2703103907,2703102101,L342,L342_Ludiente - Onda,3
+2703103906,2703102101,L341b,L341b_Montanejos - Onda,3
 59990010,5999,T1,UJI – Grau,3
-2703103908,2703102101,L343a,L343a_Fuentes de Ayódar - Onda,3
 2703103910,2703102101,L344,L344_Alcudia de Veo - Onda,3
 2703103911,2703102101,L345,L345_Ribesalbes - Onda,3
 2703103901,2703102101,L340a,"L340a_Onda – Castelló de la Plana (por Vila-real y Hospital de la Plana, fins UJI)",3
@@ -83,10 +83,10 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 509001,5090,L1,Pilar de la Horadada – Alicante,3
 509002,5090,L2,Torrevieja-Alicante,3
 509003,5090,L3,Dolores – Alicante,3
+2703103907,2703102101,L342,L342_Ludiente - Onda,3
+2703103908,2703102101,L343a,L343a_Fuentes de Ayódar - Onda,3
 10020013,1002,L1C,Benicarló – Peníscola,3
 2096814851,2042521951,L416a*,L416a*_Cofrentes – Ayora – Almansa (Zarra a demanda),3
-2703103905,2703102101,L341a,L341a_Puebla de Arenoso - Onda,3
-2703103906,2703102101,L341b,L341b_Montanejos - Onda,3
 2505855453,2509810701,L130A,L130A_Estació Empalme (FGV) - Facultats - Parc Tecnològic,3
 2703103909,2703102101,L343b,L343b_Villamalur - Onda (a demanda),3
 2505855454,2509810701,L130B,L130B_Estació Empalme (FGV) - Burjassot - Parc Tecnològic,3

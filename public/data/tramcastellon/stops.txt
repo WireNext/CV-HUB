@@ -3701,10 +3701,14 @@ stop_id,stop_name,stop_lat,stop_lon
 140302205,"C. Mayor, 3 front - La Pobleta (a demanda)",39.836360,-0.822805
 92501620103,Plaça Constitució (Ajuntament) [Aldaia],39.464967,-0.461178
 92501620104,C/ Joan Fuster 5 [Aldaia],39.465162,-0.456225
+134301101,"C. Iglesia, 10 (a demanda)",39.988453,-0.437898
 92501620108,"C/ Ceramista Mora Gallego, 7 - Avda. de la Generalitat Valenciana [Manises]",39.48822,-0.456936
+134301105,"Av. Jaime I, s.n",39.951207,-0.334162
+134301107,"Av. de la Plana, 52 front - Artesa",39.958036,-0.289569
 92501620208,Estación deADIF Aldaia [Aldaia],39.460845,-0.463179
 92501650201,Primer de Maig 8 [Burjassot],39.512937,-0.418487
 92501620205,C/ Joan Fuster S/N [Aldaia],39.463011,-0.456985
+134301202,"Av. de la Plana, 52 - Artesa",39.958234,-0.289515
 92501620206,"C/ Hernán Cortes, S/N - ADIF [Aldaia]",39.461797,-0.463099
 925426910209,C. A - C. F - P.I. L Oliveral,39.475357,-0.538954
 925426910210,"C. A, 13 - P.I. L Oliveral",39.474715,-0.535956
@@ -3724,8 +3728,14 @@ stop_id,stop_name,stop_lat,stop_lon
 134001128,"C. Alcora, 26",39.985901,-0.052302
 134001210,"C. Constitución, 24",39.932562,-0.099846
 134001211,"C. Cardenal Tarancón, 5",39.93391,-0.103136
+134101103,"CV-20 km 50,1 des - Presa",40.084611,-0.552556
+134101104,"CV-195 km 16,97 asc - C. Antonio Fornas (a demanda)",40.03556,-0.551745
+134101109,"Av. Principe de España, s.n (a demanda)",40.065101,-0.426985
+134101210,"CV-195 km 16,99 des - C. Antonio Fornas (a demanda)",40.035791,-0.551704
 925113510113,"C/ Botxí, front 8 - Hotel Ad Hoc [Bétera]",39.57851,-0.476316
 925113510114,C/ Botxí - front SPA La Calderona [Bétera],39.579872,-0.473017
+134101211,"CV-20 km 54,83 asc - Presa",40.084349,-0.550344
+134200101,"Pl. Fuente, s.n (a demanda)",40.105421,-0.381332
 925113510209,C/ Botxí - SPA La Calderona [Bétera],39.579961,-0.473167
 925113510210,"C/ Botxí, 8 - Hotel Ad Hoc [Bétera]",39.578637,-0.476156
 92501500101,Av. del Oeste - Roger de Flor [València],39.4722,-0.37982
