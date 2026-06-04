@@ -3860,7 +3860,7 @@ stop_id,stop_name,stop_lat,stop_lon
 5250720146,"C/ Lluna, 19 – Residencia 3ª Edad Padre Damián [Torrent]",39.428071,-0.59239
 5250070112,"C/ Ausiàs March, 49 [Alaquàs]",39.454112,-0.458046
 92571910205,"Ctra. del Riu, 552",39.387444,-0.33181
-142001110,"C. Infanta Cristina, 1 front","39,898279","-1,271981"
+142001110,"C. Infanta Cristina, 1 front",39.898279,-1.271981
 5250720142,C/ Río Júcar – Av. Buenos Aires [Chiva],39.433307,-0.569028
 5250720203,"C/ Paiporta, frente a 62 – C/ Illes Columbretes [Torrent]",39.431900,-0.604149
 5250720205,"C/ Lluna, 24 – Frente Residencia 3ª edad Padre Damián [Torrent]",39.427955,-0.592585

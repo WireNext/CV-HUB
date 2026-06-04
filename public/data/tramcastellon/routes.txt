@@ -87,8 +87,8 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 2703103911,2703102101,L345,L345_Ribesalbes - Onda,3
 10020013,1002,L1C,Benicarló – Peníscola,3
 2096814851,2042521951,L416a*,L416a*_Cofrentes – Ayora – Almansa (Zarra a demanda),3
-2505855453,2509810701,L130A,L130A_Estació Empalme (FGV) - Facultats - Parc Tecnològic,3
 2703103909,2703102101,L343b,L343b_Villamalur - Onda (a demanda),3
+2505855453,2509810701,L130A,L130A_Estació Empalme (FGV) - Facultats - Parc Tecnològic,3
 2505855454,2509810701,L130B,L130B_Estació Empalme (FGV) - Burjassot - Parc Tecnològic,3
 1473879152,1473878501,L251a,L251a_Crevillent - Elx - Alacant (per Nacional),3
 59990020,5999,T2,UJI – Grau – Platja,3
