@@ -307,6 +307,7 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 2083379804,1932031151,L23N,L23N_Alacant - Mutxamel (Nocturn),3
 2089144910,2089140751,L170B,L170B_València - Torrent - El Vedat,3
 2083379802,1932031151,L24,L24_Alacant - Sant Vicent del Raspeig,3
+2146245651,2070900901,L420a,L420a_Salvacañete – Landete – Utiel – Requena,3
 2083379805,1932031151,L24N,L24N_Alacant - Sant Vicent del Raspeig (Nocturn),3
 2089144902,2089140751,L106B,L106B_Torrent – Alaquàs – Aldaia – C.C. Bonaire ,3
 2083379801,1932031151,L23,L23_Alacant - Mutxamel,3
@@ -323,7 +324,6 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 2089153403,2089140751,L152,L152_Quart de Poblet - Aldaia - Alaquàs - Xiriviella - El Saler,3
 2089153404,2089140751,L153N,L153N_València - Paiporta - Picanya - Torrent,3
 2111014953,2070900901,L422,L422_Los Marcos (por las Monjas y Casas de Prada) – Venta del Moro – Caudete – Utiel (desde Casas de Moya a Venta del Moro a demanda),3
-2146245651,2070900901,L420a,L420a_Salvacañete – Landete – Utiel – Requena,3
 2158856401,2070900901,L426,L426_Villagordo – Fuenterrobles – Caudete – Utiel,3
 2089153405,2089140751,L160A,L160A_València - Aldaia - CC Bonaire,3
 2089153407,2089140751,L161A,L161A_València - Alaquàs - Salt de l'Aigua,3
