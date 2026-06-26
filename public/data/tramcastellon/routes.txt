@@ -126,7 +126,6 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 1620431257,1620431002,L520,L520_Benidorm - Aeroport,3
 2096816351,2042521951,L416b,L416b_Ayora – Almansa,3
 2213278351,2211835201,L183,L183_València - Sedaví - CC Alfafar - IKEA,3
-2239800351,1901190601,L190A,L190A_Real - València,3
 2100452951,2044020301,L480a*,L480a*_Ontinyent – Xàtiva (per Albaida amb Bufalí i Carricola a demanda),3
 510751,5107,L5A,Borriana - València,3
 2100452953,2044020301,L481a*,L481a*_Castelló de Rugat - Ontinyent (per Otos),3
@@ -135,6 +134,7 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 2214731751,2211835201,L186A,L186A_Paiporta - Albal - Torrent,3
 2214731752,2211835201,L186B,L186B_Albal - Paiporta - Torrent,3
 2100452957,2044020301,L485a,L485a_La Font de la Figuera – Xàtiva,3
+2239800351,1901190601,L190A,L190A_Real - València,3
 2100452958,2044020301,L485b,L485b_La Font de la Figuera – Moixent,3
 1620431259,1620431002,L522a,L522a_Benidorm - La Vila Joiosa - Universitat - Alacant,3
 1620431260,1620431002,L522b,L522b_Benidorm - La Vila Joiosa - Alacant,3
