@@ -166,7 +166,6 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 2070902402,2070900901,L424*,"L424*_Venta del Moro – Requena (por Los Ruices, Las Monjas y Los Marcos a demanda)",3
 2214731754,2211835201,L188,L188_València - El Perelló - El Mareny,3
 2239800354,1901190601,L192A,L192A_Millares - València,3
-2239800352,1901190601,L190B,L190B_Real - Torrent (metro Avinguda),3
 1473879159,1473878501,L259,L259_Crevillent - Elx - Torrellano - UA - UMH,3
 1620431254,1620431001,L716,L716_Ontinyent - València,3
 1620431255,1620431001,L717,L717_Ibi - Alcoi - Xàtiva - València,3
@@ -181,6 +180,7 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 1980349057,1980348601,L374a,L374a_Torás - Bejís - Segorbe (prol. demanda a Sacañet),3
 1980349061,1980348601,L376,L376_Les Valls - Pl. Canet - Sagunt,3
 1980349051,1980348601,L370,L370_Altura - Segorbe - València,3
+2239800352,1901190601,L190B,L190B_Real - Torrent (metro Avinguda),3
 1980349052,1980348601,L371a,L371a_Montanejos - Segorbe,3
 1980349055,1980348601,L372b,L372b_Almedíjar - Castellnovo - Peñalba - Segorbe (a demanda),3
 1974833501,1932031151,L21,L21_Alacant - El Campello,3
