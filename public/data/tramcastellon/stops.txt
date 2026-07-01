@@ -2523,7 +2523,6 @@ stop_id,stop_name,stop_lat,stop_lon
 5250720137,"C/ Beltran Báguena, 9 - Rest. Santo Domingo (Calicanto) [Torrent]",39.4328763587,-0.5472985345
 5258010207,"Pl. la Báscula - C/ Major, 2 - Ajuntament [Vilamarxant]",39.5674981062,-0.6220677449
 5206040106,"Av. del País Valenciano, front 111 [Llombai]",39.2848020795,-0.5755156507
-5250500126,"C/ Ceramista Alfonso Blat, 31 [Manises]",39.4982064756,-0.4719127169
 5250500202,"C/ Camp de l Olivereta, 13 [Manises]",39.4970469991,-0.469145
 5250600117,"Av. Vicente Blasco Ibáñez, 21 [Aldaia]",39.4646559991,-0.459119
 5250600209,"Av. Blasco Ibáñez, 22 – Colegio [Aldaia]",39.4644228325,-0.4583678796
