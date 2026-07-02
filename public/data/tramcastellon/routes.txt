@@ -165,7 +165,6 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 2042522751,2042521951,L410a,L410a_Utiel - Requena - València,3
 2004504757,1932031151,L41,L41_Aigües - El Campello,3
 2070902402,2070900901,L424*,"L424*_Venta del Moro – Requena (por Los Ruices, Las Monjas y Los Marcos a demanda)",3
-2239800354,1901190601,L192A,L192A_Millares - València,3
 1473879159,1473878501,L259,L259_Crevillent - Elx - Torrellano - UA - UMH,3
 1620431254,1620431001,L716,L716_Ontinyent - València,3
 1620431255,1620431001,L717,L717_Ibi - Alcoi - Xàtiva - València,3
@@ -185,6 +184,7 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 1980349055,1980348601,L372b,L372b_Almedíjar - Castellnovo - Peñalba - Segorbe (a demanda),3
 1974833501,1932031151,L21,L21_Alacant - El Campello,3
 2042522755,2042521951,L415b,L415b_Ayora – Requena (Zarra a demanda),3
+2239800354,1901190601,L192A,L192A_Millares - València,3
 1980349056,1980348601,L373,L373_Fuente la Reina - El Toro - Segorbe (prol. demanda los Calpes L y X),3
 510792,5107,L9B,Vistabella del Maestrat – Castelló de la Plana (Benafigos),3
 2004504751,1932031151,L30,L30_Sant Vicent del Raspeig - La Alcoraya,3
@@ -201,13 +201,13 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 2358517351,2358515851,L430A,L430A_Turís – València,3
 2358517352,2358515851,L430B,L430B_Turís – València (per Quart de Poblet i Mislata),3
 2042522752,2042521951,L410b,L410b_Utiel - Requena - València (por Siete Aguas),3
-2239800355,1901190601,L192B,L192B_Millares - València (per Alfarp),3
 501102,5011,L3,Xaló-Orba-Dénia,3
 2505855457,2509810701,L133B,L133B_Hospital de Lliria - Serra,3
 501201,5012,L1,Dénia-Xàbia,3
 2239800353,1901190601,L191,L191_Alfarp - València,3
 2070902403,2070900901,L427,L427_Benagéber – Utiel (a demanda),3
 590421,5904,L2A,Alberic – València,3
+2239800355,1901190601,L192B,L192B_Millares - València (per Alfarp),3
 521001,5210,L1,Tous - Alberic,3
 521301,5213,L1,Simat de la Valldigna – Tavernes de la Valldigna,3
 1980349054,1980348601,L372a,L372a_Vall de Almonacid - Algimia - Matet - Gaibiel - Navajas - Segorbe (a demanda),3
