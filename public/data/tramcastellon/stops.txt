@@ -8,6 +8,7 @@ stop_id,stop_name,stop_lat,stop_lon
 5252010215,"Av. Camí Nou, 40",39.424619,-0.394989
 5252020226,"Av. Padre Carlos Ferris, 62",39.395722,-0.406579
 5252020228,"Ctra. Real de Madrid Nord, 55",39.387287,-0.410143
+116200212,"Pl. Corts Valencianes, 23",39.458651,-0.46646
 5252020229,"Ctra. Real de Madrid Nord, 33",39.385594,-0.410863
 5252020230,"Av. Llevant, 22",39.381946,-0.412339
 5252020232,"Ctra. Real de Madrid Sud, 50",39.377223,-0.414423
@@ -31,6 +32,7 @@ stop_id,stop_name,stop_lat,stop_lon
 5025240106,"C. San Vicente, 20",38.349223,-0.484776
 5001010114,ctra. Almoradí-Heredades [junt bar Sáez] [Heredades],38.0948199991,-0.76323
 5001010115,av. de los Llanos [Iglesia] [Heredades],38.0909133108,-0.7622429398
+117001150,"C. Paiporta, 32",39.432158,-0.600131
 5025210125,"Av. Joaquin Arias, s/n front - Av. Artista Remigio Soler López",38.3837897357,-0.4119342484
 5234010101,"C/ Simat, 1 [Barx]",39.0153279991,-0.302115
 5001010105,"Av. La Paz, 21 [junt farmacia] [Jacarilla]",38.0616436136,-0.8678117812
@@ -1937,7 +1939,6 @@ stop_id,stop_name,stop_lat,stop_lon
 5023290215,Bomberos [Elda],38.484047836,-0.7901587411
 116200101,Av. Monestir de Poblet - C.Teodoro Llorente,39.46128,-0.458344
 5023300108,C/Zorrilla [Monòver],38.4068369991,-0.95236
-116200208,"Pl. Corts Valencianes, 23",39.458651,-0.46646
 116400101,"C. Rev. José Palacios, 121 front",39.477934,-0.433358
 5023310101,El Cantón [Jumilla],38.3006809991,-0.981806
 116500106,"C. Vicente Lerma, 3",39.504295,-0.443301
@@ -1991,7 +1992,6 @@ stop_id,stop_name,stop_lat,stop_lon
 5029010202,1Par.Aren.Pla-V [Elx],38.2477328688,-0.5167049875
 5029010207,Av. Dama D’Elx (Centre Salut) – El Altet [Elx],38.2722818703,-0.5374152448
 117001134,"C. Manuel Aznar, 17",39.433567,-0.545865
-117001144,"C. Paiporta, 32",39.432158,-0.600131
 117001204,"C. Paiporta, 29",39.432034,-0.600096
 117001213,"C. Moratín, 8",39.433274,-0.545927
 5029020120,Camino D.Roal-I [Elx],38.2329094239,-0.6000011398
