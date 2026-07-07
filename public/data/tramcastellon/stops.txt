@@ -34,6 +34,7 @@ stop_id,stop_name,stop_lat,stop_lon
 5001010115,av. de los Llanos [Iglesia] [Heredades],38.0909133108,-0.7622429398
 117001150,"C. Paiporta, 32",39.432158,-0.600131
 5025210125,"Av. Joaquin Arias, s/n front - Av. Artista Remigio Soler López",38.3837897357,-0.4119342484
+143001132,"Av. Blasco Ibáñez, 56",39.389709,-0.718768
 5234010101,"C/ Simat, 1 [Barx]",39.0153279991,-0.302115
 5001010105,"Av. La Paz, 21 [junt farmacia] [Jacarilla]",38.0616436136,-0.8678117812
 5001010106,"Camino Jacarillo, front 1 [Repsol] [Benejúzar]",38.0770159513,-0.8430869954
@@ -63,6 +64,7 @@ stop_id,stop_name,stop_lat,stop_lon
 5253010204,"C. València, 16",39.422949,-0.383689
 5253010216,"Av. Amado Granell Mesado, 49",39.457128,-0.363445
 5904210110,"GV. Germanies, 49",39.463127,-0.377511
+143001133,"Av. Blasco Ibáñez, 75",39.38957,-0.718948
 5001010117,c. Acequia del Río [front supermercat DIA] [Rojales],38.0880889991,-0.729445
 5001010204,av. de los Llanos [Heredades],38.0909957237,-0.7622291441
 5001010205,ctra. Almoradí [junt Bar Sáez] [Heredades],38.0948829991,-0.763168
@@ -1228,6 +1230,7 @@ stop_id,stop_name,stop_lat,stop_lon
 5090090203,San Luis – CV-905 pk 6+600 descendente [Torrevieja],38.0193347934,-0.7024663189
 141501111,"Av. Lamo Espinosa, 39",39.485132,-1.105434
 5230010206,av. Alzira 42 [Polinyà de Xúquer],39.1949842972,-0.3688792964
+5254010131,"Av. Corts Valencianes, 7",39.390842,-0.710993
 5230010209,ronda Espanya 91 Bar Llopis) [Sueca],39.2014003654,-0.3156472578
 5230010211,c. Sueca 7 (glorieta) [Cullera],39.1671901894,-0.2583589798
 5230010212,av. Port (correos) [Cullera],39.1631296283,-0.256947533
@@ -1266,7 +1269,6 @@ stop_id,stop_name,stop_lat,stop_lon
 5105120224,"Av. Gil Atrocillo, 11 - ADIF",40.470485,0.456711
 5230010119,Estació ADIF [Algemesí],39.1930749991,-0.440739
 5025230130,"C. Alicante, 7",38.410751,-0.442401
-5254010131,"Av. Corts Valencianes, 7",39.390842,-0.710993
 5090100105,La Tejera (Molino) [Torrevieja],37.9844059991,-0.682354
 916400101,Metro Faitanar,39.4767470000,-0.4310000000
 916400103,"C. Desamparados, 2",39.4659441700,-0.4309034450
@@ -3292,6 +3294,8 @@ stop_id,stop_name,stop_lat,stop_lon
 5105090111,Av. Cap i Corp 9 [Torreblanca],40.196463999,0.2251890001
 5105100102,Av. Barcelona (Cantonada Passeig Morella) [Castelló de la Plana],39.988812999,-0.046259
 5105120126,Plaça Illuecas [Peníscola],40.361632999,0.4017820001
+5254010126,"CV-424 km 10,97 asc - P.I. Godelleta",39.423951,-0.678202
+5254010130,"Av. Corts Valencianes, 43",39.391718,-0.708571
 5105010102,Av. C. Costa (Ford) [Castelló de la Plana],39.9914736195,-0.0494111582
 5105170122,Av. De la Mar (Turisme) [Torreblanca],40.2201251055,0.1955753224
 5105170123,"C/ Sant Jaume, 108 [Torreblanca]",40.221487638,0.199116554
@@ -3302,14 +3306,13 @@ stop_id,stop_name,stop_lat,stop_lon
 5254010213,"CV-424 km 4,04 des - Urb. Entrepinos",39.443699,-0.612338
 5254010124,"CV-424 km 9,91 asc - Urb. La Fuentesica",39.42077,-0.667677
 5104040105,"C/ Segorbe, 1 (martes a demanda) [Castellnovo]",39.86184312,-0.4598917563
-5254010126,"CV-424 km 10,97 asc - P.I. Godelleta",39.423951,-0.678202
-5254010130,"Av. Corts Valencianes, 43",39.391718,-0.708571
 5254010214,"CV-424 km 2,73 des - Urb. La Loma de Miralcampo",39.451483,-0.603879
 5106020110,"Av. Castelló, 11",39.8341173721,-0.3704864112
 5105160226,"plaça Jutge Borrull, front 1 [Castelló de la Plana]",39.9839716516,-0.0351161023
+5254010206,"C. Mayor, 74",39.425121,-0.68536
 5106040204,"av. Lairón, s/n (Centro Comercial) [Castelló de la Plana]",39.976703723,-0.0685537296
-5106010203,"CV-230 km 21,7 asc - Urb. Carmaday",39.808283,-0.224873
 5254010132,"Av. Blasco Ibáñez, 32",39.390632,-0.714694
+5106010203,"CV-230 km 21,7 asc - Urb. Carmaday",39.808283,-0.224873
 5254010133,"Av. Blasco Ibáñez, 39",39.390527,-0.71471
 5105160215,camí Serradal- cantonada. c. Mijares [Benicàssim],40.026568999,0.041134
 5254010202,"Av. Corts Valencianes, 20",39.390767,-0.710805
@@ -3317,7 +3320,6 @@ stop_id,stop_name,stop_lat,stop_lon
 5254010203,"Av. Corts Valencianes, 52",39.391503,-0.708779
 5254010205,"Av. Vicente Lassala, 9",39.423139,-0.684163
 5106030114,"ctra. N-234 [Puebla de Valverde, la]",40.2245079991,-0.935362
-5254010206,"C. Mayor, 74",39.425121,-0.68536
 5106060111,"Av. Mare Nostrum, 146 Info Turisme) [Moncofa]",39.803135999,-0.128297
 5254010207,"CV-424 km 11,02 des - P.I. Godelleta",39.424003,-0.678999
 5107010111,Paquito El Botigue [Sierra Engarcerán],40.2907853094,-0.0449542554
@@ -3459,8 +3461,8 @@ stop_id,stop_name,stop_lat,stop_lon
 113601207,"CV-35 km 16,0 asc - Urb. Monte Sano",39.575288,-0.519049
 113601208,"CV-35 km 17,54 asc - Mas de Miralles",39.584089,-0.533837
 113602209,"C. Alcarava, 31",39.556173,-0.50064
-5254010114,V. Servicio A-3 - C. J,39.472409,-0.536178
 5254010129,CV-5011 - Cementerio,39.417904,-0.68819
+5254010114,V. Servicio A-3 - C. J,39.472409,-0.536178
 5254010204,CV-5011 - Cementerio front,39.417537,-0.68788
 5254010209,CV-424 km 10 des - Urb. La Fuentesica,39.420345,-0.668466
 5254010217,V. Servicio A-3 - C. Virgen Olivar,39.471886,-0.536966
@@ -4764,9 +4766,9 @@ stop_id,stop_name,stop_lat,stop_lon
 5028030206,CV-746 pk 7+700 descendente (Algas) [Benissa],38.6783855994,0.107833369
 5007030110,"Ctra. Les Marines a Dénia, front 19B - CV-730 pk 10+880 ascendente - Apartament El Cid [Dénia]",38.869328239,-0.0116800278
 5007030206,"Ctra. Les Marines a Dénia, 19B - CV-730 pk 10+880 descendente - Apartament El Cid [Dénia]",38.8692375616,-0.011719984
+5254010125,"CV-424 km 10,62 asc - Urb. La Cañada del Fraile",39.423258,-0.674195
 60180100110,"Ctra. Cela, 30",38.783298,-0.43232
 5254010122,"CV-424 km  5,88 asc - C. Teruel",39.430147,-0.62307
-5254010125,"CV-424 km 10,62 asc - Urb. La Cañada del Fraile",39.423258,-0.674195
 5254010120,Ctra. Godelleta - Seminario I - CV-424 pk 5+020 ascendente [Godelleta],39.4371969991,-0.620274
 5107030205,ctra. Almassora - front camí S. Bernardo - CV-18 0+380 descendente [Castelló de la Plana],39.961416999,-0.055718
 5105160105,"Av. Serradal, 26 - Grao [Castelló de la Plana]",39.977743999,0.012887
@@ -5079,14 +5081,14 @@ stop_id,stop_name,stop_lat,stop_lon
 5253010214,"Av. Plata, 2",39.452973,-0.371715
 5253010218,"C/ Mestre Aguilar, 1 [València]",39.4617419991,-0.370555
 5253010219,"C/ Barón de Cortes, 11 (Mercado de Ruzafa) [València]",39.4616669991,-0.371682
+5254010128,"Av. Vicente Lassala, 28",39.423283,-0.684351
 5254010109,"N-III, Vial de Servei, Enaire [Quart de Poblet]",39.4784879991,-0.475218
 5254020224,"C/Trafalgar, 83 (Hospital de Manises) (front col.legi San Onofre) [Quart de Poblet]",39.4832368114,-0.451291993
 5254010108,"Av. Madrid, 8",39.482414,-0.45651
 5254010110,Base Aérea - ONU,39.478256,-0.483539
 5254010115,"A-3 km 336,60 des - Área de Servicio",39.475277,-0.588996
-5254010128,"Av. Vicente Lassala, 28",39.423283,-0.684351
-5254040215,C/ Carretera de Llíria. 14 [Cheste],39.4911730532,-0.688989605
 5256120102,"Av. Verge del Puig, 3",39.587532,-0.299631
+5254040215,"Av. Lliria, 9 front",39.491173,-0.68899
 5256120113,"Av. del Primat Reig, 189 [València]",39.4790359991,-0.356222
 5256120114,"Av. Primado Reig, 151 [València]",39.4823489991,-0.360621
 5256120115,"Av. del Primat Reig, 103 [València]",39.4860909991,-0.365705
