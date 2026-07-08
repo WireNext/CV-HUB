@@ -34,7 +34,6 @@ stop_id,stop_name,stop_lat,stop_lon
 5001010115,av. de los Llanos [Iglesia] [Heredades],38.0909133108,-0.7622429398
 117001150,"C. Paiporta, 32",39.432158,-0.600131
 5025210125,"Av. Joaquin Arias, s/n front - Av. Artista Remigio Soler López",38.3837897357,-0.4119342484
-143001132,"Av. Blasco Ibáñez, 56",39.389709,-0.718768
 5234010101,"C/ Simat, 1 [Barx]",39.0153279991,-0.302115
 5001010105,"Av. La Paz, 21 [junt farmacia] [Jacarilla]",38.0616436136,-0.8678117812
 5001010106,"Camino Jacarillo, front 1 [Repsol] [Benejúzar]",38.0770159513,-0.8430869954
@@ -64,11 +63,11 @@ stop_id,stop_name,stop_lat,stop_lon
 5253010204,"C. València, 16",39.422949,-0.383689
 5253010216,"Av. Amado Granell Mesado, 49",39.457128,-0.363445
 5904210110,"GV. Germanies, 49",39.463127,-0.377511
-143001133,"Av. Blasco Ibáñez, 75",39.38957,-0.718948
 5001010117,c. Acequia del Río [front supermercat DIA] [Rojales],38.0880889991,-0.729445
 5001010204,av. de los Llanos [Heredades],38.0909957237,-0.7622291441
 5001010205,ctra. Almoradí [junt Bar Sáez] [Heredades],38.0948829991,-0.763168
 5001010206,c. Dr. Marañón [Almoradí],38.1069279991,-0.787202
+143001133,"Av. Blasco Ibáñez, 75",-0.718948,39.38957
 5001010210,Pont Don Pedro [Almoradí],38.0966999991,-0.814245
 5001010212,"av, de Segura  [Benejúzar]",38.0811919265,-0.8378022293
 51040400102,Av. València front C/ Diputació (marquesina) [Gaibiel],39.92647448693362,-0.49299303720580756
@@ -137,6 +136,7 @@ stop_id,stop_name,stop_lat,stop_lon
 5907010208,"C/ de la Carretera, 7 [front] [Terrateig]",38.897261661,-0.3228030193
 5014060104,Gasolinera - I [Alacant],38.3433413673,-0.5443064295
 5014060105,La Casera [Alacant],38.3437158257,-0.5382586726
+143001132,"Av. Blasco Ibáñez, 56",-0.718768,39.389709
 925217900102,"C. València, 34",39.433448,-0.410946
 5907010209,"Av. Constitució, 6 [Ctra. CV-619 Km 5,9] [sentit Castelló] [Montitxelvo]",38.8917456519,-0.3401508427
 5907010101,C/ Santísim Crist [Otos] (a demanda),38.8540448254,-0.4448378826
@@ -156,6 +156,7 @@ stop_id,stop_name,stop_lat,stop_lon
 925218000218,"Av. Real de Madrid, 15",39.434951,-0.390797
 51050100107,"Plaça Rabal, 13 [La Pobla de Tornesa]",40.102668,-0.001338
 925218210138,"C. València, 109",39.366997,-0.410226
+143201208,"Av. Líria, 8 front",39.491148,-0.688923
 5202110105,"Real de Gandia [Real de Gandia, el] (a demanda)",38.947086,-0.193677
 5202110207,Estación Intermodal [Gandia] (a demanda),38.970549,-0.180207
 19000010101,Castellon,39.98630229978365,-0.04425585926188858
@@ -3311,7 +3312,6 @@ stop_id,stop_name,stop_lat,stop_lon
 5105160226,"plaça Jutge Borrull, front 1 [Castelló de la Plana]",39.9839716516,-0.0351161023
 5254010206,"C. Mayor, 74",39.425121,-0.68536
 5106040204,"av. Lairón, s/n (Centro Comercial) [Castelló de la Plana]",39.976703723,-0.0685537296
-5254010132,"Av. Blasco Ibáñez, 32",39.390632,-0.714694
 5106010203,"CV-230 km 21,7 asc - Urb. Carmaday",39.808283,-0.224873
 5254010133,"Av. Blasco Ibáñez, 39",39.390527,-0.71471
 5105160215,camí Serradal- cantonada. c. Mijares [Benicàssim],40.026568999,0.041134
@@ -3357,6 +3357,7 @@ stop_id,stop_name,stop_lat,stop_lon
 5254030119,"C. Ruiz Pons, 29",39.421043,-0.789644
 5254030120,"Av. Beltrán Báguena, 2",39.416686,-0.788049
 5254030121,"CV-425 km 5,46 asc - Urb. Fuente el Mico",39.398852,-0.784814
+5254010132,"Av. Blasco Ibáñez, 32",39.390632,-0.714694
 5217030202,"Av. Julio López Tarín, 1",39.5654319855,-1.2089645257
 5107610105,Entroncament Montón – encreuament Villahermosa del Río [Castillo de Villamalefa],40.1359018978,-0.3702140197
 5107610219,entroncament Castillo -encreuament Villahermosa [Castillo de Villamalefa],40.1360383905,-0.3702012244
