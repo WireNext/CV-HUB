@@ -67,7 +67,6 @@ stop_id,stop_name,stop_lat,stop_lon
 5001010204,av. de los Llanos [Heredades],38.0909957237,-0.7622291441
 5001010205,ctra. Almoradí [junt Bar Sáez] [Heredades],38.0948829991,-0.763168
 5001010206,c. Dr. Marañón [Almoradí],38.1069279991,-0.787202
-143001133,"Av. Blasco Ibáñez, 75",-0.718948,39.38957
 5001010210,Pont Don Pedro [Almoradí],38.0966999991,-0.814245
 5001010212,"av, de Segura  [Benejúzar]",38.0811919265,-0.8378022293
 51040400102,Av. València front C/ Diputació (marquesina) [Gaibiel],39.92647448693362,-0.49299303720580756
@@ -194,6 +193,9 @@ stop_id,stop_name,stop_lat,stop_lon
 118300211,"C. Guadalquivir, 6 front",39.434342,-0.376851
 118300215,"Av. Plata, 59 front",39.45567,-0.365372
 118300219,"C. Russafa, 21",39.465884,-0.374232
+143001133,"Av. Blasco Ibáñez, 75",39.38957,-0.718948
+113402104,Av. Archiduque Carlos - C. Juan de Austria,39.596988,-0.603333
+113402214,"Av. Archiduque Carlos, 20 front",39.596931,-0.602733
 118601121,"C. Pare Méndez, 120",39.430325,-0.472539
 118601122,"C. Pare Méndez, 158",39.427982,-0.476097
 118601124,"Av. al Vedat, 111",39.431207,-0.473733
@@ -3434,7 +3436,6 @@ stop_id,stop_name,stop_lat,stop_lon
 5252020243,"Av. Jaume I, 13 front",39.363562,-0.462059
 5252030106,"Av. Corts Valencianes, 72",39.368708,-0.440288
 5225010103,Av. Hort Mandari (estació ADIF) [Xeraco],39.026695999,-0.213913
-113402104,C. Almte. Cadarso - C. Luis de Santangel,39.595814,-0.60313
 5234010203,Encreuament CV-675 Amb C/ Solana - CV-675 pk 10+170 ascendente [Barx],39.0042323733,-0.2840106702
 113402105,"C. La Pau, front  70",39.596038,-0.589944
 113402106,"C. Llíria, 23",39.596701,-0.584581
