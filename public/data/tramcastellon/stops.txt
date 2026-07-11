@@ -135,7 +135,6 @@ stop_id,stop_name,stop_lat,stop_lon
 5907010208,"C/ de la Carretera, 7 [front] [Terrateig]",38.897261661,-0.3228030193
 5014060104,Gasolinera - I [Alacant],38.3433413673,-0.5443064295
 5014060105,La Casera [Alacant],38.3437158257,-0.5382586726
-143001132,"Av. Blasco Ibáñez, 56",-0.718768,39.389709
 925217900102,"C. València, 34",39.433448,-0.410946
 5907010209,"Av. Constitució, 6 [Ctra. CV-619 Km 5,9] [sentit Castelló] [Montitxelvo]",38.8917456519,-0.3401508427
 5907010101,C/ Santísim Crist [Otos] (a demanda),38.8540448254,-0.4448378826
@@ -281,6 +280,7 @@ stop_id,stop_name,stop_lat,stop_lon
 5025380238,"Av. Costa Blanca, 61",38.3593352959,-0.4200158222
 5025380242,"Av. Costa Blanca, 11",38.3618424998,-0.4323889687
 150201232,"CV-435 km 15,89 asc - El Collado",39.288111,-0.761145
+143001132,"Av. Blasco Ibáñez, 56",39.389709,-0.718768
 5206020117,Toll L´Alberca [Torrent],39.420974,-0.503366
 5206020114,Urb. L´Alt II [Montserrat],39.383326,-0.551057
 5206020112,Urb. Colinas II [Montserrat],39.370769,-0.574352
@@ -4926,6 +4926,7 @@ stop_id,stop_name,stop_lat,stop_lon
 5233010107,"C/ Duc de Llíria, 19 [Llíria]",39.6279775079,-0.595531634
 5233010202,"C/ Duc de Llíria, 30 [Llíria]",39.6280901894,-0.5955502939
 5250500218,"C. San Antonio, 61",39.475818,-0.416516
+5206020131,"GV. Ramón y Cajal, 28",39.46758,-0.382772
 5250500107,"C/ Nou d Octubre, 21 [València]",39.4701859991,-0.40505
 5250500122,C/ Santos Justo y Pastor – Pasarela Aeropuerto [Manises],39.4944540745,-0.4701274476
 5250500125,"C/ Ceramista Alfonso Blat, 101 [Manises]",39.4992917197,-0.4753457944
@@ -4937,7 +4938,6 @@ stop_id,stop_name,stop_lat,stop_lon
 5250720124,"Av. al Vedat, 60 [Torrent]",39.433966887,-0.4699234912
 5250720140,Av. Río Turia – Parque [Chiva],39.4365950451,-0.5603590405
 925217900103,"Av. Real de Madrid, 144",39.427331,-0.393939
-5206020131,Gran Vía Ramón y Cajal – C/ Cervantes [València],39.467102,-0.382417
 5250500110,"C. San Antonio, 66",39.475971,-0.416759
 5250500103,"C/ Linares, 6 [València]",39.468981,-0.392186
 5250500106,"Av. del Cid, 108 [València]",39.469632,-0.403218
