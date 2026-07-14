@@ -304,6 +304,7 @@ stop_id,stop_name,stop_lat,stop_lon
 5906002000110,C. Pere Esplugues 88 [Alzira],39.1559966,-0.43005568
 5906002000111,C. Pere Esplugues 96 [Alzira],39.158056,-0.42987
 5906002000218,C- Santa Bàrbara 8 [Carcaixent],39.1265804,-0.44963858
+114502204,Av. Diputación - Ctra. CV-377,39.611367,-0.773505
 5101010112,Av. Castellón s/n (Consum) [Alcalà de Xivert],40.248649999,0.2754960001
 5101010113,Av. Blasco Ibáñez [Alcalà de Xivert],40.247466999,0.2787210001
 5101010114,Av. Valencia-Café del Temps [Alcalà de Xivert],40.245934999,0.2763450001
