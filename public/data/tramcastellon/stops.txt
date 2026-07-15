@@ -321,6 +321,7 @@ stop_id,stop_name,stop_lat,stop_lon
 19000010203,Castellon,39.986295184713526,-0.044097993831215675
 5012010208,"c. la Muntanyeta, 16 (La Xara) [Dénia]",38.8302762748,0.0645897792
 118601129,Rtd. Rosa dels Vents,39.432776,-0.428982
+114700204,"C. Ciutat d Ontinyent, 11",39.523269,-0.470093
 125101209,"Av. Elche, 174 (PI Agua Amarga)",38.301590223,-0.5319932497
 5102010108,"Av. Menéndez Pidal, 7 - Estació d Autobusos [València]",39.4812699991,-0.38553
 5102010206,Camí Vera - Av. Tarongers [València],39.4787863437,-0.3423701522
