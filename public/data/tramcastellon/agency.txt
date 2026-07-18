@@ -13,7 +13,6 @@ agency_id,agency_name,agency_url,agency_timezone,agency_lang
 5910,La Ribera Baixa – Algemesí – Alzira,https://www.autocaresfranjen.es/,Europe/Madrid,es
 5221,Playa de Oliva – Molinell,https://olibus.com/,Europe/Madrid,es
 5901,Font de la figuera – Xàtiva – Rafelguaraf – Pinet,http://www.chambitos.com/,Europe/Madrid,es
-5090,Alacant - Orihuela,http://costazul.net/,Europe/Madrid,es
 1901190601,Montserrat - València,https://www.metgovalencia.com,Europe/Madrid,es
 5213,Tavernes de la Valldigna - Valencia,http://www.lamarinagandiense.com/,Europe/Madrid,es
 5999,TRAM Castelló de la Plana,https://www.tramcastellon.com,Europe/Madrid,es
@@ -41,8 +40,6 @@ agency_id,agency_name,agency_url,agency_timezone,agency_lang
 9259,València - Benifaió,http://www.bunyol.com/,Europe/Madrid,es
 2076567001,La Vall d'Uixó - Castelló de la Plana,https://www.hicid.es,Europe/Madrid,es
 6020,Alacant – Torrellano [2021],https://movilidad.vectalia.es/empresas/alcoyana-2/,Europe/Madrid,es
-6023,Alacant – Villena e hijuelas [2021],https://movilidad.vectalia.es/empresas/triangulo/,Europe/Madrid,es
-6029,Elx – Arenales del Sol [2021],https://movilidad.vectalia.es/,Europe/Madrid,es
 1002,Vinaròs – Benicarló – Peníscola,https://www.autosmediterraneo.com/,Europe/Madrid,es
 2070900901,Utiel - Requena,https://autocaresmapex.es/,Europe/Madrid,es
 2211835201,València Metropolitana Sud,https://www.metgovalencia.com,Europe/Madrid,es
