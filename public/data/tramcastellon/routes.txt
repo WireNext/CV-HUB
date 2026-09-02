@@ -166,9 +166,6 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 590423,5904,L2C,Càrcer – Alberic (amb prolongació Sellent i Cotes a demanda),3
 590403,5904,L3,Navarrés – Alberic (prolongació Quesa i Bicorp a la demanda),3
 590601,5906,L1,Llombai – Hospital de Alzira,3
-500703,5007,L3,Dénia – Platja de Santa Ana,3
-500704,5007,L4,Denía – Hospital Comarcal,3
-500901,5009,L1,Xàbia-Calablanca,3
 501101,5011,L2,El Verger – Dénia,3
 501301,5013,L1,Vall de Laguar – Dénia,3
 1974833502,1932031151,L38A,L38A_Platja sant Joan - Universitat,3
@@ -236,8 +233,6 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 522101,5221,L1,Playa de Oliva – Oliva,3
 500301,5003,L1,Orihuela – Hospital,3
 2111014951,2044020301,L485a*,L485a*_La Font de la Figuera – Xàtiva,3
-500701,5007,L1,Dénia – Les Rotes,3
-500702,5007,L2,Dénia – Les Marines,3
 522102,5221,L2,Oliva – Campings,3
 2111014953,2070900901,L422,L422_Los Marcos (por las Monjas y Casas de Prada) – Venta del Moro – Caudete – Utiel (desde Casas de Moya a Venta del Moro a demanda),3
 2158856401,2070900901,L426,L426_Villagordo – Fuenterrobles – Caudete – Utiel,3
