@@ -6,6 +6,7 @@ agency_id,agency_name,agency_url,agency_timezone,agency_lang
 5031,Torrevieja – Aeroport L Altet Alacant-Elx,http://costazul.net/,Europe/Madrid,es
 5105,Castelló de la Plana - Alcañiz i Castelló de la Plana - Vinaròs,https://www.autosmediterraneo.com/,Europe/Madrid,es
 2703102101,Onda - Castelló de la Plana,https://autobusesfurio.com/,Europe/Madrid,es
+2843785601,Alacant - València,http://cegesem.gva.es,Europe/Madrid,es
 5210,Tous - Alberic amb prolongació a Alzira,https://autocaresbriz.es/,Europe/Madrid,es
 5013,Benidoleig-Dènia amb prolongació a Benimaurell,https://www.autocarsesteve.com/,Europe/Madrid,es
 5910,La Ribera Baixa – Algemesí – Alzira,https://www.autocaresfranjen.es/,Europe/Madrid,es
@@ -38,7 +39,6 @@ agency_id,agency_name,agency_url,agency_timezone,agency_lang
 6020,Alacant – Torrellano [2021],https://movilidad.vectalia.es/empresas/alcoyana-2/,Europe/Madrid,es
 1002,Vinaròs – Benicarló – Peníscola,https://www.autosmediterraneo.com/,Europe/Madrid,es
 2070900901,Utiel - Requena,https://autocaresmapex.es/,Europe/Madrid,es
-2358515851,La Hoya de Buñol - València,https://www.metgovalencia.com,Europe/Madrid,es
 2435796601,Alcoi Metropolitano,http://www.vectalia.es,Europe/Madrid,es
 5907,Otos – Gandia,https://olibus.com/,Europe/Madrid,es
 5025,Alacant Rodalia,https://movilidad.vectalia.es/empresas/alcoyana-2/,Europe/Madrid,es

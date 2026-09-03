@@ -4,6 +4,7 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 5101010,5101,L1,Alcalà – Las fuentes - Cap i Corp,3
 5907010,5907,L1,L1_Otos – Gandia,3
 2203541451,2203539301,L2,L2_Racó de Loix - Benidorm C - Calas - CC,3
+2843786501,2843785601,L1,L1_Alacant - València,3
 19000010,1270636001,L1,Castelló de la Plana – Alacant,3
 5102012,5102,L1b,Castelló de la Plana – Vila-real – València (lanzadera),3
 510713,5107,L13,Castelló de la Plana – Vilafamés,3
@@ -148,8 +149,6 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 2076567802,2076567001,L360a,"L360b_La Vall d'Uixó - Castelló de la Plana (desde Alfondeguilla a la demanda, hasta Estació)",3
 2076567804,2076567001,L362,L362_Platja d'Almenara - Almenara,3
 2076567805,2076567001,L363,L363_La Vall d'Uixó - Platja de Xilxes,3
-2358517351,2358515851,L430A,L430A_Turís – València,3
-2358517352,2358515851,L430B,L430B_Turís – València (per Quart de Poblet i Mislata),3
 2042522752,2042521951,L410b,L410b_Utiel - Requena - València (por Siete Aguas),3
 501102,5011,L3,Xaló-Orba-Dénia,3
 501201,5012,L1,Dénia-Xàbia,3
@@ -171,8 +170,6 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 1974833502,1932031151,L38A,L38A_Platja sant Joan - Universitat,3
 2004504753,1932031151,L36,L36_San Gabriel - Universitat,3
 2004504754,1932031151,L38B,L38B_Platja de Sant Joan - Hospital de Sant Joan,3
-2358517353,2358515851,L431A,L431A_Cheste - València,3
-2358517354,2358515851,L431B,L431B_Cheste - València (per urbanització Olimar),3
 2545581501,2545579951,L400a,L400a_Ademuz - València (a demanda entre Ademuz y Aras de los Olmos),3
 2100452963,2044020301,L489,L489_Pobla del Duc - Xàtiva,3
 2100452960,2044020301,L487b,L487b_Canals - Xàtiva (per Granja de la Costera),3
@@ -185,23 +182,15 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 2545583951,2545579951,L400c,L400c_Tuéjar - València,3
 2545583952,2545579951,L400d,L400d_Aras de los Olmos - València,3
 2100452955,2044020301,L481c*,L481c*_Atzeneta d'Albaida - Ontinyent,3
-2358517356,2358515851,L432B,L432B_Yátova - Turís - Hospital de Manises (per Loriguilla),3
-2358517355,2358515851,L432A,L432A_Yátova - Turís - Hospital de Manises (per Cheste),3
-2358517357,2358515851,L433A,L433A_Buñol - Hospital de Manises,3
-2358517358,2358515851,L433B,L433B_Godelleta - Buñol - Hospital de Manises,3
-2364538301,2358515851,L434,L434_Yátova - Turís - Playa,3
 2545581502,2545579951,L400b,L400b_Villar del Arzobispo - València,3
-2364538304,2358515851,L435C,L435C_Yátova – València (per Cheste i urbanització Olimar),3
 2076567803,2076567001,L360c,L360c_La Vall d'Uixó - Castelló de la Plana (fins UJI) Vila-Real solo hospital,3
 502801,5028,L1,Estació TRAM – Maviro,3
 502802,5028,L2,Estació de Calp – Parc de la Vallesa,3
 502803,5028,L3,Calpe Park – Moraira – Teulada,3
-2364538308,2358515851,L438B,L438B_València - La Reva i l'Oliveral,3
 510201,5102,L1,Castelló de la Plana-Vila-Real-València,3
 510202,5102,L2,Vinaròs-Castelló de la Plana-València (per N-340),3
 510203,5102,L3,Vinaròs-Castelló de la Plana-València (per AP-7),3
 2076567806,2076567001,L364,L364_La Vall d'Uixó - Platja de Mocofa,3
-2364538302,2358515851,L435A,L435A_Yátova – València,3
 2076567807,2076567001,L365a,L365a_Eslida - Castelló de la Plana (desde Aín fins la UJI),3
 590502,5905,L2,La Font d En Carròs – Gandia,3
 590503,5905,L3,Villalonga – Gandia,3
@@ -210,7 +199,6 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 2076567808,2076567001,L365b,L365b_Eslida - Castelló de la Plana (desde Aín fins EEAA),3
 2545581503,2545579951,L401d,L401d_Puebla de san Miguel - Ademuz (a demanda),3
 2545581504,2545579951,L401f,L401f_Cuesta del Rato - Mas de Jacinto - Torrebaja - Ademuz (a demanda),3
-2364538306,2358515851,L437,L437_Cortes de Pallás - Buñol,3
 2545581505,2545579951,L401g,L401g_Casas Bajas - Los Santos - Ademuz - Torrebaja (a demanda),3
 2551505851,2545579951,L402,L402_Arcos de las Salinas - Alpuente - Titaguas (a demanda),3
 2551505854,2545579951,L403c,L403c_Sot de Chera - Villar del Arzobispo (vuelta a demanda),3
@@ -222,9 +210,6 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 2076567810,2076567001,L365d,L365d_Betxí - Castelló de la Plana (EEAA),3
 2111014955,2044020301,L482*,L482*_Banyeres - Ontinyent,3
 2551505853,2545579951,L403b,L403b_Andilla - Oset - Villar del Arzobispo (vuelta a demanda),3
-2364538303,2358515851,L435B,L435B_Yátova – València (per Cheste),3
-2364538305,2358515851,L436,L436_Buñol - Playa,3
-2364538307,2358515851,L438A,L438A_València - ONU y Air Nostrum - La Reva i l'Oliveral,3
 2083379804,1932031151,L23N,L23N_Alacant - Mutxamel (Nocturn),3
 2083379802,1932031151,L24,L24_Alacant - Sant Vicent del Raspeig,3
 2146245651,2070900901,L420a,L420a_Salvacañete – Landete – Utiel – Requena,3
