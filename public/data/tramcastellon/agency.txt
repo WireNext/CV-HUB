@@ -9,6 +9,7 @@ agency_id,agency_name,agency_url,agency_timezone,agency_lang
 2843785601,Alacant - València,http://cegesem.gva.es,Europe/Madrid,es
 5210,Tous - Alberic amb prolongació a Alzira,https://autocaresbriz.es/,Europe/Madrid,es
 5013,Benidoleig-Dènia amb prolongació a Benimaurell,https://www.autocarsesteve.com/,Europe/Madrid,es
+2844733851,Xàtiva - Carcaixent - Simat de la Valldigna - Gandia,http://cegesem.gva.es,Europe/Madrid,es
 5910,La Ribera Baixa – Algemesí – Alzira,https://www.autocaresfranjen.es/,Europe/Madrid,es
 5221,Playa de Oliva – Molinell,https://olibus.com/,Europe/Madrid,es
 5901,Font de la figuera – Xàtiva – Rafelguaraf – Pinet,http://www.chambitos.com/,Europe/Madrid,es
