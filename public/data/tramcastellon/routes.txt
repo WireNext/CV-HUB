@@ -31,6 +31,7 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 2435797501,2435796601,L1,L1_Alcoi - Cocentaina - Muro de Alcoy,3
 590600200,5906,L2,Carcaixent – Alzira – Algemesí - València,3
 2844734851,2844733851,L1,L1_Simat de la Valldigna - Gandia,3
+2863103351,2863102451,L1,L1_Calp - Moraira - Teulada,3
 100200103,1002,L1,Vinaròs – Benicarló – Peníscola (12-2021 a 09-2022),3
 590102,5901,L2,Carcelén – Xàtiva,3
 590103,5901,L3,Pinet – Xàtiva,3
