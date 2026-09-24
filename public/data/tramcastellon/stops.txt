@@ -1744,7 +1744,6 @@ stop_id,stop_name,stop_lat,stop_lon
 58020021224,ADIF Segorbe [Segorbe],39.846469,-0.483238
 58020041107,ADIF Segorbe (front) (a demanda línea Vall de Almonacid-Segorbe) [Segorbe],39.846415,-0.483332
 17130010121,"Av. La Marina, 1J",38.659978,0.081689
-17130010125,"Av. La Marina - Fanadix, 71A front",38.674262,0.094006
 5006100135,"Av. de l Albir, 65 [Alfàs del Pi, l]",38.572631999,-0.065974
 5006100136,"Av. Oscar Esplá, 16 [Alfàs del Pi, l]",38.57482037,-0.0660311049
 5006100137,"Av. Oscar Esplá, 4 [Alfàs del Pi, l]",38.5773955831,-0.066032805
@@ -1798,8 +1797,6 @@ stop_id,stop_name,stop_lat,stop_lon
 143801113,C. F - P.I. L Oliveral,39.475399,-0.539648
 5006100122,"Av. Comunitat Valenciana, front 67 [Benidorm]",38.5584539972,-0.1008672809
 57050240227,"Av. Federico Soto, 1",38.343976,-0.489416
-17130010130,"CV-746 km 9,6 asc",38.685843,0.124599
-17130010208,"Av. La Marina - Baladrar, 66",38.675025,0.101465
 5006200118,"Ctra. CV - 755, 21B [Altea]",38.627567999,-0.040122
 5006200120,"Ctra. CV - 755, 62 [Altea]",38.6306863268,-0.0445619776
 5006200121,"Ctra. CV - 755, 11 [Altea]",38.631611999,-0.047845
@@ -1853,8 +1850,6 @@ stop_id,stop_name,stop_lat,stop_lon
 58020041201,ADIF Segorbe (a demanda línea Vall de Almonacid-Segorbe) [Segorbe],39.846469,-0.483238
 58020042203,ADIF Segorbe (front) (a demanda linea Almedíjar-Segorbe) [Segorbe],39.846415,-0.483332
 59130011110,ADIF [Almansa],38.8684431501,-1.106042776
-17130010213,"Av. La Marina - Les Bassetes, 324",38.662911,0.087501
-17130010214,"Av. La Marina, 11C",38.660111,0.081783
 5107510203,"C. Clariano, 36",39.4778100665,-0.3512964405
 5107260103,"Ctra. la Vall d Uixó, 42",39.8574214692,-0.1826615636
 5107510105,"Av. País Valencià, 17",39.7523903401,-0.2247598863
@@ -1870,10 +1865,8 @@ stop_id,stop_name,stop_lat,stop_lon
 5107610101,av. Valencia [Cortes de Arenoso],40.1862427411,-0.5421422143
 5028010109,"Av. Europa, 8",38.642768,0.058544
 5028010113,"C. Gibraltar, 6",38.641191,0.071717
-17130010119,"Av. La Marina, 21 front",38.651285,0.072922
-17130010127,"Av. La Marina - Baladrar, 66 front",38.674948,0.101504
 5403010112,"Av. Mediterrani, 100",38.727232,0.102433
-17130010205,"CV-746 km 9,6 des",38.685937,0.124497
+17130010104,Av. Masnou - Pl. El Salvador,38.643488,0.042046
 5107910107,"Mas de Picando [Useres, les]",40.2156756875,-0.1193181217
 5107910101,c. El Portalet [Vistabella del Maestrat],40.294643999,-0.289996
 17030010103,"Av. Juan Gil Albert, 42",38.709251,-0.468843
@@ -1914,14 +1907,11 @@ stop_id,stop_name,stop_lat,stop_lon
 5023280127,Fte ADIF [Elda],38.4854084603,-0.8005964861
 5023010104,Term. Bus Aspe [Aspe],38.3488459991,-0.768183
 17030010215,"C. Na Saurina d Entença, 23",38.70099,-0.480555
-17130010104,Av. Masnou - Pl. El Salvador,38.643488,0.042046
 5023010108,Est. Novelda [Novelda],38.4060669991,-0.775895
 5028010114,"Av. Costa Blanca, 5B front",38.644336,0.071051
 5023010116,La Morenica [Villena],38.6468979991,-0.870734
 5023010210,C.Campo (Elda) [Elda],38.4655712644,-0.7859375266
 5023010211,Est.Novelda [Novelda],38.4060523679,-0.7759838577
-17130010122,"Av. La Marina - Les Bassetes, 309",38.663095,0.087771
-17130010210,"Av. La Marina - Fanadix, 71X",38.674384,0.093791
 5023110107,Av.Elche-Noveld [Novelda],38.3813909991,-0.770008
 5023110111,Frte. Bar Lara [Monòver],38.4353306461,-0.8406686956
 116001207,"C. Solidaritat, 4",39.475878,-0.457477
@@ -1992,11 +1982,13 @@ stop_id,stop_name,stop_lat,stop_lon
 5023290111,Ciudad Deportiv [Elda],38.4670450749,-0.809901948
 5023290112,Fte. Reves [Elda],38.4584049581,-0.81083779
 5023290113,Fte. Gasolinera [Elda],38.4501588263,-0.8125997292
+17130010119,"Av. La Marina, 21 front",38.651285,0.072922
 5023290116,Ronda Forca [Monòver],38.4347151683,-0.8324769715
 5023290117,Garage Sol [Monòver],38.4339675799,-0.8384815113
 5023290119,Convento [Monòver],38.4390325365,-0.8470129269
 5023290204,General Verdu [Monòver],38.4338807064,-0.8384703289
 5023290206,Car.Monovar [Monòver],38.437326134,-0.8289278177
+17130010122,"Av. La Marina - Les Bassetes, 309",38.663095,0.087771
 5023290209,Rte.Reves [Elda],38.4584378953,-0.8106236763
 5023290210,C.Ex.Eldense [Elda],38.4671308382,-0.8094110747
 5023290211,Av.Monovar [Elda],38.4731348001,-0.8049236513
@@ -2037,6 +2029,7 @@ stop_id,stop_name,stop_lat,stop_lon
 5029010102,"Av. Novelda, 57",38.2726321013,-0.7112101284
 5029010108,"Av. Alacant, 74",38.2696891327,-0.6815896934
 5029010217,"Av. Alacant, 103 (Nou Altabix)",38.2728469991,-0.669937
+17130010125,"Av. La Marina - Fanadix, 71A front",38.674262,0.094006
 5029010218,"Av. Alacant, 59",38.2698279991,-0.68166
 116500110,C. Catedràtic Escardino Benlloch - Parc Científic,39.515025,-0.422432
 5029020104,B.S.Anton-P-S.P [Elx],38.2643612064,-0.6745885187
@@ -2078,6 +2071,8 @@ stop_id,stop_name,stop_lat,stop_lon
 5029010109,Via Parc (L Omet) - P. Empresarial - CV-86 pk 13+000 descendente [Elx],38.288504,-0.651477
 5029010118,"Av. Cartagena, 27 - El Altet [Elx]",38.2736923548,-0.5393049617
 5029010101,Carrus (Tanatori) [Elx],38.27854,-0.717753
+17130010127,"Av. La Marina - Baladrar, 66 front",38.674948,0.101504
+17130010130,"CV-746 km 9,6 asc",38.685843,0.124599
 5027010107,Escuelas [Elx],38.253455,-0.667222
 5027010108,La Nave [Elx],38.2482699214,-0.6650664507
 5029010203,"Av. San Bartolome De Tirajana, 45 Ii [Elx]",38.2531746879,-0.5173518447
@@ -2114,6 +2109,7 @@ stop_id,stop_name,stop_lat,stop_lon
 5250740208,"CV-4034, frente 129 – Convento [Torrent]",39.445808,-0.461918
 115309131,"C. Sant Vicent Màrtir, 155",39.461737,-0.38238
 5252010121,"C. Sant Vicent Màrtir, 373",39.443542,-0.38739
+17130010205,"CV-746 km 9,6 des",38.685937,0.124497
 5250060103,"Av. al Vedat, 105 – Metro [Torrent]",39.43196,-0.47261
 110611109,"C. Pablo Iglesias, 12 front",39.450189,-0.45987
 5029020238,Cent.Social - V [Elx],38.2511189203,-0.6340905028
@@ -2142,6 +2138,7 @@ stop_id,stop_name,stop_lat,stop_lon
 115309122,"Ctra. Benetússer, 66",39.42691,-0.407417
 115309123,"Ctra. Benetússer, 76",39.426586,-0.405405
 115309203,"Av. Giorgeta, 30",39.458804,-0.384407
+17130010208,"Av. La Marina - Baladrar, 66",38.675025,0.101465
 5250060102,"Av. al Vedat, 147",39.428848,-0.477444
 115309209,"Ctra. Benetússer, 53",39.426756,-0.405483
 115309210,"Ctra. Benetússer, 43",39.427078,-0.407439
@@ -2159,6 +2156,15 @@ stop_id,stop_name,stop_lat,stop_lon
 115309223,Ctra. CV-4064 - Séquia Picanya front,39.438322,-0.454963
 115309224,"C. Picanya, 41",39.441097,-0.458079
 115309225,"C. Picanya, 29",39.441442,-0.460216
+17130010210,"Av. La Marina - Fanadix, 71X",38.674384,0.093791
+17130010213,"Av. La Marina - Les Bassetes, 324",38.662911,0.087501
+17130010214,"Av. La Marina, 11C",38.660111,0.081783
+19180010108,"C. Reis Catòlics, 44 front",38.963871,-0.189521
+19180010109,"C. Rafelcofer, 20",38.960951,-0.184498
+19180010110,Rda. Albaida - C. Rótova,38.959924,-0.180176
+19180010203,"Av. Raval, 36",38.961984,-0.182956
+19180010204,"C. Reis Catòlics, 44",38.963987,-0.189491
+19180021105,"Av. Comunitat Valenciana, 72-80",39.029136,-0.215115
 5251460110,C/ Vereda - Via de servei - front Discoteca Queen [San Antonio de Benagéber],39.5527224942,-0.4864326688
 5251460126,C/ Camilo José Cela s/n - frente C.C. El Osito [L Eliana],39.5787231453,-0.5283423277
 5251460127,C/ Camilo José Cela s/n - C.C. El Osito [L Eliana],39.5786234532,-0.5284777748

@@ -52,11 +52,14 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 10020015,1002,L1B1,L1B1_Vinaròs – Benicarló – Peníscola (per RENFE) (sin corte),3
 10020017,1002,L1B2,L1B2_Vinaròs – Benicarló – Peníscola (per RENFE) (con corte),3
 2551505856,2545579951,L405b,L405b_Marines - Llíria - Hospital de Llíria,3
+2864046101,2864045001,L1,L1_Barx - Gandia,3
 590603,5906,L3,Riola – Algemesí – Guadassuar,3
 590604,5906,L4,Sollana – Alginet – Hospital Alzira,3
 2439533002,2435796601,L8,L8_Alcoi - Benilloba - Benasau (amb prolongació a la demanda),3
+2864046102,2864045001,L2a,L2a_Xeraco - Gandia,3
 2439533003,2435796601,L9,L9_Banyeres de Mariola - Villena,3
 2551505857,2545579951,L406,L406_Alcublas - Llíria,3
+2864046103,2864045001,L2b,L2b_Platja de Xeraco - Gandia,3
 2435797502,2435796601,L2,L2_Alcoi - Cocentaina - Muro de Alcoy (per Alcudia i Alquería d' Asnar),3
 2435797503,2435796601,L3,L3_Banyeres de Mariola - Alcoi,3
 2435797504,2435796601,L4,L4_Alcoi - Benilloba - Gorga - Famorca (a la demanda),3
