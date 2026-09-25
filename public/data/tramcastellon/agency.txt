@@ -1,5 +1,5 @@
 agency_id,agency_name,agency_url,agency_timezone,agency_lang
-2545579951,La Serranía - València,https://trivago.com/autobuses-hispano-chelvana/,Europe/Madrid,es
+2545579951,La Serranía - València,https://transviago.com/autobuses-hispano-chelvana/,Europe/Madrid,es
 5003,Callosa del Segura-Hospital comarcal-Orihuela,http://costazul.net/,Europe/Madrid,es
 5011,Xaló-El Verger,http://autocarescarrio.es/,Europe/Madrid,es
 5012,Dénia-Xàbia,http://autocarescarrio.es/,Europe/Madrid,es
@@ -14,6 +14,7 @@ agency_id,agency_name,agency_url,agency_timezone,agency_lang
 2864045001,Barx/Xeraco - Gandia,http://cegesem.gva.es,Europe/Madrid,es
 5910,La Ribera Baixa – Algemesí – Alzira,https://www.autocaresfranjen.es/,Europe/Madrid,es
 5221,Playa de Oliva – Molinell,https://olibus.com/,Europe/Madrid,es
+2865012901,Carcaixent - Alzira - Algemesí,http://cegesem.gva.es,Europe/Madrid,es
 5901,Font de la figuera – Xàtiva – Rafelguaraf – Pinet,http://www.chambitos.com/,Europe/Madrid,es
 5213,Tavernes de la Valldigna - Valencia,http://www.lamarinagandiense.com/,Europe/Madrid,es
 5999,TRAM Castelló de la Plana,https://www.tramcastellon.com,Europe/Madrid,es
