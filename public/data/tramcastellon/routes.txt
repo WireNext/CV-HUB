@@ -65,13 +65,13 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 2435797504,2435796601,L4,L4_Alcoi - Benilloba - Gorga - Famorca (a la demanda),3
 2438296404,2435796601,L6C,"L6C_Muro de Alcoy - Planes (per Benimarfull, Benillup, Almudaina i Benialfaquí)",3
 5025530,5025,L53,L53_Hospital de Sant Joan-Sant Joan-El Campello,3
-2865013651,2865012901,L1,L1_Carcaixent - Alzira - Algemesí,3
 2703103905,2703102101,L341a,L341a_Puebla de Arenoso - Onda,3
 2505855452,2042521951,L410d,L410d_Utiel - Requena - València (por Hospital),3
-2865013652,2865012901,L2,L2_Carcaixent - Alzira - Hospital - Algemesí,3
+2865013651,2865012901,L1,L1_Carcaixent - Alzira - Algemesí,3
 10020012,1002,L1B,L1B_Vinaròs – Benicarló – Peníscola (per RENFE),3
 51050082,5105,L8B,Castelló de la Plana - Benicàssim - Playetas - Oropesa - Oropesa platja (VERANO),3
 2703103906,2703102101,L341b,L341b_Montanejos - Onda,3
+2865013652,2865012901,L2,L2_Carcaixent - Alzira - Hospital - Algemesí,3
 59990010,5999,T1,UJI – Grau,3
 2703103901,2703102101,L340a,"L340a_Onda – Castelló de la Plana (por Vila-real y Hospital de la Plana, fins UJI)",3
 2703103902,2703102101,L340b,"L340b_Onda – Castelló de la Plana (por Vila-real y Hospital de la Plana, fins Estació)",3

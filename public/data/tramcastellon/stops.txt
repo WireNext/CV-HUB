@@ -2212,6 +2212,7 @@ stop_id,stop_name,stop_lat,stop_lon
 17030040208,"CV-754 km 4,81 des - Av. Pais Valencià (a demanda)",38.722362,-0.315385
 17030040209,"Ctra. Quatretonda, 25 (a demanda)",38.720002,-0.356178
 17030040210,"Av. València, 6 front (a demanda)",38.698951,-0.390538
+19190010210,"Av. Sants Patrons, s.n",39.149604,-0.439037
 17030063106,"Ps. Alfaquí, 3 front - Benialfaquí",38.772741,-0.338849
 5251460120,"Av. de les Delícies, 21 [L  Eliana]",39.5614624216,-0.5245919823
 5250500117,"C/ València, 41 [Manises]",39.4863969991,-0.450381
