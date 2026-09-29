@@ -29,7 +29,6 @@ agency_id,agency_name,agency_url,agency_timezone,agency_lang
 5101,Alcalà de Xivert - Alcossebre,https://www.autosmediterraneo.com/,Europe/Madrid,es
 1980348601,Alto Palancia - Sagunt - València,https://www.monbus.es,Europe/Madrid,es
 1932031151,Alacant Metropolitano,http://www.vectalia.es,Europe/Madrid,es
-5028,Estació de Calp – Penyal d Ifach e filloles,https://autobusesifach.es/,Europe/Madrid,es
 2042521951,Ayora - Requena - València,https://transviago.com/autobuses-bunyol/,Europe/Madrid,es
 1620431001,València - Alacant/Elx,https://www.alsa.es/regionales/comunidad-valenciana,Europe/Madrid,es
 2044020301,Ontinyent - Xàtiva,https://transviago.com/autobuses-la-concepcion/,Europe/Madrid,es

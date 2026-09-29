@@ -192,9 +192,6 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 2100452955,2044020301,L481c*,L481c*_Atzeneta d'Albaida - Ontinyent,3
 2545581502,2545579951,L400b,L400b_Villar del Arzobispo - València,3
 2076567803,2076567001,L360c,L360c_La Vall d'Uixó - Castelló de la Plana (fins UJI) Vila-Real solo hospital,3
-502801,5028,L1,Estació TRAM – Maviro,3
-502802,5028,L2,Estació de Calp – Parc de la Vallesa,3
-502803,5028,L3,Calpe Park – Moraira – Teulada,3
 510201,5102,L1,Castelló de la Plana-Vila-Real-València,3
 510202,5102,L2,Vinaròs-Castelló de la Plana-València (per N-340),3
 510203,5102,L3,Vinaròs-Castelló de la Plana-València (per AP-7),3
