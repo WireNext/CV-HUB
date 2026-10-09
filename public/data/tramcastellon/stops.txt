@@ -95,24 +95,12 @@ stop_id,stop_name,stop_lat,stop_lon
 5001020114,Entroncament Santa Pola [N-332] [Santa Pola],38.1963549991,-0.561588
 5001020203,av. La Alegría [La Marina] [Elx],38.1427969991,-0.646522
 5001020207,San Francisco de Asís 4 [San Fulgencio],38.1332499991,-0.690774
-5909010101,"Plaza de la Constitución, 5 [Carricola]",38.8401068099,-0.4717759071
 5909010102,"Calle Viregen de los Desamparados, 4 [Atzeneta d Albaida]",38.8343551674,-0.4965297131
 5909010104,"Carrer la Creu, 23 [El Palomar]",38.8529687685,-0.5031447426
-5909010105,"CV-667, 20 [Bèlgida]",38.8620044943,-0.4753582146
 5909010107,"Avinguda Sant Pancraci, 66 [Montaberner]",38.8899419104,-0.4940871247
-5909010108,"Avinguda de València, 5 [Alfarrasí]",38.9029115419,-0.4951739813
-5909010109,"Carretera Alfarrasí, 2 [front] [Benissuera]",38.9134562487,-0.4788892367
-5909010110,CV-6132 [Sempere],38.9190038206,-0.4809069835
-5909010111,"Avinguda de la Constitució, 12 [Guadasséquies]",38.9244539499,-0.4882074719
-5909010112,N-340 [Bellús],38.946558562,-0.4886434227
-5909010204,"Avinguda de la Constitució, 12 [front] [Guadasséquies]",38.9243683727,-0.4881563223
-5909010205,CV-6132 [front] [Sempere],38.91894999,-0.4809546115
-5909010206,"Carretera Alfarrasí, 2 [Benissuera]",38.9136024238,-0.4790786731
-5909010207,"Avinguda de València, 5 [front] [Alfarrasí]",38.9029764942,-0.4952982835
 5909010208,"Avinguda Sant Pancraci, 66 [front] [Montaberner]",38.8898213352,-0.4939741564
 5909010211,"Carrer la Creu, 23 [front] [El Palomar]",38.8530988611,-0.5032201998
 51040400206,Av. València front C/ Diputació (front marquesina) [Gaibiel],39.92658864814445,-0.49307129983359127
-5907010105,"Camí de Rafol, frente a 20 [Castelló de Rugat]",38.87358716,-0.3808846039
 5014060101,Estanco - I [Bacarot],38.3133950100,-0.5612263596
 5014060102,Cas.Bacarot - I [Bacarot],38.3196389163,-0.5578728085
 5907010108,"Av. Constitució, 13 [Ctra. CV-619 Km 5,9] [sentit Gandia] [Montitxelvo]",38.8917729991,-0.339594
@@ -131,8 +119,8 @@ stop_id,stop_name,stop_lat,stop_lon
 925217900102,"C. València, 34",39.433448,-0.410946
 5907010209,"Av. Constitució, 6 [Ctra. CV-619 Km 5,9] [sentit Castelló] [Montitxelvo]",38.8917456519,-0.3401508427
 5907010101,C/ Santísim Crist [Otos] (a demanda),38.8540448254,-0.4448378826
-5907010102,"Ctra. CV-615 Km 12,1 [sentit Ràfol] [Bemiatjar] (a demanda)",38.8491651627,-0.4167990759
-5907010103,"Ctra. CV-615 Km 15,7 [C/ Carretera de Beniatjar S/N] [Ràfol de Salem] (a demanda)",38.8657789991,-0.396656
+5907010102,"CV-615 km 11,55 asc",38.849165,-0.416799
+5907010103,Pl. del Pi,38.865779,-0.396656
 5001020112,La Marina III [Elx],38.1364729991,-0.648409
 5001020204,La Marina III (front) [Elx],38.1365029991,-0.648471
 5001020205,Camping La Marina (front) - La Marina II [Elx],38.1306219991,-0.650092
@@ -140,16 +128,16 @@ stop_id,stop_name,stop_lat,stop_lon
 5105010211,"Pl. Els Hostals, 37 [Cabanes]",40.1554361546,0.0442764616
 5210010202,Barri del Figueral - CV+541 pk 1+960 ascendente [Alberic],39.126059908,-0.5543561558
 57050210240,"C. Rafael Altamira, 3",38.344397,-0.482776
-5909010106,"Carrer la Pau, 11 [Bufalí]",38.867750,-0.513683
 925217900217,"C. València, 34 front",39.433618,-0.411092
-5907010212,"Camí de Rafol, 20 [Castelló de Rugat]",38.8736544659,-0.38089687
 925217900218,"Av. Francesc Ciscar, 1 - Metro Paiporta",39.432109,-0.418031
 925218000218,"Av. Real de Madrid, 15",39.434951,-0.390797
 51050100107,"Plaça Rabal, 13 [La Pobla de Tornesa]",40.102668,-0.001338
 925218210138,"C. València, 109",39.366997,-0.410226
 143201208,"Av. Líria, 8 front",39.491148,-0.688923
-5202110105,"Real de Gandia [Real de Gandia, el] (a demanda)",38.947086,-0.193677
-5202110207,Estación Intermodal [Gandia] (a demanda),38.970549,-0.180207
+5907010212,"Av. Camí Reial, 67",38.873654,-0.380897
+5907010215,"CV-615 km 11,55 des",38.849311,-0.416697
+5202110207,Estación Intermodal Gandia (a demanda),38.970549,-0.180207
+5202110105,"Pl. Llibertat, 7 front (a demanda)",38.947086,-0.193677
 19000010101,Castellon,39.98630229978365,-0.04425585926188858
 19000010102,Valencia,39.47576037867329,-0.3563671101407183
 51051200109,Passeig Universitat 8 [Castelló de la Plana],39.991494,-0.058649
@@ -162,7 +150,6 @@ stop_id,stop_name,stop_lat,stop_lon
 137000122,"C. Llano de Zaidia, 1",39.482893,-0.377420
 5012010104,Marriott [Dénia],38.8081790835,0.0752273495
 5907010211,"Ctra. CV-619 Km 3,2 [front] [Rugat] (a demanda)",38.881013578,-0.3631776233
-5907010215,"Ctra. CV-615 Km 12,1 [sentit Ràfol] [front] [Bemiatjar] (a demanda)",38.8493106452,-0.4166971648
 51051200106,"Rd. Mijares, 11",39.98694,-0.042615
 5025940103,"Rambla Méndez Núñez, 40",38.3463823825,-0.4842506659
 5025300216,"CV-824 km 3,22 des - C. Xaloc",38.3966851354,-0.579639278
@@ -324,8 +311,8 @@ stop_id,stop_name,stop_lat,stop_lon
 137102106,"Pl. German Monleón, 6 (a demanda)",39.9125754426,-0.5725071308
 137102108,IES Jèrica-Viver (a demanda),39.91801,-0.586047
 137102204,"Pl. German Monleón, 2 (a demanda)",39.9125026409,-0.5723941322
-137102207,"Av. Montán, 2 (a demanda)",39.948107318,-0.5682363814
-137201106,"C. Alicante, 5 (a demanda)",39.8497838927,-0.4873138424
+137201106,"C. Alicante, 5 (a demanda)",39.849784,-0.487314
+137102207,"Av. Montán, 2 (a demanda)",39.948107,-0.568236
 125101104,"C. Almoeixa, 10 (Polígon Botx)",38.252067,-0.776615
 5403010106,Estació Autobusos Benidorm,38.549432,-0.125376
 51020120203,Av. França (front ADIF) [Vila-real],39.933049,-0.097364
@@ -342,7 +329,6 @@ stop_id,stop_name,stop_lat,stop_lon
 5102020117,Llave Europa [Benicàssim],40.0508619815,0.0567731238
 5102020122,"C/ Ferrocarril, 2 (Lim. Terme Castelló) [Almassora]",39.9597449182,-0.0710962904
 5102020124,"c. 25 de Junio s/n [Alqueries, les]",39.8975735501,-0.1210205457
-137201202,"C. Alicante, 2 (a demanda)",39.8498663662,-0.487368509
 5102020212,"C/ 25 de junio s/ [Alqueries, les]",39.8976572772,-0.1212214832
 5102020214,av. València-Ralla [Almassora],39.9595800479,-0.0709637097
 5102020216,"Plaça País Valenciano, 9 [Castelló de la Plana]",39.9806084927,-0.0418469233
@@ -371,7 +357,6 @@ stop_id,stop_name,stop_lat,stop_lon
 5009010207,av. Fontana [Xàbia],38.775430,0.189209
 5009010208,"Av. Augusta, front IES Nº1 [Xàbia]",38.779741,0.187456
 5205030211,plaça Andrés Piles (av Pais Valencià) [Cullera],39.161780999,-0.249481
-5009010209,"Av. Lepanto, front 4 - Port de Xàbia",38.782353,0.185167
 5205040107,Estació de Trens [Cullera],39.177915999,-0.263098
 5009010210,"Av. del Port, 13 (Asilo de Xàbia)",38.786497,0.182927
 5205050103,C/ del Camí de la Bega de Mar [Sueca],39.2349860743,-0.2539532242
@@ -382,6 +367,8 @@ stop_id,stop_name,stop_lat,stop_lon
 5015020110,Policia [Tibi],38.532414,-0.579515
 5256120219,"Av. Verge del Puig, 6",39.587687,-0.299753
 5028030217,"Av. Exércits Espanyols, 4 front",38.645165,0.050421
+5009010209,"Av. Lepanto, front 4 - Port de Xàbia",38.782353,0.185167
+137201202,"C. Alicante, 2 (a demanda)",39.849866,-0.487369
 5205010110,"C. Sueca, 11",39.158268,-0.430681
 5205010202,"C. Sueca, 16",39.157817,-0.430916
 5105170212,"C/San Antonio, 26 [Torreblanca]",40.220390999,0.1945800001
@@ -390,7 +377,6 @@ stop_id,stop_name,stop_lat,stop_lon
 5009010212,Ronda Nord 5 (Correos) [Xàbia],38.793065,0.172397
 5009010213,Rotonda L’Olivera [Xàbia],38.792005,0.168843
 5009010214,av. Palmera (Farmacia) [Xàbia],38.790066,0.163008
-137501106,"CV-221 km 1,4 asc (Parking) (a demanda)",39.804017,-0.410923
 137501119,"Av. Sants de la Pedra, 87",39.682806,-0.281625
 137600109,"C. Montgó, 2A front",39.677301,-0.218325
 5218010101,Calle del Desmonte (plaza hermita) [Salvacañete],40.0997769991,-1.501236
@@ -432,6 +418,7 @@ stop_id,stop_name,stop_lat,stop_lon
 5256120220,"Av. Verge del Puig, 31 front - Monestir",39.587648,-0.30376
 137202104,Segorbe - ADIF (a demanda),39.846984,-0.482536
 58020042104,ADIF Segorbe (a demanda linea Almedíjar-Segorbe) [Segorbe],39.846469,-0.483238
+137501106,"CV-221 km 1,4 asc - Parking (a demanda)",39.804017,-0.410923
 5218010112,"N-330 km 202,74 des (La Torre)",39.668534,-1.260363
 5014010201,"C. Sant Vt. Ferrer, 8-10",38.245378,-0.808572
 5225010204,"Av. Comunitat Valenciana, 48-50",39.030838,-0.216516
@@ -508,7 +495,7 @@ stop_id,stop_name,stop_lat,stop_lon
 5015150206,"El Vincle – Mestre Breton [Campello, el]",38.4330786682,-0.4058995055
 5015150202,"Av. Germanies, 24",38.4304930674,-0.3946038296
 5015150209,ctra. CV-773 – Pisnella I [Busot],38.4746408805,-0.4242447538
-5104020222,"Av. Montán, 2",39.948107318,-0.5682363814
+5104020222,"Av. Montán, 2",39.948107,-0.568236
 5015140101,"Av. Carlos Soler, 50",38.414836,-0.44461
 58020032101,"C. Mayor, 16 (a demanda)",39.97346,-0.482181
 5015090205,Montesol CV-795 km 9+420 descendente [Alcoi],38.6837484393,-0.574992282
@@ -739,7 +726,6 @@ stop_id,stop_name,stop_lat,stop_lon
 5105140109,Carretera Morella (Tanatori) [Castelló de la Plana],39.992719999,-0.055535
 5105140110,J. M.ª Mulet (EOI) [Castelló de la Plana],39.9939943441,-0.0599659463
 5105140111,J. M.ª Mulet (M- Useres) [Castelló de la Plana],39.9932710423,-0.0626484113
-5105140112,UJI (Ágora) [Castelló de la Plana],39.994463999,-0.068611
 5105160224,Av. del Mar 43 [Castelló de la Plana],39.984731999,-0.029048
 5025210239,"Av. Villajoyosa, 5",38.3497487892,-0.4722516506
 5105230108,Aquarama [Benicàssim],40.049294999,0.053916
@@ -822,8 +808,8 @@ stop_id,stop_name,stop_lat,stop_lon
 5025310115,"C. Eduardo Aunos, 6",38.3976158753,-0.4317661215
 5025310116,"Av. Catedrático Sala Pérez, 4",38.3965968471,-0.4294859814
 5025310117,"Av. Catedrático Sala Pérez, 16",38.3959291044,-0.4277765434
-58020021106,CV-2210 [Sot de Ferrer],39.804017,-0.410923
 5025230124,"C. Major, 71",38.399164,-0.435957
+58020021106,"CV-221 km 1,4 asc - Parking",39.804017,-0.410923
 5014010119,"C. Marie Curie, 6 - Hospital (Parc Industrial)",38.2877994971,-0.6167502278
 5014010128,"Av. Llibertat, 152 (Cementeri)",38.2624959991,-0.715033
 5014010136,"C. San Vte. Ferrer, 43",38.2464515,-0.8046162
@@ -1084,7 +1070,6 @@ stop_id,stop_name,stop_lat,stop_lon
 5020010111,Av. Elche (EUIPO),38.3129497069,-0.5166987891
 5020010101,"Pl. Puerta de la Mar, s.n",38.344334,-0.479484
 5020020102,"Av. Catedrático Soler, 8 (Policia)",38.3397652,-0.49586055259106193
-5020020103,"Av. Catedrático Soler, 50",38.3395683,-0.4985038
 5024010104,"C. Magraner, 10 front (Col·legi Tamarit)",38.2648412754,-0.6839885233
 5024010105,C. Avet - Hospital General Elx,38.259670,-0.683834
 5024010106,"CV-865 km 0,8 asc (Les Atzavares altes)",38.2583773174,-0.66990233
@@ -1114,6 +1099,7 @@ stop_id,stop_name,stop_lat,stop_lon
 5025240205,"C. Ancha de Castelar, 51",38.3971,-0.522367
 5020010106,"Av. Óscar Esplá, 3",38.339415,-0.493771
 5025240211,"C. Alicante, 92 - Universitat Alacant",38.386051,-0.509995
+5020020103,"Av. Catedrático Soler, 50",38.339543,-0.501146
 5024010110,ctra. Santa Pola – Rotonda [Elx],38.2474530071,-0.6495369502
 5014720102,C. A. Ambulatorio [Elx],38.2685263657,-0.7070977582
 125900105,Av. Alcalde Vte. Quiles (pta. principal Estació Autobusos Elx),38.2725046657,-0.6914817025
@@ -1288,7 +1274,6 @@ stop_id,stop_name,stop_lat,stop_lon
 5090130205,C/ Francisco Tormo de Haro encreuament C/ Oriolanos ausentes - LIDL [Orihuela],38.0813308368,-0.9491771743
 142100101,"C. Báscula, 1",39.5920982685,-0.9737117485
 142400101,"C. Carretera de Tamayo, 41",39.4853037486,-1.3583666985
-142400103,"Av. Lucía Garrido, 18 (Las Monjas) (a demanda)",39.4652850051,-1.3004206028
 142400104,"C. Mayor, 41 (Los Cojos)",39.4239811224,-1.3074507667
 142400105,"Av. Albacete, 21 (Los Isidros)",39.4203931855,-1.2947856312
 142400106,"C. Iglesia, 3 (Los Ruices)",39.4757152497,-1.2554077818
@@ -1302,12 +1287,12 @@ stop_id,stop_name,stop_lat,stop_lon
 5090050102,"CV-95 km 1,7 asc - Correntias",38.075249,-0.927220
 5090050106,"CV-95 km 12,45 asc - Vistabella",38.024513,-0.836453
 5090050107,"C. 19 abril, 29",37.979079,-0.789061
+142400103,"Av. Lucía Garrido, 18 - Las Monjas",39.465285,-1.300421
 152202107,"Av. Benidorm, 25",38.398547,-0.429628
-171600101,"Av. Benicadell, 13",38.82139,-0.5970377
+142400211,"Av. Lucía Garrido, 19 - Las Monjas",39.465248,-1.300294
 171700104,"Av. Pais Valencià, 11 front",38.781546,-0.436208
 142400209,"Av. Albacete, 48 (Los Isidros)",39.4206491805,-1.2945705708
 142400210,"C. Casa Lorteo, 1 (Los Cojos)",39.424047,-1.307313
-142400211,"Av. Lucía Garrido, 19 (Las Monjas) (a demanda)",39.4652517859,-1.3002996811
 5213020105,c. Jaume I 6 [Tavernes de la Valldigna],39.0866261546,-0.2151973156
 5213020205,c. Pintor Segrelles [Tavernes de la Valldigna],39.0939238226,-0.2188028344
 5213020206,av. Marina 27 [Tavernes de la Valldigna],39.0910364111,-0.217312006
@@ -1347,6 +1332,7 @@ stop_id,stop_name,stop_lat,stop_lon
 5254030114,"Pl. Constitución, 15",39.472627,-0.717553
 5090050209,"CV-95 km 19,75 des",37.975959,-0.781005
 5090050210,"Av. Mar, 13",37.977782,-0.785516
+171600101,"Av. Benicadell, 13 - Estació d Autobusos",38.821391,-0.597038
 5206030225,"C/García Araus,5 [Real]",39.336604,-0.609438
 150000103,"C. García Araus, 2",39.3367256063,-0.609642025
 150000203,"Av. del Cid, 50",39.468396,-0.396182
@@ -1440,16 +1426,12 @@ stop_id,stop_name,stop_lat,stop_lon
 136300104,"Av. Constitución, 1 front",39.779822,-0.187730
 136300202,"Av. Constitución, 1",39.779861,-0.188151
 136300204,"C. Colonia Segarra, 5 front",39.817251,-0.232178
-57050219118,"Av. Joaquin Arias, 1 front",38.363791,-0.414571
-57050219222,"Av. Joaquin Arias, 1",38.396952,-0.412067
-57050219230,"Av. Benidorm, 14",38.377257,-0.4123
 5107070111,Urbanització Monte Cristina [Borriol],40.031164999,-0.150082
 5107070114,Urbanització Los Ángeles [Castelló de la Plana],40.0170820986,-0.1297378311
 5107070119,c. José MªMulet – Escola d’Idiomes [Castelló de la Plana],39.9938850135,-0.0598864383
 5107070203,Mas Blau – av. L’Alcora 52 [Castelló de la Plana],39.986393703,-0.0555713908
 5107070205,Urbanització L’Abeller/Dehesa [Borriol],40.012054999,-0.123653
 5107070206,Urbanització Los Ángeles [Borriol],40.0183496612,-0.1306272065
-57050219242,Av. Jovellanos - Ascensor Sta. Bárbara,38.363403,-0.44218
 57050239230,"Av. Dénia, 3",38.349778,-0.473229
 57050230102,"C. Reyes Católicos, 47",38.341584,-0.492096
 5107100101,Xodos [Xodos],40.2456073258,-0.2871464365
@@ -1484,6 +1466,7 @@ stop_id,stop_name,stop_lat,stop_lon
 148001106,C. Creueta (Rotonda),38.83282835,-0.52914339
 5028010105,"Av. València, 8",38.643479,0.045849
 57050249226,"C. Tomás López Torregrosa, 7",38.347184,-0.485027
+57050219118,"Av. Joaquin Arias, 1 front",38.381697,-0.412043
 5107150102,encreuament ctra. San Vicente [Villahermosa del Río],40.2000014993,-0.418580988
 5106020101,"Pl. Iglesia, 13",39.919453,-0.685951
 5107170102,av. Germans Bou 26 [Castelló de la Plana],39.9829846783,-0.0312240321
@@ -1500,7 +1483,6 @@ stop_id,stop_name,stop_lat,stop_lon
 5107170122,av. Castalla - restaurant La Ola [Castelló de la Plana],39.9885764197,0.0250364239
 5106040110,"av. Lairón, 7 (Centro Comercial) [Castelló de la Plana]",39.9775831322,-0.0675004253
 5106020102,"Ctra. Estación, 67",39.910892,-0.704202
-5106020105,plaça Mayor del Palancia 2 [Viver],39.9209772513,-0.5956322011
 5106050105,"Av. Xilxes, s.n (platja)",39.767599999,-0.155683
 5106020104,"Av. Río Palancia, 2",39.8999204974,-0.6581800056
 5106020107,"Av. España, 121",39.8471596048,-0.4898738633
@@ -1536,6 +1518,7 @@ stop_id,stop_name,stop_lat,stop_lon
 5028010111,"Av. Port, 4",38.640251,0.069237
 5028010112,"Av. Port, 13A front",38.639646,0.070823
 5028010116,"Av. Rosa de los Vientos, 10",38.650348,0.074941
+5106020105,"Pl. Mayor del Palancia, 1",39.920977,-0.595632
 5106060202,"C. Escorxador, 8 front",39.8091595451,-0.1437378976
 5106060203,"Camí la Vall, 108",39.8093305832,-0.1501603415
 5106050202,"Av. Jaime I, 89 [Xilxes]",39.7813013195,-0.1863607819
@@ -1556,58 +1539,38 @@ stop_id,stop_name,stop_lat,stop_lon
 136501215,"Ctra. Aín, 30",39.882129,-0.308557
 136501104,"Av. Primer de Maig, 90 front",39.924265,-0.196616
 136501212,"Av. Primer de Maig, 90",39.924272,-0.196756
-148002206,Av. València. 1,38.87818273,-0.58333676
-148101102,Camí Rafol. 20,38.87210157,-0.3861846
 148101105,C. Migdia. s.n - CV-616,38.851301,-0.439248
-148102211,Av. Salvador. 24,38.86218797,-0.47514631
 5016210104,"Av. Vte. Blasco Ibáñez, 20",38.1923029991,-0.56612
 5016210105,"Av. Vte. Blasco Ibáñez, 50",38.1919910659,-0.5710241677
 5256120101,"Av. Verge del Puig, 31",39.587475,-0.303651
 5106060102,"C. Octavi Ten i Orenga, 42",39.822104,-0.223396
 5090010208,"N-332 km 67,57 des - El Moncayo",38.058298,-0.656980
 5106060104,"Av. Llaurador, 6 front (ambulatori)",39.8065450113,-0.148382989
-148101107,C. Pastor. 2,38.8325723,-0.49698787
 5016210108,Av. Tamarit C/Cartagena [Santa Pola],38.1940469991,-0.584747
 5016210109,Av. Tamarit C/San Sebastian [Santa Pola],38.1921843308,-0.5895967941
-148101108,Av. Albaida. 10,38.83083925,-0.4992648
 5256120218,"Cm. Mar, 9",39.584768,-0.286428
 5256150112,"Av. Hispanidad, 28",39.666516,-0.23256
 5016210102,Av. Portus (Fte. Parque El Palmeral) [Santa Pola],38.1949700000,-0.5605860000
 5016210107,"C/ Los Tamarindos, 12 [Santa Pola]",38.1946430000,-0.5794980000
-148101111,C. Vall d Albaida. 37,38.82368232,-0.54915838
 5251310116,Urb. Mas Camarena - Sector F [Bétera],39.5525052908,-0.4588398378
 5090050104,"Av. General Bañuls, 23",38.062922,-0.899939
 5090050105,"Pl. Ramón y Cajal, 8",38.062645,-0.895102
-148101206,C. Vall d Albaida. 37 front,38.82362161,-0.54910631
-148101209,Av. Albaida. 10 front,38.83070709,-0.49917156
-148101210,C. Alacant. 27,38.8326909,-0.49740137
-148101211,Pl. Constitución. 5,38.840058,-0.471714
-148101215,Camí Rafol. 33,38.87196859,-0.3860814
 5090050108,"Av. Mar, 8",37.977664,-0.785494
 5090050109,"CV-95 km 19,8 asc",37.975685,-0.780560
 5256100107,"Av. Major, 41",39.5709393735,-0.3312058086
-148502103,Av. Lepanto. 47 (IES de Moixent),38.87187899,-0.758688
-148502202,Av. Lepanto. 47 front (IES de Moixent),38.87194207,-0.75863328
 148701110,Plaza Mayor de Xàtiva (Centro Comercial),39.00330576,-0.52912158
-148001219,Av. Francisco Cerdà. 28,38.81998763,-0.60253264
 148102104,Av. Fora Fora - ADIF,38.84398219,-0.52086845
-148502104,Ps. Estació. 18 front - ADIF,38.87751929,-0.75373063
-148600211,Av. Ausias March. 1 front - ADIF,38.99177538,-0.52473176
 5254010113,"Av. Comarques del País Valencià, 140",39.473398,-0.517824
 925426910202,"C. Mallorca, 9",39.47816,-0.578031
 5090050110,"CV-95 km 25,3 asc - Los Balcones",37.963047,-0.721899
 5006010103,Vial Nº8 - Aparcament Terra Natura III [Benidorm],38.5680981184,-0.1448837208
 5090050211,"C. 19 abril, 32 - Guardia Civil",37.979085,-0.788920
 5107150114,Entroncament Sant Joan de Moró CV-16 pk 8+800 ascendente [Sant Joan de Moró],40.042749,-0.153903
-148702102,Av. Jaume I. 52,38.96630895,-0.5829705
-148702103,Av. Generalitat. 39 (Aiacor),38.97136056,-0.5800191
 5016210110,Av. Elda 129 [Santa Pola],38.1910049991,-0.590066
 148702104,Baixada Verge del Carme (Torre dels Frares),38.982111,-0.576818
 5016210112,Av. Elda C/Cartagena [Santa Pola],38.1917550628,-0.5834910838
-148702109,Av. Diputación. 16,38.99733462,-0.55524299
 5016210113,C/Cristobal Sanz 7 [Santa Pola],38.1924439991,-0.580577
 5016210115,Av. Albacete (Obispo Bascuñana) [Santa Pola],38.19372201,-0.5725442653
-148702213,Av. Jaume I. 52 front,38.96637872,-0.58308846
 5006010117,"Av. Mediterrani, 13",38.5370543394,-0.1208550016
 5090050212,"CV-95 km 12,45 des - Vistabella",38.024589,-0.836375
 5006010120,"Av. Mediterrani, 26",38.5368036885,-0.1197684884
@@ -1656,6 +1619,7 @@ stop_id,stop_name,stop_lat,stop_lon
 5906020104,"Av. Sants Patrons, 18",39.151294,-0.437822
 5906020105,"C. Joanot Martorell, 16",39.155504,-0.435265
 5906020209,"Av. Apotecari Bodi, 1 - CC Ribera del Xúquer",39.126305,-0.444454
+148702102,"Av. Jaume I, 52",38.966309,-0.582971
 5006010228,"Av. Beniardá, 16 [Benidorm]",38.5477290407,-0.1334282944
 5906030202,"Pl. Estació,2 - ADIF front",39.193028,-0.440571
 5906030203,"Rd. Calvari, 26",39.195871,-0.438668
@@ -1672,6 +1636,10 @@ stop_id,stop_name,stop_lat,stop_lon
 5006010129,"Av. Severo Ochoa, 8 [Benidorm]",38.5421134634,-0.1034187265
 5006010203,"Av. Severo Ochoa, 5 [Benidorm]",38.541489999,-0.103873
 5006010204,"Av. Severo Ochoa, 1 [Benidorm]",38.5399889252,-0.104451791
+148300103,"Av. Comte Salvatierra d Alava, 44",38.782371,-0.784797
+148300206,"Av. Comte Salvatierra d Alava, 25",38.782405,-0.784703
+148300208,"Pl. Major, 14",38.807516,-0.879922
+5006010206,"Av. Ametlla de Mar, 3 ac",38.533656,-0.107414
 5006020128,"Av. Marina Baixa, 7 [Benidorm]",38.5358176627,-0.1585805802
 5006020140,"Av. Picasso,1 [Finestrat]",38.5326681402,-0.1723763459
 5006020142,"Entrada Carrefour, s/n [Finestrat]",38.5379785012,-0.1734018943
@@ -1681,14 +1649,10 @@ stop_id,stop_name,stop_lat,stop_lon
 5006010130,"Av. Severo Ochoa, front 9 [Benidorm]",38.5434709257,-0.1025955457
 5006010110,"Av. Alfonso Puchades, 12",38.5429907409,-0.1279169949
 5006010111,"Av. Alfonso Puchades, 24",38.5418058722,-0.1247946763
-148300103,Av. Comte Salvatierra d Alava. 44,38.78237098,-0.78479659
-148300206,Av. Comte Salvatierra d Alava. 25,38.78240526,-0.78470344
-148300208,Pl. Major. 14,38.807516,-0.879922
 5006010214,"Av. Mediterrani, 23",38.5366679347,-0.1172352096
 5006010213,"Av. Mediterrani, 35",38.536382,-0.114903
 5006010221,"Av. Comunitat Valenciana, 5",38.54252,-0.121984
 5006010123,"Av. Mediterrani, 54",38.535961,-0.112794
-5006010206,"Av. Ametlla de Mar, 03AC",38.533656,-0.107414
 5006010124,"Av. Mediterrani, 58",38.53566,-0.110406
 5006040125,Pº Els Tolls 2 [Benidorm],38.5509600172,-0.1248692177
 5006040206,"Av. Severo Ochoa, 67 [Benidorm]",38.5562609998,-0.1033619581
@@ -1717,7 +1681,7 @@ stop_id,stop_name,stop_lat,stop_lon
 5006080130,"C. Marinada, 7 [Vila Joiosa, la]",38.5275107027,-0.1701565841
 5006080131,"C. Marinada, 3 [Vila Joiosa, la]",38.5254837202,-0.1720773861
 5006080132,"C. Xaloc, s/n [Vila Joiosa, la]",38.5245502064,-0.1724260436
-148300102,Av. Historiador Ros. 2,38.80466358,-0.87943374
+148300102,"Av. Historiador Ros, 2",38.804664,-0.879434
 143700103,"Av. País Valenciano, 24",39.383779,-0.785614
 5006080202,"C. Xaloc, 3 [Vila Joiosa, la]",38.5244685283,-0.1724153148
 5006080204,"C. Marinada, 6 [Vila Joiosa, la]",38.5274225562,-0.1701133222
@@ -1740,10 +1704,10 @@ stop_id,stop_name,stop_lat,stop_lon
 5006020137,"Av. Mariners de la Vila Joiosa, 19",38.527194,-0.169592
 5006020138,"Av. Mariners de la Vila Joiosa, 8 front",38.529414,-0.170737
 5006020204,"Av. Mariners de la Vila Joiosa, 1 front",38.531309,-0.172057
-58020021102,ADIF Segorbe (front) [Segorbe],39.846415,-0.483332
-58020021224,ADIF Segorbe [Segorbe],39.846469,-0.483238
 58020041107,ADIF Segorbe (front) (a demanda línea Vall de Almonacid-Segorbe) [Segorbe],39.846415,-0.483332
 17130010121,"Av. La Marina, 1J",38.659978,0.081689
+58020021102,"Av. Navarro Reverter, 50",39.846415,-0.483332
+58020021224,"Av. Navarro Reverter, 61",39.846469,-0.483238
 5006100135,"Av. de l Albir, 65 [Alfàs del Pi, l]",38.572631999,-0.065974
 5006100136,"Av. Oscar Esplá, 16 [Alfàs del Pi, l]",38.57482037,-0.0660311049
 5006100137,"Av. Oscar Esplá, 4 [Alfàs del Pi, l]",38.5773955831,-0.066032805
@@ -1770,7 +1734,6 @@ stop_id,stop_name,stop_lat,stop_lon
 5006100211,"Av. de l Albir, 38 [Alfàs del Pi, l]]",38.5715171942,-0.069024049
 5006200101,"C. La Llum, 1 [Altea]",38.592340999,-0.055431
 5016210127,Av. Tabarca 21 [Santa Pola],38.1913074191,-0.5294795647
-148300207,Av. Historiador Ros. 1,38.80469576,-0.87936099
 5006200110,"C. Conde de Altea, 4",38.603581,-0.044327
 5006200211,"C. Comte d Altea, fr.66 [Altea]",38.6034452582,-0.0446260764
 5006200213,"C. Comunitat Valenciana, 5 [Altea]",38.603367999,-0.048745
@@ -1797,6 +1760,7 @@ stop_id,stop_name,stop_lat,stop_lon
 143801113,C. F - P.I. L Oliveral,39.475399,-0.539648
 5006100122,"Av. Comunitat Valenciana, front 67 [Benidorm]",38.5584539972,-0.1008672809
 57050240227,"Av. Federico Soto, 1",38.343976,-0.489416
+148300207,"Av. Historiador Ros, 1",38.804696,-0.879361
 5006200118,"Ctra. CV - 755, 21B [Altea]",38.627567999,-0.040122
 5006200120,"Ctra. CV - 755, 62 [Altea]",38.6306863268,-0.0445619776
 5006200121,"Ctra. CV - 755, 11 [Altea]",38.631611999,-0.047845
@@ -1974,7 +1938,6 @@ stop_id,stop_name,stop_lat,stop_lon
 5023280101,Col. Foia [Petrer],38.483131985,-0.7664828508
 5023280102,Hisp. 16 [Petrer],38.4810600236,-0.7680766482
 5023280103,His. Amerc [Petrer],38.479827708,-0.7694267056
-5023280104,Salin. 40 [Petrer],38.4754582148,-0.7712831693
 5023280105,Molineta [Petrer],38.4707404341,-0.7705291483
 5023280106,L.Amat [Petrer],38.4675206236,-0.7704963303
 5023280108,Salinetas Sn [Petrer],38.4754377872,-0.771174909
@@ -2183,7 +2146,6 @@ stop_id,stop_name,stop_lat,stop_lon
 5401030108,Camí Reial Madrid - C. Torrella,38.9868199991,-0.573694
 5401030109,"C. Ignasi Carrau, 3",38.9893575569,-0.5721677628
 5401030110,"Ctra. Madrid, 43",38.9915400715,-0.5725438837
-5401030111,"Camí Reial Madrid, 62",39.0035124135,-0.5664537654
 17030040101,Estació Autobusos Alcoi (a demanda),38.709475,-0.46927
 17030040102,"Av. València, 6 (a demanda)",38.698883,-0.390545
 17030040103,"Ctra. Quatretonda, 25 front (a demanda)",38.719934,-0.356304
@@ -2195,14 +2157,12 @@ stop_id,stop_name,stop_lat,stop_lon
 5250060216,"Camino Viejo de Torrent, 22 [Alaquàs]",39.455284,-0.463174
 5250060218,C/ Obispo Cervera - Hotel [Alaquàs],39.45086,-0.460777
 5250750107,Av. Vicente Blasco Ibáñez – Gasolinera (impar) [Alaquàs],39.458861,-0.448405
-142200102,"Av. Lucía Garrido, 18 (Las Monjas) (a demanda)",39.4652850051,-1.3004206028
 142200103,"C. Ramón Ochando, 63 (Casas de Prada)",39.4485996974,-1.3397234812
 142200105,"Pl. Palmera, 9-10 (Casas del Rey)",39.475820546,-1.3810213405
 142200204,"C. Carretera de Tamayo, 41 front",39.4854349468,-1.3583965994
 5401030104,c. Music Vert s/n [Ontinyent],38.8271579991,-0.603864
 5401030106,"av. de la Diputación 43 [Olleria, l]",38.9092309991,-0.545599
 142200207,"C. Ramón Ochando, 66 (Casas de Prada)",39.4485808123,-1.3398362819
-142200208,"Av. Lucía Garrido, 19 (Las Monjas) (a demanda)",39.4652482047,-1.3002937569
 17030040108,"CV-720 km 9,13 des (a demanda)",38.748641,-0.289633
 17030040109,"CV-720 km 2,47 des - C. la Costera (a demanda)",38.735832,-0.343851
 17030040111,"C. Sant Roc, 1 (a demanda)",38.72974,-0.365217
@@ -2230,19 +2190,20 @@ stop_id,stop_name,stop_lat,stop_lon
 5251900116,Ctra. Nàquera - CV-310 pk 20+000 ascendente - frente Carmelitas [Serra],39.679707,-0.426367
 5401030208,"Ctra. Madrid, 80",38.9914379991,-0.572652
 5401030209,"C. Ignasi Carrau, 2",38.9893519468,-0.5724040616
-5401070204,"Camí Reial Madrid, 62",39.0035576083,-0.5665703845
 5401070112,av. la Costera [Vallés] (a demanda),38.9847839991,-0.5565
 5210010101,Tous [Tous],39.1382775421,-0.5871618945
 5210010103,Estació FGT [Alberic],39.1169799991,-0.523359
 5233010103,C/Mayor 2 [Olocau],39.7000503651,-0.5312289442
-5401070207,"Camí Reial Madrid - C. Torrella, front",38.9869015901,-0.5738177675
 17030063202,"Ps. Alfaquí, 3 - Benialfaquí",38.772708,-0.338929
 17030063203,"CV-708 km 5,1 asc",38.759269,-0.356067
 17030063204,"CV-704 km 3,54 des",38.753049,-0.377579
 5401030216,"Av. San Blas, 1",38.7625335721,-0.6112147599
 5234010104,"C. Font Drova, 1",39.004734,-0.285989
 5401030205,"Camí Reial Madrid, 59",39.143329,-0.521141
+19200010202,"Av. Aragó, 25",39.472825,-0.357671
 5233010203,"c/ Pla de l Arc, 32 [Llíria]",39.6313829991,-0.593976
+5401070204,"Cm. Reial Madrid, 62",39.003558,-0.566571
+5401070207,"Cm. Reial Madrid - C. Torrella, front",38.986902,-0.573818
 5221010105,C. Via De Ronda 8 [Oliva],38.926761999,-0.094459
 5221010106,C. Via De Ronda 36 [Oliva],38.925260999,-0.091863
 5221010107,C. Via De Ronda 62 [Oliva],38.923411999,-0.08991
@@ -2336,8 +2297,8 @@ stop_id,stop_name,stop_lat,stop_lon
 17030070106,"C. Safor, 14",38.843788,-0.308808
 5015050206,"C. Alcoi, 44",38.540591,-0.505719
 17030070202,"CV-705 km 7,63 des",38.819224,-0.379627
-5015100102,Benifallim - CV-785 pk 6+670 ascendente[Benifallim],38.6637189569,-0.4004865327
-5015100204,"Av. Constitució, 11 [Penàguila]",38.6782331523,-0.3592966657
+148002206,"Av. València, 1",38.878183,-0.583337
+148101102,"Cm. Rafol, 20",38.872102,-0.386185
 17030070203,"CV-705 km 4,7 des",38.810864,-0.410265
 17030080103,CV-785 km 6.67 asc (a demanda),38.663719,-0.400487
 17030080104,"Av. Constitució, 11 front (a demanda)",38.678165,-0.359337
@@ -2358,9 +2319,10 @@ stop_id,stop_name,stop_lat,stop_lon
 5025230104,"Av. Federico Soto, 20",38.3452116,-0.4898325
 5015100105,Pd. Ares del Bosque,38.6872719991,-0.327553
 5018040107,Pl. Mallorca - Margarida,38.7882860462,-0.2985435028
-5015110103,"Av. València, 6",38.6988829536,-0.3905451413
+148101107,"C. Pastor, 2",38.832572,-0.496988
 5018020105,C. Mare de Déu d Agres,38.7804139991,-0.516936
 5018040106,Ps. Baronia - Catamarruch,38.7815289933,-0.3216834585
+148101108,"Av. Albaida, 10",38.830839,-0.499265
 5025230112,"Av. Dénia, 82 - Col.legi San José de Calasanz",38.358664,-0.468021
 5025210214,"Av. Fabraquer, 36",38.3983714693,-0.4132547152
 5006010223,"Av. Alfonso Puchades, 19",38.543078218,-0.1276258782
@@ -2369,7 +2331,7 @@ stop_id,stop_name,stop_lat,stop_lon
 5025210217,"C. Juan de la Cierva, 22",38.3919991829,-0.4104611529
 5025300105,"C. Pintor Sorolla, 12",38.3985239382,-0.5244450413
 5025230113,"Av. Dénia, 98",38.361492,-0.464932
-5025230116,"Av. Dénia, 126",38.361492,-0.464932
+148101210,"C. Alacant, 27",38.832691,-0.497401
 5025230117,"Av. Dénia, 140",38.372793,-0.455709
 5025300108,"Ctra. Alcoraya, s.n - C. Daimiel",38.397877,-0.538765
 5108020107,Artesa [Onda],39.9584651856,-0.2869596309
@@ -2384,6 +2346,7 @@ stop_id,stop_name,stop_lat,stop_lon
 5025230221,"Av. Dénia, 141",38.372675,-0.456188
 5025300121,"C. Pantera, 23",38.3972392133,-0.5996029492
 5006020101,"Av. Ametlla de Mar, 3AC",38.5336563083,-0.1074140401
+148101211,"Pl. Constitución, 5",38.840058,-0.471714
 5108020101,"Ctra. Ayodar, s.n",40.020539,-0.419256
 5108020102,"C. Iglesia, 10",39.988453,-0.437898
 5006020122,"Av. Ricardo Bayona, 12",38.5400644013,-0.1394740672
@@ -2393,6 +2356,7 @@ stop_id,stop_name,stop_lat,stop_lon
 5025230110,"C. Canónigo Manuel Penalva, 4",38.3522037254,-0.4743376544
 5108020103,"Ctra. Fuentes, 48",39.999008,-0.374547
 5108020104,"Pl. Concejo, 10",39.964008,-0.394489
+148102211,"Av. Salvador, 24",38.862188,-0.475146
 5006020126,"Av. Vicente Pérez Devesa, 25 front",38.5381267817,-0.1577367915
 142600203,"C. Patrocinio, 9",39.584443,-1.364082
 148200103,"Av. San Juan de La Ribera,14 front",38.76427895,-0.61593086
@@ -2405,7 +2369,6 @@ stop_id,stop_name,stop_lat,stop_lon
 5108020202,"Carrer Vila-Real, 42 (Front) [Onda]",39.9659492618,-0.2698475678
 5108020203,Artesa (Front) [Onda],39.9585447332,-0.2869629605
 5006020223,"Av. Rei Jaume I, 46",38.541781,-0.133501
-5108030106,El Tormo [Cirat],40.0651069352,-0.4269874562
 5108050204,Benitandus (Front) [Alcudia de Veo],39.9299285678,-0.3369740379
 5025300202,CV-824 km 9 des,38.3716614962,-0.6307924181
 5006020215,"Av. Benissa, 6",38.5356533801,-0.1626788942
@@ -2416,11 +2379,14 @@ stop_id,stop_name,stop_lat,stop_lon
 5018010108,"Av. València, 57",38.7818700559,-0.4444162837
 5108030108,Cruce De Toga [Toga],40.0423914214,-0.374647664
 5108030204,Cruce De Toga (Front) [Toga],40.0424682378,-0.3746610013
+5909010106,"C. la Pau, 22 front (a demanda)",38.867667,-0.513329
+5909010108,"Av. València, 5",38.902912,-0.495174
 5025300213,"CV-824 km 3,9 des - C. Ripio",38.3957110961,-0.58680675
 5006020216,"Av. Vicente Pérez Devesa, 25",38.5380501957,-0.1575471121
 5006020217,"Av. Vicente Pérez Devesa, 11",38.54015999,-0.1510000971
 5006020219,"Av. Cuba, 9",38.5403860724,-0.1424025444
 5018010205,"Av. Xàtiva, 41",38.7526822582,-0.4385977453
+5201310104,TE-V-6134,39.909536,-0.890615
 5006020222,"Av. Rei Jaume I, 22 front",38.53962885,-0.1354326121
 5006020218,"Av. Cuba, 11",38.540414,-0.144709
 5108110127,"Ronda Del Millars, 43 [Castelló de la Plana]",39.9845458002,-0.0435505685
@@ -2429,8 +2395,34 @@ stop_id,stop_name,stop_lat,stop_lon
 5018010206,"Av. País Valencià, 2 front",38.7479006817,-0.4392901541
 5018010209,"N-340 km 798,08 des - Gl. Bombers",38.7196327052,-0.4567690912
 5018030104,"CV-700 km 17,95 asc - P.I. Benàmer",38.7820164331,-0.4170680472
+5901030105,"Av. Vicente Boluda, 48",38.942539,-0.440721
+5901030103,"C. José Iranzo, 40",38.905879,-0.422686
+148001219,"Av. Francisco Cerdà, 28",38.819988,-0.602533
+148101111,"C. Vall d Albaida, 37",38.823682,-0.549158
+148101206,"C. Vall d Albaida, 37 front",38.823622,-0.549106
+148101209,"Av. Albaida, 10 front",38.830707,-0.499172
+148101215,"Camí Rafol, 33",38.871969,-0.386081
+148502103,"Av. Lepanto, 47 - IES de Moixent",38.871879,-0.758688
+148502104,"Ps. Estació, 18 front - ADIF",38.877519,-0.753731
+148502202,"Av. Lepanto, 47 front - IES de Moixent",38.871942,-0.758633
+148600211,"Av. Ausias March, 1 front - ADIF",38.991775,-0.524732
+148702103,"Av. Generalitat, 39 - Aiacor",38.971361,-0.580019
+148702109,"Av. Diputación, 16",38.997335,-0.555243
+148702213,"Av. Jaume I, 52 front",38.966379,-0.583088
+5023280104,"Salin, 40 [Petrer]",38.475458,-0.771283
+5401030111,"Cm. Reial Madrid, 43",39.003512,-0.566454
+5401070208,"Av. Jaume I, 6 front",38.963432,-0.584232
+5907010105,"Av. Camí Reial, 80",38.873587,-0.380885
+5909010105,"Av. Salvador, 21",38.862004,-0.475358
+5909010109,"C. Alfarrasí, 1",38.913456,-0.478889
+5909010110,"CV-613 km 2,07 asc",38.919004,-0.480907
+5909010111,"Av. Constitució, 12",38.924454,-0.488207
 5108060105,Semáforo R. Campus [Onda],39.9707622949,-0.265171155
 5108060202,Semáforo R. Campus (Front) [Onda],39.9707559365,-0.2650541106
+5909010112,C. Real - C. València,38.946559,-0.488643
+5909010204,"Av. Constitució, 12 front",38.924368,-0.488156
+5909010205,"CV-613 km 2,07 des",38.918951,-0.480955
+5909010206,"C. Alfarrasí, 4",38.913661,-0.479171
 5025360116,"Av. Dr. Jiménez Díaz, 24",38.3560476161,-0.5004111285
 5108110211,"Av. Mura, 20 [Vila-real]",39.9368465254,-0.0996074912
 5025530108,"San Ramón, 24 [Campello, el]",38.4264443268,-0.4041428194
@@ -2476,7 +2468,6 @@ stop_id,stop_name,stop_lat,stop_lon
 5201110217,"Av. Serranía, 18-20 (Front) [Losa del Obispo]",39.6969954252,-0.8699353745
 5201110218,C/Subida Cementerio [Calles],39.7258264871,-0.9714112407
 5201110219,Av. Mancomunidad Alto Turia 24-26 [Chelva],39.7489172437,-0.9957491788
-5201110221,"Av. Rojas Clemente, 56 [Titaguas]",39.8666872328,-1.0824522324
 5105010113,"Cooperativa [Torre den Doménec, la]",40.262025999,0.073096
 5006020205,"Av. Mariners de la Vila Joiosa, 8",38.529294,-0.170844
 5006020206,"Av. Mariners de la Vila Joiosa, 12",38.527137,-0.169726
@@ -2499,8 +2490,6 @@ stop_id,stop_name,stop_lat,stop_lon
 5201110212,"Av. València, 73 [Casinos]",39.6963255317,-0.7074848905
 5006020213,"C. Juan Antonio Baldoví, 13",38.531969,-0.165762
 5006020214,"C. Langreo, 1",38.532416,-0.163292
-5201210107,"Cm-9221, 1 [Santa Cruz de Moya]",39.9561308252,-1.2586892102
-5201310102,"Cv-350, 12 [Alpuente]",39.9616534194,-1.0391863153
 5006020220,"Av. Cuba, 1",38.53998,-0.140116
 5006020221,"Av. Panamá, 5AC",38.539992,-0.136832
 5006020228,"Av. Orts Llorca, 10 front",38.538289,-0.12342
@@ -2518,37 +2507,21 @@ stop_id,stop_name,stop_lat,stop_lon
 5206020220,Blasco Ibáñez/A. Cavanilles [Montserrat],39.3571086196,-0.5976043628
 5206020221,"Av. Europa, 2 [Montserrat]",39.3555997327,-0.6033085188
 5206020223,"C/Blasco Ibáñez,front 68 [Montroi]",39.3415191403,-0.6127496577
-5206030102,"C/Balsco Ibáñez, 18 [Montroi]",39.3385616966,-0.613205052
 5201140101,"Av. València, 63 [Aras de los Olmos]",39.9233446044,-1.1331355031
 5201140202,"Av. València, 38 [Aras de los Olmos]",39.9234170147,-1.1330813029
 5201210101,"C/De La Fuente, 53 [Castielfabib]",40.1297516113,-1.303818282
-5201210102,"Av. València, 62 [Ademuz]",40.0659630264,-1.2831884382
-5201210103,"Av. València, 178-180 [Ademuz]",40.0596496713,-1.2857036634
-5201210104,"Plz España, 2 [Vallanca]",40.0630767251,-1.3389456342
 5201210105,"Ctra. València-Ademuz, 16 [Casas Altas]",40.0394555601,-1.264543187
 5201210106,"Carr. València, 31 [Casas Bajas]",40.0227031557,-1.2619459535
-5201210203,"Cm-9221, 1 P. Bus [Santa Cruz de Moya]",39.9562582582,-1.2586076769
 5201210204,"Carr. València, 7-9 [Casas Bajas]",40.0226371109,-1.2619252037
 5201210205,"Ctra. València-Ademuz, 31 [Casas Altas]",40.0395009396,-1.2644641472
-5201210207,"Av. València, 178-180 (Front) [Ademuz]",40.059612569,-1.285611518
-5201210208,"Av. València, 1D P. Bus [Ademuz]",40.065870427,-1.2831558854
 5201310101,Arcos De Las Salinas [Arcos de las Salinas],39.9930745191,-1.0431242515
-5201310104,"Cv-349, 25 [Abejuela]",39.9095171215,-0.8906236063
 5201310105,"C/Iglesia, 1 [Yesa, La]",39.8910722142,-0.9614675458
-5201310106,"Las Eras, 1 [Alpuente]",39.8878758954,-1.0111917171
 5201310107,"Av. San Blas, 3 [Alpuente]",39.876243925,-1.0144398455
 5201310203,"Av. San Blas, 1A [Alpuente]",39.876262199,-1.014374485
-5201410101,"Cv-395, 30 [Sot de Chera]",39.6222488294,-0.914391486
 5206020215,Urb. Tros Alt [Torrent],39.3934144994,-0.5370568311
 5201310205,"C/Iglesia, 2 [Yesa, La]",39.8910521348,-0.9613813822
 5201410102,"C/Ermita, 1 [Chulilla]",39.6473685702,-0.8838882482
-5201410103,"Plz. De La Baronia, 16 [Chulilla]",39.6562125407,-0.8918342333
-5201410203,"Plz. De La Baronia, 1 [Chulilla]",39.6562011562,-0.8919257177
-5201420101,"C/Mayor Pobleta,3 - La Pobleta [Andilla]",39.8363595529,-0.8228047412
-5201420102,"Plz Muralla, 1 [Andilla]",39.8358043662,-0.8134121953
 5201420104,"C/Escuelas, 22 [Andilla]",39.8142484342,-0.773290756
-5201420105,"Av. Casa Cultura, 2 [Higueruelas]",39.788616822,-0.8627741928
-5201610104,"La Hoya, 21 [Torrebaja]",40.0946634472,-1.2609144266
 5206020207,"C/ Doctor Gómez Ferrer, 21 [Torrent]",39.438066,-0.464521
 57060020141,"Av. País Valencià, 2",38.538706,-0.174178
 5206020216,Urb. L´Alt [Montserrat],39.382744,-0.552159
@@ -2566,7 +2539,9 @@ stop_id,stop_name,stop_lat,stop_lon
 5258010102,"CV-370 pk 15+100 descendente - frente a Urbanización Mullo De Crusa, 55 - Antigua ADIF [Vilamarxant]",39.567437576,-0.6104165112
 5250710126,"Av. al Vedat, 102",39.4313169991,-0.474036
 5015020101,Estació Autobusos Alcoi,38.709575,-0.469032
-5228010204,Av. Gandía. 60,38.989574,-0.465545
+5201610104,"C. La Hoya, 21",40.094663,-1.260914
+5201420102,"Pl. Muralla, 1",39.835804,-0.813412
+5201310106,"Las Eras, 1",39.887876,-1.011192
 5250720138,Av. Buenos Aires – C/ Río Tormes – Restaurante Sol y Nata [Chiva],39.432621,-0.552187
 5250750108,"Av. Vicente Blasco Ibáñez, 51 [Alaquàs]",39.457613,-0.451611
 5250750109,"Av. Vicente Blasco Ibáñez, 3 [Alaquàs]",39.456436,-0.454698
@@ -2577,34 +2552,45 @@ stop_id,stop_name,stop_lat,stop_lon
 5228010102,"Calle José Iranzo, 40 [Pobla del Duc, la]",38.9058791656,-0.4226858153
 5228010103,"Av. Vicente Boluda, 8 [Benigànim]",38.9410774701,-0.4430414159
 5228010104,"Av. Vicente Boluda, 48 [Benigànim]",38.9425385363,-0.4407199522
-5228010108,Hospital Lluís Alcanyís [Xàtiva],39.0062576319,-0.510504144
 5228010208,"Carrer Marxillent, 28 [Pobla del Duc, la]",38.903761253,-0.4195095479
 118000217,"Av. Real de Madrid, 103",39.430241,-0.392649
 5228010106,"Carrer Cavaller Ximen, Frente A 2 [Xàtiva]",38.9922066401,-0.5236879658
 5228010205,"Av. Vicente Boluda, Frente Al 44 [Benigànim]",38.9424008465,-0.4410548119
 5228010206,"Av. Vicent Boluda, Frente A 8 [Benigànim]",38.9411876204,-0.4430835407
 5228010207,"Calle José Iranzo, Frente A 40 [Pobla del Duc, la]",38.9058339614,-0.4227895569
-5701010101,"Carrer Joan Beneyto Bernàcer, 2 [Bocairent]",38.7641648076,-0.6113789559
+5228010107,"C. Albereda Jaume I, 62",38.990019,-0.519948
+5228010204,"Av. Gandía, 60",38.989574,0.465545
+5228010108,Hospital Lluís Alcanyís,39.006258,-0.510504
+5701010101,"C. Joan Beneyto Bernàcer, 2",38.764165,-0.611379
+5909010207,"Av. València, 5 front",38.902976,-0.495298
+5201110221,"Av. Rojas Clemente, 58",39.866687,-1.082452
+5015110103,"Av. València, 6",38.698883,-0.390545
+5201310102,"CV-350 km 11,25 des - El Collado",39.961653,-1.039186
 5258010206,"CV-370 pk 15+100 ascendente - frente a Urbanización Mullo De Crusa, 55 - Antigua ADIF [Vilamarxant]",39.5675510259,-0.6103858149
 5701010103,Estación ADIF Ontinyent [Ontinyent],38.8094590657,-0.6029139341
+5201210107,CM-9221 - C. Hoyo,39.956131,-1.258689
 5701010102,"Avenida San Blas, 16 [Bocairent]",38.7629632285,-0.6101445494
 5258010205,CV-370 pk 14+050 ascendente - Fábrica de Pieles [Vilamarxant],39.5630139854,-0.6009402305
+5201210203,CM-9221 - C. Hoyo front,39.956258,-1.258608
 5250720137,"C/ Beltran Báguena, 9 - Rest. Santo Domingo (Calicanto) [Torrent]",39.4328763587,-0.5472985345
 5258010207,"Pl. la Báscula - C/ Major, 2 - Ajuntament [Vilamarxant]",39.5674981062,-0.6220677449
 5206040106,"Av. del País Valenciano, front 111 [Llombai]",39.2848020795,-0.5755156507
 5250500202,"C/ Camp de l Olivereta, 13 [Manises]",39.4970469991,-0.469145
 5250600117,"Av. Vicente Blasco Ibáñez, 21 [Aldaia]",39.4646559991,-0.459119
 5250600209,"Av. Blasco Ibáñez, 22 – Colegio [Aldaia]",39.4644228325,-0.4583678796
+5201210103,"Av. València, 178-180",40.059650,-1.285704
 5250600217,"Av. del Cid, 99",39.46925,-0.414793
 5228010105,"Av. Gandia, 46 front",38.989877,-0.467077
 5258020105,"C/ Verge del Fonament, 12 [Benissanó]",39.6120511773,-0.5739420508
 5258020202,"C/ Juan Izquierdo, 72 - Carretera de Vilamarxant [Llíria]",39.6232878778,-0.5909664374
 5258020203,"C/ Verge del Fonament, 11 - Colegio [Benissanó]",39.612107127,-0.5741860484
-5228010107,C. Albereda Jaume I. 62,38.990019,-0.519948
+5701010104,"Av. Comte de Torrefiel, 53",38.817819,-0.608517
+5701010106,"Av. d Albaida, 32 front",38.821193,-0.597691
+5701010107,"C. Daniel Gil, 25",38.824329,-0.602109
+5201210207,"Av. València, 178-180 front",40.059613,-1.285612
 5701010105,av. Almaig 50 [Ontinyent],38.8193831973,-0.6010660193
-5701010104,Av. Comte de Torrefiel. 53,38.81781869,-0.60851652
-5701010106,Av. d Albaida. 32 front,38.821193,-0.59769
-5701010107,C. Daniel Gil. 25,38.824329,-0.602109
+5201420101,"C. Mayor, 3 front - La Pobleta",39.836360,-0.822805
+5201210104,"Pl. España, 2",40.063077,-1.338946
 5250600207,"C/ Coladors, 47 [Aldaia]",39.467347,-0.459126
 5250720121,"C/ Doctor Gómez Ferrer, 77 [Torrent]",39.44072,-0.462742
 5250720130,Mas del Jutge - Calzados Beguer [Torrent],39.438591,-0.479316
@@ -2613,27 +2599,47 @@ stop_id,stop_name,stop_lat,stop_lon
 5250720202,"C/ Paiporta, 87 – El Mirador [Torrent]",39.43278,-0.608712
 5250720215,Mas del Jutge - front Rest. La Curra [Torrent],39.439436,-0.520182
 5250720220,Mas del Jutge - front Calzados Beguer [Torrent],39.438443,-0.479625
+140107104,"Pl. España, 2 (a demanda)",40.063077,-1.338946
+5201210102,"Av. València, 62",40.065997,-1.283026
 5250070122,Platja El Saler – Poliesportiu [València],39.387811,-0.327339
 5250070216,"Camino del Coscollar, 1 [Aldaia]",39.465286,-0.467742
 5250610123,"C/ Major, 57 [Aldaia]",39.465186,-0.465531
 5250610128,"Av. Juan Ramón Jiménez, 39 - Forn Frontera (Barrio del Cristo) [Aldaia]",39.477442,-0.461224
+5201210208,"Av. València, 66 front",40.065870,-1.283156
+5201410103,"Pl. Baronia, 16",39.656213,-0.891834
 5250720136,"C/ Tenerife, 8 - Colonia Buenavista (Calicanto) [Torrent]",39.4272070614,-0.5398069241
+5201410203,"Pl. La Baronia, 1 - Ajuntament",39.656201,-0.891926
 5250720216,Mas del Jutge - Rot. Urb. El Pantano (front) [Torrent],39.4390842295,-0.5055700379
 5250720131,"Mas del Jutge, 33 - Umivale [Torrent]",39.4392242416,-0.4869987831
+5909010101,"Pl. Constitución, 5",38.840107,-0.471776
+5015100102,CV-785 km 6.67 asc,38.663719,-0.400487
+5206030102,"C. Blasco Ibáñez, 18",39.338562,-0.613205
+5015100204,"Av. Constitució, 11",38.678249,-0.359335
+5015110105,"CV-754 km 4,81 des - Av. Pais Valencià",38.722362,-0.315385
 5250070217,"Av. Miguel Hernández, 8 [Aldaia]",39.4661829991,-0.467036
 5250070218,"Av. Miguel Hernández, 54 [Aldaia]",39.4680029991,-0.465422
 5250600118,"C/ Coladors, 27 [Aldaia]",39.4661249991,-0.459653
+5108030106,"Av. Principe de España, s.n",40.065101,-0.426985
 5250600208,"C/ Pablo Iglesias, 17 [Aldaia]",39.4656109991,-0.461001
+5105140112,Universitat Jaume I - Ágora,39.994464,-0.068611
+142200102,"Av. Lucía Garrido, 18 - Las Monjas (a demanda)",39.465285,-1.300421
 5250610202,"C/ San Pedro, 4 [Quart de Poblet]",39.4822144306,-0.4544256368
 5250710131,Av. Sant Llorenç – El Porvenir [Torrent],39.4177884506,-0.4901574166
 5250710202,C/ Perú - C/ Utiel [Torrent],39.4175029991,-0.4842
+142200208,"Av. Lucía Garrido, 19 - Las Monjas (a demanda)",39.465248,-1.300294
+5201410101,"CV-395, 30",39.622249,-0.914391
+5201420105,"Av. Casa de la Cultura, 2",39.788617,-0.862774
+57050219222,"Av. Joaquin Arias, 1",38.371716,-0.412191
+57050219230,"Av. Benidorm, 14",38.365852,"-0,416028"
+57050219242,Av. Jovellanos - Ascensor Sta. Bárbara,38.347077,-0.476404
+5025230116,"Av. Dénia, 126",38.369012,-0.457895
 5250070106,"Av. Concordia, 6",39.462915,-0.469047
 5003010105,San Bartolomé - Rotonda,38.090044,-0.859981
 5018010104,"Av. País Valencià, 125",38.7373655971,-0.4403476635
 5018010110,"Ctra. Cela, 15 - Policia Local",38.783009,-0.432897
-5701010203,Av. 2 de maig. 4,38.825172,-0.603314
-5701010204,Av. 2 de mayo. 142,38.820265,-0.604654
-5701010202,Av. L Almaig. 87 front,38.820592,-0.597848
+5701010202,"Av. L Almaig, 87 front",38.820592,-0.597848
+5701010203,"Av. 2 de maig, 4",38.825172,-0.603314
+5701010204,"Av. 2 de mayo, 142",38.820265,-0.604654
 5018010111,IES Muro,38.7859,-0.430175
 5250060119,Carretera acceso C.C. Bonaire - SP Berner Plastics Group [Aldaia],39.470693,-0.477374
 5250720134,Mas del Jutge - Rot. Urb. El Pantano [Torrent],39.4395,-0.505742
@@ -2658,7 +2664,7 @@ stop_id,stop_name,stop_lat,stop_lon
 5105020104,N-232 pk 88+100 ascendente [Torre de Arcas],40.753653999,-0.054678
 5018030105,"C. San Jaime, 22",38.7769355116,-0.3895049603
 5252030108,"Pl. Mercat Nou, 8",39.361273,-0.414634
-5401070208,"Av. Jaume I, front 6 [Canals]",38.963373,-0.584288
+5020020217,"Av. Catedrático Soler, 45",38.339354,-0.501128
 5206040231,"Plaza España, 6 [Catadau]",39.2749562913,-0.5725425926
 5252040106,"C. València, 148",39.367837,-0.410068
 5252040107,Av. Albufera - C. Furs,39.369762,-0.408279
@@ -2680,11 +2686,17 @@ stop_id,stop_name,stop_lat,stop_lon
 5018040209,"C. Carretera, 2 - La Carroja",38.8209308231,-0.2429180085
 5018040211,"CV-714 km 1,49 des - Benissili",38.819165145,-0.2766232569
 5701020206,Almazara San Cristóbal front,38.6748771702,-0.803968446
+148600104,"Av. País Valencià, 12",38.947311,-0.403279
+148600208,"Av. País Valencià, 47",38.947388,-0.400854
 5701020109,"Av. Constitución, 56 [Villena]",38.6346943648,-0.8652681735
 5701020201,"Av. Constitución, 147 [Villena]",38.640709975,-0.8683964065
+5901020101,"C. Cristo, 70 (a demanda)",39.105449,-1.308946
+5202110206,"Pl. Llibertat, 7 front",38.947086,-0.193677
 5025510107,Ctra. CV-773 – Hoya los Patos . Senyera [Busot],38.4618732467,-0.436751459
 5025510203,Les Comarques – Polideportiu V [Busot],38.4791278763,-0.4232455997
 5025510204,ctra. CV-773 – Pisnella V [Busot],38.4744302392,-0.424179776
+148600105,"Av. Valencia, 8",38.941112,-0.360197
+148600207,"Av. Valencia, 7",38.941278,-0.360308
 5202510104,Urb. Xauxa,38.982269,-0.236515
 5701020108,"C. Joaquín M. López, 2",38.632443,-0.864111
 5701020110,"Av. Constitución, 112",38.636827,-0.866138
@@ -2718,12 +2730,14 @@ stop_id,stop_name,stop_lat,stop_lon
 5202020210,camí Vell de Grau – Col. Joan XXIII [Gandia],38.993798999,-0.163054
 5202110203,c. Sant Pere – Beniopa [Gandia],38.9699992854,-0.1883566183
 5202110205,Sant Pere 1 [Gandia],38.9641845851,-0.1900680559
-5202110206,"Real de Gandia [Real de Gandia, el]",38.947085999,-0.193677
 5202120102,av. Grau – Aldi [Gandia],38.985062999,-0.164493
 5202120104,Goleta [Gandia],38.9910205947,-0.162560557
 5202120105,Universitat de Gandia [Gandia],38.9954702608,-0.1658696003
-5901020101,C. Cristo70 [Carcelén] (a demanda),39.1054486479,-1.3089462511
+148600106,"Av. València, 66",38.939952,-0.355706
 5025510106,"C/ Vergeret, 7 - Bonnysa [Mutxamel]",38.4302692002,-0.4507092779
+148600206,"Av. València, 64 front",38.940092,-0.355631
+148600107,"CV-610 km 19,70 asc",38.919437,-0.344394
+148600205,"CV-610 km 19,70 des",38.919523,-0.344188
 5701020102,"C. Ramón y Cajal, 111",38.7025090462,-0.7611586001
 5701020104,Pl. Parador,38.6876935585,-0.7755742339
 5701020105,Almazara San Cristóbal,38.6749090274,-0.8040745435
@@ -2745,9 +2759,8 @@ stop_id,stop_name,stop_lat,stop_lon
 5202520109,Centre Salud del Grau [Gandia],38.9902371597,-0.162607227
 5202520110,av. Europa – Austria [Gandia],38.987139999,-0.165631
 5202520111,av. Europa – Anglaterra [Gandia],38.983473999,-0.16899
-5202110104,Estació Intermodal Gandia,38.970548987,-0.1802072864
+5901020104,"Pl. Major, 13",38.807728,-0.880041
 5006100222,"Passeig Mitja Llegua, front 25 [Alfàs del Pi, l]",38.5708406432,-0.0965256955
-5901020108,"Av. Ausiàs March, 1 [Xàtiva]",38.9916803413,-0.5244840735
 5003010107,C/ Orihuela - La Campaneta [Orihuela],38.0903169111,-0.8966430664
 5003010203,La Campaneta [Orihuela],38.0902463917,-0.8964056911
 5003010204,Vereda Don Fernando [Orihuela],38.0910226003,-0.8809817032
@@ -2756,11 +2769,9 @@ stop_id,stop_name,stop_lat,stop_lon
 5006100219,"Camí de la Mar, 45 [Alfàs del Pi, l]",38.579506999,-0.093804
 5006100221,"C. Ferreries, 20 [Alfàs del Pi, l]",38.5762279051,-0.1006192968
 5011010103,P. la Marina [Ondara],38.8178756719,0.0243222982
-5901020104,Pl. Major. 13,38.807728,-0.88004
+5901020108,"Av. Ausiàs March, 1",38.991681,-0.524484
 5202520102,av. de la Mar – Vicent Macip [Gandia],38.975791999,-0.173954
-5901110105,"Pl. Joan Xxiii, 15-16 [Rafelguaraf]",39.0458310103,-0.4679517549
 5003010208,"CV-9112, 26 front - El Badén",38.105572,-0.862317
-5901120101,"C/ Simat, 5-9 [Barxeta]",39.022682448,-0.4177402572
 5902010105,Plaça De L Ajuntament [Gavarda],39.0901675859,-0.5451975806
 5202510105,Urb. Montepino,38.978777,-0.258095
 5006200216,"Av. La Nucia, 16 [Altea]",38.6016321096,-0.0537996081
@@ -2773,23 +2784,16 @@ stop_id,stop_name,stop_lat,stop_lon
 5006100220,"C/ Exercits Espanyols (Casa de la Cultura) [Alfàs del Pi, l]",38.579074999,-0.098501
 5902010104,"CV-557 km 1,05 des",39.088541,-0.551573
 5011020103,"Av. Benidorm, 5 [Parcent]",38.7449985173,-0.0676277735
-5901030104,Av. Vicente Boluda. 8,38.941077,-0.443041
-5901030206,C. José Iranzo. 40 front,38.905834,-0.42279
+5901110105,"Pl. Joan XXIII, 15",39.045831,-0.467952
+5901120101,"C. Simat, 5",39.022682,-0.417741
+5901030104,"Av. Vicente Boluda, 8",38.941077,-0.443041
+5901030206,"C. José Iranzo, 40 front",38.905834,-0.422791
+5202110104,Estació Intermodal Gandia,38.970549,-0.180207
 5902010103,"C. Rey Jaime I, 12",39.091352,-0.559211
-5901020105,"Av. De Les Alcuses, 1 Acc, Esquina C/ Riu Canyoles [Moixent]",38.8737668138,-0.7544122789
-5901020106,"C/ José De Ribera, Esq. C/ Vicente Galiana Aparisi [Vallada]",38.8970324906,-0.6915617668
-5901020107,"C/ Asunción Perales, Frente Al 2 [Montesa]",38.9483424651,-0.6498361644
-5901020205,"Av. Párroco Quilis, 18 [Moixent]",38.8747427228,-0.7536717696
 5904110106,"Carril Bus En La Cv-590, Km 55,8 (Sentido Valencia/Xàtiva) [Estubeny]",39.0141782719,-0.6230152683
-5901030105,Av. Vicente Boluda. 48,38.942539,-0.44072
+5901020105,"Av. Alcuses, 1",38.873767,-0.754412
 5904110103,"Av. Blasco Ibáñez, 50 [Chella]",39.0414823749,-0.6614202115
-5901110107,"Av. Xàtiva, Esquina Av. Miralbó. [Xàtiva]",39.0287984423,-0.4893091512
-5901110206,"C/ Hernán Cortés, Esquina C/ Colón (Front) [Rafelguaraf]",39.0497493271,-0.4555476344
-5901120102,"Av. Jaume I, Frente Al Nº. 63 [Barxeta]",39.0222510033,-0.4206517224
-5901120103,"Passeig De La Fonteta, S/N [Llocnou dEn Fenollet]",39.0111563763,-0.4667452606
-5901030205,Av. Vicente Boluda. 13,38.941188,-0.443084
-5901110104,"C/ Hernán Cortés, Esquina C/ Colón [Rafelguaraf]",39.0498360903,-0.4555214073
-5901110106,"C/ Cervantes, Frente Al Nº. 42 (Consultorio De Salud) [Ènova, l]",39.0438600839,-0.4796275447
+5901020205,"Av. Párroco Quilis, 18",38.874743,-0.753672
 5902010107,Plaça D Espanya [Alcàntera de Xúquer],39.0672035168,-0.5640216007
 5902010111,"Carrer De La Senyera, 8, Señera [Senyera]",39.0634303889,-0.5102311649
 5902010205,"C/ Senyera, 5 Y En Frente [Senyera]",39.0635083662,-0.5101799948
@@ -2799,7 +2803,7 @@ stop_id,stop_name,stop_lat,stop_lon
 5903010206,"C/ Ramón Y Cajal, 45-49 (Sentido Xàtiva) [Alberic]",39.1192396261,-0.5200837527
 5904110102,Av. 14 Cruce Con C/ Calvo Sotelo Y Av. Del Oeste [Bolbaite],39.0596400218,-0.6741499608
 5011020209,"C/ Marqués de Almunia, 1 [Ràfol dAlmúnia, el]",38.8198051374,-0.0529051204
-5901030204,Av. Vicente Boluda. 46 front,38.942401,-0.441055
+5901020106,"C. José Ribera, 19 front",38.897032,-0.691562
 5251310117,Urb. Mas Camarena - Sector B [Bétera],39.5541519991,-0.459678
 5251310118,Urb. Mas Camarena - Sector A [Bétera],39.5566312634,-0.4611878957
 5251310119,Urb. Mas Camarena - Esmeralda IV [Bétera],39.5509419447,-0.4578531353
@@ -2810,11 +2814,19 @@ stop_id,stop_name,stop_lat,stop_lon
 5903010108,"Av. Valencia, 10",39.131906,-0.492573
 5018040117,"Av. Marina Alta, 24",38.826296616,0.0213984106
 5018040202,"Av. Marina Alta, 23",38.8263949898,0.0213753987
-5901030103,C. José Iranzo. 40,38.905879,-0.422686
+5901020107,"C. Asunción Perales, 10 front",38.948342,-0.649836
 5903010111,Hospital de la Ribera,39.159751,-0.415064
 5903010204,"C. Ausias March, 6",39.131556,-0.493772
 5903010209,"CV-557 km 1,05 asc",39.088625,-0.551604
 5904210108,"C. València, 80",39.264689,-0.468114
+5901120103,"Ps. Fonteta, s.n",39.011156,-0.466745
+5901110107,"Av. Xàtiva, 1 - Torre en LLoris",39.028798,-0.489309
+5901110106,"C. Cervantes, 42 front",39.043861,-0.479628
+5901110206,"C. Hernán Cortés, 33",39.049749,-0.455548
+5901110104,"C. Hernán Cortés, 26",39.049836,-0.455521
+5901120102,"Av. Jaume I, 65 front",39.022251,-0.420652
+5901030205,"Av. Vicente Boluda, 13",38.941188,-0.443084
+5901030204,"Av. Vicente Boluda, 46 front",38.942401,-0.441055
 5904210105,"C. 1 de Maig, 2",39.194922,-0.501930
 5904210202,"Av. Aragó, Esq. Hacienda [València]",39.4754336467,-0.3564639483
 5904210209,"Av. Antonio Almela, 119 (Sentido Alberic) [Alcúdia, l]",39.1923319252,-0.506354154
@@ -2884,11 +2896,11 @@ stop_id,stop_name,stop_lat,stop_lon
 5906030101,"Av. 25 d Abril, 52 - CV-505 encreuament C/ San Cristòfol (marquesina) [Riola]",39.1968910766,-0.3357900387
 5906040103,"C/ Mayor, 161 [Almussafes]",39.2952130096,-0.4114735816
 5905110115,"Av. Vital, 10",38.969338,-0.169732
-5905110202,CC. Plaza Mayor,38.971473,-0.170289
 5906010205,"Av. Antonio Almela, 7",39.198117,-0.504063
 5906020207,"C. Joanot Martorell, 16 front",39.155768,-0.434935
 5906020208,"Av. Sants Patrons, 19",39.151356,-0.438049
 5906030107,"Av. País Valencià, 7-9",39.194709,-0.437809
+5905110202,Av. Blasco Ibañez - CC. Plaza Mayor,38.971476,-0.170303
 5905030108,"Ctra. Gandia-Villalonga, S/N (Sentido Gandia) [Almoines]",38.9451653935,-0.1817098871
 5905030205,"Ctra. Gandia-Villalonga, S/N (Sentido Villalonga) [Almoines]",38.9452364226,-0.1818307262
 5905030206,"Av. País Valencià, 13 [Beniarjó]",38.9330923044,-0.1860322168
@@ -2924,9 +2936,9 @@ stop_id,stop_name,stop_lat,stop_lon
 5905120209,"Ps. Joan Fuster, 1",38.925002,-0.122572
 5905040101,Centre De Salut De Bellreguard [Bellreguard],38.9450584103,-0.1650251334
 5905040104,Ronda Oeste (Rotonda) [Piles],38.9476938423,-0.1186910638
-5401070106,"Av. Jaume I, 6 [Canals]",38.963415,-0.584105
 5251400111,"Avda. Corts Valencianes, 106 – Campament [Paterna]",39.4983264789,-0.4320084648
 5251400112,"Avda. Corts Valencianes, 54 - Cuartel [Paterna]",39.4993383016,-0.4352093736
+5401070106,"Av. Jaume I, 6",38.963415,-0.584105
 5905040109,Av. De La Mediterránea (Cruce Con Av. De La Mar) [Daimús],38.9731928523,-0.1418246805
 5905040110,"Avinguda Ronda Sud, 8 [Daimús]",38.9677470199,-0.150776766
 5905040207,"Av. De La Safor, 9 (Front) [Guardamar de la Safor]",38.9678018888,-0.1376581935
@@ -3072,7 +3084,6 @@ stop_id,stop_name,stop_lat,stop_lon
 5801040201,Avenida Castelló De La Plana. Frente Nº 84 [Vilafranca],40.4303593948,-0.2535519813
 5801050101,Vallibona [Vallibona],40.6030210216,0.0466709067
 5801060101,Herbés [Herbés],40.7212270457,-0.0040390259
-5901120204,"Av. Jaume I, Nº. 63 [Barxeta]",39.0221457304,-0.4206084419
 5025260107,"CV-821 km 2,50 asc",38.4021002035,-0.474053153
 5003010106,C/ Orihuela - Vereda Don Fernando [Orihuela],38.0911472127,-0.8810808676
 5006010109,"Av. Alfonso Puchades, 6",38.543625,-0.129603
@@ -3108,9 +3119,9 @@ stop_id,stop_name,stop_lat,stop_lon
 5252040210,"Av. Dr. Tomás Sala, 10",39.44727,-0.390989
 5252040239,"Av. Reis Catòlics, 48",39.365611,-0.407245
 5025230228,"Av. Dénia, 57 - Colegio De Médicos",38.356899,-0.470821
-5025930229,"Av. Dénia, 3",38.349778,-0.473229
 5006010104,"Av. Eduardo Zaplana, s/n (glorieta veles) [Benidorm]",38.5613671436,-0.1408803478
 5108060204,"C. Baja, 21",40.030091,-0.33612
+5901120204,"Av. Jaume I, 65",39.022146,-0.420608
 5006010219,"Av. Europa, 12",38.5392792862,-0.1201560718
 5006010222,"Av. Alfonso Puchades, 27",38.5419557464,-0.1246979546
 5006010119,"C. Lepanto, 2",38.539183,-0.123113
@@ -3119,6 +3130,7 @@ stop_id,stop_name,stop_lat,stop_lon
 5006010210,"Av. Mediterrani, 55",38.535271,-0.108573
 5003010102,"CV-9112, 26 - El Baden",38.105477,-0.862394
 5003010109,Estació Intermodal Orihuela,38.077370,-0.945199
+5025930229,"Av. Dénia, 3",38.349778,-0.473229
 5006100121,"Av. Comunitat Valenciana, Km. 124 9 [Benidorm]",38.5572897385,-0.1023888926
 5006100128,"Camí de la Mar, fr. 045 [Alfàs del Pi, l]",38.578737418,-0.086256181
 5006100130,"Camí de la Mar, fr. 083 [Alfàs del Pi, l]",38.5756273178,-0.0795342697
@@ -3180,8 +3192,6 @@ stop_id,stop_name,stop_lat,stop_lon
 5015150110,"Av. Germanies, 43",38.4317442932,-0.3967620018
 5015150203,"Av. Germanies, 43 front",38.4318997187,-0.3967680699
 5015090103,c. Oliver (Sanatori Sant jordi) [Alcoi],38.6927597682,-0.486805978
-5015110105,Quatretondeta [Quatretondeta],38.7223739991,-0.315362
-5015110106,Famorca [Famorca],38.7311049747,-0.2460975768
 5015150208,ctra. CV-777 – Unbanitzacio II [Busot],38.4728889564,-0.4151879657
 5015150210,Les Comarques – Poliesportiu [Busot],38.479102536,-0.4231300195
 5015020212,"Av. V Centenari, 12",38.626701,-0.564685
@@ -3200,13 +3210,13 @@ stop_id,stop_name,stop_lat,stop_lon
 5016210206,Av. Portugal 39 (Centro Comercial) [Santa Pola],38.1910923385,-0.5472200305
 5016080213,"Av.Mediterrani, 2 front (Urb. el Gran Alacant)",38.2315516479,-0.5242139449
 5016200204,"Av. Mediterrani (centre comercial, urb. el Gran Alacant)",38.2336368071,-0.5469637552
-5020020217,"Av. Catedrático Soler, 45",38.3395683,-0.4985038
+5015110202,"CV-720 km 2,47 asc",38.735709,-0.343755
+5015110106,"C. Sol, 26",38.731105,-0.246098
+5015100103,"Av. Constitució, 11 front",38.678165,-0.359337
 5020020113,Agua Amarga I [Alacant],38.3077204633,-0.5181650259
 5020020117,Antoñita Moreno Tormos [Alacant],38.3062409991,-0.522641
 5020020210,av. De Elx (Agua Amarga) [Alacant],38.3080480978,-0.5177949517
 5020020215,México 30 [Alacant],38.3384204028,-0.5078902126
-5015100103,"Av. Constitució, front 11 [Penàguila]",38.6781812692,-0.3593020288
-5015110202,Ctra. Gorga - CV-720 pk 2+470 ascendente [Balones],38.7357087894,-0.3437547645
 5016010106,Playa Carabasi [Elx],38.2376940000,-0.5191220000
 5253010207,"Av. País Valencià, 27",39.42482,-0.378663
 113002111,Av. Fco. Tomás y Valiente - Ps. Peñón de Ifach,39.520322,-0.425823
@@ -3420,11 +3430,11 @@ stop_id,stop_name,stop_lat,stop_lon
 5108110129,"Av. Cardenal Costa, 8",39.989741432,-0.0460987439
 5107990101,Sant Joan de Moró [Sant Joan de Moró],40.0603835857,-0.1396627143
 5108110131,"Uji - Av. Vicente Sos Baynat, 19 [Castelló de la Plana]",39.9925157574,-0.0643374113
+5201310208,"CV-350 km 11,25 asc - El Collado",39.961729,-1.039150
 5201110110,"Av. València, 62-64 [Casinos]",39.6962642657,-0.7075639674
 5213020207,"Av. Marina, 5",39.089351,-0.216676
 5254030122,"Av. Valencia, 37",39.394197,-0.778017
 5201110215,"C/Roger Duval, 45-47 [Villar del Arzobispo]",39.7352767933,-0.8278216383
-5201310208,"Cv-350, 12 Frente [Alpuente]",39.9617290319,-1.0391502904
 5202020106,"Av, dels Esports (Poliesportiu) [Gandia]",38.970104999,-0.174795
 5202020113,Passeig Neptú – Canàries [Gandia],39.003337999,-0.161803
 5202020203,c. Rioja – Castella-Lleó [Gandia],39.013678999,-0.174156
@@ -3530,9 +3540,9 @@ stop_id,stop_name,stop_lat,stop_lon
 113603217,"C. García Lorca, 43 front",39.503235,-0.437251
 5254040114,"Pl. de la Segunda República - C/ Asensio Tarín Cortes, front 1 [Cheste]",39.4942314267,-0.6796128717
 5251900202,"C/ València, 2 - Estanc [Serra]",39.6845427425,-0.4281782237
+5901120203,"Ps. Fonteta, s.n front",39.010981,-0.466621
 5403130103,"Ctra. Alacant, 56",38.6467985653,-0.1215260674
 5701020204,"C. Compositor Maestro Manuel Carrascosa, 2",38.628887,-0.864324
-5901120203,"Cv-600, Davant Paáeig De La Fonteta [Llocnou dEn Fenollet]",39.0109807835,-0.4666212573
 5904030207,"Av. Pintor Tarraso, Frente Al Nº. 41, Cruce Con C/ Del Carmen (Ctra. Cv-580) (Front) [Navarrés]",39.0993364745,-0.6925519496
 114009129,"C. San Vicent Ferrer, 1",39.527274,-0.487736
 5904220204,Plaça D Espanya (Front) [Alcàntera de Xúquer],39.0673042146,-0.56402707
@@ -3632,7 +3642,6 @@ stop_id,stop_name,stop_lat,stop_lon
 92571910124,"GV. Marqués del Túria, 71-73 - Pl. Cánovas del Castillo",39.4684686871,-0.3658763675
 140106209,"CV-482 km 0,08 asc (a demanda)",40.141414,-1.316103
 92571910204,"Av. Profesor López Piñero, 16",39.4539678251,-0.3533044677
-140107104,"Pl. España, 2  (a demanda)",40.063077,-1.338946
 140200101,A-1514 (a demanda),39.991014,-1.042372
 92571910211,"CV-500 pk 12,8 asc",39.3228747424,-0.30934568
 92571910101,"Av. Mareny Blau, 14",39.226574,-0.249321
@@ -3659,13 +3668,13 @@ stop_id,stop_name,stop_lat,stop_lon
 140303205,"C. València, 37 (a demanda)",39.621833,-0.912750
 140303204,"Av. Ermita, 15 (a demanda)",39.648088,-0.885108
 140303203,"Pl. La Baronia, 1 - Ajuntament (a demanda)",39.656201,-0.891926
+140200104,TE-V-6134 (a demanda),39.909536,-0.890615
 925426910117,"Av. Hostalers, 52A front",39.477121,-0.552368
 925426910118,Av. Hostalers - Torre Miranda,39.477251,-0.558301
 925426910119,"Av. Hostalers, 13",39.47729,-0.562577
 925426910204,"Av. Hostalers, 13 front",39.47719,-0.563183
 925426910205,Av. Hostalers - C. Peleters,39.47703,-0.55858
 925426910206,"Av. Hostalers, 52A",39.47696,-0.552303
-140200104,Te-V-6134 (a demanda),39.909536,-0.890615
 140200105,"Pl. Soldado Juan Aliaga, 2 (a demanda)",39.891072,-0.961591
 140200106,"Las Eras, 1 (a demanda)",39.887876,-1.011192
 140200107,"Av. San Blas, 37 (a demanda)",39.878236,-1.014871
@@ -3832,6 +3841,7 @@ stop_id,stop_name,stop_lat,stop_lon
 5108030202,"CV-20 km 27,37 asc - Av. Toga",40.028173,-0.355537
 5108030203,"CV-20 km 29,44 asc",40.041225,-0.366718
 925113110225,"Gran Vía Fernando el Católico, 9 [València]",39.469949,-0.385079
+925918510213,"GV. Ramón y Cajal, 28",39.467581,-0.382772
 5250500104,"Av. del Cid, 40 [València]",39.468379,-0.395765
 5256120202,"C/ Poeta Monmeneu, 13 [València]",39.482765,-0.376290
 5401030116,"Gran Vía Ramón y Cajal, 20 [València]",39.466502,-0.382005
@@ -3844,7 +3854,6 @@ stop_id,stop_name,stop_lat,stop_lon
 5250600109,"Av. del Cid, 164",39.469718,-0.414166
 5254020107,"C. San Antonio, 6",39.474017,-0.412322
 925016010225,"GV. Ferran El Catòlic, 82",39.477211,-0.389639
-925918510213,"GV. Ramón y Cajal, 28",39.46758,-0.382772
 5108030205,"CV-20 km 32,59 asc",40.04986,-0.397168
 5108030208,"C. San Isidro, 1",40.071052,-0.481327
 5108030209,"CV-20 km 49,71 asc - La Alquería",40.063365,-0.513944
@@ -4151,11 +4160,11 @@ stop_id,stop_name,stop_lat,stop_lon
 5028030102,"Av. Diputació, 51 - Est. Autobusos",38.646491,0.044458
 5028030205,"CV-746 km 8,9 des",38.682085,0.119876
 5026010112,Pol. Ccanastell / c. La Fragua [Sant Vicent],38.402380,-0.538424
-5104010102,"C. Alicante, 5",39.8497838927,-0.4873138424
 5026010209,Pol. Canastell Obrador Adeshivos [Sant Vicent],38.401130,-0.534030
 5026010210,Pol. Canastell Neumáticos Soledad [Sant Vicent],38.404372,-0.544195
 50040400104,"C. Nueva Arneva, 1 - Hurchillo",38.059016,-0.923455
 5026010202,"Av. Salamanca, 8",38.343917,-0.494311
+5104010102,"C. Alicante, 5",39.849784,-0.487314
 5105020112,"Av. Aragón, 9 [Alcañiz]",41.05044,-0.13015
 50040400101,Av. Duque Tamames – Glorieta [Orihuela],38.0818513079,-0.9446207189
 50040400103,"CV-925 pk 0,300 I [Orihuela]",38.0768852808,-0.9410962015
@@ -4188,24 +4197,20 @@ stop_id,stop_name,stop_lat,stop_lon
 50040500214,C/ Santa Justa – Ayuntamiento [Orihuela],38.0854435213,-0.949701821
 50040500215,C/ López  Pozas 14 [Orihuela],38.0852453799,-0.9482053457
 50040500216,C/ San Agustín 34 [Orihuela],38.0828916898,-0.9475909291
-5901030102,C. Marxillent. 41,38.903838,-0.419404
+5901020102,"Cm. Lavadero, 2 (a demanda)",39.091075,-1.073681
 5104020104,"C. Replaceta, 9",39.935531,-0.577038
+5901020103,"Pl. Glorieta, 14",39.060399,-1.053562
+5901020207,"Pl. Glorieta, 14 front (a demanda)",39.060426,-1.053438
 5903010107,"Camí Reial Madrid, 26",39.143276,-0.520952
-5901030207,C. Marxillent. 28,38.903761,-0.41951
+5901110103,C. Mestre Victor Terol - Glorieta (a demanda),39.070795,-0.489375
 5904110108,Estació Autobusos Xàtiva,38.9926164823,-0.52168715
 5218010114,"C. Casablanca, s.n - Hospital de Requena",39.48736,-1.089932
-5901020102,"Camino Lavadero, 2 (a demanda)",39.091075,-1.07368
-5901020103,"Pl. Glorieta, 14",39.060398748,-1.0535616445
+5901110101,"Av. Estació, 58 (a demanda)",39.083135,-0.469981
+5901110208,"Av. Valencia, 15 (a demanda)",39.084321,-0.477081
 5908030101,"C. Madrid, 3",39.535991,-1.439448
 5402010109,"Crta N-340 [Llosa de Ranes, la] (a demanda)",39.0167279991,-0.535738
 5801010101,Plaza De España Nº 10 [Cantavieja] (a demanda),40.52650671,-0.4052703676
 5801010102,Calle Eras Frente Nº 6 [Mirambel] (a demanda),40.5868646535,-0.3436349462
-5901020207,"Plaza Glorieta, Frente 14 [Ayora] (a demanda)",39.0604260815,-1.0534376494
-5901030101,"Carrer De Sant Pere, 26 [Pinet] (a demanda)",38.9821709849,-0.3378826866
-5901110101,"Estació Ffcc La Pobla Llarg [Pobla Llarga, la] (a demanda)",39.083135239,-0.4699804198
-5901110102,"C/ Valencia, 15, Esquina Con C/ Reis Catòlics (Front) [Pobla Llarga, la] (a demanda)",39.0844015734,-0.4770523745
-5901110103,"Rotonda De Acceso Al Polideportivo Y A La C/ Vilanova De Castelló (Ctra. Cv-561, Km 1,9) [Sant Joanet] (a demanda)",39.0707945316,-0.4893747451
-5901110208,"C/ Valencia, 15, Esquina Con C/ Reis Catòlics [Pobla Llarga, la] (a demanda)",39.0843204017,-0.4770802498
 5902010101,"Pl. Mayor,1 (Frente Al Ayuntamiento) [Sumacàrcer] (a demanda)",39.0944969186,-0.6288123806
 5902010106,"Av. Valencia, 1 [Cotes] (a demanda)",39.0709467082,-0.5742285089
 5904030102,"C/ José Antonio, 20 (Ctra. Cv-580) (Front) [Quesa] (a demanda)",39.1191987157,-0.7401897793
@@ -4220,6 +4225,10 @@ stop_id,stop_name,stop_lat,stop_lon
 5218010299,C/ Nueve de Octubre 10 [València],39.471527,-0.405488
 5001010110,"C/ Norte, 21 - La Cruz de Galindo [Almoradí]",38.0992445327,-0.8045685191
 5001010111,"Av. Orihuela, 21 (estació Repsol) [Almoradí]",38.1045989991,-0.797468
+5901110102,"Av. Valencia, 15 front (a demanda)",39.084402,-0.477052
+5901030101,"C. Sant Pere, 26 (a demanda)",38.982171,-0.337883
+5901030102,"C. Marxillent, 41",38.903838,-0.419404
+5901030207,"C. Marxillent, 28",38.903761,-0.419511
 5001020111,Camping La Marina - La Marina II [Elx],38.1306339991,-0.650017
 5003010202,Av. Príncipe de Asturias (Barrio de San Pedro) - Puente del Rey [Orihuela],38.0854845052,-0.9388516954
 5006010202,"Av. Severo Ochoa, 9 [Benidorm]",38.5436683332,-0.1026321295
@@ -4316,6 +4325,7 @@ stop_id,stop_name,stop_lat,stop_lon
 5009010112,"Av. Ultramar, front 47 (Aptos. Cofisa) [Xàbia]",38.7692338953,0.1971087547
 5015090207,Barri de Batoi (Parc),38.691065,-0.492705
 5014010137,"C. San Vte. Ferrer, 5",38.245572,-0.808692
+5015100205,CV-785 km 6.67 des,38.663746,-0.400582
 5011020107,"Pl. Pais Valencià,7 [Sagra]",38.8112343599,-0.0649921462
 5011020108,"C/ Marqués de Almunia, 2 [Ràfol dAlmúnia, el]",38.8197306207,-0.0528604367
 5011020109,"C/ San Andrés, 37 [Benimeli]",38.822186388,-0.0435310005
@@ -4341,21 +4351,18 @@ stop_id,stop_name,stop_lat,stop_lon
 5015090109,"C/ Conquistador, 54 - Moreneta [Banyeres de Mariola]",38.7123319991,-0.662473
 5015090202,"C/ Conquistador, front 54 - Moreneta [Banyeres de Mariola]",38.7122579469,-0.6624217979
 5015090204,Ermita de Polop CV-795 km 11+000 descendente [Alcoi],38.6778777799,-0.5902039553
-5015100205,Benifallim - CV-785 pk 6+670 descendente[Benifallim],38.6637459991,-0.400582
-5015110104,"Ctra. Quatretonda, front 25 - CV-754 pk 0+090 ascendente [Gorga]",38.7199869991,-0.356268
 5015110107,"Av. del Comtat, front 5 [Facheca]",38.7344509991,-0.267891
-5015110109,Ctra. Benimassot - CV-720 pk 9+130 descendente [Benimassot],38.7486549031,-0.2895830369
-5015110110,Ctra. Gorga - CV-720 pk 2+470 descendente [Balones],38.73581349,-0.3438127557
-5015110203,Ctra. Benimassot - CV-720 pk 9+130 ascendente [Benimassot],38.7485687005,-0.2895523349
-5015110205,"Av. del Comtat, 5 [Facheca]",38.7343621093,-0.2679520439
-5015110208,"Ctra. Quatretonda, 25 - CV-754 pk 0+090 descendente[Gorga]",38.7200020296,-0.3561784644
 5015140202,"Les Comarques, 1 [Busot]",38.4784803817,-0.4209664947
 5015150106,"Antonio Bonny I - CV-777 pk 1+050 ascendente [Campello, el]",38.4361118497,-0.4102826093
 5015150207,"Antonio Bonny I - CV-777 pk 1+050 descendente [Campello, el]",38.4359183246,-0.4100987841
 5016080209,"Av. San Bartolome De Tirajana,12 Iii [Elx]",38.2573741309,-0.517941031
 5016080212,Playa Carabasi (front) [Elx],38.2378440000,-0.5192100000
+5015110205,"Av. Comtat, 5",38.734362,-0.267952
 5018040114,"C/ Torres Orduña, 15 [Atzúbia, l]",38.8476037339,-0.1492564795
 5018040205,"C/ Torres Orduña, 6 [Atzúbia, l]",38.8476802587,-0.1492457382
+5015110110,"CV-720 km 2,47 des - C. la Costera",38.735832,-0.343851
+5015110203,"CV-720 km 9,13 asc",38.748554,-0.289558
+5015110109,"CV-720 km 9,13 des",38.748641,-0.289633
 5025210131,"C. Barcelona, 26",38.3971603667,-0.4129372269
 5020020119,Ctra. Saladar - Urbanova (front) [Alacant],38.2875009726,-0.5219368521
 5020020202,Rafael Casasempere - Urbanova 4 (front) [Alacant],38.2817258201,-0.5226286248
@@ -4364,10 +4371,12 @@ stop_id,stop_name,stop_lat,stop_lon
 5023300107,Cooperativa Mañán - CV-83 pk 13+900 ascentente [Monòver],38.4285636097,-0.9297982172
 5023310102,Parque-Barbarroja CV-845 pk 18+600 descendente [Orihuela],38.2762694879,-0.9646114765
 5023310205,Parque-Barbarroja - CV-845 pk 18+600 ascendente [Orihuela],38.2763436651,-0.9645774447
+5015110208,"Ctra. Quatretonda, 25",38.720002,-0.356178
 5025210136,"C. Jaume I, s/n front - C. Velázquez",38.4088737001,-0.4029276984
 5025210210,"C. Jaume I, s/n - C. Velázquez",38.4088680011,-0.4030375157
 5025510208,"C/ Vergeret, front 7 - Bonnysa [Mutxamel]",38.4303549866,-0.450883042
 5026010107,Ctra. Agost encreuament Moralet (Olivos) - CV-820 pk 2+950 descendente [Alacant],38.416217,-0.582701
+5015110104,"Ctra. Quatretonda, 25 front",38.719934,-0.356304
 5026010109,Ctra. Agost encreument ermita - CV-820 pk 1+850 descendente [Alacant],38.412920,-0.571162
 5026010113,Pol. Canastell / c. Álvarez Quintero [Sant Vicent],38.399960,-0.530573
 5026010208,Pol. Canastell / c. Elda [Sant Vicent],38.400169,-0.530815
@@ -4440,10 +4449,10 @@ stop_id,stop_name,stop_lat,stop_lon
 5090070105,Hospital Universitario de Torrevieja,37.964307,-0.717206
 5104010209,Antiga N-234 - urb. Mont Blau (front) [Torres Torres],39.7368790623,-0.3518991827
 5104010207,"Av. Camp de Morvedre, 51",39.7083039529,-0.3487085807
-5104010220,"C. Alicante, 2",39.8498663662,-0.487368509
-5104020102,"Av. Antonio Fornas, 35",40.035807,-0.551709
+5104020223,"CV-195 km 16,97 asc - C. Antonio Fornas",40.035561,-0.551745
+5104020102,"CV-195 km 16,99 des - C. Antonio Fornas",40.035791,-0.551704
 5104030215,Av. Camp de Morvedre front 115 (Correus) – Port de Sagunt [Sagunt],39.6632248032,-0.2227742977
-5104020223,"Av. Antonio Fornas, 35 front",40.035555482,-0.5517502801
+5104010220,"C. Alicante, 2",39.849866,-0.487369
 5104040103,"Ctra. Algimia, en rotonda- CV-215 pk 10+800 ascendente [Algimia de Almonacid]",39.9124934197,-0.4430034375
 5104040201,"C/ Segorbe, 4 (martes a demanda) [Castellnovo]",39.8618645173,-0.4600184897
 5104040203,"Ctra. Algimia, en rotonda - CV-215 pk 10+800 descendente [Algimia de Almonacid]",39.9123240433,-0.4424510911
@@ -4830,6 +4839,7 @@ stop_id,stop_name,stop_lat,stop_lon
 5106020206,"Ps. Carboneras, 2",39.834252999,-0.370647
 5206040125,"Al Vedat, 101 - Fuente de las ranas [Torrent]",39.432796,-0.471312
 5105120105,"Av. Gil Atrocillo, 11 front - ADIF",40.470305,0.456509
+5106020204,"CV-230 km 15,7 des",39.834947,-0.269583
 5105110210,"C/ J.M. Beltrán, 23 [Xert]",40.5167440088,0.1602493838
 5105110103,"C/ J.M. Beltrán, front 23 [Xert]",40.5166434591,0.1602337656
 5105010116,"Plaza Llaurador, 1 [Sant Mateu]",40.4628206725,0.1783644012
@@ -4861,7 +4871,6 @@ stop_id,stop_name,stop_lat,stop_lon
 5105010106,"Av. Zaragoza, 156 [Borriol]",40.0416753743,-0.0661394858
 5105140201,"Av. Zaragoza, 141 [Borriol]",40.0417865936,-0.0661960049
 5106020112,CV-230 pk 16+600 ascendente [Alfondeguilla],39.8346541706,-0.270452596
-5106020204,CV-230 pk 16+700 descendente [Alfondeguilla],39.8349472962,-0.2695827634
 5251950201,"C/ València, 60 [Gestalgar]",39.6060709991,-0.830686
 5250720149,"Paiporta, 88 - Restaurante Mirador (Calicanto) [Torrent]",39.4327719991,-0.608467
 5250720221,"Mas del Jutge, 1 - Camí Reial [Torrent]",39.4385432346,-0.4711704049
@@ -5232,8 +5241,8 @@ stop_id,stop_name,stop_lat,stop_lon
 925114800114,"C/ Vila de Madrid, 35 [Paterna]",39.513681,-0.463540
 925114800115,"C/ Ciutat de Elda, 7 [Paterna]",39.511414,-0.455461
 925124510217,"C/ Valencia, 34 [Llíria]",39.626690,-0.591795
-5227020218,"C. Diputació, 21",39.076474,-0.508381
 925217900101,"Av. Francesc Ciscar, 4 - Front Metro Paiporta",39.431892,-0.418105
+5227020218,"C. Diputació, 21",39.076557,-0.508416
 925810520102,C/ Vilamarxant cantó carrer Juan Izquierdo,39.622953,-0.590708
 925810530103,"C/ Fray Luis amigo, 32  (frente a You do do) [Benaguasil]",39.598877,-0.583306
 925810530106,Carretera de Valencia a Ademuz - Frente a Neumáticos Civera Ibañez [Llíria],39.622168,-0.588449
