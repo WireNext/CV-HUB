@@ -43,7 +43,6 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 2505855451,2042521951,L410c,L410c_Utiel - Requena - València (por Siete Aguas sin Hospital),3
 510799,5107,LX,Sant Joan de Moró – Castelló de la Plana,3
 2551505855,2545579951,L405a,L405a_Gátova - Olocau - Marines - Llíria,3
-2083379803,1932031151,L21N,L21N_Alacant - El Campello (Nocturn),3
 59990030,5999,T3,Grau – Serradal,3
 59990040,5999,T4,UJI – Parc Ribalta,3
 2844734852,2844733851,L2,L2_Xàtiva-Carcaixent-Alzira-Gandia,3
@@ -61,6 +60,7 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 2551505857,2545579951,L406,L406_Alcublas - Llíria,3
 2864046103,2864045001,L2b,L2b_Platja de Xeraco - Gandia,3
 2435797502,2435796601,L2,L2_Alcoi - Cocentaina - Muro de Alcoy (per Alcudia i Alquería d' Asnar),3
+2083379803,1932031151,L21N,L21N_Alacant - El Campello (Nocturn),3
 2435797503,2435796601,L3,L3_Banyeres de Mariola - Alcoi,3
 2435797504,2435796601,L4,L4_Alcoi - Benilloba - Gorga - Famorca (a la demanda),3
 2438296404,2435796601,L6C,"L6C_Muro de Alcoy - Planes (per Benimarfull, Benillup, Almudaina i Benialfaquí)",3

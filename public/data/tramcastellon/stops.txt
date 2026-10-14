@@ -2584,6 +2584,7 @@ stop_id,stop_name,stop_lat,stop_lon
 5258020105,"C/ Verge del Fonament, 12 [Benissanó]",39.6120511773,-0.5739420508
 5258020202,"C/ Juan Izquierdo, 72 - Carretera de Vilamarxant [Llíria]",39.6232878778,-0.5909664374
 5258020203,"C/ Verge del Fonament, 11 - Colegio [Benissanó]",39.612107127,-0.5741860484
+57050219230,"Av. Benidorm, 14",38.365852,-0.416028
 5701010104,"Av. Comte de Torrefiel, 53",38.817819,-0.608517
 5701010106,"Av. d Albaida, 32 front",38.821193,-0.597691
 5701010107,"C. Daniel Gil, 25",38.824329,-0.602109
@@ -2630,7 +2631,6 @@ stop_id,stop_name,stop_lat,stop_lon
 5201410101,"CV-395, 30",39.622249,-0.914391
 5201420105,"Av. Casa de la Cultura, 2",39.788617,-0.862774
 57050219222,"Av. Joaquin Arias, 1",38.371716,-0.412191
-57050219230,"Av. Benidorm, 14",38.365852,"-0,416028"
 57050219242,Av. Jovellanos - Ascensor Sta. Bárbara,38.347077,-0.476404
 5025230116,"Av. Dénia, 126",38.369012,-0.457895
 5250070106,"Av. Concordia, 6",39.462915,-0.469047
