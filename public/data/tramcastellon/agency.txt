@@ -17,6 +17,7 @@ agency_id,agency_name,agency_url,agency_timezone,agency_lang
 2865012901,Carcaixent - Alzira - Algemesí,http://cegesem.gva.es,Europe/Madrid,es
 2864045001,Barx/Xeraco - Gandia,http://cegesem.gva.es,Europe/Madrid,es
 2876823551,Alberic - Alzira - València,http://cegesem.gva.es,Europe/Madrid,es
+2883534851,Benferri - Orihuela - Guardamar/Alacant,http://cegesem.gva.es,Europe/Madrid,es
 5213,Tavernes de la Valldigna - Valencia,http://www.lamarinagandiense.com/,Europe/Madrid,es
 5999,TRAM Castelló de la Plana,https://www.tramcastellon.com,Europe/Madrid,es
 5903,Antella - Alberic - Massalavés - Alzira,https://www.autocaresfranjen.es/,Europe/Madrid,es

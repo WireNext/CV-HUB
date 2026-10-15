@@ -2542,6 +2542,7 @@ stop_id,stop_name,stop_lat,stop_lon
 5201610104,"C. La Hoya, 21",40.094663,-1.260914
 5201420102,"Pl. Muralla, 1",39.835804,-0.813412
 5201310106,"Las Eras, 1",39.887876,-1.011192
+5228010204,"Av. Gandía, 60",38.989574,-0.465545
 5250720138,Av. Buenos Aires – C/ Río Tormes – Restaurante Sol y Nata [Chiva],39.432621,-0.552187
 5250750108,"Av. Vicente Blasco Ibáñez, 51 [Alaquàs]",39.457613,-0.451611
 5250750109,"Av. Vicente Blasco Ibáñez, 3 [Alaquàs]",39.456436,-0.454698
@@ -2559,7 +2560,6 @@ stop_id,stop_name,stop_lat,stop_lon
 5228010206,"Av. Vicent Boluda, Frente A 8 [Benigànim]",38.9411876204,-0.4430835407
 5228010207,"Calle José Iranzo, Frente A 40 [Pobla del Duc, la]",38.9058339614,-0.4227895569
 5228010107,"C. Albereda Jaume I, 62",38.990019,-0.519948
-5228010204,"Av. Gandía, 60",38.989574,0.465545
 5228010108,Hospital Lluís Alcanyís,39.006258,-0.510504
 5701010101,"C. Joan Beneyto Bernàcer, 2",38.764165,-0.611379
 5909010207,"Av. València, 5 front",38.902976,-0.495298

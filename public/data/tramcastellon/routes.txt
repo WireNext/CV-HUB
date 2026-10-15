@@ -31,9 +31,9 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 2435797501,2435796601,L1,L1_Alcoi - Cocentaina - Muro de Alcoy,3
 590600200,5906,L2,Carcaixent – Alzira – Algemesí - València,3
 2844734851,2844733851,L1,L1_Simat de la Valldigna - Gandia,3
+590103,5901,L3,Pinet – Xàtiva,3
 100200103,1002,L1,Vinaròs – Benicarló – Peníscola (12-2021 a 09-2022),3
 590102,5901,L2,Carcelén – Xàtiva,3
-590103,5901,L3,Pinet – Xàtiva,3
 2438296401,2435796601,L5,L5_Banyeres de Mariola - Muro de Alcoi,3
 2438296402,2435796601,L6A,L6A_Muro de Alcoy - Planes,3
 2863103351,2863102451,L3,L3_Calp - Moraira - Teulada,3
@@ -75,6 +75,7 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 59990010,5999,T1,UJI – Grau,3
 2876829801,2876823551,L1,L1_Alberic - Valéncia,3
 2703103901,2703102101,L340a,"L340a_Onda – Castelló de la Plana (por Vila-real y Hospital de la Plana, fins UJI)",3
+2883536251,2883534851,L1,L1_Almoradí - (Las Dayas a la demanda) - Guardamar del Segura,3
 2703103902,2703102101,L340b,"L340b_Onda – Castelló de la Plana (por Vila-real y Hospital de la Plana, fins Estació)",3
 51050081,5105,L8A,Castelló de la Plana - Benicàssim - Playetas - Oropesa - Oropesa platja (INVIERNO),3
 10020022,1002,L2B,Peñíscola – Benicarló (12-2021 a 09-2022),3
@@ -93,6 +94,7 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 59990020,5999,T2,UJI – Grau – Platja,3
 2876829803,2876823551,L3A,L3A_Antella - Alzira - Hospital de la Ribera,3
 1473879153,1473878501,L251b,L251b_Parc empresarial - Torrellano - Alacant,3
+2883536254,2883534851,L4A,L4A_Abanilla - Benferri - Orihuela,3
 1473879154,1473878501,L252,L252_Crevillent - Alacant (directe),3
 1620431252,1620431001,L710,L710_Alacant - València (directe),3
 1620431253,1620431001,L715,L715_Elx - Elda - Alcoi - València,3
@@ -100,6 +102,8 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 590302,5903,L2,Alberic – Alzira,3
 590511,5905,L1A,Pego – Oliva – Gandia,3
 590512,5905,L1B,Pego – Daimús – Gandia,3
+2883536253,2883534851,L3,L3_Almoradí - Guardamar del Segura - Aeroport,3
+2883536252,2883534851,L2,L2_Almoradí - Rojales - Alacant,3
 590513,5905,L1C,Oliva – Bellreguard – Gandia,3
 590514,5905,L1D,Oliva – Daimús - Gandia,3
 1473879156,1473878501,L255a,L255a_Elx - Santa Pola,3
@@ -117,6 +121,7 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 510751,5107,L5A,Borriana - València,3
 2100452953,2044020301,L481a*,L481a*_Castelló de Rugat - Ontinyent (per Otos),3
 2100452954,2044020301,L481b*,L481b*_Castelló de Rugat - Ontinyent (per Bélgida),3
+2883536255,2883534851,L4B,L4B_La Murada - Benferri - Orihuela - Hospital Vega Baja,3
 2100452957,2044020301,L485a,L485a_La Font de la Figuera – Xàtiva,3
 2100452958,2044020301,L485b,L485b_La Font de la Figuera – Moixent,3
 1620431259,1620431002,L522a,L522a_Benidorm - La Vila Joiosa - Universitat - Alacant,3
