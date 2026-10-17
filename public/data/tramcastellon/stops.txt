@@ -2761,6 +2761,8 @@ stop_id,stop_name,stop_lat,stop_lon
 5202520111,av. Europa – Anglaterra [Gandia],38.983473999,-0.16899
 5901020104,"Pl. Major, 13",38.807728,-0.880041
 5006100222,"Passeig Mitja Llegua, front 25 [Alfàs del Pi, l]",38.5708406432,-0.0965256955
+17140041101,"Ctra. Orihuela, 14 front",38.203766,-1.040345
+17140041102,"Av. Marqués de Lacy, 48 (La Murada)",38.171416,-0.964117
 5003010107,C/ Orihuela - La Campaneta [Orihuela],38.0903169111,-0.8966430664
 5003010203,La Campaneta [Orihuela],38.0902463917,-0.8964056911
 5003010204,Vereda Don Fernando [Orihuela],38.0910226003,-0.8809817032
@@ -2770,7 +2772,11 @@ stop_id,stop_name,stop_lat,stop_lon
 5006100221,"C. Ferreries, 20 [Alfàs del Pi, l]",38.5762279051,-0.1006192968
 5011010103,P. la Marina [Ondara],38.8178756719,0.0243222982
 5901020108,"Av. Ausiàs March, 1",38.991681,-0.524484
+17140041103,Ctra. Abanilla - C. Miguel de Cervantes,38.146551,-0.961879
+17140041104,"C. Orihuela, 19 front",38.141265,-0.960806
+17140041202,"C. Orihuela, 19",38.141308,-0.960649
 5202520102,av. de la Mar – Vicent Macip [Gandia],38.975791999,-0.173954
+17140041203,Ctra. Abanilla - C. Miguel de Cervantes front,38.146742,-0.961701
 5003010208,"CV-9112, 26 front - El Badén",38.105572,-0.862317
 5902010105,Plaça De L Ajuntament [Gavarda],39.0901675859,-0.5451975806
 5202510105,Urb. Montepino,38.978777,-0.258095
@@ -2789,6 +2795,12 @@ stop_id,stop_name,stop_lat,stop_lon
 5901030104,"Av. Vicente Boluda, 8",38.941077,-0.443041
 5901030206,"C. José Iranzo, 40 front",38.905834,-0.422791
 5202110104,Estació Intermodal Gandia,38.970549,-0.180207
+17140010107,"Av. Segura, 6",38.080319,-0.837309
+17140010110,"C. Mayor, 44 (a demanda)",38.113191,-0.759428
+17140010115,"Pl. Unió Europea, 4 front (a demanda)",38.103828,-0.736439
+17140010208,"C. Mayor, 57 (a demanda)",38.113166,-0.759179
+17140010211,"Av. Segura, 6 front",38.080307,-0.837507
+17140010214,"CV-95 km 4,95 des",38.064517,-0.895609
 5902010103,"C. Rey Jaime I, 12",39.091352,-0.559211
 5904110106,"Carril Bus En La Cv-590, Km 55,8 (Sentido Valencia/Xàtiva) [Estubeny]",39.0141782719,-0.6230152683
 5901020105,"Av. Alcuses, 1",38.873767,-0.754412
@@ -2827,6 +2839,7 @@ stop_id,stop_name,stop_lat,stop_lon
 5901120102,"Av. Jaume I, 65 front",39.022251,-0.420652
 5901030205,"Av. Vicente Boluda, 13",38.941188,-0.443084
 5901030204,"Av. Vicente Boluda, 46 front",38.942401,-0.441055
+17140041204,"Av. Marqués de Lacy, 39 (La Murada)",38.171454,-0.963905
 5904210105,"C. 1 de Maig, 2",39.194922,-0.501930
 5904210202,"Av. Aragó, Esq. Hacienda [València]",39.4754336467,-0.3564639483
 5904210209,"Av. Antonio Almela, 119 (Sentido Alberic) [Alcúdia, l]",39.1923319252,-0.506354154
