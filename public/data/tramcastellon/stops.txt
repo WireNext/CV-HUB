@@ -2419,6 +2419,7 @@ stop_id,stop_name,stop_lat,stop_lon
 5909010204,"Av. Constitució, 12 front",38.924368,-0.488156
 5909010205,"CV-613 km 2,07 des",38.918951,-0.480955
 5909010206,"C. Alfarrasí, 4",38.913661,-0.479171
+5901030103,"C. José Iranzo, 40",38.905879,-0.422686
 5025360116,"Av. Dr. Jiménez Díaz, 24",38.3560476161,-0.5004111285
 5108110211,"Av. Mura, 20 [Vila-real]",39.9368465254,-0.0996074912
 148502104,Estació ADIF Moixent,38.877307,-0.753886
@@ -2443,7 +2444,6 @@ stop_id,stop_name,stop_lat,stop_lon
 5006020132,"Av. Marina Baixa, 23",38.531144,-0.168005
 5006020202,"Av. Picasso, 3",38.534039,-0.172371
 5006020203,"Av. Picasso, 1",38.532641,-0.172581
-5901030103,"Av. València, 64 front",38.940096,-0.355626
 148502103,"Av. Lepanto, 47 - IES de Moixent",38.871852,-0.758675
 5025530118,"La Almadraba, 9 [Campello, el]",38.4370867969,-0.3817191751
 5025530115,"Sant Bartolomeu – Pza. Joan Pau Ii [Campello, el]",38.4302897493,-0.3888176517
@@ -2857,11 +2857,11 @@ stop_id,stop_name,stop_lat,stop_lon
 5904210101,"Carrer Antonio Lloret, 41 (Sentido Valencia) [Alberic]",39.1153273754,-0.5220419265
 5901020104,"Pl. Major, 13",38.807735,-0.880062
 5901020108,"Av. Ausiàs March, 1",38.991661,-0.524512
-5901030104,"Av. Vicente Boluda, 8",38.941272,-0.360314
 5904210212,"Carrer Antonio Lloret, 41 (Sentido Xàtiva) [Alberic]",39.1153514257,-0.5221054539
 5904220103,Plaça Solidaritat (Sentido Alcóntera De X·Quer) [Càrcer],39.0688947413,-0.5677370969
 5906010208,"C/ Enginyer Balaguer, 1 [Carlet]",39.2268845617,-0.5218098205
 5906010210,"Pl. Dr. J. Bosch Marín, Acc [Catadau]",39.274262267,-0.5713511213
+5901030104,"Av. Vicente Boluda, 8",38.941077,-0.443041
 5906040108,"Av. Caixa D Estalvis, 37-39 (Sentido Alzira) [Benifaió]",39.2867667709,-0.4224050769
 5905040106,"Av. De Les Moreres, 15 [Bellreguard]",38.961637504,-0.1317300069
 5904120101,"Ctra. Cv-580 Km 25,7 (Antes De La Glorieta De Entrada Al Pueblo) [Bicorp] (a demanda)",39.1300900982,-0.7868998955
