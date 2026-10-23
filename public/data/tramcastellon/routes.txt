@@ -86,7 +86,9 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 2703103910,2703102101,L344,L344_Alcudia de Veo - Onda,3
 2890158702,2890155401,L1B,L1B_La Font de la Figuera - Moixent,3
 2703103911,2703102101,L345,L345_Ribesalbes - Onda,3
+2890158706,2890155402,L1,L1_Alacant - Alcoi (directe),3
 10020013,1002,L1C,Benicarló – Peníscola,3
+2890158710,2890155402,L4B,L4B_Xixona - Alacant,3
 2096814851,2042521951,L416a*,L416a*_Cofrentes – Ayora – Almansa (Zarra a demanda),3
 2703103909,2703102101,L343b,L343b_Villamalur - Onda (a demanda),3
 2876829802,2876823551,L2,L2_Alberic - Alzira - Hospital de la Ribera,3
@@ -112,6 +114,8 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 2883536254,2883534851,L4A,L4A_Abanilla - Benferri - Orihuela,3
 1620431251,1620431001,L710a,L710a_Alacant - Gandia - València,3
 2890158705,2890155401,L2B,L2B_Pinet - Xàtiva,3
+2890158707,2890155402,L2,L2_Alcoi - Sant Vicent del Raspeig - Alacant (per Ibi. Onil i Castalla),3
+2890158708,2890155402,L3,L3_Alcoi - Hospital de sant Joan - Alacant (per Ibi i Tibi),3
 10020011,1002,L1A,L1A_Vinaròs – Benicarló – Peníscola,3
 1620431258,1620431002,L521,L521_Benidorm - Alacant (directe),3
 1473879151,1473878501,L250,L250_Elx - Alacant (directe),3
@@ -140,6 +144,7 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 2100452959,2044020301,L486,L486_Xátiva - Gandia,3
 2890158704,2890155401,L2A,L2A_Benicolet – Xàtiva,3
 2100452956,2044020301,L483*,L483*_La Font de la Figuera - Ontinyent,3
+2890158709,2890155402,L4A,L4A_Alcoi - Xixona - Tibi,3
 2295784352,2076567001,L361b,L361b_Platja de Moncofa - Castelló de la Plana (fins la EEAA),3
 2100452952,2044020301,L480b*,L480b*_Ontinyent – Xàtiva (per l'Olleria),3
 2042522751,2042521951,L410a,L410a_Utiel - Requena - València,3

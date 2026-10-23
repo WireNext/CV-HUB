@@ -2869,6 +2869,12 @@ stop_id,stop_name,stop_lat,stop_lon
 5906010106,"C/ Enginyer Balaguer, 2 [Carlet]",39.2268638202,-0.521896754
 5906010207,"C/ Enginyer Balaguer, 119 [Carlet]",39.2213889405,-0.5185866182
 5904210107,"C. Major, 8 front",39.261485,-0.470018
+17090020103,"Av. V Centenari, 47",38.626897,-0.564332
+17090020108,Urb. Maigmó - Glorieta,38.500465,-0.602719
+17090030106,"Av. Foia de Castalla, 20",38.532421,-0.576498
+17090030107,CV-810 km 11.8 asc - Urb. Pinares de Mecla,38.524488,-0.602824
+17090030108,CV-805 km 6.1 des - Urb. Terol,38.553743,-0.609085
+17090041202,"C. Vall, 19",38.538421,-0.507179
 5904210109,"Av. Ausiàs March, 7",39.456131,-0.374927
 5904210205,"C. València, 83",39.264745,-0.468240
 5904210206,"C. Major, 12",39.261402,-0.470180
@@ -2877,6 +2883,7 @@ stop_id,stop_name,stop_lat,stop_lon
 5904210211,"C. Ramón y Cajal, 61",39.119674,-0.519853
 5906010109,"Av. Antonio Almela, 12",39.198051,-0.504201
 5906020101,"Av. Joan XXIII, 22",39.125601,-0.447797
+17090042102,C. Sant Mateu - Barrio Almarx,38.542094,-0.501646
 5906010209,"C/ Vilanova, Cruce Con La C/ Rollet, Y Frente A Los Nº. 14-16 (Front) [Carlet]",39.2318763973,-0.5249870968
 5906030102,Ps. Colón (Front) [Polinyà de Xúquer],39.1985300617,-0.3653790818
 5906030103,Ronda Joan Fuster (Front) [Polinyà de Xúquer],39.1987258275,-0.3722791477
