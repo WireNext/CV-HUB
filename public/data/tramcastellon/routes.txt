@@ -1,4 +1,5 @@
 route_id,agency_id,route_short_name,route_long_name,route_type
+2890158711,2890155402,L5A,L5A_Torre de les Maçanes - Xixona - Hospital de Sant Joan (prolongació Alacant),3
 5105040,5105,L4,Las Pobla Tornesa-Useras (paradas a demanda),3
 5025510,5025,L51,L51_Mutxamel – Busot,3
 5101010,5101,L1,Alcalà – Las fuentes - Cap i Corp,3
@@ -54,6 +55,7 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 590604,5906,L4,Sollana – Alginet – Hospital Alzira,3
 2439533002,2435796601,L8,L8_Alcoi - Benilloba - Benasau (amb prolongació a la demanda),3
 2864046102,2864045001,L2a,L2a_Xeraco - Gandia,3
+2890158712,2890155402,L5B,L5B_Xixona - Hospital de Sant Joan,3
 2439533003,2435796601,L9,L9_Banyeres de Mariola - Villena,3
 2551505857,2545579951,L406,L406_Alcublas - Llíria,3
 2864046103,2864045001,L2b,L2b_Platja de Xeraco - Gandia,3
@@ -61,6 +63,7 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 2083379803,1932031151,L21N,L21N_Alacant - El Campello (Nocturn),3
 2435797503,2435796601,L3,L3_Banyeres de Mariola - Alcoi,3
 2435797504,2435796601,L4,L4_Alcoi - Benilloba - Gorga - Famorca (a la demanda),3
+2890158713,2890155402,L5C,L5C_Torre de les Maçanes - Xixona,3
 2438296404,2435796601,L6C,"L6C_Muro de Alcoy - Planes (per Benimarfull, Benillup, Almudaina i Benialfaquí)",3
 5025530,5025,L53,L53_Hospital de Sant Joan-Sant Joan-El Campello,3
 2703103905,2703102101,L341a,L341a_Puebla de Arenoso - Onda,3
@@ -69,8 +72,10 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 10020012,1002,L1B,L1B_Vinaròs – Benicarló – Peníscola (per RENFE),3
 51050082,5105,L8B,Castelló de la Plana - Benicàssim - Playetas - Oropesa - Oropesa platja (VERANO),3
 2703103906,2703102101,L341b,L341b_Montanejos - Onda,3
+2890158714,2890155402,L6,L6_Alcoi - Villena,3
 2865013652,2865012901,L2,L2_Carcaixent - Alzira - Hospital - Algemesí,3
 59990010,5999,T1,UJI – Grau,3
+2883536251,2883534851,L1,L1_Orihuela - (Las Dayas a la demanda) - Guardamar del Segura,3
 2876829801,2876823551,L1,L1_Alberic - Valéncia,3
 2703103901,2703102101,L340a,"L340a_Onda – Castelló de la Plana (por Vila-real y Hospital de la Plana, fins UJI)",3
 2890158701,2890155401,L1A,L1A_La Font de la Figuera - Xàtiva,3
@@ -80,7 +85,6 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 10020021,1002,L2A,Benicarló – Peñíscola (12-2021 a 09-2022),3
 2703103903,2703102101,L340c,"L340c_Onda – Castelló de la Plana (por Vila-real y Hospital de la Plana,fins UJI, sense la Salera)",3
 2703103904,2703102101,L340d,"L340d_Onda – Castelló de la Plana (por Vila-real y Hospital de la Plana, fins Estació, sense la Salera)",3
-2883536251,2883534851,L1,L1_Almoradí - (Las Dayas a la demanda) - Guardamar del Segura,3
 2703103907,2703102101,L342,L342_Ludiente - Onda,3
 2703103908,2703102101,L343a,L343a_Fuentes de Ayódar - Onda,3
 2703103910,2703102101,L344,L344_Alcudia de Veo - Onda,3

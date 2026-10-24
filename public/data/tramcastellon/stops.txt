@@ -2497,8 +2497,8 @@ stop_id,stop_name,stop_lat,stop_lon
 5105010110,"Pl. Els Hostals, 2 [Cabanes]",40.1554265427,0.044397175
 5105010114,"Pl. España, front 8 [Coves de Vinromà, les]",40.3099006671,0.1218642985
 5018030203,"CV-700 km 17,95 des - P.I. Benàmer",38.782087,-0.418761
-5018040113,"C. Major, 1",38.8307239816,-0.1963939134
 5018040115,"Av. Alcoi, 74",38.8459500451,-0.1170052996
+5018040113,"C. Major, 1",38.830368,-0.197846
 5206020204,"Av. Tres Cruces,2 [València]",39.4683282151,-0.4066076114
 5206020205,"Camí Nou de Picaña, front 2 [València]",39.4575499991,-0.40327
 57060020127,"Av. Marina Baixa, 7",38.535818,-0.158581
@@ -2883,7 +2883,11 @@ stop_id,stop_name,stop_lat,stop_lon
 5904210211,"C. Ramón y Cajal, 61",39.119674,-0.519853
 5906010109,"Av. Antonio Almela, 12",39.198051,-0.504201
 5906020101,"Av. Joan XXIII, 22",39.125601,-0.447797
+17090051105,C. Font del Moratell - Barri Sagrada Familia,38.533524,-0.504796
 17090042102,C. Sant Mateu - Barrio Almarx,38.542094,-0.501646
+17090060106,"Av. Constitució, 93",38.629139,-0.666959
+17090060109,"Ctra. Biar, 3",38.630042,-0.854413
+17090060204,"Ctra. Biar, 3 front",38.629905,-0.854376
 5906010209,"C/ Vilanova, Cruce Con La C/ Rollet, Y Frente A Los Nº. 14-16 (Front) [Carlet]",39.2318763973,-0.5249870968
 5906030102,Ps. Colón (Front) [Polinyà de Xúquer],39.1985300617,-0.3653790818
 5906030103,Ronda Joan Fuster (Front) [Polinyà de Xúquer],39.1987258275,-0.3722791477
