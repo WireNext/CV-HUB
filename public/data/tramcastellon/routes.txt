@@ -78,7 +78,6 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 2883536251,2883534851,L1,L1_Orihuela - (Las Dayas a la demanda) - Guardamar del Segura,3
 2876829801,2876823551,L1,L1_Alberic - Valéncia,3
 2703103901,2703102101,L340a,"L340a_Onda – Castelló de la Plana (por Vila-real y Hospital de la Plana, fins UJI)",3
-2890158701,2890155401,L1A,L1A_La Font de la Figuera - Xàtiva,3
 2703103902,2703102101,L340b,"L340b_Onda – Castelló de la Plana (por Vila-real y Hospital de la Plana, fins Estació)",3
 51050081,5105,L8A,Castelló de la Plana - Benicàssim - Playetas - Oropesa - Oropesa platja (INVIERNO),3
 10020022,1002,L2B,Peñíscola – Benicarló (12-2021 a 09-2022),3
@@ -88,7 +87,6 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 2703103907,2703102101,L342,L342_Ludiente - Onda,3
 2703103908,2703102101,L343a,L343a_Fuentes de Ayódar - Onda,3
 2703103910,2703102101,L344,L344_Alcudia de Veo - Onda,3
-2890158702,2890155401,L1B,L1B_La Font de la Figuera - Moixent,3
 2703103911,2703102101,L345,L345_Ribesalbes - Onda,3
 2890158706,2890155402,L1,L1_Alacant - Alcoi (directe),3
 10020013,1002,L1C,Benicarló – Peníscola,3
@@ -107,7 +105,6 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 590302,5903,L2,Alberic – Alzira,3
 590511,5905,L1A,Pego – Oliva – Gandia,3
 590512,5905,L1B,Pego – Daimús – Gandia,3
-2890158703,2890155401,L1C,L1C_La Llosa de Ranes – Xàtiva,3
 590513,5905,L1C,Oliva – Bellreguard – Gandia,3
 590514,5905,L1D,Oliva – Daimús - Gandia,3
 2883536252,2883534851,L2,L2_Almoradí - Rojales - Alacant,3
@@ -117,7 +114,6 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 1473879158,1473878501,L258,L258_Elx - Universitat Alacant,3
 2883536254,2883534851,L4A,L4A_Abanilla - Benferri - Orihuela,3
 1620431251,1620431001,L710a,L710a_Alacant - Gandia - València,3
-2890158705,2890155401,L2B,L2B_Pinet - Xàtiva,3
 2890158707,2890155402,L2,L2_Alcoi - Sant Vicent del Raspeig - Alacant (per Ibi. Onil i Castalla),3
 2890158708,2890155402,L3,L3_Alcoi - Hospital de sant Joan - Alacant (per Ibi i Tibi),3
 10020011,1002,L1A,L1A_Vinaròs – Benicarló – Peníscola,3
@@ -146,7 +142,6 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 1620431256,1620431001,L718,L718_Alcoi - Gandia - València,3
 1620431266,1620431002,L528,L528_Callosa d'en Sarrià - La Nucia - Alacant,3
 2100452959,2044020301,L486,L486_Xátiva - Gandia,3
-2890158704,2890155401,L2A,L2A_Benicolet – Xàtiva,3
 2100452956,2044020301,L483*,L483*_La Font de la Figuera - Ontinyent,3
 2890158709,2890155402,L4A,L4A_Alcoi - Xixona - Tibi,3
 2295784352,2076567001,L361b,L361b_Platja de Moncofa - Castelló de la Plana (fins la EEAA),3

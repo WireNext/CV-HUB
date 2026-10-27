@@ -1,0 +1,49 @@
+route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route_text_color
+A1-125-2,1,1,1 - Benidorm Intermodal - Alicante - Luceros,0,CE142B,FFFFFF
+A1-125-3,1,1,1 - Benidorm Intermodal - Mercado,0,CE142B,FFFFFF
+A1-17-2,1,1,1 - El Campello - Alicante - Luceros,0,CE142B,FFFFFF
+A1-17-33,1,1,1 - El Campello - Benidorm,0,CE142B,FFFFFF
+A1-19-33,1,1,1 - Poble Espanyol - Benidorm,0,CE142B,FFFFFF
+A1-2-125,1,1,1 - Alicante - Luceros - Benidorm Intermodal,0,CE142B,FFFFFF
+A1-2-16,1,1,1 - Alicante - Luceros - Pla Barraques,0,CE142B,FFFFFF
+A1-2-17,1,1,1 - Alicante - Luceros - El Campello,0,CE142B,FFFFFF
+A1-2-33,1,1,1 - Alicante - Luceros - Benidorm,0,CE142B,FFFFFF
+A1-3-125,1,1,1 - Mercado - Benidorm Intermodal,0,CE142B,FFFFFF
+A1-3-16,1,1,1 - Mercado - Pla Barraques,0,CE142B,FFFFFF
+A1-3-17,1,1,1 - Mercado - El Campello,0,CE142B,FFFFFF
+A1-32-2,1,1,1 - Terra Mitica - Alicante - Luceros,0,CE142B,FFFFFF
+A1-32-3,1,1,1 - Terra Mitica - Mercado,0,CE142B,FFFFFF
+A1-33-17,1,1,1 - Benidorm - El Campello,0,CE142B,FFFFFF
+A1-33-2,1,1,1 - Benidorm - Alicante - Luceros,0,CE142B,FFFFFF
+A1-33-3,1,1,1 - Benidorm - Mercado,0,CE142B,FFFFFF
+A2-123-3,1,2,2 - Universitat - Mercado,0,00B23C,FFFFFF
+A2-124-2,1,2,2 - Sant Vicent del Raspeig - Alicante - Luceros,0,00B23C,FFFFFF
+A2-124-3,1,2,2 - Sant Vicent del Raspeig - Mercado,0,00B23C,FFFFFF
+A2-2-123,1,2,2 - Alicante - Luceros - Universitat,0,00B23C,FFFFFF
+A2-2-124,1,2,2 - Alicante - Luceros - Sant Vicent del Raspeig,0,00B23C,FFFFFF
+A2-3-124,1,2,2 - Mercado - Sant Vicent del Raspeig,0,00B23C,FFFFFF
+A3-16-2,1,3,3 - Pla Barraques - Alicante - Luceros,0,FBC817,FFFFFF
+A3-16-3,1,3,3 - Pla Barraques - Mercado,0,FBC817,FFFFFF
+A3-17-2,1,3,3 - El Campello - Alicante - Luceros,0,FBC817,FFFFFF
+A3-17-3,1,3,3 - El Campello - Mercado,0,FBC817,FFFFFF
+A3-2-16,1,3,3 - Alicante - Luceros - Pla Barraques,0,FBC817,FFFFFF
+A3-2-17,1,3,3 - Alicante - Luceros - El Campello,0,FBC817,FFFFFF
+A3-3-17,1,3,3 - Mercado - El Campello,0,FBC817,FFFFFF
+A4-110-2,1,4,4 - Plaza La Coruña - Alicante - Luceros,1,CEA8CE,FFFFFF
+A4-110-3,1,4,4 - Plaza La Coruña - Mercado,1,CEA8CE,FFFFFF
+A4-2-110,1,4,4 - Alicante - Luceros - Plaza La Coruña,1,CEA8CE,FFFFFF
+A4-2-111,1,4,4 - Alicante - Luceros - Instituto,1,CEA8CE,FFFFFF
+A4-3-110,1,4,4 - Mercado - Plaza La Coruña,1,CEA8CE,FFFFFF
+A5-101-110,1,5,5 - Porta del Mar - Plaza La Coruña,0,005396,FFFFFF
+A5-101-111,1,5,5 - Porta del Mar - Instituto,0,005396,FFFFFF
+A5-101-17,1,5,5 - Porta del Mar - El Campello,0,005396,FFFFFF
+A5-110-101,1,5,5 - Plaza La Coruña - Porta del Mar,0,005396,FFFFFF
+A5-110-102,1,5,5 - Plaza La Coruña - La Marina,0,005396,FFFFFF
+A5-16-102,1,5,5 - Pla Barraques - La Marina,0,005396,FFFFFF
+A5-17-101,1,5,5 - El Campello - Porta del Mar,0,005396,FFFFFF
+A9-33-39,1,9,9 - Benidorm - Garganes,0,A2A3A5,FFFFFF
+A9-33-49,1,9,9 - Benidorm - Bosc de Diana,0,A2A3A5,FFFFFF
+A9-33-50,1,9,9 - Benidorm - Dénia,0,A2A3A5,FFFFFF
+A9-39-33,1,9,9 - Garganes - Benidorm,0,A2A3A5,FFFFFF
+A9-49-33,1,9,9 - Bosc de Diana - Benidorm,0,A2A3A5,FFFFFF
+A9-50-33,1,9,9 - Dénia - Benidorm,0,A2A3A5,FFFFFF
