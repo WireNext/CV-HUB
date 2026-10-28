@@ -3068,6 +3068,7 @@ stop_id,stop_name,stop_lat,stop_lon
 5201410201,Ceip Fabian Y Fuero [Villar del Arzobispo],39.7358649655,-0.8269501477
 5025260105,"CV-821 km 1,60 asc",38.3979541577,-0.4828915434
 5025260106,"CV-821 km 2,06 asc",38.4003425134,-0.4786287746
+5217030105,"Av. Julio Lopez Tarin, s.n - Mercado municipal",39.564833,-1.207949
 5217030102,Plaza Iglesia S/N (Venta Del Moro (Casas Del Rey)) [Venta del Moro],39.4749699865,-1.3805798706
 5217210204,"C. Real, 36 (El Pontón)",39.4758867999,-1.1203056494
 5217210101,Plaza Virgen De Loreto S/N (Venta Del Moro) [Venta del Moro],39.4839956579,-1.3579379066
@@ -3099,7 +3100,6 @@ stop_id,stop_name,stop_lat,stop_lon
 5107290212,"Av. Joaquim Dualde, 9",39.928957458,-0.1965916647
 5252020202,"GV. Ramón y Cajal, 2",39.4634949991,-0.379576
 5217010103,"Av. Capitán Gadea, s.n - ADIF",39.4909258147,-1.1049640047
-5217030105,"Av. Julio Lopez Tarin, s.n - Mercado municipal",39.56503,-1.20839
 5217030101,"Pl. San Antonio Abad, s.n (Casas De Moya)",39.4600930984,-1.3918150078
 5217030104,"C. Almendros, 5 front (Jaraguas)",39.5195560458,-1.3617420307
 5201050204,"Cv-339, 4 (Front) [Llíria]",39.6854300451,-0.6362378733
