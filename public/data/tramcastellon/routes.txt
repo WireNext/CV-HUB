@@ -208,6 +208,7 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 2100452955,2044020301,L481c*,L481c*_Atzeneta d'Albaida - Ontinyent,3
 2545581502,2545579951,L400b,L400b_Villar del Arzobispo - València,3
 2076567803,2076567001,L360c,L360c_La Vall d'Uixó - Castelló de la Plana (fins UJI) Vila-Real solo hospital,3
+2111075851,2070900901,L425,L425_Camporrobles – Utiel,3
 510201,5102,L1,Castelló de la Plana-Vila-Real-València,3
 510202,5102,L2,Vinaròs-Castelló de la Plana-València (per N-340),3
 510203,5102,L3,Vinaròs-Castelló de la Plana-València (per AP-7),3
@@ -224,7 +225,6 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 2551505851,2545579951,L402,L402_Arcos de las Salinas - Alpuente - Titaguas (a demanda),3
 2551505854,2545579951,L403c,L403c_Sot de Chera - Villar del Arzobispo (vuelta a demanda),3
 2111014954,2070900901,L423,L423_Las Aldeas de la Vega – Requena,3
-2111075851,2070900901,L425,L425_Camporrobles – Utiel,3
 2111014952,2070900901,L420c,L420c_Utiel – Requena,3
 2551505852,2545579951,L403a,L403a_Higueruelas - Villar del Arzobispo (vuelta a demanda),3
 2076567809,2076567001,L365c,L365c_Betxí - Castelló de la Plana (fins UJI),3
