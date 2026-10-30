@@ -62,6 +62,7 @@ stop_id,stop_name,stop_lat,stop_lon
 5001010117,c. Acequia del Río [front supermercat DIA] [Rojales],38.0880889991,-0.729445
 5001010205,ctra. Almoradí [junt Bar Sáez] [Heredades],38.0948829991,-0.763168
 5001010206,c. Dr. Marañón [Almoradí],38.1069279991,-0.787202
+5107260216,"Av. Serra Espadà, 114",39.890138,-0.257195
 5001010210,Pont Don Pedro [Almoradí],38.0966999991,-0.814245
 5001010212,"av, de Segura  [Benejúzar]",38.0811919265,-0.8378022293
 51040400102,Av. València front C/ Diputació (marquesina) [Gaibiel],39.92647448693362,-0.49299303720580756
@@ -73,7 +74,6 @@ stop_id,stop_name,stop_lat,stop_lon
 5025910107,"Av. Condomina, 30",38.3633995721,-0.4340077264
 5001020108,c. san Antón 15 [San Fulgencio],38.1112479991,-0.718795
 5025910136,"C. Jaume I, 16 front",38.4138709991,-0.397313
-5107260216,"Av. Serra Espadà, 114",39.890138,-0.257195
 5001010208,"Av. Orihuela, front 21 (estació Repsol) [Almoradí]",38.1047969991,-0.797382
 5001010209,"C/ Norte, 22 - La Cruz de Galindo [Almoradí]",38.0993329991,-0.804606
 5001010204,"Av. Llanos, 17 - Las Heredades",38.091011,-0.762398
@@ -1534,11 +1534,8 @@ stop_id,stop_name,stop_lat,stop_lon
 5106060103,"Camí la Vall, 95",39.8092441487,-0.1501811197
 5090010205,Camping La Marina front,38.129717,-0.650292
 5106050203,"CV-230 km 21,7 des - Urb. Carmaday",39.808551,-0.224793
-136501101,"Pl. Sorribes Fuster, s.n (a demanda)",39.901192,-0.342181
 136501102,"Ctra. Aín, 34 front",39.882154,-0.308796
-136501215,"Ctra. Aín, 30",39.882129,-0.308557
 136501104,"Av. Primer de Maig, 90 front",39.924265,-0.196616
-136501212,"Av. Primer de Maig, 90",39.924272,-0.196756
 148101105,C. Migdia. s.n - CV-616,38.851301,-0.439248
 5016210104,"Av. Vte. Blasco Ibáñez, 20",38.1923029991,-0.56612
 5016210105,"Av. Vte. Blasco Ibáñez, 50",38.1919910659,-0.5710241677
@@ -1559,7 +1556,10 @@ stop_id,stop_name,stop_lat,stop_lon
 5090050109,"CV-95 km 19,8 asc",37.975685,-0.780560
 5256100107,"Av. Major, 41",39.5709393735,-0.3312058086
 148701110,Plaza Mayor de Xàtiva (Centro Comercial),39.00330576,-0.52912158
+136501212,"Av. Primer de Maig, 90",39.924272,-0.196756
 148102104,Av. Fora Fora - ADIF,38.84398219,-0.52086845
+136501215,"Ctra. Aín, 30",39.882129,-0.308557
+136501101,"Pl. Sorribes Fuster, s.n (a demanda)",39.901192,-0.342181
 5254010113,"Av. Comarques del País Valencià, 140",39.473398,-0.517824
 925426910202,"C. Mallorca, 9",39.47816,-0.578031
 5090050110,"CV-95 km 25,3 asc - Los Balcones",37.963047,-0.721899
@@ -2584,6 +2584,7 @@ stop_id,stop_name,stop_lat,stop_lon
 5258020105,"C/ Verge del Fonament, 12 [Benissanó]",39.6120511773,-0.5739420508
 5258020202,"C/ Juan Izquierdo, 72 - Carretera de Vilamarxant [Llíria]",39.6232878778,-0.5909664374
 5258020203,"C/ Verge del Fonament, 11 - Colegio [Benissanó]",39.612107127,-0.5741860484
+57050219222,"Av. Joaquin Arias, 1",38.381752,-0.412182
 57050219230,"Av. Benidorm, 14",38.365852,-0.416028
 5701010104,"Av. Comte de Torrefiel, 53",38.817819,-0.608517
 5701010106,"Av. d Albaida, 32 front",38.821193,-0.597691
@@ -2630,7 +2631,6 @@ stop_id,stop_name,stop_lat,stop_lon
 142200208,"Av. Lucía Garrido, 19 - Las Monjas (a demanda)",39.465248,-1.300294
 5201410101,"CV-395, 30",39.622249,-0.914391
 5201420105,"Av. Casa de la Cultura, 2",39.788617,-0.862774
-57050219222,"Av. Joaquin Arias, 1",38.371716,-0.412191
 57050219242,Av. Jovellanos - Ascensor Sta. Bárbara,38.347077,-0.476404
 5025230116,"Av. Dénia, 126",38.369012,-0.457895
 5250070106,"Av. Concordia, 6",39.462915,-0.469047
@@ -3096,10 +3096,10 @@ stop_id,stop_name,stop_lat,stop_lon
 5217210106,"Pl. Marín Lázaro, 15 (Los Duques)",39.4342664856,-1.205178326
 5217210107,"Pl. Mercado, 14 (Campo Arcís)",39.4308700167,-1.1685298507
 5217210207,"C. Cazadores, 4 (Casas de Eufemia)",39.4491055376,-1.2111566215
-5107290212,"Av. Joaquim Dualde, 9",39.928957458,-0.1965916647
 5252020202,"GV. Ramón y Cajal, 2",39.4634949991,-0.379576
 5217030105,"Av. Julio Lopez Tarin, 7 front - Mercado municipal",39.564833,-1.207949
 5217030101,"C. Martín Lázaro, 42 (Casas De Moya)",39.461869,-1.391915
+5107290212,"Av. Joaquim Dualde, 9",39.928957458,-0.1965916647
 5217010103,"Av. Capitán Gadea, s.n - ADIF",39.4909258147,-1.1049640047
 5217030104,"C. Almendros, 5 front (Jaraguas)",39.5195560458,-1.3617420307
 5201050204,"Cv-339, 4 (Front) [Llíria]",39.6854300451,-0.6362378733
