@@ -1,5 +1,6 @@
 route_id,agency_id,route_short_name,route_long_name,route_type
 2890158711,2890155402,L5A,L5A_Torre de les Maçanes - Xixona - Hospital de Sant Joan (prolongació Alacant),3
+591000200,5910,L2,Cullera – Sueca – Algemesí,3
 5105040,5105,L4,Las Pobla Tornesa-Useras (paradas a demanda),3
 5025510,5025,L51,L51_Mutxamel – Busot,3
 5101010,5101,L1,Alcalà – Las fuentes - Cap i Corp,3
@@ -22,7 +23,6 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 5105150,5105,L15,Castelló de la Plana-Vinaròs,3
 591000101,5910,L1A,Cullera – Sueca – Albalat – Hospital – Alzira,3
 591000102,5910,L1B,Sueca – Albalat – Hospital,3
-591000200,5910,L2,Cullera – Sueca – Algemesí,3
 591000301,5910,L3A,Sueca – Cullera – Favara – Hospital – Alzira,3
 591000302,5910,L3B,Cullera – Favara – Hospital – Alzira,3
 591000400,5910,L4,El Perelló – Corbera – Hospital - Alzira,3
