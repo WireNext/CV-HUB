@@ -209,9 +209,9 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 2545581502,2545579951,L400b,L400b_Villar del Arzobispo - València,3
 2076567803,2076567001,L360c,L360c_La Vall d'Uixó - Castelló de la Plana (fins UJI) Vila-Real solo hospital,3
 2111075851,2070900901,L425,L425_Camporrobles – Utiel,3
+510203,5102,L3,Vinaròs-Castelló de la Plana-València (per AP-7),3
 510201,5102,L1,Castelló de la Plana-Vila-Real-València,3
 510202,5102,L2,Vinaròs-Castelló de la Plana-València (per N-340),3
-510203,5102,L3,Vinaròs-Castelló de la Plana-València (per AP-7),3
 2076567806,2076567001,L364,L364_La Vall d'Uixó - Platja de Mocofa,3
 2076567807,2076567001,L365a,L365a_Eslida - Castelló de la Plana (desde Aín fins la UJI),3
 590502,5905,L2,La Font d En Carròs – Gandia,3
