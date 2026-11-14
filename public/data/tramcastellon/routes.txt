@@ -269,9 +269,9 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 92591852,9259,L185B,València – Benifaió (Facultats),3
 92591861,9259,L186A,València – Centre Penitenciari,3
 92591862,9259,L186B,València – Centre Penitenciari Pas per Universitat de València),3
+6020010,6020,C6,Alacant – Aeroport [2021],3
 6020021,6020,L2A,Alacant – Urbanova (per EUIPO y Av. Elx) [2021],3
 6020022,6020,L2B,Alacant – Urbanova (per Av. Elx) [2021],3
 6020023,6020,L2C,Alacant – Urbanova [2021],3
-6020010,6020,C6,Alacant – Aeroport [2021],3
 9259280,9259,L280,València – Llombai,3
 9259281,9259,L281,"Valéncia – Parques Empresariales de Juna Carlos I, Norte y L Ermita",3
