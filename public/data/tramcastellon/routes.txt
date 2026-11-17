@@ -65,6 +65,12 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 2435797504,2435796601,L4,L4_Alcoi - Benilloba - Gorga - Famorca (a la demanda),3
 2890158713,2890155402,L5C,L5C_Torre de les Maçanes - Xixona,3
 2438296404,2435796601,L6C,"L6C_Muro de Alcoy - Planes (per Benimarfull, Benillup, Almudaina i Benialfaquí)",3
+2912998801,2912998251,L1A,L1A_Villena - Alacant,3
+2912998802,2912998251,L1B,L1B_Villena - Alacant (per Novelda i Aspe),3
+2912998803,2912998251,L2A,L2A_Petrer - Elda - Alacant,3
+2912998804,2912998251,L2B,L2B_Villena - Petrer - Elda - Alacant,3
+2912998805,2912998251,L3A,L3A_Monóver - Novelda - Alacant,3
+2912998806,2912998251,L3B,L3B_Novelda - Alacant,3
 5025530,5025,L53,L53_Hospital de Sant Joan-Sant Joan-El Campello,3
 2703103905,2703102101,L341a,L341a_Puebla de Arenoso - Onda,3
 2505855452,2042521951,L410d,L410d_Utiel - Requena - València (por Hospital),3
@@ -84,15 +90,21 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 10020021,1002,L2A,Benicarló – Peñíscola (12-2021 a 09-2022),3
 2703103903,2703102101,L340c,"L340c_Onda – Castelló de la Plana (por Vila-real y Hospital de la Plana,fins UJI, sense la Salera)",3
 2703103904,2703102101,L340d,"L340d_Onda – Castelló de la Plana (por Vila-real y Hospital de la Plana, fins Estació, sense la Salera)",3
+2913036702,2912998251,L5,L5_La Romana - El Pinós - Monòver - Hospital de Elda,3
 2703103907,2703102101,L342,L342_Ludiente - Onda,3
 2703103908,2703102101,L343a,L343a_Fuentes de Ayódar - Onda,3
 2703103910,2703102101,L344,L344_Alcudia de Veo - Onda,3
 2703103911,2703102101,L345,L345_Ribesalbes - Onda,3
+2913036701,2912998251,L4,L4_El Pinós - Novelda - Aspe - Alacant,3
 2890158706,2890155402,L1,L1_Alacant - Alcoi (directe),3
+2913036703,2912998251,L6A,L6A_Villena - Sax - Elda/Petrer - Elx,3
 10020013,1002,L1C,Benicarló – Peníscola,3
 2890158710,2890155402,L4B,L4B_Xixona - Alacant,3
+2913036704,2912998251,L6B,L6B_Elda/Petrer - Elx,3
+2913036705,2912998251,L7A,L7A_Villena - Salinas - Sax - Elda/Petrer (Villena AVE a demanda),3
 2096814851,2042521951,L416a*,L416a*_Cofrentes – Ayora – Almansa (Zarra a demanda),3
 2703103909,2703102101,L343b,L343b_Villamalur - Onda (a demanda),3
+2913036706,2912998251,L7B,L7B_Salinas - Sax - Elda/Petrer,3
 2876829802,2876823551,L2,L2_Alberic - Alzira - Hospital de la Ribera,3
 1473879152,1473878501,L251a,L251a_Crevillent - Elx - Alacant (per Nacional),3
 59990020,5999,T2,UJI – Grau – Platja,3
@@ -122,11 +134,17 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 2295784351,2076567001,L361a,L361a_Platja de Moncofa - Castelló de la Plana (fins la UJI),3
 1620431257,1620431002,L520,L520_Benidorm - Aeroport,3
 2096816351,2042521951,L416b,L416b_Ayora – Almansa,3
+2913036707,2912998251,L8,L8_El Pinós - Aspe - Elx (por los Hondones),3
 2876829804,2876823551,L3B,L3B_Antella - Alzira - Hospital de la Ribera (per Massalavés),3
 2100452951,2044020301,L480a*,L480a*_Ontinyent – Xàtiva (per Albaida amb Bufalí i Carricola a demanda),3
+2913036708,2912998251,L9A,L9A_Sax - Elda/Petrer - Universitat Alacant,3
 510751,5107,L5A,Borriana - València,3
 2100452953,2044020301,L481a*,L481a*_Castelló de Rugat - Ontinyent (per Otos),3
+2913036709,2912998251,L9B,L9B_Elda/Petrer - Universitat Alacant,3
 2100452954,2044020301,L481b*,L481b*_Castelló de Rugat - Ontinyent (per Bélgida),3
+2913036710,2912998251,L10,L10_Monòver - Novelda - Universitat Alacant,3
+2913036711,2912998251,M1,M1_Elda - Petrer,3
+2913036712,2912998251,M2,M2_Elda - Petrer - Monòver,3
 2883536255,2883534851,L4B,L4B_La Murada - Benferri - Orihuela - Hospital Vega Baja,3
 2100452957,2044020301,L485a,L485a_La Font de la Figuera – Xàtiva,3
 2100452958,2044020301,L485b,L485b_La Font de la Figuera – Moixent,3

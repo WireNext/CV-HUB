@@ -13,16 +13,27 @@ stop_id,stop_name,stop_lat,stop_lon
 5252020232,"Ctra. Real de Madrid Sud, 50",39.377223,-0.414423
 5252020233,"Av. Espioca, 14",39.373488,-0.415978
 5025210240,"Av. Juan Bautista Lafora, 2",38.344839,-0.47978
+17080011101,"Av. Constitució, 177",38.643553,-0.869425
+17080011107,Pl. Ficia,38.473484,-0.794342
+17080011109,Estació ADIF Alacant,38.345013,-0.494938
 5252020235,"Av. Alborache, 2",39.368029,-0.41916
 5252020236,"Av. Alborache, 18",39.367789,-0.422209
 5252020237,"Av. Antic Regne de València, 31",39.366745,-0.435051
+17080011208,C. Valle Inclán - Residencia tercera edad,38.482658,-0.800725
+17080012108,"C. Camí Castella, s.n",38.404821,-0.775613
+17080012112,"Av. Pare Ismael, 60",38.348321,-0.763251
 5025210124,"Av. Costa Blanca, 153 front",38.3802134767,-0.4120225656
 5252020239,"Av. Colón, 31",39.365897,-0.443943
 5252030102,"Av. Ricard Hernández, 52 front",39.366589,-0.447374
+17080012208,"C. Camí Castella, s.n front",38.404881,-0.775421
 5025240106,"C. San Vicente, 20",38.349223,-0.484776
+17080050108,"CV-83 pk 14,18 des - El Manyar",38.428802,-0.928847
 117001150,"C. Paiporta, 32",39.432158,-0.600131
 5025210125,"Av. Joaquin Arias, s/n front - Av. Artista Remigio Soler López",38.3837897357,-0.4119342484
+17080050110,"Av. Ronda, 100 front",38.468383,-0.794081
 5001010102,"Av. General Bañuls, 73",38.062859,-0.903013
+17080050203,"Av. La Melva, s.n  front - IES La Melva",38.478151,-0.804231
+17080061111,Av. Juan Carlos I front - Centre Sanitari Integrat,38.343486,-0.760565
 5025210126,"C. Juan de la Cierva, 68 front",38.3855070323,-0.411592532
 5025240107,Pl. España - Panteón De Quijano,38.351424,-0.48472
 5025230229,"C. Indalecio Prieto, 45",38.3554349991,-0.473158
@@ -55,7 +66,14 @@ stop_id,stop_name,stop_lat,stop_lon
 5253010204,"C. València, 16",39.422949,-0.383689
 5253010216,"Av. Amado Granell Mesado, 49",39.457128,-0.363445
 5904210110,"GV. Germanies, 49",39.463127,-0.377511
+17080061112,Av. Carlos Soria front - Barri Tenores,38.340859,-0.765345
 5107260216,"Av. Serra Espadà, 114",39.890138,-0.257195
+17080061113,C. Herreria - P.I. Tres Hermanas,38.324719,-0.760869
+17080061206,Av. Carlos Soria - Barri Tenores,38.340739,-0.765394
+17080061207,Av. Juan Carlos I - Centre Sanitari Integrat,38.343377,-0.760409
+17080061208,"Av. Pare Ismael, 60 front",38.348421,-0.763136
+17080071102,Villena Alta Velocitat ADIF (a demanda),38.584828,-0.873315
+17080071203,"Av. Américas, 6 front",38.533196,-0.818607
 51040100214,"C. València, 52 front",39.77934000151754,-0.3659752628946024
 5025230225,"Av. Dénia, 103",38.362428,-0.464153
 5025910107,"Av. Condomina, 30",38.3633995721,-0.4340077264
