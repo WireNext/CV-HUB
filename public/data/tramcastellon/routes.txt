@@ -134,17 +134,11 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 2295784351,2076567001,L361a,L361a_Platja de Moncofa - Castelló de la Plana (fins la UJI),3
 1620431257,1620431002,L520,L520_Benidorm - Aeroport,3
 2096816351,2042521951,L416b,L416b_Ayora – Almansa,3
-2913036707,2912998251,L8,L8_El Pinós - Aspe - Elx (por los Hondones),3
 2876829804,2876823551,L3B,L3B_Antella - Alzira - Hospital de la Ribera (per Massalavés),3
 2100452951,2044020301,L480a*,L480a*_Ontinyent – Xàtiva (per Albaida amb Bufalí i Carricola a demanda),3
-2913036708,2912998251,L9A,L9A_Sax - Elda/Petrer - Universitat Alacant,3
 510751,5107,L5A,Borriana - València,3
 2100452953,2044020301,L481a*,L481a*_Castelló de Rugat - Ontinyent (per Otos),3
-2913036709,2912998251,L9B,L9B_Elda/Petrer - Universitat Alacant,3
 2100452954,2044020301,L481b*,L481b*_Castelló de Rugat - Ontinyent (per Bélgida),3
-2913036710,2912998251,L10,L10_Monòver - Novelda - Universitat Alacant,3
-2913036711,2912998251,M1,M1_Elda - Petrer,3
-2913036712,2912998251,M2,M2_Elda - Petrer - Monòver,3
 2883536255,2883534851,L4B,L4B_La Murada - Benferri - Orihuela - Hospital Vega Baja,3
 2100452957,2044020301,L485a,L485a_La Font de la Figuera – Xàtiva,3
 2100452958,2044020301,L485b,L485b_La Font de la Figuera – Moixent,3
@@ -156,22 +150,28 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 510752,5107,L5B,Betxí-Borriana-València,3
 1620431264,1620431002,L526,L526_Xàbia - Aeroport (directe),3
 1620431265,1620431002,L527,L527_Calp - Altea - Alacant - Aeroport,3
+2913036707,2912998251,L8,L8_El Pinós - Aspe - Elx (por los Hondones),3
 1473879155,1473878501,L253,L253_Crevillent-Elx,3
 1620431256,1620431001,L718,L718_Alcoi - Gandia - València,3
 1620431266,1620431002,L528,L528_Callosa d'en Sarrià - La Nucia - Alacant,3
 2100452959,2044020301,L486,L486_Xátiva - Gandia,3
+2913036708,2912998251,L9A,L9A_Sax - Elda/Petrer - Universitat Alacant,3
 2100452956,2044020301,L483*,L483*_La Font de la Figuera - Ontinyent,3
 2890158709,2890155402,L4A,L4A_Alcoi - Xixona - Tibi,3
+2913036709,2912998251,L9B,L9B_Elda/Petrer - Universitat Alacant,3
 2295784352,2076567001,L361b,L361b_Platja de Moncofa - Castelló de la Plana (fins la EEAA),3
 2100452952,2044020301,L480b*,L480b*_Ontinyent – Xàtiva (per l'Olleria),3
 2042522751,2042521951,L410a,L410a_Utiel - Requena - València,3
 2004504757,1932031151,L41,L41_Aigües - El Campello,3
 2070902402,2070900901,L424*,"L424*_Venta del Moro – Requena (por Los Ruices, Las Monjas y Los Marcos a demanda)",3
+2913036710,2912998251,L10,L10_Monòver - Novelda - Universitat Alacant,3
+2913036711,2912998251,M1,M1_Elda - Petrer,3
 1473879159,1473878501,L259,L259_Crevillent - Elx - Torrellano - UA - UMH,3
 1620431254,1620431001,L716,L716_Ontinyent - València,3
 1620431255,1620431001,L717,L717_Ibi - Alcoi - Xàtiva - València,3
 510761,5107,L6A,Cortes de Arenoso – Castelló de la Plana,3
 2070902401,2070900901,L421,L421_Chera – Requena,3
+2913036712,2912998251,M2,M2_Elda - Petrer - Monòver,3
 2042522753,2042521951,L411,L411_Requena - València,3
 510762,5107,L6B,Cortes de Arenoso – Castelló de la Plana (por San Vicente),3
 510791,5107,L9A,Vistabella del Maestrat – Castelló de la Plana,3
