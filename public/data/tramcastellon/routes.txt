@@ -5,7 +5,6 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 5025510,5025,L51,L51_Mutxamel – Busot,3
 5101010,5101,L1,Alcalà – Las fuentes - Cap i Corp,3
 5907010,5907,L1,L1_Otos – Gandia,3
-2203541451,2203539301,L2,L2_Racó de Loix - Benidorm C - Calas - CC,3
 2843786501,2843785601,L1,L1_Alacant - València,3
 19000010,1270636001,L1,Castelló de la Plana – Alacant,3
 5102012,5102,L1b,Castelló de la Plana – Vila-real – València (lanzadera),3
@@ -193,6 +192,7 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 2076567805,2076567001,L363,L363_La Vall d'Uixó - Platja de Xilxes,3
 2042522752,2042521951,L410b,L410b_Utiel - Requena - València (por Siete Aguas),3
 501102,5011,L3,Xaló-Orba-Dénia,3
+2915771151,2203539301,L2A,L2A_Racó de Loix - Benidorm C - Calas - CC,3
 501201,5012,L1,Dénia-Xàbia,3
 2070902403,2070900901,L427,L427_Benagéber – Utiel (a demanda),3
 590421,5904,L2A,Alberic – València,3
