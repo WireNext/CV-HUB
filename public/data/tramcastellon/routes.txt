@@ -196,6 +196,8 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 501201,5012,L1,Dénia-Xàbia,3
 2070902403,2070900901,L427,L427_Benagéber – Utiel (a demanda),3
 590421,5904,L2A,Alberic – València,3
+2919466751,2203539301,L2B,L2B_Racó de Loix - Benidorm C - Calas,3
+2919466752,2203539301,L3A,L3A_EEAA - Benidorm C - Calas - CC,3
 521001,5210,L1,Tous - Alberic,3
 521301,5213,L1,Simat de la Valldigna – Tavernes de la Valldigna,3
 1980349054,1980348601,L372a,L372a_Vall de Almonacid - Algimia - Matet - Gaibiel - Navajas - Segorbe (a demanda),3
