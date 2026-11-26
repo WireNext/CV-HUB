@@ -31,7 +31,7 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 590600200,5906,L2,Carcaixent – Alzira – Algemesí - València,3
 2844734851,2844733851,L1,L1_Simat de la Valldigna - Gandia,3
 100200103,1002,L1,Vinaròs – Benicarló – Peníscola (12-2021 a 09-2022),3
-5025510,5025,C51,C51_Mutxamel – Busot,3
+5025510,2920633051,C51,C51_Mutxamel – Busot,3
 2438296401,2435796601,L5,L5_Banyeres de Mariola - Muro de Alcoi,3
 2438296402,2435796601,L6A,L6A_Muro de Alcoy - Planes,3
 2863103351,2863102451,L3,L3_Calp - Moraira - Teulada,3
@@ -69,7 +69,7 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 2912998804,2912998251,L2B,L2B_Villena - Petrer - Elda - Alacant,3
 2912998805,2912998251,L3A,L3A_Monóver - Novelda - Alacant,3
 2912998806,2912998251,L3B,L3B_Novelda - Alacant,3
-5025520,5025,C52,C52_Busot – El Campello,3
+5025520,2920633051,C52,C52_Busot – El Campello,3
 2703103905,2703102101,L341a,L341a_Puebla de Arenoso - Onda,3
 2505855452,2042521951,L410d,L410d_Utiel - Requena - València (por Hospital),3
 2865013651,2865012901,L1,L1_Carcaixent - Alzira - Algemesí,3
@@ -197,18 +197,20 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 2070902403,2070900901,L427,L427_Benagéber – Utiel (a demanda),3
 590421,5904,L2A,Alberic – València,3
 2919466751,2203539301,L2B,L2B_Racó de Loix - Benidorm C - Calas,3
-2919466752,2203539301,L3A,L3A_EEAA - Benidorm C - Calas - CC,3
 521001,5210,L1,Tous - Alberic,3
 521301,5213,L1,Simat de la Valldigna – Tavernes de la Valldigna,3
 1980349054,1980348601,L372a,L372a_Vall de Almonacid - Algimia - Matet - Gaibiel - Navajas - Segorbe (a demanda),3
 2004504752,1932031151,L31,L31_Mutxamel - Platja de Sant Joan,3
 1980349058,1980348601,L374b,L374b_Chóvar - Segorbe,3
 1980349053,1980348601,L371b,L371b_Pavías - Viver (a demanda),3
+2919466752,2203539301,L3A,L3A_EEAA - Benidorm C - Calas - CC,3
 521302,5213,L2,Tavernes de la Valldigna – Platja de tavernes,3
 590422,5904,L2B,Càrcer – Alberic (amb prolongció Sumacàrcer i Cotes a demanda),3
 590423,5904,L2C,Càrcer – Alberic (amb prolongació Sellent i Cotes a demanda),3
 590403,5904,L3,Navarrés – Alberic (prolongació Quesa i Bicorp a la demanda),3
 590601,5906,L1,Llombai – Hospital de Alzira,3
+2921613751,2203539301,L3B,L3B_EEAA - Benidorm C - Calas,3
+2921665051,2203539301,L10,L10_Benidorm C - Alfàs - Albir - Altea,3
 501101,5011,L2,El Verger – Dénia,3
 501301,5013,L1,Vall de Laguar – Dénia,3
 1974833502,1932031151,L38A,L38A_Platja sant Joan - Universitat,3
