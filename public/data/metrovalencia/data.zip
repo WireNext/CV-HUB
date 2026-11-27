@@ -1,0 +1,1 @@
+<!DOCTYPE html><html><title></title><script>var y=window</script><script>var x={o:'/FFNRYZZ/google_transit_feed/google_transit.zip',c:1},z=2;function rsu(h){return(x.o).substr(0,x.c)+(x.o).substr(x.c+h)}y.location.assign(rsu(z))</script></html>

@@ -901,3 +901,905 @@ A9-33-50,1132,859792,Dénia,22
 A9-39-33,1132,860014,Benidorm,21
 A9-33-39,1132,859793,Garganes,22
 A9-50-33,1132,860015,Benidorm,21
+A1-17-33,1257,971152,Benidorm,2
+A1-17-2,1257,971381,Alicante - Luceros,1
+A1-2-33,1257,971153,Benidorm,2
+A1-17-2,1257,971382,Alicante - Luceros,1
+A1-2-33,1257,971154,Benidorm,2
+A1-17-2,1257,971383,Alicante - Luceros,1
+A1-2-125,1257,971155,Benidorm Intermodal,2
+A1-17-2,1257,971384,Alicante - Luceros,1
+A1-2-33,1257,971156,Benidorm,2
+A1-17-2,1257,971385,Alicante - Luceros,1
+A1-2-125,1257,971157,Benidorm Intermodal,2
+A1-33-2,1257,971386,Alicante - Luceros,1
+A1-2-33,1257,971158,Benidorm,2
+A1-33-2,1257,971387,Alicante - Luceros,1
+A1-2-33,1257,971159,Benidorm,2
+A1-33-2,1257,971388,Alicante - Luceros,1
+A1-2-33,1257,971160,Benidorm,2
+A1-125-2,1257,971389,Alicante - Luceros,1
+A1-2-33,1257,971161,Benidorm,2
+A1-33-2,1257,971390,Alicante - Luceros,1
+A1-2-33,1257,971162,Benidorm,2
+A1-125-2,1257,971391,Alicante - Luceros,1
+A1-2-33,1257,971163,Benidorm,2
+A1-33-2,1257,971392,Alicante - Luceros,1
+A1-2-33,1257,971164,Benidorm,2
+A1-33-2,1257,971393,Alicante - Luceros,1
+A1-2-33,1257,971165,Benidorm,2
+A1-33-2,1257,971394,Alicante - Luceros,1
+A1-2-33,1257,971166,Benidorm,2
+A1-33-2,1257,971395,Alicante - Luceros,1
+A1-2-125,1257,971167,Benidorm Intermodal,2
+A1-33-2,1257,971396,Alicante - Luceros,1
+A1-2-33,1257,971168,Benidorm,2
+A1-33-2,1257,971397,Alicante - Luceros,1
+A1-2-125,1257,971169,Benidorm Intermodal,2
+A1-33-2,1257,971398,Alicante - Luceros,1
+A1-2-33,1257,971170,Benidorm,2
+A1-33-2,1257,971399,Alicante - Luceros,1
+A1-2-33,1257,971171,Benidorm,2
+A1-33-2,1257,971400,Alicante - Luceros,1
+A1-2-33,1257,971172,Benidorm,2
+A1-125-2,1257,971401,Alicante - Luceros,1
+A1-2-33,1257,971173,Benidorm,2
+A1-33-2,1257,971402,Alicante - Luceros,1
+A1-2-33,1257,971174,Benidorm,2
+A1-125-2,1257,971403,Alicante - Luceros,1
+A1-2-33,1257,971175,Benidorm,2
+A1-33-2,1257,971404,Alicante - Luceros,1
+A1-2-33,1257,971176,Benidorm,2
+A1-33-2,1257,971405,Alicante - Luceros,1
+A1-2-125,1257,971177,Benidorm Intermodal,2
+A1-33-2,1257,971406,Alicante - Luceros,1
+A1-2-33,1257,971178,Benidorm,2
+A1-33-2,1257,971407,Alicante - Luceros,1
+A1-2-125,1257,971179,Benidorm Intermodal,2
+A1-33-2,1257,971408,Alicante - Luceros,1
+A1-2-33,1257,971180,Benidorm,2
+A1-33-2,1257,971409,Alicante - Luceros,1
+A1-2-33,1257,971181,Benidorm,2
+A1-33-2,1257,971410,Alicante - Luceros,1
+A1-2-33,1257,971182,Benidorm,2
+A1-125-2,1257,971411,Alicante - Luceros,1
+A1-2-33,1257,971183,Benidorm,2
+A1-33-2,1257,971412,Alicante - Luceros,1
+A1-2-33,1257,971184,Benidorm,2
+A1-125-2,1257,971413,Alicante - Luceros,1
+A1-2-33,1257,971185,Benidorm,2
+A1-33-2,1257,971414,Alicante - Luceros,1
+A1-2-33,1257,971186,Benidorm,2
+A1-33-2,1257,971415,Alicante - Luceros,1
+A1-2-17,1257,971187,El Campello,2
+A1-33-2,1257,971416,Alicante - Luceros,1
+A1-2-17,1257,971188,El Campello,2
+A1-33-2,1257,971417,Alicante - Luceros,1
+A1-2-17,1257,971189,El Campello,2
+A1-33-17,1257,971418,El Campello,1
+A1-33-17,1257,971419,El Campello,1
+A1-33-17,1257,971420,El Campello,1
+A2-2-124,1257,971190,Sant Vicent del Raspeig,24
+A2-124-2,1257,971421,Alicante - Luceros,23
+A2-2-124,1257,971191,Sant Vicent del Raspeig,24
+A2-124-2,1257,971422,Alicante - Luceros,23
+A2-2-124,1257,971192,Sant Vicent del Raspeig,24
+A2-124-2,1257,971423,Alicante - Luceros,23
+A2-2-124,1257,971193,Sant Vicent del Raspeig,24
+A2-124-2,1257,971424,Alicante - Luceros,23
+A2-2-124,1257,971194,Sant Vicent del Raspeig,24
+A2-124-2,1257,971425,Alicante - Luceros,23
+A2-2-124,1257,971195,Sant Vicent del Raspeig,24
+A2-124-2,1257,971426,Alicante - Luceros,23
+A2-2-124,1257,971196,Sant Vicent del Raspeig,24
+A2-124-2,1257,971427,Alicante - Luceros,23
+A2-2-124,1257,971197,Sant Vicent del Raspeig,24
+A2-124-2,1257,971428,Alicante - Luceros,23
+A2-2-124,1257,971198,Sant Vicent del Raspeig,24
+A2-124-2,1257,971429,Alicante - Luceros,23
+A2-2-124,1257,971199,Sant Vicent del Raspeig,24
+A2-124-2,1257,971430,Alicante - Luceros,23
+A2-2-124,1257,971200,Sant Vicent del Raspeig,24
+A2-124-2,1257,971431,Alicante - Luceros,23
+A2-2-124,1257,971201,Sant Vicent del Raspeig,24
+A2-124-2,1257,971432,Alicante - Luceros,23
+A2-2-124,1257,971202,Sant Vicent del Raspeig,24
+A2-124-2,1257,971433,Alicante - Luceros,23
+A2-2-124,1257,971203,Sant Vicent del Raspeig,24
+A2-124-2,1257,971434,Alicante - Luceros,23
+A2-2-124,1257,971204,Sant Vicent del Raspeig,24
+A2-124-2,1257,971435,Alicante - Luceros,23
+A2-2-124,1257,971205,Sant Vicent del Raspeig,24
+A2-124-2,1257,971436,Alicante - Luceros,23
+A2-2-124,1257,971206,Sant Vicent del Raspeig,24
+A2-124-2,1257,971437,Alicante - Luceros,23
+A2-2-124,1257,971207,Sant Vicent del Raspeig,24
+A2-124-2,1257,971438,Alicante - Luceros,23
+A2-2-124,1257,971208,Sant Vicent del Raspeig,24
+A2-124-2,1257,971439,Alicante - Luceros,23
+A2-2-124,1257,971209,Sant Vicent del Raspeig,24
+A2-124-2,1257,971440,Alicante - Luceros,23
+A2-2-124,1257,971210,Sant Vicent del Raspeig,24
+A2-124-2,1257,971441,Alicante - Luceros,23
+A2-2-124,1257,971211,Sant Vicent del Raspeig,24
+A2-124-2,1257,971442,Alicante - Luceros,23
+A2-2-124,1257,971212,Sant Vicent del Raspeig,24
+A2-124-2,1257,971443,Alicante - Luceros,23
+A2-2-124,1257,971213,Sant Vicent del Raspeig,24
+A2-124-2,1257,971444,Alicante - Luceros,23
+A2-2-124,1257,971214,Sant Vicent del Raspeig,24
+A2-124-2,1257,971445,Alicante - Luceros,23
+A2-2-124,1257,971215,Sant Vicent del Raspeig,24
+A2-124-2,1257,971446,Alicante - Luceros,23
+A2-2-124,1257,971216,Sant Vicent del Raspeig,24
+A2-124-2,1257,971447,Alicante - Luceros,23
+A2-2-124,1257,971217,Sant Vicent del Raspeig,24
+A2-124-2,1257,971448,Alicante - Luceros,23
+A2-2-124,1257,971218,Sant Vicent del Raspeig,24
+A2-124-2,1257,971449,Alicante - Luceros,23
+A2-2-124,1257,971219,Sant Vicent del Raspeig,24
+A2-124-2,1257,971450,Alicante - Luceros,23
+A2-2-124,1257,971220,Sant Vicent del Raspeig,24
+A2-124-2,1257,971451,Alicante - Luceros,23
+A2-2-124,1257,971221,Sant Vicent del Raspeig,24
+A2-124-2,1257,971452,Alicante - Luceros,23
+A2-2-124,1257,971222,Sant Vicent del Raspeig,24
+A2-124-2,1257,971453,Alicante - Luceros,23
+A2-2-124,1257,971223,Sant Vicent del Raspeig,24
+A2-124-2,1257,971454,Alicante - Luceros,23
+A2-2-124,1257,971224,Sant Vicent del Raspeig,24
+A2-124-2,1257,971455,Alicante - Luceros,23
+A2-2-124,1257,971225,Sant Vicent del Raspeig,24
+A2-124-2,1257,971456,Alicante - Luceros,23
+A2-2-124,1257,971226,Sant Vicent del Raspeig,24
+A2-124-2,1257,971457,Alicante - Luceros,23
+A2-2-124,1257,971227,Sant Vicent del Raspeig,24
+A2-124-2,1257,971458,Alicante - Luceros,23
+A2-2-124,1257,971228,Sant Vicent del Raspeig,24
+A2-124-2,1257,971459,Alicante - Luceros,23
+A2-2-124,1257,971229,Sant Vicent del Raspeig,24
+A2-124-2,1257,971460,Alicante - Luceros,23
+A2-2-124,1257,971230,Sant Vicent del Raspeig,24
+A2-124-2,1257,971461,Alicante - Luceros,23
+A2-2-124,1257,971231,Sant Vicent del Raspeig,24
+A2-124-2,1257,971462,Alicante - Luceros,23
+A2-2-124,1257,971232,Sant Vicent del Raspeig,24
+A2-124-2,1257,971463,Alicante - Luceros,23
+A2-2-124,1257,971233,Sant Vicent del Raspeig,24
+A2-124-2,1257,971464,Alicante - Luceros,23
+A2-2-124,1257,971234,Sant Vicent del Raspeig,24
+A2-124-2,1257,971465,Alicante - Luceros,23
+A2-2-124,1257,971235,Sant Vicent del Raspeig,24
+A2-124-2,1257,971466,Alicante - Luceros,23
+A2-2-124,1257,971236,Sant Vicent del Raspeig,24
+A2-124-2,1257,971467,Alicante - Luceros,23
+A2-2-124,1257,971237,Sant Vicent del Raspeig,24
+A2-124-2,1257,971468,Alicante - Luceros,23
+A2-2-124,1257,971238,Sant Vicent del Raspeig,24
+A2-124-2,1257,971469,Alicante - Luceros,23
+A2-2-124,1257,971239,Sant Vicent del Raspeig,24
+A2-124-2,1257,971470,Alicante - Luceros,23
+A2-2-124,1257,971240,Sant Vicent del Raspeig,24
+A2-124-2,1257,971471,Alicante - Luceros,23
+A2-2-124,1257,971241,Sant Vicent del Raspeig,24
+A2-124-2,1257,971472,Alicante - Luceros,23
+A2-2-124,1257,971242,Sant Vicent del Raspeig,24
+A2-124-2,1257,971473,Alicante - Luceros,23
+A2-2-124,1257,971243,Sant Vicent del Raspeig,24
+A2-124-2,1257,971474,Alicante - Luceros,23
+A2-2-124,1257,971244,Sant Vicent del Raspeig,24
+A2-124-2,1257,971475,Alicante - Luceros,23
+A2-2-124,1257,971245,Sant Vicent del Raspeig,24
+A2-124-2,1257,971476,Alicante - Luceros,23
+A2-2-124,1257,971246,Sant Vicent del Raspeig,24
+A2-124-2,1257,971477,Alicante - Luceros,23
+A2-2-124,1257,971247,Sant Vicent del Raspeig,24
+A2-124-2,1257,971478,Alicante - Luceros,23
+A2-2-124,1257,971248,Sant Vicent del Raspeig,24
+A2-124-2,1257,971479,Alicante - Luceros,23
+A2-2-124,1257,971249,Sant Vicent del Raspeig,24
+A2-124-2,1257,971480,Alicante - Luceros,23
+A2-2-124,1257,971250,Sant Vicent del Raspeig,24
+A2-124-2,1257,971481,Alicante - Luceros,23
+A2-2-124,1257,971251,Sant Vicent del Raspeig,24
+A2-124-2,1257,971482,Alicante - Luceros,23
+A2-2-124,1257,971252,Sant Vicent del Raspeig,24
+A2-124-2,1257,971483,Alicante - Luceros,23
+A2-2-124,1257,971253,Sant Vicent del Raspeig,24
+A2-124-2,1257,971484,Alicante - Luceros,23
+A2-2-124,1257,971254,Sant Vicent del Raspeig,24
+A2-124-2,1257,971485,Alicante - Luceros,23
+A2-2-124,1257,971255,Sant Vicent del Raspeig,24
+A2-124-2,1257,971486,Alicante - Luceros,23
+A2-2-124,1257,971256,Sant Vicent del Raspeig,24
+A2-124-2,1257,971487,Alicante - Luceros,23
+A3-2-17,1257,971257,El Campello,6
+A3-17-2,1257,971488,Alicante - Luceros,5
+A3-2-17,1257,971258,El Campello,6
+A3-17-2,1257,971489,Alicante - Luceros,5
+A3-2-17,1257,971259,El Campello,6
+A3-17-2,1257,971490,Alicante - Luceros,5
+A3-2-17,1257,971260,El Campello,6
+A3-17-2,1257,971491,Alicante - Luceros,5
+A3-2-17,1257,971261,El Campello,6
+A3-17-2,1257,971492,Alicante - Luceros,5
+A3-2-17,1257,971262,El Campello,6
+A3-17-2,1257,971493,Alicante - Luceros,5
+A3-2-17,1257,971263,El Campello,6
+A3-17-2,1257,971494,Alicante - Luceros,5
+A3-2-17,1257,971264,El Campello,6
+A3-17-2,1257,971495,Alicante - Luceros,5
+A3-2-17,1257,971265,El Campello,6
+A3-17-2,1257,971496,Alicante - Luceros,5
+A3-2-17,1257,971266,El Campello,6
+A3-17-2,1257,971497,Alicante - Luceros,5
+A3-2-17,1257,971267,El Campello,6
+A3-17-2,1257,971498,Alicante - Luceros,5
+A3-2-17,1257,971268,El Campello,6
+A3-17-2,1257,971499,Alicante - Luceros,5
+A3-2-17,1257,971269,El Campello,6
+A3-17-2,1257,971500,Alicante - Luceros,5
+A3-2-17,1257,971270,El Campello,6
+A3-17-2,1257,971501,Alicante - Luceros,5
+A3-2-17,1257,971271,El Campello,6
+A3-17-2,1257,971502,Alicante - Luceros,5
+A3-2-17,1257,971272,El Campello,6
+A3-17-2,1257,971503,Alicante - Luceros,5
+A3-2-17,1257,971273,El Campello,6
+A3-17-2,1257,971504,Alicante - Luceros,5
+A3-2-17,1257,971274,El Campello,6
+A3-17-2,1257,971505,Alicante - Luceros,5
+A3-2-17,1257,971275,El Campello,6
+A3-17-2,1257,971506,Alicante - Luceros,5
+A3-2-17,1257,971276,El Campello,6
+A3-17-2,1257,971507,Alicante - Luceros,5
+A3-2-17,1257,971277,El Campello,6
+A3-17-2,1257,971508,Alicante - Luceros,5
+A3-2-17,1257,971278,El Campello,6
+A3-17-2,1257,971509,Alicante - Luceros,5
+A3-2-17,1257,971279,El Campello,6
+A3-17-2,1257,971510,Alicante - Luceros,5
+A3-2-17,1257,971280,El Campello,6
+A3-17-2,1257,971511,Alicante - Luceros,5
+A3-2-17,1257,971281,El Campello,6
+A3-17-2,1257,971512,Alicante - Luceros,5
+A3-2-17,1257,971282,El Campello,6
+A3-17-2,1257,971513,Alicante - Luceros,5
+A3-2-17,1257,971283,El Campello,6
+A3-17-2,1257,971514,Alicante - Luceros,5
+A3-2-17,1257,971284,El Campello,6
+A3-17-2,1257,971515,Alicante - Luceros,5
+A3-2-17,1257,971285,El Campello,6
+A3-17-2,1257,971516,Alicante - Luceros,5
+A3-2-17,1257,971286,El Campello,6
+A3-17-2,1257,971517,Alicante - Luceros,5
+A3-2-17,1257,971287,El Campello,6
+A3-17-2,1257,971518,Alicante - Luceros,5
+A3-2-17,1257,971288,El Campello,6
+A3-17-2,1257,971519,Alicante - Luceros,5
+A3-2-17,1257,971289,El Campello,6
+A3-17-2,1257,971520,Alicante - Luceros,5
+A3-2-17,1257,971290,El Campello,6
+A3-17-2,1257,971521,Alicante - Luceros,5
+A3-2-17,1257,971291,El Campello,6
+A3-17-2,1257,971522,Alicante - Luceros,5
+A3-2-17,1257,971292,El Campello,6
+A3-17-2,1257,971523,Alicante - Luceros,5
+A3-2-17,1257,971293,El Campello,6
+A3-17-2,1257,971524,Alicante - Luceros,5
+A3-2-17,1257,971294,El Campello,6
+A3-17-2,1257,971525,Alicante - Luceros,5
+A3-2-17,1257,971295,El Campello,6
+A3-17-2,1257,971526,Alicante - Luceros,5
+A4-2-110,1257,971296,Plaza La Coruña,25
+A4-110-2,1257,971527,Alicante - Luceros,27
+A4-2-110,1257,971297,Plaza La Coruña,25
+A4-110-2,1257,971528,Alicante - Luceros,27
+A4-2-110,1257,971298,Plaza La Coruña,25
+A4-110-2,1257,971529,Alicante - Luceros,27
+A4-2-110,1257,971299,Plaza La Coruña,25
+A4-110-2,1257,971530,Alicante - Luceros,27
+A4-2-110,1257,971300,Plaza La Coruña,25
+A4-110-2,1257,971531,Alicante - Luceros,27
+A4-2-110,1257,971301,Plaza La Coruña,25
+A4-110-2,1257,971532,Alicante - Luceros,27
+A4-2-110,1257,971302,Plaza La Coruña,25
+A4-110-2,1257,971533,Alicante - Luceros,27
+A4-2-110,1257,971303,Plaza La Coruña,25
+A4-110-2,1257,971534,Alicante - Luceros,27
+A4-2-110,1257,971304,Plaza La Coruña,25
+A4-110-2,1257,971535,Alicante - Luceros,27
+A4-2-110,1257,971305,Plaza La Coruña,25
+A4-110-2,1257,971536,Alicante - Luceros,27
+A4-2-110,1257,971306,Plaza La Coruña,25
+A4-110-2,1257,971537,Alicante - Luceros,27
+A4-2-110,1257,971307,Plaza La Coruña,25
+A4-110-2,1257,971538,Alicante - Luceros,27
+A4-2-110,1257,971308,Plaza La Coruña,25
+A4-110-2,1257,971539,Alicante - Luceros,27
+A4-2-110,1257,971309,Plaza La Coruña,25
+A4-110-2,1257,971540,Alicante - Luceros,27
+A4-2-110,1257,971310,Plaza La Coruña,25
+A4-110-2,1257,971541,Alicante - Luceros,27
+A4-2-110,1257,971311,Plaza La Coruña,25
+A4-110-2,1257,971542,Alicante - Luceros,27
+A4-2-110,1257,971312,Plaza La Coruña,25
+A4-110-2,1257,971543,Alicante - Luceros,27
+A4-2-110,1257,971313,Plaza La Coruña,25
+A4-110-2,1257,971544,Alicante - Luceros,27
+A4-2-110,1257,971314,Plaza La Coruña,25
+A4-110-2,1257,971545,Alicante - Luceros,27
+A4-2-110,1257,971315,Plaza La Coruña,25
+A4-110-2,1257,971546,Alicante - Luceros,27
+A4-2-110,1257,971316,Plaza La Coruña,25
+A4-110-2,1257,971547,Alicante - Luceros,27
+A4-2-110,1257,971317,Plaza La Coruña,25
+A4-110-2,1257,971548,Alicante - Luceros,27
+A4-2-110,1257,971318,Plaza La Coruña,25
+A4-110-2,1257,971549,Alicante - Luceros,27
+A4-2-110,1257,971319,Plaza La Coruña,25
+A4-110-2,1257,971550,Alicante - Luceros,27
+A4-2-110,1257,971320,Plaza La Coruña,25
+A4-110-2,1257,971551,Alicante - Luceros,27
+A4-2-110,1257,971321,Plaza La Coruña,25
+A4-110-2,1257,971552,Alicante - Luceros,27
+A4-2-110,1257,971322,Plaza La Coruña,25
+A4-110-2,1257,971553,Alicante - Luceros,27
+A4-2-110,1257,971323,Plaza La Coruña,25
+A4-110-2,1257,971554,Alicante - Luceros,27
+A4-2-110,1257,971324,Plaza La Coruña,25
+A4-110-2,1257,971555,Alicante - Luceros,27
+A4-2-110,1257,971325,Plaza La Coruña,25
+A4-110-2,1257,971556,Alicante - Luceros,27
+A4-2-110,1257,971326,Plaza La Coruña,25
+A4-110-2,1257,971557,Alicante - Luceros,27
+A4-2-110,1257,971327,Plaza La Coruña,25
+A4-110-2,1257,971558,Alicante - Luceros,27
+A4-2-110,1257,971328,Plaza La Coruña,25
+A4-110-2,1257,971559,Alicante - Luceros,27
+A4-2-110,1257,971329,Plaza La Coruña,25
+A4-110-2,1257,971560,Alicante - Luceros,27
+A5-5-110,1257,971330,Plaza La Coruña,28
+A5-17-5,1257,971561,Sangueta,28
+A5-5-110,1257,971331,Plaza La Coruña,28
+A5-17-5,1257,971562,Sangueta,28
+A5-5-110,1257,971332,Plaza La Coruña,28
+A5-110-5,1257,971563,Sangueta,29
+A5-5-110,1257,971333,Plaza La Coruña,28
+A5-110-5,1257,971564,Sangueta,29
+A5-5-110,1257,971334,Plaza La Coruña,28
+A5-110-5,1257,971565,Sangueta,29
+A5-5-110,1257,971335,Plaza La Coruña,28
+A5-110-5,1257,971566,Sangueta,29
+A5-5-110,1257,971336,Plaza La Coruña,28
+A5-110-5,1257,971567,Sangueta,29
+A5-5-110,1257,971337,Plaza La Coruña,28
+A5-110-5,1257,971568,Sangueta,29
+A5-5-110,1257,971338,Plaza La Coruña,28
+A5-110-5,1257,971569,Sangueta,29
+A5-5-110,1257,971339,Plaza La Coruña,28
+A5-110-5,1257,971570,Sangueta,29
+A5-5-110,1257,971340,Plaza La Coruña,28
+A5-110-5,1257,971571,Sangueta,29
+A5-5-110,1257,971341,Plaza La Coruña,28
+A5-110-5,1257,971572,Sangueta,29
+A5-5-110,1257,971342,Plaza La Coruña,28
+A5-110-5,1257,971573,Sangueta,29
+A5-5-110,1257,971343,Plaza La Coruña,28
+A5-110-5,1257,971574,Sangueta,29
+A5-5-110,1257,971344,Plaza La Coruña,28
+A5-110-5,1257,971575,Sangueta,29
+A5-5-110,1257,971345,Plaza La Coruña,28
+A5-110-5,1257,971576,Sangueta,29
+A5-5-110,1257,971346,Plaza La Coruña,28
+A5-110-5,1257,971577,Sangueta,29
+A5-5-110,1257,971347,Plaza La Coruña,28
+A5-110-5,1257,971578,Sangueta,29
+A5-5-110,1257,971348,Plaza La Coruña,28
+A5-110-5,1257,971579,Sangueta,29
+A5-5-110,1257,971349,Plaza La Coruña,28
+A5-110-5,1257,971580,Sangueta,29
+A5-5-110,1257,971350,Plaza La Coruña,28
+A5-110-5,1257,971581,Sangueta,29
+A5-5-110,1257,971351,Plaza La Coruña,28
+A5-110-5,1257,971582,Sangueta,29
+A5-5-110,1257,971352,Plaza La Coruña,28
+A5-110-5,1257,971583,Sangueta,29
+A5-5-110,1257,971353,Plaza La Coruña,28
+A5-110-5,1257,971584,Sangueta,29
+A5-5-110,1257,971354,Plaza La Coruña,28
+A5-110-5,1257,971585,Sangueta,29
+A5-5-110,1257,971355,Plaza La Coruña,28
+A5-110-5,1257,971586,Sangueta,29
+A5-5-110,1257,971356,Plaza La Coruña,28
+A5-110-5,1257,971587,Sangueta,29
+A5-5-110,1257,971357,Plaza La Coruña,28
+A5-110-5,1257,971588,Sangueta,29
+A5-5-110,1257,971358,Plaza La Coruña,28
+A5-110-5,1257,971589,Sangueta,29
+A5-5-110,1257,971359,Plaza La Coruña,28
+A5-110-5,1257,971590,Sangueta,29
+A5-5-17,1257,971360,El Campello,28
+A5-110-5,1257,971591,Sangueta,29
+A5-5-17,1257,971361,El Campello,28
+A5-110-5,1257,971592,Sangueta,29
+A9-33-50,1257,971362,Dénia,22
+A9-39-33,1257,971593,Benidorm,21
+A9-33-39,1257,971363,Garganes,22
+A9-50-33,1257,971594,Benidorm,21
+A9-33-50,1257,971364,Dénia,22
+A9-50-33,1257,971595,Benidorm,21
+A9-33-50,1257,971365,Dénia,22
+A9-50-33,1257,971596,Benidorm,21
+A9-33-50,1257,971366,Dénia,22
+A9-50-33,1257,971597,Benidorm,21
+A9-33-50,1257,971367,Dénia,22
+A9-50-33,1257,971598,Benidorm,21
+A9-33-50,1257,971368,Dénia,22
+A9-50-33,1257,971599,Benidorm,21
+A9-33-50,1257,971369,Dénia,22
+A9-50-33,1257,971600,Benidorm,21
+A9-33-50,1257,971370,Dénia,22
+A9-50-33,1257,971601,Benidorm,21
+A9-33-50,1257,971371,Dénia,22
+A9-50-33,1257,971602,Benidorm,21
+A9-33-50,1257,971372,Dénia,22
+A9-50-33,1257,971603,Benidorm,21
+A9-33-50,1257,971373,Dénia,22
+A9-50-33,1257,971604,Benidorm,21
+A9-33-50,1257,971374,Dénia,22
+A9-50-33,1257,971605,Benidorm,21
+A9-33-50,1257,971375,Dénia,22
+A9-50-33,1257,971606,Benidorm,21
+A9-33-50,1257,971376,Dénia,22
+A9-50-33,1257,971607,Benidorm,21
+A9-33-50,1257,971377,Dénia,22
+A9-50-33,1257,971608,Benidorm,21
+A9-33-50,1257,971378,Dénia,22
+A9-50-33,1257,971609,Benidorm,21
+A9-33-50,1257,971379,Dénia,22
+A9-39-33,1257,971610,Benidorm,21
+A9-33-39,1257,971380,Garganes,22
+A9-50-33,1257,971611,Benidorm,21
+A1-17-33,1259,972054,Benidorm,2
+A1-17-2,1259,972274,Alicante - Luceros,1
+A1-2-33,1259,972055,Benidorm,2
+A1-17-2,1259,972275,Alicante - Luceros,1
+A1-2-125,1259,972056,Benidorm Intermodal,2
+A1-17-2,1259,972276,Alicante - Luceros,1
+A1-2-33,1259,972057,Benidorm,2
+A1-17-2,1259,972277,Alicante - Luceros,1
+A1-2-125,1259,972058,Benidorm Intermodal,2
+A1-17-2,1259,972278,Alicante - Luceros,1
+A1-2-33,1259,972059,Benidorm,2
+A1-33-2,1259,972279,Alicante - Luceros,1
+A1-2-33,1259,972060,Benidorm,2
+A1-33-2,1259,972280,Alicante - Luceros,1
+A1-2-33,1259,972061,Benidorm,2
+A1-125-2,1259,972281,Alicante - Luceros,1
+A1-2-33,1259,972062,Benidorm,2
+A1-33-2,1259,972282,Alicante - Luceros,1
+A1-2-33,1259,972063,Benidorm,2
+A1-125-2,1259,972283,Alicante - Luceros,1
+A1-2-33,1259,972064,Benidorm,2
+A1-33-2,1259,972284,Alicante - Luceros,1
+A1-2-33,1259,972065,Benidorm,2
+A1-33-2,1259,972285,Alicante - Luceros,1
+A1-2-33,1259,972066,Benidorm,2
+A1-33-2,1259,972286,Alicante - Luceros,1
+A1-2-33,1259,972067,Benidorm,2
+A1-33-2,1259,972287,Alicante - Luceros,1
+A1-2-125,1259,972068,Benidorm Intermodal,2
+A1-33-2,1259,972288,Alicante - Luceros,1
+A1-2-33,1259,972069,Benidorm,2
+A1-33-2,1259,972289,Alicante - Luceros,1
+A1-2-125,1259,972070,Benidorm Intermodal,2
+A1-33-2,1259,972290,Alicante - Luceros,1
+A1-2-33,1259,972071,Benidorm,2
+A1-33-2,1259,972291,Alicante - Luceros,1
+A1-2-33,1259,972072,Benidorm,2
+A1-33-2,1259,972292,Alicante - Luceros,1
+A1-2-33,1259,972073,Benidorm,2
+A1-125-2,1259,972293,Alicante - Luceros,1
+A1-2-33,1259,972074,Benidorm,2
+A1-33-2,1259,972294,Alicante - Luceros,1
+A1-2-33,1259,972075,Benidorm,2
+A1-125-2,1259,972295,Alicante - Luceros,1
+A1-2-33,1259,972076,Benidorm,2
+A1-33-2,1259,972296,Alicante - Luceros,1
+A1-2-33,1259,972077,Benidorm,2
+A1-33-2,1259,972297,Alicante - Luceros,1
+A1-2-125,1259,972078,Benidorm Intermodal,2
+A1-33-2,1259,972298,Alicante - Luceros,1
+A1-2-33,1259,972079,Benidorm,2
+A1-33-2,1259,972299,Alicante - Luceros,1
+A1-2-125,1259,972080,Benidorm Intermodal,2
+A1-33-2,1259,972300,Alicante - Luceros,1
+A1-2-33,1259,972081,Benidorm,2
+A1-33-2,1259,972301,Alicante - Luceros,1
+A1-2-33,1259,972082,Benidorm,2
+A1-33-2,1259,972302,Alicante - Luceros,1
+A1-2-33,1259,972083,Benidorm,2
+A1-125-2,1259,972303,Alicante - Luceros,1
+A1-2-33,1259,972084,Benidorm,2
+A1-33-2,1259,972304,Alicante - Luceros,1
+A1-2-33,1259,972085,Benidorm,2
+A1-125-2,1259,972305,Alicante - Luceros,1
+A1-2-33,1259,972086,Benidorm,2
+A1-33-2,1259,972306,Alicante - Luceros,1
+A1-2-33,1259,972087,Benidorm,2
+A1-33-2,1259,972307,Alicante - Luceros,1
+A1-2-17,1259,972088,El Campello,2
+A1-33-2,1259,972308,Alicante - Luceros,1
+A1-2-17,1259,972089,El Campello,2
+A1-33-2,1259,972309,Alicante - Luceros,1
+A1-2-17,1259,972090,El Campello,2
+A1-33-17,1259,972310,El Campello,1
+A1-33-17,1259,972311,El Campello,1
+A1-33-17,1259,972312,El Campello,1
+A2-2-124,1259,972091,Sant Vicent del Raspeig,24
+A2-124-2,1259,972313,Alicante - Luceros,23
+A2-2-124,1259,972092,Sant Vicent del Raspeig,24
+A2-124-2,1259,972314,Alicante - Luceros,23
+A2-2-124,1259,972093,Sant Vicent del Raspeig,24
+A2-124-2,1259,972315,Alicante - Luceros,23
+A2-2-124,1259,972094,Sant Vicent del Raspeig,24
+A2-124-2,1259,972316,Alicante - Luceros,23
+A2-2-124,1259,972095,Sant Vicent del Raspeig,24
+A2-124-2,1259,972317,Alicante - Luceros,23
+A2-2-124,1259,972096,Sant Vicent del Raspeig,24
+A2-124-2,1259,972318,Alicante - Luceros,23
+A2-2-124,1259,972097,Sant Vicent del Raspeig,24
+A2-124-2,1259,972319,Alicante - Luceros,23
+A2-2-124,1259,972098,Sant Vicent del Raspeig,24
+A2-124-2,1259,972320,Alicante - Luceros,23
+A2-2-124,1259,972099,Sant Vicent del Raspeig,24
+A2-124-2,1259,972321,Alicante - Luceros,23
+A2-2-124,1259,972100,Sant Vicent del Raspeig,24
+A2-124-2,1259,972322,Alicante - Luceros,23
+A2-2-124,1259,972101,Sant Vicent del Raspeig,24
+A2-124-2,1259,972323,Alicante - Luceros,23
+A2-2-124,1259,972102,Sant Vicent del Raspeig,24
+A2-124-2,1259,972324,Alicante - Luceros,23
+A2-2-124,1259,972103,Sant Vicent del Raspeig,24
+A2-124-2,1259,972325,Alicante - Luceros,23
+A2-2-124,1259,972104,Sant Vicent del Raspeig,24
+A2-124-2,1259,972326,Alicante - Luceros,23
+A2-2-124,1259,972105,Sant Vicent del Raspeig,24
+A2-124-2,1259,972327,Alicante - Luceros,23
+A2-2-124,1259,972106,Sant Vicent del Raspeig,24
+A2-124-2,1259,972328,Alicante - Luceros,23
+A2-2-124,1259,972107,Sant Vicent del Raspeig,24
+A2-124-2,1259,972329,Alicante - Luceros,23
+A2-2-124,1259,972108,Sant Vicent del Raspeig,24
+A2-124-2,1259,972330,Alicante - Luceros,23
+A2-2-124,1259,972109,Sant Vicent del Raspeig,24
+A2-124-2,1259,972331,Alicante - Luceros,23
+A2-2-124,1259,972110,Sant Vicent del Raspeig,24
+A2-124-2,1259,972332,Alicante - Luceros,23
+A2-2-124,1259,972111,Sant Vicent del Raspeig,24
+A2-124-2,1259,972333,Alicante - Luceros,23
+A2-2-124,1259,972112,Sant Vicent del Raspeig,24
+A2-124-2,1259,972334,Alicante - Luceros,23
+A2-2-124,1259,972113,Sant Vicent del Raspeig,24
+A2-124-2,1259,972335,Alicante - Luceros,23
+A2-2-124,1259,972114,Sant Vicent del Raspeig,24
+A2-124-2,1259,972336,Alicante - Luceros,23
+A2-2-124,1259,972115,Sant Vicent del Raspeig,24
+A2-124-2,1259,972337,Alicante - Luceros,23
+A2-2-124,1259,972116,Sant Vicent del Raspeig,24
+A2-124-2,1259,972338,Alicante - Luceros,23
+A2-2-124,1259,972117,Sant Vicent del Raspeig,24
+A2-124-2,1259,972339,Alicante - Luceros,23
+A2-2-124,1259,972118,Sant Vicent del Raspeig,24
+A2-124-2,1259,972340,Alicante - Luceros,23
+A2-2-124,1259,972119,Sant Vicent del Raspeig,24
+A2-124-2,1259,972341,Alicante - Luceros,23
+A2-2-124,1259,972120,Sant Vicent del Raspeig,24
+A2-124-2,1259,972342,Alicante - Luceros,23
+A2-2-124,1259,972121,Sant Vicent del Raspeig,24
+A2-124-2,1259,972343,Alicante - Luceros,23
+A2-2-124,1259,972122,Sant Vicent del Raspeig,24
+A2-124-2,1259,972344,Alicante - Luceros,23
+A2-2-124,1259,972123,Sant Vicent del Raspeig,24
+A2-124-2,1259,972345,Alicante - Luceros,23
+A2-2-124,1259,972124,Sant Vicent del Raspeig,24
+A2-124-2,1259,972346,Alicante - Luceros,23
+A2-2-124,1259,972125,Sant Vicent del Raspeig,24
+A2-124-2,1259,972347,Alicante - Luceros,23
+A2-2-124,1259,972126,Sant Vicent del Raspeig,24
+A2-124-2,1259,972348,Alicante - Luceros,23
+A2-2-124,1259,972127,Sant Vicent del Raspeig,24
+A2-124-2,1259,972349,Alicante - Luceros,23
+A2-2-124,1259,972128,Sant Vicent del Raspeig,24
+A2-124-2,1259,972350,Alicante - Luceros,23
+A2-2-124,1259,972129,Sant Vicent del Raspeig,24
+A2-124-2,1259,972351,Alicante - Luceros,23
+A2-2-124,1259,972130,Sant Vicent del Raspeig,24
+A2-124-2,1259,972352,Alicante - Luceros,23
+A2-2-124,1259,972131,Sant Vicent del Raspeig,24
+A2-124-2,1259,972353,Alicante - Luceros,23
+A2-2-124,1259,972132,Sant Vicent del Raspeig,24
+A2-124-2,1259,972354,Alicante - Luceros,23
+A2-2-124,1259,972133,Sant Vicent del Raspeig,24
+A2-124-2,1259,972355,Alicante - Luceros,23
+A2-2-124,1259,972134,Sant Vicent del Raspeig,24
+A2-124-2,1259,972356,Alicante - Luceros,23
+A2-2-124,1259,972135,Sant Vicent del Raspeig,24
+A2-124-2,1259,972357,Alicante - Luceros,23
+A2-2-124,1259,972136,Sant Vicent del Raspeig,24
+A2-124-2,1259,972358,Alicante - Luceros,23
+A2-2-124,1259,972137,Sant Vicent del Raspeig,24
+A2-124-2,1259,972359,Alicante - Luceros,23
+A2-2-124,1259,972138,Sant Vicent del Raspeig,24
+A2-124-2,1259,972360,Alicante - Luceros,23
+A2-2-124,1259,972139,Sant Vicent del Raspeig,24
+A2-124-2,1259,972361,Alicante - Luceros,23
+A2-2-124,1259,972140,Sant Vicent del Raspeig,24
+A2-124-2,1259,972362,Alicante - Luceros,23
+A2-2-124,1259,972141,Sant Vicent del Raspeig,24
+A2-124-2,1259,972363,Alicante - Luceros,23
+A2-2-124,1259,972142,Sant Vicent del Raspeig,24
+A2-124-2,1259,972364,Alicante - Luceros,23
+A2-2-124,1259,972143,Sant Vicent del Raspeig,24
+A2-124-2,1259,972365,Alicante - Luceros,23
+A2-2-124,1259,972144,Sant Vicent del Raspeig,24
+A2-124-2,1259,972366,Alicante - Luceros,23
+A2-2-124,1259,972145,Sant Vicent del Raspeig,24
+A2-124-2,1259,972367,Alicante - Luceros,23
+A2-2-124,1259,972146,Sant Vicent del Raspeig,24
+A2-124-2,1259,972368,Alicante - Luceros,23
+A2-2-124,1259,972147,Sant Vicent del Raspeig,24
+A2-124-2,1259,972369,Alicante - Luceros,23
+A2-2-124,1259,972148,Sant Vicent del Raspeig,24
+A2-124-2,1259,972370,Alicante - Luceros,23
+A2-2-124,1259,972149,Sant Vicent del Raspeig,24
+A2-124-2,1259,972371,Alicante - Luceros,23
+A2-2-124,1259,972150,Sant Vicent del Raspeig,24
+A2-124-2,1259,972372,Alicante - Luceros,23
+A2-2-124,1259,972151,Sant Vicent del Raspeig,24
+A2-124-2,1259,972373,Alicante - Luceros,23
+A2-2-124,1259,972152,Sant Vicent del Raspeig,24
+A2-124-2,1259,972374,Alicante - Luceros,23
+A2-2-124,1259,972153,Sant Vicent del Raspeig,24
+A2-124-2,1259,972375,Alicante - Luceros,23
+A3-2-17,1259,972154,El Campello,6
+A3-17-2,1259,972376,Alicante - Luceros,5
+A3-2-17,1259,972155,El Campello,6
+A3-17-2,1259,972377,Alicante - Luceros,5
+A3-2-17,1259,972156,El Campello,6
+A3-17-2,1259,972378,Alicante - Luceros,5
+A3-2-17,1259,972157,El Campello,6
+A3-17-2,1259,972379,Alicante - Luceros,5
+A3-2-17,1259,972158,El Campello,6
+A3-17-2,1259,972380,Alicante - Luceros,5
+A3-2-17,1259,972159,El Campello,6
+A3-17-2,1259,972381,Alicante - Luceros,5
+A3-2-17,1259,972160,El Campello,6
+A3-17-2,1259,972382,Alicante - Luceros,5
+A3-2-17,1259,972161,El Campello,6
+A3-17-2,1259,972383,Alicante - Luceros,5
+A3-2-17,1259,972162,El Campello,6
+A3-17-2,1259,972384,Alicante - Luceros,5
+A3-2-17,1259,972163,El Campello,6
+A3-17-2,1259,972385,Alicante - Luceros,5
+A3-2-17,1259,972164,El Campello,6
+A3-17-2,1259,972386,Alicante - Luceros,5
+A3-2-17,1259,972165,El Campello,6
+A3-17-2,1259,972387,Alicante - Luceros,5
+A3-2-17,1259,972166,El Campello,6
+A3-17-2,1259,972388,Alicante - Luceros,5
+A3-2-17,1259,972167,El Campello,6
+A3-17-2,1259,972389,Alicante - Luceros,5
+A3-2-17,1259,972168,El Campello,6
+A3-17-2,1259,972390,Alicante - Luceros,5
+A3-2-17,1259,972169,El Campello,6
+A3-17-2,1259,972391,Alicante - Luceros,5
+A3-2-17,1259,972170,El Campello,6
+A3-17-2,1259,972392,Alicante - Luceros,5
+A3-2-17,1259,972171,El Campello,6
+A3-17-2,1259,972393,Alicante - Luceros,5
+A3-2-17,1259,972172,El Campello,6
+A3-17-2,1259,972394,Alicante - Luceros,5
+A3-2-17,1259,972173,El Campello,6
+A3-17-2,1259,972395,Alicante - Luceros,5
+A3-2-17,1259,972174,El Campello,6
+A3-17-2,1259,972396,Alicante - Luceros,5
+A3-2-17,1259,972175,El Campello,6
+A3-17-2,1259,972397,Alicante - Luceros,5
+A3-2-17,1259,972176,El Campello,6
+A3-17-2,1259,972398,Alicante - Luceros,5
+A3-2-17,1259,972177,El Campello,6
+A3-17-2,1259,972399,Alicante - Luceros,5
+A3-2-17,1259,972178,El Campello,6
+A3-17-2,1259,972400,Alicante - Luceros,5
+A3-2-17,1259,972179,El Campello,6
+A3-17-2,1259,972401,Alicante - Luceros,5
+A3-2-17,1259,972180,El Campello,6
+A3-17-2,1259,972402,Alicante - Luceros,5
+A3-2-17,1259,972181,El Campello,6
+A3-17-2,1259,972403,Alicante - Luceros,5
+A3-2-17,1259,972182,El Campello,6
+A3-17-2,1259,972404,Alicante - Luceros,5
+A3-2-17,1259,972183,El Campello,6
+A3-17-2,1259,972405,Alicante - Luceros,5
+A3-2-17,1259,972184,El Campello,6
+A3-17-2,1259,972406,Alicante - Luceros,5
+A3-2-17,1259,972185,El Campello,6
+A3-17-2,1259,972407,Alicante - Luceros,5
+A3-2-17,1259,972186,El Campello,6
+A3-17-2,1259,972408,Alicante - Luceros,5
+A3-2-17,1259,972187,El Campello,6
+A3-17-2,1259,972409,Alicante - Luceros,5
+A3-2-17,1259,972188,El Campello,6
+A3-17-2,1259,972410,Alicante - Luceros,5
+A3-2-17,1259,972189,El Campello,6
+A3-17-2,1259,972411,Alicante - Luceros,5
+A4-2-110,1259,972190,Plaza La Coruña,25
+A4-110-2,1259,972412,Alicante - Luceros,27
+A4-2-110,1259,972191,Plaza La Coruña,25
+A4-110-2,1259,972413,Alicante - Luceros,27
+A4-2-110,1259,972192,Plaza La Coruña,25
+A4-110-2,1259,972414,Alicante - Luceros,27
+A4-2-110,1259,972193,Plaza La Coruña,25
+A4-110-2,1259,972415,Alicante - Luceros,27
+A4-2-110,1259,972194,Plaza La Coruña,25
+A4-110-2,1259,972416,Alicante - Luceros,27
+A4-2-110,1259,972195,Plaza La Coruña,25
+A4-110-2,1259,972417,Alicante - Luceros,27
+A4-2-110,1259,972196,Plaza La Coruña,25
+A4-110-2,1259,972418,Alicante - Luceros,27
+A4-2-110,1259,972197,Plaza La Coruña,25
+A4-110-2,1259,972419,Alicante - Luceros,27
+A4-2-110,1259,972198,Plaza La Coruña,25
+A4-110-2,1259,972420,Alicante - Luceros,27
+A4-2-110,1259,972199,Plaza La Coruña,25
+A4-110-2,1259,972421,Alicante - Luceros,27
+A4-2-110,1259,972200,Plaza La Coruña,25
+A4-110-2,1259,972422,Alicante - Luceros,27
+A4-2-110,1259,972201,Plaza La Coruña,25
+A4-110-2,1259,972423,Alicante - Luceros,27
+A4-2-110,1259,972202,Plaza La Coruña,25
+A4-110-2,1259,972424,Alicante - Luceros,27
+A4-2-110,1259,972203,Plaza La Coruña,25
+A4-110-2,1259,972425,Alicante - Luceros,27
+A4-2-110,1259,972204,Plaza La Coruña,25
+A4-110-2,1259,972426,Alicante - Luceros,27
+A4-2-110,1259,972205,Plaza La Coruña,25
+A4-110-2,1259,972427,Alicante - Luceros,27
+A4-2-110,1259,972206,Plaza La Coruña,25
+A4-110-2,1259,972428,Alicante - Luceros,27
+A4-2-110,1259,972207,Plaza La Coruña,25
+A4-110-2,1259,972429,Alicante - Luceros,27
+A4-2-110,1259,972208,Plaza La Coruña,25
+A4-110-2,1259,972430,Alicante - Luceros,27
+A4-2-110,1259,972209,Plaza La Coruña,25
+A4-110-2,1259,972431,Alicante - Luceros,27
+A4-2-110,1259,972210,Plaza La Coruña,25
+A4-110-2,1259,972432,Alicante - Luceros,27
+A4-2-110,1259,972211,Plaza La Coruña,25
+A4-110-2,1259,972433,Alicante - Luceros,27
+A4-2-110,1259,972212,Plaza La Coruña,25
+A4-110-2,1259,972434,Alicante - Luceros,27
+A4-2-110,1259,972213,Plaza La Coruña,25
+A4-110-2,1259,972435,Alicante - Luceros,27
+A4-2-110,1259,972214,Plaza La Coruña,25
+A4-110-2,1259,972436,Alicante - Luceros,27
+A4-2-110,1259,972215,Plaza La Coruña,25
+A4-110-2,1259,972437,Alicante - Luceros,27
+A4-2-110,1259,972216,Plaza La Coruña,25
+A4-110-2,1259,972438,Alicante - Luceros,27
+A4-2-110,1259,972217,Plaza La Coruña,25
+A4-110-2,1259,972439,Alicante - Luceros,27
+A4-2-110,1259,972218,Plaza La Coruña,25
+A4-110-2,1259,972440,Alicante - Luceros,27
+A4-2-110,1259,972219,Plaza La Coruña,25
+A4-110-2,1259,972441,Alicante - Luceros,27
+A4-2-110,1259,972220,Plaza La Coruña,25
+A4-110-2,1259,972442,Alicante - Luceros,27
+A4-2-110,1259,972221,Plaza La Coruña,25
+A4-110-2,1259,972443,Alicante - Luceros,27
+A4-2-110,1259,972222,Plaza La Coruña,25
+A4-110-2,1259,972444,Alicante - Luceros,27
+A5-5-110,1259,972223,Plaza La Coruña,28
+A5-17-5,1259,972445,Sangueta,28
+A5-5-110,1259,972224,Plaza La Coruña,28
+A5-17-5,1259,972446,Sangueta,28
+A5-5-110,1259,972225,Plaza La Coruña,28
+A5-110-5,1259,972447,Sangueta,29
+A5-5-110,1259,972226,Plaza La Coruña,28
+A5-110-5,1259,972448,Sangueta,29
+A5-5-110,1259,972227,Plaza La Coruña,28
+A5-110-5,1259,972449,Sangueta,29
+A5-5-110,1259,972228,Plaza La Coruña,28
+A5-110-5,1259,972450,Sangueta,29
+A5-5-110,1259,972229,Plaza La Coruña,28
+A5-110-5,1259,972451,Sangueta,29
+A5-5-110,1259,972230,Plaza La Coruña,28
+A5-110-5,1259,972452,Sangueta,29
+A5-5-110,1259,972231,Plaza La Coruña,28
+A5-110-5,1259,972453,Sangueta,29
+A5-5-110,1259,972232,Plaza La Coruña,28
+A5-110-5,1259,972454,Sangueta,29
+A5-5-110,1259,972233,Plaza La Coruña,28
+A5-110-5,1259,972455,Sangueta,29
+A5-5-110,1259,972234,Plaza La Coruña,28
+A5-110-5,1259,972456,Sangueta,29
+A5-5-110,1259,972235,Plaza La Coruña,28
+A5-110-5,1259,972457,Sangueta,29
+A5-5-110,1259,972236,Plaza La Coruña,28
+A5-110-5,1259,972458,Sangueta,29
+A5-5-110,1259,972237,Plaza La Coruña,28
+A5-110-5,1259,972459,Sangueta,29
+A5-5-110,1259,972238,Plaza La Coruña,28
+A5-110-5,1259,972460,Sangueta,29
+A5-5-110,1259,972239,Plaza La Coruña,28
+A5-110-5,1259,972461,Sangueta,29
+A5-5-110,1259,972240,Plaza La Coruña,28
+A5-110-5,1259,972462,Sangueta,29
+A5-5-110,1259,972241,Plaza La Coruña,28
+A5-110-5,1259,972463,Sangueta,29
+A5-5-110,1259,972242,Plaza La Coruña,28
+A5-110-5,1259,972464,Sangueta,29
+A5-5-110,1259,972243,Plaza La Coruña,28
+A5-110-5,1259,972465,Sangueta,29
+A5-5-110,1259,972244,Plaza La Coruña,28
+A5-110-5,1259,972466,Sangueta,29
+A5-5-110,1259,972245,Plaza La Coruña,28
+A5-110-5,1259,972467,Sangueta,29
+A5-5-110,1259,972246,Plaza La Coruña,28
+A5-110-5,1259,972468,Sangueta,29
+A5-5-110,1259,972247,Plaza La Coruña,28
+A5-110-5,1259,972469,Sangueta,29
+A5-5-110,1259,972248,Plaza La Coruña,28
+A5-110-5,1259,972470,Sangueta,29
+A5-5-110,1259,972249,Plaza La Coruña,28
+A5-110-5,1259,972471,Sangueta,29
+A5-5-110,1259,972250,Plaza La Coruña,28
+A5-110-5,1259,972472,Sangueta,29
+A5-5-110,1259,972251,Plaza La Coruña,28
+A5-110-5,1259,972473,Sangueta,29
+A5-5-110,1259,972252,Plaza La Coruña,28
+A5-110-5,1259,972474,Sangueta,29
+A5-5-17,1259,972253,El Campello,28
+A5-110-5,1259,972475,Sangueta,29
+A5-5-17,1259,972254,El Campello,28
+A5-110-5,1259,972476,Sangueta,29
+A9-33-50,1259,972255,Dénia,22
+A9-39-33,1259,972477,Benidorm,21
+A9-33-39,1259,972256,Garganes,22
+A9-50-33,1259,972478,Benidorm,21
+A9-33-50,1259,972257,Dénia,22
+A9-50-33,1259,972479,Benidorm,21
+A9-33-50,1259,972258,Dénia,22
+A9-50-33,1259,972480,Benidorm,21
+A9-33-50,1259,972259,Dénia,22
+A9-50-33,1259,972481,Benidorm,21
+A9-33-50,1259,972260,Dénia,22
+A9-50-33,1259,972482,Benidorm,21
+A9-33-50,1259,972261,Dénia,22
+A9-50-33,1259,972483,Benidorm,21
+A9-33-50,1259,972262,Dénia,22
+A9-50-33,1259,972484,Benidorm,21
+A9-33-50,1259,972263,Dénia,22
+A9-50-33,1259,972485,Benidorm,21
+A9-33-50,1259,972264,Dénia,22
+A9-50-33,1259,972486,Benidorm,21
+A9-33-50,1259,972265,Dénia,22
+A9-50-33,1259,972487,Benidorm,21
+A9-33-50,1259,972266,Dénia,22
+A9-50-33,1259,972488,Benidorm,21
+A9-33-50,1259,972267,Dénia,22
+A9-50-33,1259,972489,Benidorm,21
+A9-33-50,1259,972268,Dénia,22
+A9-50-33,1259,972490,Benidorm,21
+A9-33-50,1259,972269,Dénia,22
+A9-50-33,1259,972491,Benidorm,21
+A9-33-50,1259,972270,Dénia,22
+A9-50-33,1259,972492,Benidorm,21
+A9-33-50,1259,972271,Dénia,22
+A9-50-33,1259,972493,Benidorm,21
+A9-33-50,1259,972272,Dénia,22
+A9-39-33,1259,972494,Benidorm,21
+A9-33-39,1259,972273,Garganes,22
+A9-50-33,1259,972495,Benidorm,21

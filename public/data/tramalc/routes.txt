@@ -39,8 +39,12 @@ A5-101-111,1,5,5 - Porta del Mar - Instituto,0,005396,FFFFFF
 A5-101-17,1,5,5 - Porta del Mar - El Campello,0,005396,FFFFFF
 A5-110-101,1,5,5 - Plaza La Coruña - Porta del Mar,0,005396,FFFFFF
 A5-110-102,1,5,5 - Plaza La Coruña - La Marina,0,005396,FFFFFF
+A5-110-5,1,5,5 - Plaza La Coruña - Sangueta,0,005396,FFFFFF
 A5-16-102,1,5,5 - Pla Barraques - La Marina,0,005396,FFFFFF
 A5-17-101,1,5,5 - El Campello - Porta del Mar,0,005396,FFFFFF
+A5-17-5,1,5,5 - El Campello - Sangueta,0,005396,FFFFFF
+A5-5-110,1,5,5 - Sangueta - Plaza La Coruña,0,005396,FFFFFF
+A5-5-17,1,5,5 - Sangueta - El Campello,0,005396,FFFFFF
 A9-33-39,1,9,9 - Benidorm - Garganes,0,A2A3A5,FFFFFF
 A9-33-49,1,9,9 - Benidorm - Bosc de Diana,0,A2A3A5,FFFFFF
 A9-33-50,1,9,9 - Benidorm - Dénia,0,A2A3A5,FFFFFF

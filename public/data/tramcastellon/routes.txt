@@ -214,10 +214,14 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 501101,5011,L2,El Verger – Dénia,3
 501301,5013,L1,Vall de Laguar – Dénia,3
 1974833502,1932031151,L38A,L38A_Platja sant Joan - Universitat,3
+2921613755,2922677801,L1,L1_Aeroport Castelló de la Plana - Torreblanca,3
+2921613752,2203539301,L12,L12_Altea - Albir - Benidorm - CC - Hospital - Vila Joiosa,3
 2004504753,1932031151,L36,L36_San Gabriel - Universitat,3
 2004504754,1932031151,L38B,L38B_Platja de Sant Joan - Hospital de Sant Joan,3
+2921613753,2203539301,L14,L14_Finestrat - Calas - Salto del Agua,3
 2545581501,2545579951,L400a,L400a_Ademuz - València (a demanda entre Ademuz y Aras de los Olmos),3
 2100452963,2044020301,L489,L489_Pobla del Duc - Xàtiva,3
+2921613754,5025,L35,L35_Hospital de Sant Joan - Tángel,3
 2100452960,2044020301,L487b,L487b_Canals - Xàtiva (per Granja de la Costera),3
 2042522754,2042521951,L415a,L415a_Ayora - Requena - València (Zarra a demanda),3
 2100452961,2044020301,L488a,L488a_Benicolet - Xàtiva,3
